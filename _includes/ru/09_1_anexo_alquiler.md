@@ -16,7 +16,7 @@ el arrendador
 De otra parte, Don [%ваше имя%], mayor de edad, con N.I.E. [%ваш NIE%], en adelante, el arrendatario.
 
 En referencia al contrato de alquiler del inmueble sito en [%полный адрес вашего арендованного жилья%] 
-firmado el [дата подписания договора аренды].
+firmado el [%дата подписания договора аренды%].
 
 ESTABLECEN
 

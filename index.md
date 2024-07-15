@@ -7,10 +7,89 @@ title: "Autónomo - Complete Guide"
 
 **EN** | [UA]({{site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
 
-Coming soon...
+The document contains all the necessary information for registering and managing an autónomo: instructions, lifehacks
+and useful tips.
+
+The information has been collected over more than six months by myself and members of the IT Autonomos [Spain]
+community.
+This document is regularly updated.
+
+> Information is provided as is and does not replace professional consultation.
 
 ## Contents
 
-...
+- [Gestor or Xolo?](#gestor-or-xolo)
+- [Autónomo registration (step-by-step)](#autónomo-registration-step-by-step)
+    - [Registration (basic)](#registration-basic)
+    - [After registration (mandatory)](#after-registration-mandatory)
+    - [Optional](#optional)
+- [IT Autonomos [Spain] chat](#it-autonomos-spain-chat)
+- [Knowledge base](#knowledge-base)
+    - [Tax payment](#tax-payment)
+        - [Risk of losing the Seguridad Social discount](#risk-of-losing-the-seguridad-social-discount)
+        - [Social contributions (Seguridad Social)](#social-contributions-seguridad-social)
+        - [IRPF (income tax)](#irpf-income-tax)
+        - [Paying taxes for the entire year or from the date of autónomo registration](#paying-taxes-for-the-entire-year-or-from-the-date-of-autónomo-registration)
+        - [Fee for incoming funds to a bank account](#fee-for-incoming-funds-to-a-bank-account)
+        - [How much taxes do you need to pay?](#how-much-taxes-do-you-need-to-pay)
+    - [Tax reporting](#tax-reporting)
+        - [How to create an invoice in Xolo?](#how-to-create-an-invoice-in-xolo)
+        - [Quarterly declaration](#quarterly-declaration)
+        - [Annual declaration](#annual-declaration)
+        - [Property in other countries](#property-in-other-countries)
+        - [Tax audits](#tax-audits)
+        - [Risk of tax audits if deducting rent from taxes](#risk-of-tax-audits-if-deducting-rent-from-taxes)
+        - [Invoice language](#invoice-language)
+    - [Tax deductions and benefits](#tax-deductions-and-benefits)
+        - [Xolo/gestor](#xologestor)
+        - [Fee for transfer to a bank account](#fee-for-transfer-to-a-bank-account)
+        - [Seguridad Social](#seguridad-social)
+        - [Reducción por inicio de una actividad económica](#reducción-por-inicio-de-una-actividad-económica)
+        - [Waste tax](#waste-tax)
+        - [Rent](#rent)
+        - [Water supply](#water-supply)
+        - [Electricity](#electricity)
+        - [Internet](#internet)
+        - [Medical insurance](#medical-insurance)
+        - [Food, lunches](#food-lunches)
+        - [Equipment, furniture](#equipment-furniture)
+        - [Other professional expenses](#other-professional-expenses)
+        - [Regional quotas](#regional-quotas)
+- [Miscellaneous](#miscellaneous)
+    - [An obvious but very important recommendation](#an-obvious-but-very-important-recommendation)
+    - [Providing an electronic certificate to the gestor](#providing-an-electronic-certificate-to-the-gestor)
+    - [Regular downloading of all documents](#regular-downloading-of-all-documents)
+    - [Fraud](#fraud)
+    - [Which bank account and which bank to use](#which-bank-account-and-which-bank-to-use)
+    - [Signing a contract with a client](#signing-a-contract-with-a-client)
+    - [Getting a plastic SIP for family members](#getting-a-plastic-sip-for-family-members)
+    - [Autónomo Colaborador](#autónomo-colaborador)
+    - [Notifications from the tax office](#notifications-from-the-tax-office)
+    - [Is Xolo suitable for you if you are not from IT](#is-xolo-suitable-for-you-if-you-are-not-from-it)
+    - [Amazon Business](#amazon-business)
+    - [How much money can be deposited into a bank account](#how-much-money-can-be-deposited-into-a-bank-account)
+- [Appendices](#appendices)
+    - [Anexo contrato alquiler](#anexo-contrato-alquiler)
+- [Useful links and contacts](#useful-links-and-contacts)
+- [Secret section](#secret-section)
+- [Document versions](#document-versions)
 
 {% include en/01_hestor_or_xolo.md %}
+{% include en/02_0_registration_autonomo.md %}
+{% include en/03_chat_it_autonomos.md %}
+{% include en/04_knowledge_base.md %}
+{% include en/05_0_tax_payments.md %}
+{% include en/06_0_tax_reporting.md %}
+{% include en/07_0_tax_deductions.md %}
+{% include en/08_0_miscellaneous.md %}
+{% include en/09_0_applications.md %}
+{% include en/10_useful_links.md %}
+{% include en/11_secret_section.md %}
+{% include en/12_document_versions.md %}
+
+---
+
+I don't know why you read all the way to the end, were you really that interested in learning in detail about all the
+updates to the document? :)
+Since you did, I recommend checking out the [secret section](#secret-section), where there are several ways to thank
+me for the work done.
