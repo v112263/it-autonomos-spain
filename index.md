@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Autónomo - Registration and Management"
+title: "Autónomo - Complete Guide"
 ---
 
-# Autónomo - Registration and Management [3.0]
+# Autónomo - Complete Guide [3.0]
 
 **EN** | [UA]({{site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
 

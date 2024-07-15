@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Autónomo - Registration and Management"
+title: "Autónomo - Complete Guide"
 permalink: /ua/
 ---
 
-# Autónomo - Реєстрація і Ведення [3.0]
+# Autónomo - Повне Керівництво [3.0]
 
 [EN]({{ site.baseurl }}/) | **UA** | [RU]({{ site.baseurl }}/ru/)
 
