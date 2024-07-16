@@ -8,3 +8,12 @@ English: [https://v112263.github.io/it-autonomos-spain/](https://v112263.github.
 
 Документ на
 русском: [https://v112263.github.io/it-autonomos-spain/ru/](https://v112263.github.io/it-autonomos-spain/ru/)
+
+## Local run
+
+To test Jekyll website locally, you can use command:
+
+```
+bundle install
+bundle exec jekyll serve
+```
