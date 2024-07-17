@@ -1,4 +1,4 @@
-# Autónomo registration (step-by-step)
+# Autónomo registration (step by step)
 
 If you have any questions after reading this document, you can ask them in
 our chat: [https://bit.ly/it-autonomos-spain-eng](https://bit.ly/it-autonomos-spain-eng){:

@@ -19,7 +19,7 @@ This document is regularly updated.
 ## Contents
 
 - [Gestor or Xolo?](#gestor-or-xolo)
-- [Autónomo registration (step-by-step)](#autónomo-registration-step-by-step)
+- [Autónomo registration (step by step)](#autónomo-registration-step-by-step)
     - [Registration (basic)](#registration-basic)
     - [After registration (mandatory)](#after-registration-mandatory)
     - [Optional](#optional)

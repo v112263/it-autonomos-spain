@@ -3,7 +3,7 @@
 1. [Open a bank account if you don't have one](#which-bank-account-and-which-bank-to-use).
 
 2. Register using the **[referral link](https://bit.ly/xolosignup){:target="
-   _blank"}** (50 euro bonus for registration):
+   _blank"}** (50 € bonus to your account for registration):
     - Click the Sign Up button at the top right.
     - Choose the Global plan (59 euros + VAT) - this plan is necessary if
       your clients are outside Spain.
