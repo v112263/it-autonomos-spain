@@ -2,17 +2,13 @@
 
 Ответ от поддержки Xolo:
 
-Xolo works for freelancers who are already self-employed or who want to
-register as self-employed and meet the following criteria:
+Xolo подходит для фрилансеров, которые уже являются самозанятыми или хотят зарегистрироваться как самозанятые и
+соответствуют следующим критериям:
 
-- Residents in Spain, meaning they live or plan on living in Spain for more
-  than 183 days and therefore are obligated to declare their
-  income to the Tax Office. Unless you can opt for the impatriates regime
-  (Beckham Law)
-- Individuals who do not live in the Canary Islands, Ceuta, Melilla, the
-  Basque Country, or Navarre.
-- Professionals in categories of the Tax on Economic Activities (IAE) that
-  are subject to the simplified direct estimation regime.
-- Who do not have employees.
-- Who do not have a shop or other establishment open to the public. (If you
-  sell goods)
+- Резиденты Испании, то есть те, кто живет или планирует жить в Испании более 183 дней и, следовательно, обязаны
+  декларировать свой доход в налоговой. Если только вы не можете выбрать режим для иммигрантов (Закон Бекхема)
+- Лица, которые не проживают на Канарских островах, в Сеуте, Мелилье, Стране Басков или Наварре.
+- Профессионалы в категориях налога на экономическую деятельность (IAE), которые подлежат режиму упрощенной прямой
+  оценки.
+- Те, кто не имеет сотрудников.
+- Те, кто не имеет магазина или другого заведения, открытого для публики. (Если вы продаете товары)
