@@ -1,13 +1,13 @@
 # Autonomo - Registration and Management
 
 Document in
-English: [https://v112263.github.io/it-autonomos-spain/](https://v112263.github.io/it-autonomos-spain/)
+English: [https://bit.ly/autonomo-manual-en](https://bit.ly/autonomo-manual-en)
 
 Документ
-українською: [https://v112263.github.io/it-autonomos-spain/ua/](https://v112263.github.io/it-autonomos-spain/ua/)
+українською: [https://bit.ly/autonomo-manual-ua](https://bit.ly/autonomo-manual-ua)
 
 Документ на
-русском: [https://v112263.github.io/it-autonomos-spain/ru/](https://v112263.github.io/it-autonomos-spain/ru/)
+русском: [https://bit.ly/autonomo-manual](https://bit.ly/autonomo-manual)
 
 ## Local run
 
