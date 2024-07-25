@@ -11,6 +11,7 @@
 - The section comparing gestor and Xolo has been updated, now the information is more relevant.
 - Updated the secret section.
 - Refactored the document versions section, now it is more compact.
+- The document is available on a custom domain.
 
 ### Past Versions
 
