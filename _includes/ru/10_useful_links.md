@@ -15,5 +15,7 @@
 - Оформление электронного
   сертификата: [https://certificadoelectronico.es/](https://certificadoelectronico.es/){:target="_blank"}
 - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio){:target="_blank"}
+- Исходный код документа на GitHub:
+  [https://bit.ly/it-autonomos-github](https://bit.ly/it-autonomos-github){:target="_blank"}
 - Угостить меня
   кофе :) [https://bit.ly/buy-coffee-v112263](https://bit.ly/buy-coffee-v112263){:target="_blank"}

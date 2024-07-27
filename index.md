@@ -12,7 +12,7 @@ and useful tips.
 
 The information has been collected over more than six months by myself and members of the IT Autonomos [Spain]
 community.
-This document is regularly updated.
+This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
 > Information is provided as is and does not replace professional consultation.
 
