@@ -3,7 +3,7 @@ layout: default
 title: "Autónomo - Complete Guide"
 ---
 
-# Autónomo - Complete Guide [3.0]
+# Autónomo - Complete Guide [3.1]
 
 **EN** | [UA]({{site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
 
