@@ -10,8 +10,7 @@ title: "Autónomo - Complete Guide"
 The document contains all the necessary information for registering and managing an autónomo: instructions, lifehacks
 and useful tips.
 
-The information has been collected over more than six months by myself and members of the IT Autonomos [Spain]
-community.
+The information has been collected over more than six months by myself and members of the IT Autonomos community.
 This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
 > Information is provided as is and does not replace professional consultation.
