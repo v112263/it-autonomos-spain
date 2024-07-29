@@ -1,6 +1,6 @@
 ## After registration (mandatory)
 
-1. Obtain an electronic certificate (and Cl@ve PIN)
+1. Obtain an electronic certificate (or Cl@ve PIN)
 
    This can be done at any time, even before registering as an autónomo (but it's better not to delay).
 
