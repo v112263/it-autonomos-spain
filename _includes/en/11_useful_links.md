@@ -7,7 +7,7 @@
 - Revolut Registration: [https://bit.ly/revlsignup](https://bit.ly/revlsignup){:target="_blank"}
 - Permanent link to this document: [https://bit.ly/autonomo-manual-en](https://bit.ly/autonomo-manual-en){:target="_
   blank"}
-- Xolo Support: [ayuda@xolo.io](mailto:ayuda@xolo.io)
+- [Xolo Support](#support-contacts)
 - Ukrainian-language Support Santander: +34 917 679 008
 - Traductor jurado Spanish-Ukrainian-Russian
   Languages: [https://www.olgakorobenko.com/es/](https://www.olgakorobenko.com/es/){:target="_blank"}

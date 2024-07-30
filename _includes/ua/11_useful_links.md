@@ -6,7 +6,7 @@
 - Реєстрація в Revolut: [https://bit.ly/revlsignup](https://bit.ly/revlsignup){:target="_blank"}
 - Постійне посилання на цей документ: [https://bit.ly/autonomo-manual-ua](https://bit.ly/autonomo-manual-ua){:target="_
   blank"}
-- Підтримка Xolo: [ayuda@xolo.io](mailto:ayuda@xolo.io)
+- [Підтримка Xolo](#контакти-підтримки)
 - Україномовна підтримка Santander: +34 917 679 008
 - Присяжний перекладач іспанська-українська-російська
   мови: [https://www.olgakorobenko.com/es/](https://www.olgakorobenko.com/es/){:target="_blank"}

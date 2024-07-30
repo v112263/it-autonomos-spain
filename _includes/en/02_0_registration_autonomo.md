@@ -4,7 +4,7 @@ If you have any questions after reading this document, you can ask them in
 our chat: [https://bit.ly/it-autonomos-spain-eng](https://bit.ly/it-autonomos-spain-eng){:
 target="_blank"}
 
-Or contact Xolo support: [ayuda@xolo.io](mailto:ayuda@xolo.io)
+Or contact [Xolo support](#support-contacts).
 
 Registration of an autónomo does not require a residency permit.
 

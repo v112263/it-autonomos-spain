@@ -7,5 +7,5 @@ time bears absolutely no responsibility.
 So, when looking for a gestor, try to find one who will not require your personal key (surely there are such, but they
 are hard to find). I have heard that good gestors may have insurance for situations where they made a mistake.
 
-Xolo uses their own certificates for reporting and **takes responsibility** if errors were made. For me, this is a huge
-plus.
+Xolo uses their own certificates for reporting and [takes responsibility](#responsibility-in-case-of-error) if errors
+were made. For me, this is a huge advantage.

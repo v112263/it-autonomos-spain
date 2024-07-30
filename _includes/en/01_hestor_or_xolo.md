@@ -15,7 +15,7 @@ better.
   (tested personally).
 - No need to provide your electronic key, which is safer. The service submits
   reports using its own keys.
-- The service is responsible for errors in reporting.
+- The service is [responsible for errors](#responsibility-in-case-of-error) in reporting.
 - Convenient dashboard for income/tax statistics, tax deductions, invoices,
   and notifications.
 - Cooperation agreement with the Agencia Tributaria (Spanish Tax Agency).
