@@ -8,7 +8,7 @@
   Revolut: [https://bit.ly/revlsignup](https://bit.ly/revlsignup){:target="_blank"}
 - Постоянная ссылка на этот
   документ: [https://bit.ly/autonomo-manual](https://bit.ly/autonomo-manual){:target="_blank"}
-- Поддержка Xolo: [ayuda@xolo.io](mailto:ayuda@xolo.io)
+- [Поддержка Xolo](#контакты-сапорта)
 - Украиноязычная поддержка Santander: +34 917 679 008
 - Присяжный переводчик испанский-украинский-русский
   языки: [https://www.olgakorobenko.com/es/](https://www.olgakorobenko.com/es/){:target="_blank"}

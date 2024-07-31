@@ -5,7 +5,7 @@
 [https://bit.ly/it-autonomos-es](https://bit.ly/it-autonomos-es){:target="_
 blank"}
 
-Або написати в підтримку Xolo: [ayuda@xolo.io](mailto:ayuda@xolo.io)
+Або написати в [підтримку Xolo](#контакти-підтримки).
 
 Для реєстрації аутономо прописка не є обов'язковою.
 
