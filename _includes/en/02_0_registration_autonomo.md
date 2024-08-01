@@ -5,8 +5,6 @@ If you have any questions after reading this document, you can ask them in
 
 Or contact [Xolo support](#support-contacts).
 
-Registration of an autónomo does not require a residency permit.
-
 {% include en/02_1_basic_registration.md %}
 {% include en/02_2_post_registration.md %}
 {% include en/02_3_optional_registration.md %}

@@ -1,8 +1,10 @@
 ## Registration (basic)
 
-1. [Open a bank account if you don't have one](#which-bank-account-and-which-bank-to-use).
+1. Verify that you have [all the necessary documents](#necessary-documents-for-registering-an-autónomo).
 
-2. Register using the **[referral link](https://bit.ly/xolosignup){:target="
+2. [Open a bank account if you don't have one](#which-bank-account-and-which-bank-to-use).
+
+3. Register using the **[referral link](https://bit.ly/xolosignup){:target="
    _blank"}** (50 € bonus to your account for registration):
     - Click the Sign Up button at the top right.
     - Choose the Global plan (59 euros + VAT) - this plan is necessary if
@@ -19,7 +21,7 @@
     - What is your expected annual income? - Any value, income may change
       over time (and this is normal for an autónomo).
 
-3. Register autónomo through the Xolo dashboard:
+4. Register autónomo through the Xolo dashboard:
     - Log in to the Xolo dashboard using the link sent to your email.
     - After logging in, click "Register as Autonomo".
     - Enter your Spanish phone number, then send the verification code.
@@ -71,7 +73,7 @@
       deducting apartment rental expenses from taxes (if you decide to deduct
       them).
 
-4. Wait for confirmation letters and SMS from the tax office, social
+5. Wait for confirmation letters and SMS from the tax office, social
    services (1-2 days).
 
 *<u>After completing these steps - autónomo is successfully registered, and
