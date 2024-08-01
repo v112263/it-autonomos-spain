@@ -1,6 +1,7 @@
 ### Annual declaration
 
-Modelo 100 is submitted once a year and is usually a separate paid service (both with gestores and with Xolo).
+Modelo 100 is submitted once a year and is usually a separate paid service, both with gestors and Xolo (in some Xolo
+subscriptions, this is included, and no additional payment will be required).
 
 Xolo sends a large questionnaire in which you need to provide information about your family, children, and spouse, as
 well as answer questions that affect the report calculation. This questionnaire needs to be filled out carefully and
