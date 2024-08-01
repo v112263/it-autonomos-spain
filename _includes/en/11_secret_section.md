@@ -17,8 +17,7 @@ If you would like to thank me for this work, here are a few ways to do so:
 
 - Send the document to those who plan to become autónomos or already
   are: [https://bit.ly/autonomo-manual-en](https://bit.ly/autonomo-manual-en){:target="_blank"}
-- Join our autónomo chat: [https://bit.ly/it-autonomos-spain-eng](https://bit.ly/it-autonomos-spain-eng){:target="_
-  blank"}
+- Join our [autónomo chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}
 - Star the GitHub repository where the document's source code is
   available: [https://bit.ly/it-autonomos-github](https://bit.ly/it-autonomos-github){:target="_blank"}
 - Submit pull requests if you wish to improve or add something.

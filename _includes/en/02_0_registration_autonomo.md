@@ -1,8 +1,7 @@
 # Autónomo registration (step by step)
 
 If you have any questions after reading this document, you can ask them in
-our chat: [https://bit.ly/it-autonomos-spain-eng](https://bit.ly/it-autonomos-spain-eng){:
-target="_blank"}
+[our chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
 
 Or contact [Xolo support](#support-contacts).
 
