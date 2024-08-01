@@ -71,8 +71,6 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
         - [Notifications from the tax office](#notifications-from-the-tax-office)
         - [Amazon Business](#amazon-business)
         - [How much money can be deposited into a bank account](#how-much-money-can-be-deposited-into-a-bank-account)
-- [Appendices](#appendices)
-    - [Anexo contrato alquiler](#anexo-contrato-alquiler)
 - [Useful links and contacts](#useful-links-and-contacts)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
@@ -86,10 +84,9 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
 {% include en/07_0_tax_deductions.md %}
 {% include en/08_0_xolo_specific.md %}
 {% include en/09_0_miscellaneous.md %}
-{% include en/10_0_applications.md %}
-{% include en/11_useful_links.md %}
-{% include en/12_secret_section.md %}
-{% include en/13_document_versions.md %}
+{% include en/10_useful_links.md %}
+{% include en/11_secret_section.md %}
+{% include en/12_document_versions.md %}
 
 ---
 

@@ -71,8 +71,6 @@ target="_blank"}. Документ регулярно обновляется ([G
         - [Уведомления от налоговой](#уведомления-от-налоговой)
         - [Amazon Business](#amazon-business)
         - [Сколько денег можно класть на банковский счет](#сколько-денег-можно-класть-на-банковский-счет)
-- [Приложения](#приложения)
-    - [Anexo contrato alquiler](#anexo-contrato-alquiler)
 - [Полезные ссылки и контакты](#полезные-ссылки-и-контакты)
 - [Секретный раздел](#секретный-раздел)
 - [Версии документа](#версии-документа)
@@ -86,10 +84,9 @@ target="_blank"}. Документ регулярно обновляется ([G
 {% include ru/07_0_tax_deductions.md %}
 {% include ru/08_0_xolo_specific.md %}
 {% include ru/09_0_miscellaneous.md %}
-{% include ru/10_0_applications.md %}
-{% include ru/11_useful_links.md %}
-{% include ru/12_secret_section.md %}
-{% include ru/13_document_versions.md %}
+{% include ru/10_useful_links.md %}
+{% include ru/11_secret_section.md %}
+{% include ru/12_document_versions.md %}
 
 ---
 
