@@ -17,8 +17,7 @@
 
 - Отправьте документ тем, кто планирует стать аутономо или уже является
   им: [https://bit.ly/autonomo-manual](https://bit.ly/autonomo-manual){:target="_blank"}
-- Присоединяйтесь к нашему чату
-  аутономо: [https://bit.ly/it-autonomos-es](https://bit.ly/it-autonomos-es){:target="_blank"}
+- Присоединяйтесь к нашему [чату аутономо](https://bit.ly/it-autonomos-es){:target="_blank"}
 - Поставьте звезду GitHub репозиторию, в котором доступны исходники документа:
   [https://bit.ly/it-autonomos-github](https://bit.ly/it-autonomos-github){:target="_blank"}
 - Присылайте пулл реквесты, если будет желание что-то улучшить или добавить.

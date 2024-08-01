@@ -1,9 +1,7 @@
 # Регистрация Autónomo (пошагово)
 
 Если после прочтения этого документа у вас останутся вопросы, можно
-задать их в нашем чате:
-[https://bit.ly/it-autonomos-es](https://bit.ly/it-autonomos-es){:target="_
-blank"}
+задать их в [нашем чате](https://bit.ly/it-autonomos-es){:target="_blank"}.
 
 Или написать в [поддержку Xolo](#контакты-сапорта).
 
