@@ -8,4 +8,4 @@ various IT companies and cities in Spain.
 The purpose of the chat is to share experiences on tax deductions, lifehacks, and any other useful relevant
 information. **No spam or off-topic discussions.**
 
-Link to the chat: [https://bit.ly/it-autonomos-spain-eng](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}
+[Link to the IT Autonomos [Spain] chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}
