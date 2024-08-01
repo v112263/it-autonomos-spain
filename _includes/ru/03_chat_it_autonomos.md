@@ -10,6 +10,4 @@
 Цель чата - делиться опытом по вычитанию трат из налогов, лайфхаками и любой
 полезной релевантной информацией. **Без флуда и оффтопа.**
 
-Ссылка на
-чат: [https://bit.ly/it-autonomos-es](https://bit.ly/it-autonomos-es){:
-target="_blank"}
+[Ссылка на чат IT Autonomos [Spain]](https://bit.ly/it-autonomos-es){:target="_blank"}

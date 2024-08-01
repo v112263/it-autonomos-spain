@@ -9,4 +9,4 @@
 Мета чату - ділитися досвідом щодо відрахувань витрат з податків, лайфхаками та будь-якою корисною релевантною
 інформацією. **Без флуду та офтопу.**
 
-Посилання на чат: [https://bit.ly/it-autonomos-es](https://bit.ly/it-autonomos-es){:target="_blank"}
+[Посилання на чат IT Autonomos [Spain]](https://bit.ly/it-autonomos-es){:target="_blank"}
