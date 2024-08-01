@@ -71,8 +71,6 @@ target="_blank"}. Документ регулярно оновлюється ([G
         - [Повідомлення від податкової](#повідомлення-від-податкової)
         - [Amazon Business](#amazon-business)
         - [Скільки грошей можна класти на банківський рахунок](#скільки-грошей-можна-класти-на-банківський-рахунок)
-- [Додатки](#додатки)
-    - [Anexo contrato alquiler](#anexo-contrato-alquiler)
 - [Корисні посилання та контакти](#корисні-посилання-та-контакти)
 - [Секретний розділ](#секретний-розділ)
 - [Версії документа](#версії-документа)
@@ -86,10 +84,9 @@ target="_blank"}. Документ регулярно оновлюється ([G
 {% include ua/07_0_tax_deductions.md %}
 {% include ua/08_0_xolo_specific.md %}
 {% include ua/09_0_miscellaneous.md %}
-{% include ua/10_0_applications.md %}
-{% include ua/11_useful_links.md %}
-{% include ua/12_secret_section.md %}
-{% include ua/13_document_versions.md %}
+{% include ua/10_useful_links.md %}
+{% include ua/11_secret_section.md %}
+{% include ua/12_document_versions.md %}
 
 ---
 
