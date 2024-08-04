@@ -7,6 +7,7 @@
 {% include ru/09_fraud.md %}
 {% include ru/09_bank_account.md %}
 {% include ru/09_contract.md %}
+{% include ru/09_sip_for_yorself.md %}
 {% include ru/09_sip_family.md %}
 {% include ru/09_colaborador.md %}
 {% include ru/09_tax_notifications.md %}
