@@ -24,17 +24,17 @@
 сюда: [Expense Categories](https://www.xolo.io/es-en/faq/xolo-spain/category/all-you-can-deduct-as-a-freelancer-in-spain/subcategory/expense-categories){:
 target="_blank"}
 
-{% include ru/07_1_xolo_hestor.md %}
-{% include ru/07_2_bank_fees.md %}
-{% include ru/07_3_social_security.md %}
-{% include ru/07_4_activity_reduction.md %}
-{% include ru/07_5_waste_tax.md %}
-{% include ru/07_6_rent.md %}
-{% include ru/07_7_water_supply.md %}
-{% include ru/07_8_electricity.md %}
-{% include ru/07_9_internet.md %}
-{% include ru/07_10_health_insurance.md %}
-{% include ru/07_11_food.md %}
-{% include ru/07_12_equipment.md %}
-{% include ru/07_13_other_expenses.md %}
-{% include ru/07_14_regional_quotas.md %}
+{% include ru/07_xolo_hestor.md %}
+{% include ru/07_bank_fees.md %}
+{% include ru/07_social_security.md %}
+{% include ru/07_activity_reduction.md %}
+{% include ru/07_waste_tax.md %}
+{% include ru/07_rent.md %}
+{% include ru/07_water_supply.md %}
+{% include ru/07_electricity.md %}
+{% include ru/07_internet.md %}
+{% include ru/07_health_insurance.md %}
+{% include ru/07_food.md %}
+{% include ru/07_equipment.md %}
+{% include ru/07_other_expenses.md %}
+{% include ru/07_regional_quotas.md %}
