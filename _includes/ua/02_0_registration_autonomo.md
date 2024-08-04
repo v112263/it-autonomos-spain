@@ -4,6 +4,6 @@
 їх у [нашому чаті](https://bit.ly/it-autonomos-es){:target="_blank"}, написати в [підтримку Xolo](#контакти-підтримки)
 або запитати у вашого хестора.
 
-{% include ua/02_1_basic_registration.md %}
-{% include ua/02_2_post_registration.md %}
-{% include ua/02_3_optional_registration.md %}
+{% include ua/02_basic_registration.md %}
+{% include ua/02_post_registration.md %}
+{% include ua/02_optional_registration.md %}

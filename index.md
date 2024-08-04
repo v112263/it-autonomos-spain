@@ -76,18 +76,18 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
-{% include en/01_hestor_or_xolo.md %}
+{% include en/01_0_hestor_or_xolo.md %}
 {% include en/02_0_registration_autonomo.md %}
-{% include en/03_chat_it_autonomos.md %}
-{% include en/04_knowledge_base.md %}
+{% include en/03_0_chat_it_autonomos.md %}
+{% include en/04_0_knowledge_base.md %}
 {% include en/05_0_tax_payments.md %}
 {% include en/06_0_tax_reporting.md %}
 {% include en/07_0_tax_deductions.md %}
 {% include en/08_0_xolo_specific.md %}
 {% include en/09_0_miscellaneous.md %}
-{% include en/10_useful_links.md %}
-{% include en/11_secret_section.md %}
-{% include en/12_document_versions.md %}
+{% include en/10_0_useful_links.md %}
+{% include en/11_0_secret_section.md %}
+{% include en/12_0_document_versions.md %}
 
 ---
 
