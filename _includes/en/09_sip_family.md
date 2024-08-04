@@ -1,5 +1,10 @@
 ### Getting a plastic SIP for family members
 
+> With the SIP card, patients can receive medical services in public hospitals and clinics. The procedure for obtaining
+> a card may vary depending on which comunidad autónoma of Spain you live in. Somewhere initially they issue a plastic
+> permanent SIP when you first go to apply for it, and somewhere they issue a paper SIP with a limited validity period. I
+> recommend finding out this information in your Centro de Salud.
+
 For me, it turned out to be quite simple.
 
 1. First, I made an appointment (cita) at the Seguridad Social.
