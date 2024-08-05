@@ -77,18 +77,13 @@ target="_blank"}. Документ регулярно обновляется ([G
 - [Секретный раздел](#секретный-раздел)
 - [Версии документа](#версии-документа)
 
-{% include ru/01_0_hestor_or_xolo.md %}
-{% include ru/02_0_registration_autonomo.md %}
-{% include ru/03_0_chat_it_autonomos.md %}
-{% include ru/04_0_knowledge_base.md %}
-{% include ru/05_0_tax_payments.md %}
-{% include ru/06_0_tax_reporting.md %}
-{% include ru/07_0_tax_deductions.md %}
-{% include ru/08_0_xolo_specific.md %}
-{% include ru/09_0_miscellaneous.md %}
-{% include ru/10_0_useful_links.md %}
-{% include ru/11_0_secret_section.md %}
-{% include ru/12_0_document_versions.md %}
+{% include ru/01-gestor-xolo/01_0_hestor_or_xolo.md %}
+{% include ru/02-autonomo-registration/02_0_registration_autonomo.md %}
+{% include ru/03-it-autonomos-chat/03_0_chat_it_autonomos.md %}
+{% include ru/04-knowledge-base/04_0_knowledge_base.md %}
+{% include ru/05-useful-links/05_0_useful_links.md %}
+{% include ru/06-secret-section/06_0_secret_section.md %}
+{% include ru/07-document-versions/07_0_document_versions.md %}
 
 ---
 
