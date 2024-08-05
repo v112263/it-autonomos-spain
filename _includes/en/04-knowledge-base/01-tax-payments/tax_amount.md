@@ -1,4 +1,4 @@
-### How much taxes do you need to pay?
+### How much tax will need to be paid for the year?
 
 It is very individual. It depends on your income (since the rate is progressive). It also depends on which tax
 deductions you can apply (details are in this document). No one can tell you exactly in advance.
