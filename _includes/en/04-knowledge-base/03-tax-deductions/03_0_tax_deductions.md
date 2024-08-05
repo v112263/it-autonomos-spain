@@ -3,12 +3,12 @@
 The tax deduction mechanism in Spain allows autónomos to reduce their tax base by certain expenses related to
 professional activities, such as office rent, equipment, etc.
 
-To deduct expenses, you need to upload invoices or bank statements to the Xolo dashboard (or provide them to your
-gestor). In the case of Xolo, after uploading the documents to the dashboard, their gestors review them and then
-approve or reject these documents.
+To deduct expenses, you must upload full invoices (for some individual expenses, bank statements may be suitable) to
+the Xolo dashboard (or provide them to your gestor). In the case of Xolo, after uploading documents to the dashboard,
+their gestors review them and then approve or reject these documents.
 
 Some people believe that it is not worth bothering with tax deductions, claiming that the amount is insignificant. From
-my experience, as a side effect, after I transferred the electricity contract to myself, I also decided to switch to 
+my experience, as a side effect, after I transferred the electricity contract to myself, I also decided to switch to
 a cheaper tariff (this became easier to do since the contract is in my name). As a result, monthly expenses
 decreased from 190-200 euros to approximately 90-100 euros per month (about half). Add tax deductions to this as well.
 
