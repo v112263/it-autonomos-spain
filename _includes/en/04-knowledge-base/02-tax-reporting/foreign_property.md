@@ -1,7 +1,7 @@
 ### Property in other countries
 
-When you file your declaration for the first year, you can declare property acquired in other countries (for example,
-real estate).
+When you file your tax return for the first year, you must declare any property acquired in other countries (e.g. real
+estate).
 
-If you have real estate, it is better to declare it right away. This way, you won't have to pay taxes when you sell it.
-My knowledge on this matter is too superficial; I do not know exactly how this is done and what the nuances are.
+In case of selling real estate in another country, you will need to pay tax in Spain. However, if you sell your main
+residence and reinvest those funds in a home in Spain, you can avoid paying taxes on the sale.
