@@ -11,5 +11,5 @@ After your approval, the manager sends the documents to the relevant authorities
 date.
 
 Later, the tax office should deduct the funds from the specified account (in case of underpayment of taxes), or vice
-versa, refund the overpaid amounts. Ensure that the necessary amount is in the account, otherwise serious problems may
-arise.
+versa, refund the overpaid amounts (within 6 months). Ensure that the necessary amount is in the account, otherwise
+serious problems may arise.
