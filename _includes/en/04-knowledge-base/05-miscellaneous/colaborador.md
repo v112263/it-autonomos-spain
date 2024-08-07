@@ -12,9 +12,8 @@ The tax authorities may check whether the family member is truly engaged in prof
 this is not the case, I do not know what problems may arise.
 
 Personally, I decided not to use this scheme because my spouse does not engage in professional activities, but takes
-care of the home and child. I do not know exactly what methods the tax authorities have to check whether the spouse is
-engaged in professional activities or only helps around the house. But just because I do not know this, it does not mean
-that the tax authorities do not have such capabilities.
+care of the home and child. The tax office may have many ways to verify that my spouse is indeed engaged in professional
+activities. For example, they may request payslips.
 
 Xolo's support response to the question of whether they plan to work with Colaborador: _We do not have plans to work
 with Autónomo Colaborador in the near future, unfortunately._
