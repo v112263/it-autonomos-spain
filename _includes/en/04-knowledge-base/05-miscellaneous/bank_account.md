@@ -2,6 +2,10 @@
 
 You must have an account in a Spanish bank because taxes and social payments will be debited from there.
 
+It is recommended to use
+banks [approved by the Spanish tax authorities](https://sede.agenciatributaria.gob.es/Sede/deudas-apremios-embargos-subastas/pagar-aplazar-consultar/listado-entidades-bancarias-adheridas.html?faqId=c2018148e27c2710VgnVCM100000dc381e0aRCRD){:
+target="_blank"}.
+
 #### If you receive payments in USD
 
 In this case, besides an account in a Spanish bank, it would be more beneficial to additionally
