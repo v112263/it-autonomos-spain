@@ -6,6 +6,8 @@ established limits. For example, in Valencia, for many deductions, the annual in
 individual declarations and 50,000 euros for joint declarations. These limits and types of deductions may vary by
 region.
 
+Regional quotas can only be applied when submitting the annual declaration (Renta).
+
 Examples of deductions for Valencia:
 
 - First home purchase under 35 years old.
