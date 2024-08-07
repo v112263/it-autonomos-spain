@@ -13,3 +13,6 @@ date.
 Later, the tax office should deduct the funds from the specified account (in case of underpayment of taxes), or vice
 versa, refund the overpaid amounts (within 6 months). Ensure that the necessary amount is in the account, otherwise
 serious problems may arise.
+
+_Do not worry that there is currently no detailed information in the document on filling out Modelo 100. I will start
+working on this in advance, so when it comes time to submit this declaration - there will be useful information here._
