@@ -10,6 +10,7 @@
 {% include ru/04-knowledge-base/05-miscellaneous/sip_for_yorself.md %}
 {% include ru/04-knowledge-base/05-miscellaneous/sip_family.md %}
 {% include ru/04-knowledge-base/05-miscellaneous/colaborador.md %}
+{% include ru/04-knowledge-base/05-miscellaneous/tax_mobile_app.md %}
 {% include ru/04-knowledge-base/05-miscellaneous/tax_notifications.md %}
 {% include ru/04-knowledge-base/05-miscellaneous/amazon_business.md %}
 {% include ru/04-knowledge-base/05-miscellaneous/bank_deposits.md %}
