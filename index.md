@@ -23,6 +23,7 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
     - [Registration (basic)](#registration-basic)
     - [After registration (mandatory)](#after-registration-mandatory)
     - [Optional](#optional)
+- [Gestor to Xolo transition](#gestor-to-xolo-transition)
 - [IT Autonomos [Spain] chat](#it-autonomos-spain-chat)
 - [Knowledge base](#knowledge-base)
     - [Tax payment](#tax-payment)
@@ -55,6 +56,7 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
         - [Other professional expenses](#other-professional-expenses)
         - [Regional quotas](#regional-quotas)
     - [Xolo - specific questions](#xolo---specific-questions)
+        - [Gestor to Xolo transition](#gestor-to-xolo-transition-1)
         - [Support contacts](#support-contacts)
         - [Responsibility in case of error](#responsibility-in-case-of-error)
         - [How to create an invoice in Xolo?](#how-to-create-an-invoice-in-xolo)
@@ -79,13 +81,14 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
-{% include en/01-gestor-xolo/01_0_hestor_or_xolo.md %}
-{% include en/02-autonomo-registration/02_0_registration_autonomo.md %}
-{% include en/03-it-autonomos-chat/03_0_chat_it_autonomos.md %}
-{% include en/04-knowledge-base/04_0_knowledge_base.md %}
-{% include en/05-useful-links/05_0_useful_links.md %}
-{% include en/06-secret-section/06_0_secret_section.md %}
-{% include en/07-document-versions/07_0_document_versions.md %}
+{% include en/01-gestor-xolo/0_hestor_or_xolo.md %}
+{% include en/02-autonomo-registration/0_registration_autonomo.md %}
+{% include en/03-gestor-to-xolo-transition/0_gestor_to_xolo_transition.md %}
+{% include en/04-it-autonomos-chat/0_chat_it_autonomos.md %}
+{% include en/05-knowledge-base/0_knowledge_base.md %}
+{% include en/06-useful-links/0_useful_links.md %}
+{% include en/07-secret-section/0_secret_section.md %}
+{% include en/08-document-versions/0_document_versions.md %}
 
 ---
 

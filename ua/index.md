@@ -23,6 +23,7 @@ target="_blank"}. Документ регулярно оновлюється ([G
     - [Реєстрація (базова)](#реєстрація-базова)
     - [Після реєстрації (обов'язково)](#після-реєстрації-обовязково)
     - [Опціонально](#опціонально)
+- [Перехід від хестора на Xolo](#перехід-від-хестора-на-xolo)
 - [Чат IT Autonomos [Spain]](#чат-it-autonomos-spain)
 - [База знань](#база-знань)
     - [Сплата податків](#сплата-податків)
@@ -55,6 +56,7 @@ target="_blank"}. Документ регулярно оновлюється ([G
         - [Інші професійні витрати](#інші-професійні-витрати)
         - [Регіональні квоти](#регіональні-квоти)
     - [Xolo - специфічні питання](#xolo---специфічні-питання)
+        - [Перехід від хестора на Xolo](#перехід-від-хестора-на-xolo-1)
         - [Контакти підтримки](#контакти-підтримки)
         - [Відповідальність у випадку помилки](#відповідальність-у-випадку-помилки)
         - [Як створити інвойс у Xolo?](#як-створити-інвойс-у-xolo)
@@ -79,13 +81,14 @@ target="_blank"}. Документ регулярно оновлюється ([G
 - [Секретний розділ](#секретний-розділ)
 - [Версії документа](#версії-документа)
 
-{% include ua/01-gestor-xolo/01_0_hestor_or_xolo.md %}
-{% include ua/02-autonomo-registration/02_0_registration_autonomo.md %}
-{% include ua/03-it-autonomos-chat/03_0_chat_it_autonomos.md %}
-{% include ua/04-knowledge-base/04_0_knowledge_base.md %}
-{% include ua/05-useful-links/05_0_useful_links.md %}
-{% include ua/06-secret-section/06_0_secret_section.md %}
-{% include ua/07-document-versions/07_0_document_versions.md %}
+{% include ua/01-gestor-xolo/0_hestor_or_xolo.md %}
+{% include ua/02-autonomo-registration/0_registration_autonomo.md %}
+{% include ua/03-gestor-to-xolo-transition/0_gestor_to_xolo_transition.md %}
+{% include ua/04-it-autonomos-chat/0_chat_it_autonomos.md %}
+{% include ua/05-knowledge-base/0_knowledge_base.md %}
+{% include ua/06-useful-links/0_useful_links.md %}
+{% include ua/07-secret-section/0_secret_section.md %}
+{% include ua/08-document-versions/0_document_versions.md %}
 
 ---
 
