@@ -1,4 +1,4 @@
-### Autónomo Colaborador
+### Autónomo colaborador
 
 Autónomo Colaborador is a status granted to family members of an autónomo who work in their business. Typically, this
 status is used by spouses, children (over 16 years old), or parents. This status allows for tax optimization,
