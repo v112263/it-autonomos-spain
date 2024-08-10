@@ -14,7 +14,7 @@ instead of an individual gestor. The platform completely replaces the gestor, an
 - [Convenient dashboard](#dashboard-demo-tutorials) for income/tax statistics, tax deductions, invoices, and
   notifications.
 - Cooperation agreement with the Agencia Tributaria (Spanish Tax Agency).
-- Xolo does not support [Autónomo Colaborador](#autónomo-colaborador).
+- Xolo does not support [autónomo colaborador](#autónomo-colaborador).
 - [Will Xolo suit you if you are not in IT](#is-xolo-suitable-for-you-if-you-are-not-from-it).
 
 Register using the **[referral link](https://bit.ly/xolosignup){:target="_blank"}** (50 € bonus to your account for
