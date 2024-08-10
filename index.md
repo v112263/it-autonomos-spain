@@ -14,6 +14,8 @@ The information has been collected over more than six months by myself and membe
 [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} community.
 This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
+{% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
+
 > Information is provided as is and does not replace professional consultation.
 
 ## Contents

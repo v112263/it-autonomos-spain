@@ -1,6 +1,8 @@
 # Хестор или Xolo?
 
-Я решил регистрировать и вести autonomo через сервис [Xolo](https://bit.ly/xolosignup){:target="_blank"} вместо
+{% include ru/00-exclusive-offer/0_xolo_exclusive_offer.md %}
+
+Я решил регистрировать и вести autonomo через сервис [Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"} вместо
 индивидуального хестора. Платформа полностью заменяет хестора, и по моему мнению, она даже лучше.
 
 - Подписка стоит 71 €/мес (хесторы до 110 €/мес).
@@ -16,7 +18,7 @@
 - Xolo не поддерживает [autónomo colaborador](#autónomo-colaborador)
 - [Подойдет ли вам Xolo, если вы не из IT](#подойдет-ли-вам-xolo-если-вы-не-из-it)
 
-Регистрация по **[реферальной ссылке](https://bit.ly/xolosignup){:target="_blank"}** (бонус 50 € на ваш счет за
+Регистрация по **[реферальной ссылке](https://bit.ly/xolo-signup-free-renta){:target="_blank"}** (бонус 50 € на ваш счет за
 регистрацию).
 
 _Если вы уже пользуетесь услугами хестора, но хотите перейти на

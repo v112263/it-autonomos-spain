@@ -22,7 +22,7 @@ If you would like to thank me for this work, here are a few ways to do so:
 - Submit pull requests if you wish to improve or add something.
 - Help chat members with questions in which you have knowledge and experience, especially newcomers.
 - Send ideas and suggestions for improving the document, maybe you have more knowledge on some issues.
-- Register with Xolo using [my referral link](https://bit.ly/xolosignup){:target="_blank"}. This will help me cover part
+- Register with Xolo using [my referral link](https://bit.ly/xolo-signup-free-renta){:target="_blank"}. This will help me cover part
   of the expenses for Xolo and additionally motivate me to continue (the link is mutual, you will also get a bonus for
   using it).
 - [If you want to buy me a coffee](https://bit.ly/buy-coffee-v112263){:target="_blank"} :)

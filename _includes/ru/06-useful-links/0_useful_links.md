@@ -1,7 +1,7 @@
 ## Полезные ссылки и контакты
 
 - [Чат IT Autonomos [Spain]](https://bit.ly/it-autonomos-es){:target="_blank"}
-- [Регистрация в Xolo](https://bit.ly/xolosignup){:target="_blank"}
+- [Регистрация в Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"}
 - [Регистрация в Wise](https://bit.ly/wsesignup){:target="_blank"}
 - [Регистрация в Revolut](https://bit.ly/revlsignup){:target="_blank"}
 - Украиноязычная поддержка Santander: +34 917 679 008

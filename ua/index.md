@@ -14,6 +14,8 @@ permalink: /ua/
 Інформація збиралася понад півроку мною та учасниками спільноти [IT Autonomos](https://bit.ly/it-autonomos-es){:
 target="_blank"}. Документ регулярно оновлюється ([GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
+{% include ua/00-exclusive-offer/0_xolo_exclusive_offer.md %}
+
 > Інформація надається як є і не замінює консультацію спеціаліста.
 
 ## Зміст
