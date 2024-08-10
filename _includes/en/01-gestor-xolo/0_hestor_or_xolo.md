@@ -3,9 +3,9 @@
 I decided to register and manage my autónomo through the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service
 instead of an individual gestor. The platform completely replaces the gestor, and in my opinion, it is even better.
 
-- Subscription costs 71 €/month (gestors charge 75-110 €/month).
-- Registration of autónomo - free (gestors charge 0-150 €).
-- Registration of EU VAT - free (gestors charge 0-150 €).
+- Subscription costs 71 €/month (gestors up to 110 €/month).
+- Registration of autónomo - free (gestors up to 150 €).
+- Registration of EU VAT - free (gestors up to 150 €).
 - A large team of gestors with experience in servicing 100,000 autónomos.
 - Support in English and Spanish responds quickly.
 - All communication with the tax authorities is conducted by the service (tested personally).
