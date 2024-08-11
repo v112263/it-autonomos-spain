@@ -1,6 +1,8 @@
 # Gestor or Xolo?
 
-I decided to register and manage my autónomo through the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service
+{% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
+
+I decided to register and manage my autónomo through the [Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"} service
 instead of an individual gestor. The platform completely replaces the gestor, and in my opinion, it is even better.
 
 - Subscription costs 71 €/month (gestors up to 110 €/month).
@@ -17,7 +19,7 @@ instead of an individual gestor. The platform completely replaces the gestor, an
 - Xolo does not support [autónomo colaborador](#autónomo-colaborador).
 - [Will Xolo suit you if you are not in IT](#is-xolo-suitable-for-you-if-you-are-not-from-it).
 
-Register using the **[referral link](https://bit.ly/xolosignup){:target="_blank"}** (50 € bonus to your account for
+Register using the **[referral link](https://bit.ly/xolo-signup-free-renta){:target="_blank"}** (50 € bonus to your account for
 registration).
 
 _If you are already using the services of a gestor but want to switch to Xolo -

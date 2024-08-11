@@ -14,6 +14,8 @@ permalink: /ru/
 Информация собиралась более полугода мной и участниками сообщества [IT Autonomos](https://bit.ly/it-autonomos-es){:
 target="_blank"}. Документ регулярно обновляется ([GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
+{% include ru/00-exclusive-offer/0_xolo_exclusive_offer.md %}
+
 > Информация предоставляется как есть и не заменяет консультацию специалиста.
 
 ## Содержание

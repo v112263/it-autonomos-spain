@@ -4,7 +4,7 @@
 
 2. [Open a bank account if you don't have one](#which-bank-account-and-which-bank-to-use).
 
-3. Register using the **[referral link](https://bit.ly/xolosignup){:target="
+3. Register using the **[referral link](https://bit.ly/xolo-signup-free-renta){:target="
    _blank"}** (50 € bonus to your account for registration):
     - Click the Sign Up button at the top right.
     - Choose the Global plan (59 euros + VAT) - this plan is necessary if

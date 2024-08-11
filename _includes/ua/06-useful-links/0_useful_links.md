@@ -1,7 +1,7 @@
 ## Корисні посилання та контакти
 
 - [Чат IT Autonomos [Spain]](https://bit.ly/it-autonomos-es){:target="_blank"}
-- [Реєстрація в Xolo](https://bit.ly/xolosignup){:target="_blank"}
+- [Реєстрація в Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"}
 - [Реєстрація в Wise](https://bit.ly/wsesignup){:target="_blank"}
 - [Реєстрація в Revolut](https://bit.ly/revlsignup){:target="_blank"}
 - Україномовна підтримка Santander: +34 917 679 008

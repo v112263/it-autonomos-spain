@@ -1,7 +1,7 @@
 ## Useful links and contacts
 
 - [IT Autonomos [Spain] Chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}
-- [Xolo Registration](https://bit.ly/xolosignup){:target="_blank"}
+- [Xolo Registration](https://bit.ly/xolo-signup-free-renta){:target="_blank"}
 - [Wise Registration](https://bit.ly/wsesignup){:target="_blank"}
 - [Revolut Registration](https://bit.ly/revlsignup){:target="_blank"}
 - Ukrainian-language Support Santander: +34 917 679 008
