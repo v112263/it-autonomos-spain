@@ -4,7 +4,7 @@ title: "Autónomo - Complete Guide"
 permalink: /ua/
 ---
 
-# Autónomo - Повний Довідник [3.0]
+# Autónomo - Повний Довідник [3.1]
 
 [EN]({{ site.baseurl }}/) | **UA** | [RU]({{ site.baseurl }}/ru/)
 
