@@ -34,8 +34,7 @@ If you decide to transition from your gestor to Xolo, the process is very simple
 7. After paying for the subscription, you will be asked to provide additional documents. You can send them to Xolo via
    email, or you can provide Xolo with your previous gestor's contact information, and they will contact them to request
    all necessary documents:
-    - Your previous gestor will need to sign a document that allows Xolo to process the data transfer in accordance with
-      GDPR.
+    - You will need to sign a document that will allow Xolo to process the data transfer in accordance with GDPR.
     - Declarations for the previous quarters of the current year.
     - All declarations from the last 4 years (or since you registered as autónomo).
     - Accounting books.
