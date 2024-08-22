@@ -1,8 +1,18 @@
 ---
 layout: default
-title: "Autónomo - Complete Guide"
+title: "Autónomo - Полное Руководство"
+description: "Подробный гайд по регистрации и ведению аутономо в Испании"
 permalink: /ru/
 ---
+
+<style>
+.container-lg.px-3.my-5.markdown-body h1:first-of-type {
+    display: none;
+}
+#autónomo---полное-руководство-31 {
+    margin-top: 0;
+}
+</style>
 
 # Autónomo - Полное Руководство [3.1]
 
