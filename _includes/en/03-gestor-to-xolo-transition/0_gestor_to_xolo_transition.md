@@ -30,7 +30,7 @@ If you decide to transition from your gestor to Xolo, the process is very simple
 4. Wait 1-2 business days while your data is verified.
 5. If all documents are correct, your application will be accepted, and you will need to complete ID verification (this
    is quick, you will need to photograph your document and take a selfie).
-6. Pay for the subscription, after that you can start using Xolo.
+6. [Pay for the subscription](#subscription-payment), after that you can start using Xolo.
 7. After paying for the subscription, you will be asked to provide additional documents. You can send them to Xolo via
    email, or you can provide Xolo with your previous gestor's contact information, and they will contact them to request
    all necessary documents:
