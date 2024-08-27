@@ -18,8 +18,7 @@
    [according to this instruction](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
    target="_blank"}.
 4. Go to your bank and provide Modelo 036 in electronic form.
-5. Create a client in the Xolo dashboard (take the data from your contract, if you have several contracts - you need to
-   create several clients).
+5. [Create a client in the Xolo dashboard](#creating-a-client).
 6. [Upload invoices to the Xolo dashboard](#tax-deductions-and-benefits) that you want to deduct from taxes (this will
    need to be done regularly). If you do not plan to deduct anything, then you do not need to upload anything.
 7. [Create an invoice in the Xolo dashboard](#how-to-create-an-invoice-in-xolo) (this will need to be done regularly).
