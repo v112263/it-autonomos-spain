@@ -19,6 +19,7 @@ In addition to the information below, I also recommend checking
 here: [Expense Categories](https://www.xolo.io/es-en/faq/xolo-spain/category/all-you-can-deduct-as-a-freelancer-in-spain/subcategory/expense-categories){:
 target="_blank"}
 
+{% include en/05-knowledge-base/03-tax-deductions/invoices_lifehacks.md %}
 {% include en/05-knowledge-base/03-tax-deductions/xolo_hestor.md %}
 {% include en/05-knowledge-base/03-tax-deductions/bank_fees.md %}
 {% include en/05-knowledge-base/03-tax-deductions/social_security.md %}
