@@ -8,3 +8,4 @@
 {% include ru/05-knowledge-base/04-xolo-specific/xolo_invoice_creation.md %}
 {% include ru/05-knowledge-base/04-xolo-specific/xolo_non_it.md %}
 {% include ru/05-knowledge-base/04-xolo-specific/xolo_tutorials.md %}
+{% include ru/05-knowledge-base/04-xolo-specific/xolo_my_hacienda_problem.md %}

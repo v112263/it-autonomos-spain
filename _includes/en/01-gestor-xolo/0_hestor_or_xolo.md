@@ -10,7 +10,8 @@ instead of an individual gestor. The platform completely replaces the gestor, an
 - Registration of EU VAT - free (gestors up to 150 €).
 - A large team of gestors with experience in servicing 100,000 autónomos.
 - Support in English and Spanish responds quickly.
-- All communication with the tax authorities is conducted by the service (tested personally).
+- All communication with the tax authorities is conducted by the
+  service ([tested personally](#my-problem-with-the-spanish-tax-office)).
 - No need to provide your electronic key, which is safer. The service submits reports using its own keys.
 - The service is [responsible for errors](#responsibility-in-case-of-error) in reporting.
 - [Convenient dashboard](#dashboard-demo-tutorials) for income/tax statistics, tax deductions, invoices, and
