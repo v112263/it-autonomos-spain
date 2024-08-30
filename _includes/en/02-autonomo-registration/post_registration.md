@@ -17,7 +17,17 @@
 3. Download Modelo 036
    [according to this instruction](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
    target="_blank"}.
-4. Go to your bank and provide Modelo 036 in electronic form.
+4. Go to your bank and provide Modelo 036.
+    - I went to the branch and sent the manager the Modelo 036 by email, but some prefer to print it out
+      and bring it in paper form.
+    - This needs to be done so that the bank records that payments related to autónomo activities will be credited to
+      your bank account.
+    - If this is not done, there is a risk that the account will be blocked (there have been cases shared in the chat).
+    - Sometimes the manager may not want to enter your Modelo 036 data into the banking system (for example, they might
+      say – come to me when you have your first payment as autónomo). In this case, you need to insist that the manager
+      does it right away.
+    - In some banks, this can be done online, so if you don't want to go, find out from the bank's support how this can
+      be done. My advice is to go if you have the opportunity.
 5. [Create a client in the Xolo dashboard](#creating-a-client).
 6. [Upload invoices to the Xolo dashboard](#tax-deductions-and-benefits) that you want to deduct from taxes (this will
    need to be done regularly). If you do not plan to deduct anything, then you do not need to upload anything.
