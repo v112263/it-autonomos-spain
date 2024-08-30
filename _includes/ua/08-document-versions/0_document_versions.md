@@ -36,8 +36,8 @@
 
 ### Минулі версії
 
-- [3.0 (24/07/2024)](versions/3.0.html)
-- [2.2 (05/07/2024)](versions/2.2.html)
-- [2.1 (18/06/2024)](versions/2.1.html)
-- [2.0 (04/06/2024)](versions/2.0.html)
-- [1.0 (20/02/2024)](versions/1.0.html)
+- [Release notes - v3.0 (24/07/2024)](versions/3.0.html)
+- [Release notes - v2.2 (05/07/2024)](versions/2.2.html)
+- [Release notes - v2.1 (18/06/2024)](versions/2.1.html)
+- [Release notes - v2.0 (04/06/2024)](versions/2.0.html)
+- [Release notes - v1.0 (20/02/2024)](versions/1.0.html)
