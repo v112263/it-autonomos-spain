@@ -28,7 +28,8 @@
       does it right away.
     - In some banks, this can be done online, so if you don't want to go, find out from the bank's support how this can
       be done. My advice is to go if you have the opportunity.
-5. [Create a client in the Xolo dashboard](#creating-a-client).
-6. [Upload invoices to the Xolo dashboard](#tax-deductions-and-benefits) that you want to deduct from taxes (this will
+5. [Check the validity of your EU VAT number](#checking-the-validity-of-the-eu-vat-number).
+6. [Create a client in the Xolo dashboard](#creating-a-client).
+7. [Upload invoices to the Xolo dashboard](#tax-deductions-and-benefits) that you want to deduct from taxes (this will
    need to be done regularly). If you do not plan to deduct anything, then you do not need to upload anything.
-7. [Create an invoice in the Xolo dashboard](#how-to-create-an-invoice-in-xolo) (this will need to be done regularly).
+8. [Create an invoice in the Xolo dashboard](#how-to-create-an-invoice-in-xolo) (this will need to be done regularly).
