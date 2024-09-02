@@ -3,6 +3,7 @@
 {% include ua/05-knowledge-base/05-miscellaneous/registration_documents.md %}
 {% include ua/05-knowledge-base/05-miscellaneous/recommendation.md %}
 {% include ua/05-knowledge-base/05-miscellaneous/electronic_certificate.md %}
+{% include ua/05-knowledge-base/05-miscellaneous/eu_vat_check.md %}
 {% include ua/05-knowledge-base/05-miscellaneous/documents_download.md %}
 {% include ua/05-knowledge-base/05-miscellaneous/fraud.md %}
 {% include ua/05-knowledge-base/05-miscellaneous/bank_account.md %}
