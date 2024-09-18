@@ -1,4 +1,6 @@
 ### Seguridad Social
 
-It is enough to upload a bank statement showing the deduction for Seguridad Social in the Xolo dashboard (an invoice is
-not required).
+Monthly social payments can and should be deducted from taxes.
+
+To deduct this from taxes, you need to provide your gestor or Xolo with a bank statement (a full invoice is not
+required).

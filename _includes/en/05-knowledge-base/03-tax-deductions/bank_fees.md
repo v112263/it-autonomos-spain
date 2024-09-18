@@ -1,7 +1,9 @@
 ### Fee for transfer to a bank account
 
-If you receive money via an international SWIFT transfer (for example, I receive transfers from the USA to an account in
-a Spanish bank), there may be a fee for such a transfer. It is approximately 20-30 euros.
+If you receive money via an international SWIFT transfer (for example, one of my clients sends money from the USA to my
+account in a Spanish bank), a commission may be charged for this transfer (around 20-30 euros).
 
-This fee can also be deducted from taxes (it amounts to several hundred euros per year). It is sufficient to
-upload to the Xolo dashboard a bank statement indicating the transfer fee.
+This commission can also be deducted from taxes, amounting to several hundred euros a year.
+
+To deduct this from taxes, you need to provide your gestor or Xolo with a bank statement indicating the commission for
+the transfer.

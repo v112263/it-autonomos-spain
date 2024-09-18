@@ -1,9 +1,9 @@
 ### Medical insurance
 
-You can deduct expenses for medical insurance (500 euros per year for yourself and the same amount for family members
+You can deduct expenses for health insurance (500 euros per year for yourself and the same amount for family members
 under 25 years old).
 
-You need to upload the invoice for medical insurance to the Xolo dashboard. The invoice must include your name and NIE.
+I do not deduct this because I only use public healthcare in Spain (healthcare here is one of the best in the world).
 
-Personally, I do not deduct it because I only use the public healthcare system in Spain (which is one of the best in the
-world).
+To deduct this from taxes, you need to provide your gestor or Xolo with a full invoice (with your NIE, full name, and
+autónomo registration address).

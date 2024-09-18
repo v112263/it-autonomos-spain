@@ -4,10 +4,12 @@ You can deduct other expenses related to professional activities from your taxes
 
 For example:
 
-- Subscription to the IDE you use (e.g. IntelliJ)
-- Subscription to ChatGPT (if used for work)
-- Training courses, etc.
+- Subscription to the IDE you use (e.g., IntelliJ);
+- Subscription to ChatGPT (if used for work);
+- Training courses;
+- And many others, as long as you can justify them.
 
-It is important that all these expenses are necessary for your professional activity.
+An important point is that all these expenses must be necessary for your professional activity.
 
-You need to upload the invoices for these expenses to the Xolo dashboard. The invoices must include your name and NIE.
+To deduct this from taxes, you need to provide your gestor or Xolo with a full invoice (with your NIE, full name, and
+autónomo registration address).
