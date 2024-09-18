@@ -1,26 +1,27 @@
 ## Tax deductions and benefits
 
-The tax deduction mechanism in Spain allows autónomos to reduce their tax base by certain expenses related to
-professional activities, such as office rent, equipment, etc.
+The tax deduction mechanism in Spain allows an autónomo to reduce their taxable base by including certain expenses
+related to professional activity (e.g., office rent, purchase of equipment, service subscriptions).
 
-To deduct expenses, you must upload full invoices (for some individual expenses, bank statements may be suitable) to
-the Xolo dashboard (or provide them to your gestor). In the case of Xolo, after uploading documents to the dashboard,
-their gestors review them and then approve or reject these documents.
+To deduct expenses, it is necessary to provide full invoices (indicating your NIE, name, and autónomo
+registration address) to your gestor or upload them to the Xolo dashboard. In rare cases, bank statements may be
+acceptable instead of full invoices (this is specified separately below).
 
-Some people believe that it is not worth bothering with tax deductions, claiming that the amount is insignificant. From
-my experience, as a side effect, after I transferred the electricity contract to myself, I also decided to switch to
-a cheaper tariff (this became easier to do since the contract is in my name). As a result, monthly expenses
-decreased from 190-200 euros to approximately 90-100 euros per month (about half). Add tax deductions to this as well.
+Some believe it is not worth bothering with tax deductions, thinking the amounts are small. From my experience, aside
+from direct savings, there may be other positive side effects. For example, after I transferred the electricity contract
+to my name, I also decided to switch to a more favorable tariff (this became easier to do because the contract was now
+under my name). As a result, monthly expenses decreased from 180-200 euros to 100-120 euros per month (almost half). Add
+the tax deductions to this.
 
-Below are the types of expenses that I deduct or know about. Share your experience in the chat if you know of anything
-else.
+Below is a list of expenses that I deduct from taxes or know about. Feel free to share your experiences in the chat if
+you have something to add.
 
 In addition to the information below, I also recommend checking
 here: [Expense Categories](https://www.xolo.io/es-en/faq/xolo-spain/category/all-you-can-deduct-as-a-freelancer-in-spain/subcategory/expense-categories){:
 target="_blank"}
 
 {% include en/05-knowledge-base/03-tax-deductions/invoices_lifehacks.md %}
-{% include en/05-knowledge-base/03-tax-deductions/xolo_hestor.md %}
+{% include en/05-knowledge-base/03-tax-deductions/hestor_xolo.md %}
 {% include en/05-knowledge-base/03-tax-deductions/bank_fees.md %}
 {% include en/05-knowledge-base/03-tax-deductions/social_security.md %}
 {% include en/05-knowledge-base/03-tax-deductions/activity_reduction.md %}

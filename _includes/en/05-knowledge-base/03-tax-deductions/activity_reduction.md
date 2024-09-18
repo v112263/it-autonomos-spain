@@ -6,7 +6,7 @@ in the first two years. This reduction does not apply if more than 50% of income
 individual or organization from which employment income was received in the previous year. The maximum amount to which
 the reduction applies is 100,000 euros per year.
 
-To apply this discount, you need to discuss it with Xolo or your gestor when filing the annual declaration.
+To apply this discount, you need to discuss it with your gestor or Xolo when submitting the annual tax declaration.
 
 More
 details: [Agencia Tributaria: 7.4.2.7. Reducción por inicio de una actividad económica](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2022/7-cumplimentacion-irpf/7_4-rendimientos-actividades-economicas/7_4_2-regimen-estimacion-directa/7_4_2_7-reduccion-inicio-actividad-economica.html){:
