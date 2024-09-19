@@ -27,7 +27,6 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
     - [Registration (basic)](#registration-basic)
     - [After registration (mandatory)](#after-registration-mandatory)
     - [Optional](#optional)
-- [Gestor to Xolo transition](#gestor-to-xolo-transition)
 - [IT Autonomos [Spain] chat](#it-autonomos-spain-chat)
 - [Knowledge base](#knowledge-base)
     - [Tax payment](#tax-payment)
@@ -61,7 +60,7 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
         - [Other professional expenses](#other-professional-expenses)
         - [Regional quotas](#regional-quotas)
     - [Xolo - specific questions](#xolo---specific-questions)
-        - [Gestor to Xolo transition](#gestor-to-xolo-transition-1)
+        - [Gestor to Xolo transition](#gestor-to-xolo-transition)
         - [Support contacts](#support-contacts)
         - [Responsibility in case of error](#responsibility-in-case-of-error)
         - [Subscription payment](#subscription-payment)
@@ -92,7 +91,6 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
 
 {% include en/01-gestor-xolo/0_hestor_or_xolo.md %}
 {% include en/02-autonomo-registration/0_registration_autonomo.md %}
-{% include en/03-gestor-to-xolo-transition/0_gestor_to_xolo_transition.md %}
 {% include en/04-it-autonomos-chat/0_chat_it_autonomos.md %}
 {% include en/05-knowledge-base/0_knowledge_base.md %}
 {% include en/06-useful-links/0_useful_links.md %}

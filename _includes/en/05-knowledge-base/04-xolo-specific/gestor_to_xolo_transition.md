@@ -1,4 +1,4 @@
-# Gestor to Xolo transition
+### Gestor to Xolo transition
 
 If you decide to transition from your gestor to Xolo, the process is very simple and quick.
 
