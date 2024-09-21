@@ -6,6 +6,6 @@ ask your gestor.
 
 {% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
 
-{% include en/02-autonomo-registration/basic_registration.md %}
-{% include en/02-autonomo-registration/post_registration.md %}
-{% include en/02-autonomo-registration/optional_registration.md %}
+{% include en/03-autonomo-registration/basic_registration.md %}
+{% include en/03-autonomo-registration/post_registration.md %}
+{% include en/03-autonomo-registration/optional_registration.md %}
