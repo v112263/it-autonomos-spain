@@ -3,6 +3,12 @@ layout: default
 title: "Autónomo - Complete Guide"
 ---
 
+<style>
+#autónomo---complete-guide-31 {
+    margin-top: 0;
+}
+</style>
+
 {% include common/scripts.js %}
 
 # Autónomo - Complete Guide [3.1]
