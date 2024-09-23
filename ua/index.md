@@ -6,11 +6,10 @@ permalink: /ua/
 ---
 
 <style>
+{% include common/common.css %}
+
 .container-lg.px-3.my-5.markdown-body h1:first-of-type {
     display: none;
-}
-#autónomo---повний-довідник-31 {
-    margin-top: 0;
 }
 </style>
 
@@ -33,6 +32,7 @@ target="_blank"}. Документ регулярно оновлюється ([G
 ## Зміст
 
 - [Хестор чи Xolo?](#хестор-чи-xolo)
+- [Перевірені хестори](#перевірені-хестори)
 - [Реєстрація Autónomo (покроково)](#реєстрація-autónomo-покроково)
     - [Реєстрація (базова)](#реєстрація-базова)
     - [Після реєстрації (обов'язково)](#після-реєстрації-обовязково)
@@ -100,7 +100,8 @@ target="_blank"}. Документ регулярно оновлюється ([G
 - [Версії документа](#версії-документа)
 
 {% include ua/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include ua/02-autonomo-registration/0_registration_autonomo.md %}
+{% include ua/02-gestors/0_gestors.md %}
+{% include ua/03-autonomo-registration/0_registration_autonomo.md %}
 {% include ua/04-it-autonomos-chat/0_chat_it_autonomos.md %}
 {% include ua/05-knowledge-base/0_knowledge_base.md %}
 {% include ua/06-useful-links/0_useful_links.md %}

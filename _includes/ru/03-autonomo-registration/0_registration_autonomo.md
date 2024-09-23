@@ -6,6 +6,6 @@
 
 {% include ru/00-exclusive-offer/0_xolo_exclusive_offer.md %}
 
-{% include ru/02-autonomo-registration/basic_registration.md %}
-{% include ru/02-autonomo-registration/post_registration.md %}
-{% include ru/02-autonomo-registration/optional_registration.md %}
+{% include ru/03-autonomo-registration/basic_registration.md %}
+{% include ru/03-autonomo-registration/post_registration.md %}
+{% include ru/03-autonomo-registration/optional_registration.md %}
