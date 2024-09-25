@@ -24,7 +24,10 @@ permalink: /ru/
 
 Информация уже почти год собирается мной, участниками сообщества [IT Autonomos](https://bit.ly/it-autonomos-es){:
 target="_blank"}, а также на консультациях у хесторов. Документ регулярно **проходит ревью у хесторов**, и регулярно
-обновляется ([GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
+обновляется ([репозиторий на GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
+
+Если хотите узнать про историю создания документа, или поблагодарить меня за мой труд - загляните в 
+[секретный раздел](#секретный-раздел).
 
 {% include ru/00-exclusive-offer/0_xolo_exclusive_offer.md %}
 

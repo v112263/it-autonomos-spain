@@ -1,30 +1,30 @@
 ## Secret section
 
-Thank you for reading this document to the end. I am glad that it was useful for you. I put a lot of effort into its
-creation and constantly update the information to keep it relevant and helpful.
+Thank you for checking out this section. I'm glad the document turned out to be useful for you. I put a lot of effort
+into creating it and constantly update the information to keep it relevant and helpful.
 
-Let me briefly tell you how this document came about.
+Let me briefly tell you how this document came to be.
 
-For the past few years, I have had a habit of recording all the complex bureaucratic processes I encounter in my
-personal knowledge base. This helps me save time when I face the same problem again in the future. One of these complex
-things for me was everything related to the autónomo. Before I registered it, I learned a lot of information in advance
-from my acquaintances. Later, I thought that my notes could be useful to others as well. That is how this document
-became publicly available.
+For the last few years, I’ve had a habit of documenting all the complex bureaucratic processes I encounter in my
+personal knowledge base. This helps me save time when I have to deal with the same task again in the future. One of the
+hardest things for me was everything related to autónomo. Before I registered it, I gathered a lot of information from
+my friends, chats, and webinars.
+Later, I thought that my notes might be useful to others as well. That's how this document became publicly available.
 
-And briefly about myself :) I am a Java Developer and Java Team Lead.
+A little about myself. I'm a Java Developer and Java Team Lead, with over 10 years in the IT field. Some notable
+achievements include winning the Malta Blockchain Summit Hackathon in 2018 (we took first place with our team). I love
+reading books and would gladly chat about this topic in person. Also, I love cycling.
 
-If you would like to thank me for this work, here are a few ways to do so:
+If you'd like to thank me for the work I’ve done:
 
-- Send the document to those who plan to become autónomos or already are.
-- Join our [autónomo chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
-- Star the [GitHub repository](https://bit.ly/it-autonomos-github){:target="_blank"} where the document's source code is
-  available.
-- Submit pull requests if you wish to improve or add something.
-- Help chat members with questions in which you have knowledge and experience, especially newcomers.
-- Send ideas and suggestions for improving the document, maybe you have more knowledge on some issues.
-- Register with Xolo using [my referral link](https://bit.ly/xolo-signup-free-renta){:target="_blank"}. This will help me cover part
-  of the expenses for Xolo and additionally motivate me to continue (the link is mutual, you will also get a bonus for
-  using it).
-- [If you want to buy me a coffee](https://bit.ly/buy-coffee-v112263){:target="_blank"} :)
+- Share this document with those who are planning to register as autónomo or are already managing it.
+- Join our [autónomo chat](https://bit.ly/it-autonomos-es){:target="_blank"}.
+- Star the [GitHub repository](https://bit.ly/it-autonomos-github){:target="_blank"} with the document source.
+- Send pull requests if you wish to add anything.
+- Help chat members with questions where you have knowledge and experience, especially newcomers.
+- Send ideas and suggestions for improving the document if you have good expertise in any areas.
+- Use the referral links in the document - part of the funds goes to covering autónomo service costs and document
+  development, and part goes to Friday hangouts with the Valencia IT community. See you there!
+- [If you’d like to buy me a coffee](https://bit.ly/buy-coffee-v112263){:target="_blank"} :)
 
-Thank you for your support!
+Thank you for your support! ❤️
