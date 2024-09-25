@@ -1,5 +1,8 @@
 ## Xolo
 
+У цьому розділі висвітлюються специфічні теми та нюанси, з якими ви можете зіткнутися, якщо будете вести аутономо через
+сервіс Xolo.
+
 {% include ua/05-knowledge-base/04-xolo/gestor_to_xolo_transition.md %}
 {% include ua/05-knowledge-base/04-xolo/xolo_support.md %}
 {% include ua/05-knowledge-base/04-xolo/xolo_responsibility.md %}

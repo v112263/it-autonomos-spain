@@ -1,5 +1,8 @@
 ## Xolo
 
+In this section, specific topics and nuances are covered that you may encounter if you manage an autónomo through the 
+Xolo service.
+
 {% include en/05-knowledge-base/04-xolo/gestor_to_xolo_transition.md %}
 {% include en/05-knowledge-base/04-xolo/xolo_support.md %}
 {% include en/05-knowledge-base/04-xolo/xolo_responsibility.md %}
