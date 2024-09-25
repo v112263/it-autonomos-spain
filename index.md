@@ -16,9 +16,10 @@ title: "Autónomo - Complete Guide"
 The document contains all the necessary information for registering and managing an autónomo in Spain: instructions,
 lifehacks and useful tips.
 
-The information has been collected over more than six months by myself and members of the
-[IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} community.
-This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
+The information has been collected for almost a year by me, members of
+the [IT Autonomos](https://bit.ly/it-autonomos-es){:target="_blank"} community, and through consultations with gestors.
+The document is regularly **reviewed by gestors** and frequently updated ([GitHub](https://bit.ly/it-autonomos-github){:
+target="_blank"}).
 
 {% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
 
