@@ -15,5 +15,5 @@
 {% include ru/05-knowledge-base/01-tax-payments/0_tax_payments.md %}
 {% include ru/05-knowledge-base/02-tax-reporting/0_tax_reporting.md %}
 {% include ru/05-knowledge-base/03-tax-deductions/0_tax_deductions.md %}
-{% include ru/05-knowledge-base/04-xolo-specific/0_xolo_specific.md %}
+{% include ru/05-knowledge-base/04-xolo/0_xolo.md %}
 {% include ru/05-knowledge-base/05-miscellaneous/0_miscellaneous.md %}
