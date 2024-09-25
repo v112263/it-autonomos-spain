@@ -27,7 +27,7 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
 ## Contents
 
 - [Gestor or Xolo?](#gestor-or-xolo)
-- [Trusted gestors](#trusted-gestors)
+- [Reliable gestors](#reliable-gestors)
 - [Autónomo registration (step by step)](#autónomo-registration-step-by-step)
     - [Registration (basic)](#registration-basic)
     - [After registration (mandatory)](#after-registration-mandatory)
@@ -95,7 +95,7 @@ This document is regularly updated ([GitHub](https://bit.ly/it-autonomos-github)
 - [Document versions](#document-versions)
 
 {% include en/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include en/02-gestors/0_gestors.md %}
+{% include en/02-reliable-gestors/0_reliable_gestors.md %}
 {% include en/03-autonomo-registration/0_registration_autonomo.md %}
 {% include en/04-it-autonomos-chat/0_chat_it_autonomos.md %}
 {% include en/05-knowledge-base/0_knowledge_base.md %}

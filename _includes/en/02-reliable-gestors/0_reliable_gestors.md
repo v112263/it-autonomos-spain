@@ -1,4 +1,4 @@
-# Trusted gestors
+# Reliable gestors
 
 In our autónomo chat, there are occasional requests to recommend a good and reliable gestor. Such gestors can be
 difficult to find, as they often no longer have available slots and do not accept new clients.
@@ -10,4 +10,4 @@ This list will remain small, and I will add new gestors as I discover them. If y
 gestor, if you've been working with them for a while, and you appreciate their qualification and responsibility, please
 share their contact.
 
-{% include en/02-gestors/gestor_1.md %}
+{% include en/02-reliable-gestors/gestor_1.md %}

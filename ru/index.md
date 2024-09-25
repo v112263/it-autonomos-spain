@@ -32,7 +32,7 @@ target="_blank"}. Документ регулярно обновляется ([G
 ## Содержание
 
 - [Хестор или Xolo?](#хестор-или-xolo)
-- [Проверенные хесторы](#проверенные-хесторы)
+- [Надежные хесторы](#надежные-хесторы)
 - [Регистрация Autónomo (пошагово)](#регистрация-autónomo-пошагово)
     - [Регистрация (базовая)](#регистрация-базовая)
     - [После регистрации (обязательно)](#после-регистрации-обязательно)
@@ -100,7 +100,7 @@ target="_blank"}. Документ регулярно обновляется ([G
 - [Версии документа](#версии-документа)
 
 {% include ru/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include ru/02-gestors/0_gestors.md %}
+{% include ru/02-reliable-gestors/0_reliable_gestors.md %}
 {% include ru/03-autonomo-registration/0_registration_autonomo.md %}
 {% include ru/04-it-autonomos-chat/0_chat_it_autonomos.md %}
 {% include ru/05-knowledge-base/0_knowledge_base.md %}
