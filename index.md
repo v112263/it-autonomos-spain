@@ -21,10 +21,8 @@ the [IT Autonomos](https://bit.ly/it-autonomos-es){:target="_blank"} community, 
 The document is regularly **reviewed by gestors** and frequently
 updated ([GitHub repository](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
-If you want to learn about the history of this document or thank me for my work, check out
+If you want to learn about the history of this document, or thank me for my work, check out
 the [secret section](#secret-section).
-
-{% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
 
 > Information is provided as is and does not replace professional consultation.
 
