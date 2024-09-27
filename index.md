@@ -66,6 +66,8 @@ the [secret section](#secret-section).
     - [Other professional expenses](#other-professional-expenses)
     - [Regional quotas](#regional-quotas)
 - [Xolo](#xolo)
+    - [Xolo registration](#xolo-registration)
+    - [Registration of Autónomo](#registration-of-autónomo)
     - [Gestor to Xolo transition](#gestor-to-xolo-transition)
     - [Support contacts](#support-contacts)
     - [Responsibility in case of error](#responsibility-in-case-of-error)
