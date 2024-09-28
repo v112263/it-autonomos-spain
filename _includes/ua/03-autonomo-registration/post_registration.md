@@ -10,12 +10,14 @@
     - Cl@ve PIN легше за все оформити, маючи електронний сертифікат. Cl@ve PIN оформляти не обов'язково, але мені
       здається, що з ним може бути зручніше використовувати деякі сервіси в Іспанії. У мене він є.
 2. Перевірити, що в кабінеті Seguridad Social вказано правильний IBAN рахунку, з якого будуть списуватися платежі за
-   Seguridad
-   Social. [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
-   target="_blank"} (ver tus datos de autónomo -> Domiciliación bancaria)
+   Seguridad Social.
+    - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
+      target="_blank"} (ver tus datos de autónomo -> Domiciliación bancaria)
+    - Якщо у вас є хестор, він повинен зробити це за вас.
 3. Завантажити Modelo 036
    [за цією інструкцією](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
    target="_blank"}.
+    - Якщо у вас є хестор, ви можете попросити його зробити це.
 4. Зайти в свій банк і надати Modelo 036.
     - Я прийшов до відділення і відправив менеджеру Modelo 036 на email в електронному вигляді, але деякі воліють
       роздрукувати і принести в паперовому вигляді.
@@ -28,6 +30,7 @@
     - У деяких банках це можна зробити онлайн, тож якщо не хочете йти – дізнайтеся у підтримці банку, як це можна
       зробити. Моя порада – краще сходити, якщо є можливість.
 5. [Перевірити коректність вашого EU VAT номера](#перевірка-коректності-eu-vat-номера).
+    - Якщо у вас є хестор, він повинен зробити це за вас.
 6. [Створити клієнта в дашборді Xolo](#створення-клієнта).
 7. [Завантажити в дашборд Xolo фактури](#податкові-відрахування-та-пільги), які хочете відрахувати з податків (це
    потрібно буде робити регулярно). Якщо не плануєте нічого відраховувати - тоді не потрібно нічого завантажувати.

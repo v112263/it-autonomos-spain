@@ -11,12 +11,15 @@
     - Cl@ve PIN легче всего оформить уже имея электронный сертификат. Cl@ve PIN оформлять не обязательно, но мне
       кажется, что с ним может быть комфортнее использовать некоторые сервисы в Испании. У меня он есть.
 2. Проверить, что в кабинете Seguridad Social указан правильный IBAN счета, с
-   которого будут списываться платежи за Seguridad
-   Social. [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
-   target="_blank"} (ver tus datos de autonomo -> Domiciliación bancaria)
+   которого будут списываться платежи за Seguridad Social.
+    - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.
+      es/wps/portal/importass/importass/bienvenida){:
+      target="_blank"} (ver tus datos de autonomo -> Domiciliación bancaria).
+    - Если у вас есть хестор, то он должен это сделать за вас.
 3. Скачать Modelo
    036 [по этой инструкции](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
    target="_blank"}.
+   - Если у вас есть хестор, можете попросить его это сделать.
 4. Сходить в свой банк и предоставить Modelo 036.
     - Я пришел в отделение, и отправил менеджеру Modelo 036 на email в электронном виде, но некоторые предпочитают
       распечатать и принести бумажном виде.
@@ -29,6 +32,7 @@
     - В некоторых банках это можно сделать онлайн, так что если не хотите идти - узнайте в сапорте банка, как это
       можно сделать. Мой совет - лучше сходить, если есть возможность.
 5. [Проверить корректность вашего EU VAT номера](#проверка-корректности-eu-vat-номера).
+    - Если у вас есть хестор, то он должен это сделать за вас.
 6. [Создать клиента в дашборде Xolo](#создание-клиента).
 7. [Загрузить в дашборд Xolo фактуры](#налоговые-вычеты-и-льготы), которые
    хотите вычесть из налогов (нужно будет делать это регулярно).
