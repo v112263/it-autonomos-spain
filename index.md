@@ -67,6 +67,7 @@ the [secret section](#secret-section).
     - [Regional quotas](#regional-quotas)
 - [Gestor](#gestor)
     - [Criteria for a reliable gestor](#criteria-for-a-reliable-gestor)
+    - [Liability in case of error](#liability-in-case-of-error)
 - [Xolo](#xolo)
     - [Xolo registration](#xolo-registration)
     - [Registration of Autónomo](#registration-of-autónomo)

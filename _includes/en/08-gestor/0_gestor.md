@@ -4,3 +4,4 @@
 хестором.
 
 {% include en/08-gestor/reliable_gestor_criteria.md %}
+{% include en/08-gestor/liability.md %}
