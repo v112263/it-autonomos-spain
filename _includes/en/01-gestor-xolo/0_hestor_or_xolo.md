@@ -2,26 +2,27 @@
 
 {% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
 
-I decided to register and manage my autónomo through the [Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"} service
-instead of an individual gestor. The platform completely replaces the gestor, and in my opinion, it is even better.
+I registered and manage autonomo through the [Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"} service
+instead of an individual gestor. The platform completely replaces a gestor and is ideal for freelancers from IT,
+marketing, media, design, consulting, and [other fields](#is-xolo-suitable-for-you).
 
-- Subscription costs 71 €/month (gestors up to 110 €/month).
-- Registration of autónomo - free (gestors up to 150 €).
-- Registration of EU VAT - free (gestors up to 150 €).
-- A large team of gestors with experience in servicing 100,000 autónomos.
-- Support in English and Spanish responds quickly.
-- All communication with the tax authorities is conducted by the
-  service ([tested personally](#my-problem-with-the-spanish-tax-office)).
-- No need to provide your electronic key, which is safer. The service submits reports using its own keys.
-- The service is [responsible for errors](#responsibility-in-case-of-error) in reporting.
+- Subscription costs 59 €/month + IVA (gestors up to 91 €/month + IVA).
+- Autonomo registration - free (gestors up to 120 € + IVA).
+- EU VAT registration - free (gestors up to 120 € + IVA).
+- A large team of gestors with experience serving 100,000 autonomos.
+- Support in English and Spanish, responding quickly.
+- All communication with the tax authorities is handled by the
+  service ([proven by personal experience](#my-problem-with-the-spanish-tax-office)).
+- No need to provide your electronic key. The service submits reports using their own keys.
+- The service [takes responsibility for errors](#responsibility-in-case-of-error) in reporting.
 - [Convenient dashboard](#dashboard-demo-tutorials) for income/tax statistics, tax deductions, invoices, and
   notifications.
-- Cooperation agreement with the Agencia Tributaria (Spanish Tax Agency).
+- Partnership agreement with Agencia Tributaria (Spanish Tax Agency).
 - Xolo does not support [autónomo colaborador](#autónomo-colaborador).
-- [Will Xolo suit you if you are not in IT](#is-xolo-suitable-for-you-if-you-are-not-from-it).
+- [Xolo limitations](#is-xolo-suitable-for-you).
 
-Register using the **[referral link](https://bit.ly/xolo-signup-free-renta){:target="_blank"}** (50 € bonus to your account for
-registration).
+Register using the **[referral link](https://bit.ly/xolo-signup-free-renta){:target="_blank"}** (50 € bonus to your
+account for registration).
 
 _If you are already using the services of a gestor but want to switch to Xolo -
 [here is a guide on how to do it](#gestor-to-xolo-transition)._
