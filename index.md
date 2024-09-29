@@ -65,6 +65,8 @@ the [secret section](#secret-section).
     - [Equipment, furniture](#equipment-furniture)
     - [Other professional expenses](#other-professional-expenses)
     - [Regional quotas](#regional-quotas)
+- [Gestor](#gestor)
+    - [Criteria for a reliable gestor](#criteria-for-a-reliable-gestor)
 - [Xolo](#xolo)
     - [Xolo registration](#xolo-registration)
     - [Registration of Autónomo](#registration-of-autónomo)
@@ -104,11 +106,12 @@ the [secret section](#secret-section).
 {% include en/05-tax-payments/0_tax_payments.md %}
 {% include en/06-tax-reporting/0_tax_reporting.md %}
 {% include en/07-tax-deductions/0_tax_deductions.md %}
-{% include en/08-xolo/0_xolo.md %}
-{% include en/09-miscellaneous/0_miscellaneous.md %}
-{% include en/10-useful-links/0_useful_links.md %}
-{% include en/11-secret-section/0_secret_section.md %}
-{% include en/12-document-versions/0_document_versions.md %}
+{% include en/08-gestor/0_gestor.md %}
+{% include en/09-xolo/0_xolo.md %}
+{% include en/10-miscellaneous/0_miscellaneous.md %}
+{% include en/11-useful-links/0_useful_links.md %}
+{% include en/12-secret-section/0_secret_section.md %}
+{% include en/13-document-versions/0_document_versions.md %}
 
 ---
 

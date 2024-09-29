@@ -70,6 +70,8 @@ blank"}, а також на консультаціях у хесторів. До
     - [Техніка, меблі](#техніка-меблі)
     - [Інші професійні витрати](#інші-професійні-витрати)
     - [Регіональні квоти](#регіональні-квоти)
+- [Хестор](#хестор)
+    - [Критерії надійного хестора](#критерії-надійного-хестора)
 - [Xolo](#xolo)
     - [Реєстрація в Xolo](#реєстрація-в-xolo)
     - [Реєстрація Autónomo](#реєстрація-autónomo)
@@ -109,11 +111,12 @@ blank"}, а також на консультаціях у хесторів. До
 {% include ua/05-tax-payments/0_tax_payments.md %}
 {% include ua/06-tax-reporting/0_tax_reporting.md %}
 {% include ua/07-tax-deductions/0_tax_deductions.md %}
-{% include ua/08-xolo/0_xolo.md %}
-{% include ua/09-miscellaneous/0_miscellaneous.md %}
-{% include ua/10-useful-links/0_useful_links.md %}
-{% include ua/11-secret-section/0_secret_section.md %}
-{% include ua/12-document-versions/0_document_versions.md %}
+{% include ua/08-gestor/0_gestor.md %}
+{% include ua/09-xolo/0_xolo.md %}
+{% include ua/10-miscellaneous/0_miscellaneous.md %}
+{% include ua/11-useful-links/0_useful_links.md %}
+{% include ua/12-secret-section/0_secret_section.md %}
+{% include ua/13-document-versions/0_document_versions.md %}
 
 ---
 
