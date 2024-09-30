@@ -9,8 +9,8 @@ Denis has his own accounting firm serving small and medium-sized businesses.
 - **Experience:** 6 years
 - **Education:** Universidad de Alicante Grado en Administración y Dirección de Empresas
 - **Regions:** all except Ceuta, Melilla, País Vasco, and Navarra
-- **Electronic key:** the gestor submits reports using his own key (you will need to authorize him through the tax
-  office portal)
+- **Electronic certificate:** gestor submits reports using his own certificate (you will need to authorize him through
+  the tax office portal)
 - **Responsibility:** insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza
   8/6.371.558-N)
 - **Services:**
