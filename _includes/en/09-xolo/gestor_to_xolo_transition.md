@@ -2,8 +2,6 @@
 
 If you decide to transition from your gestor to Xolo, the process is very simple and quick.
 
-{% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
-
 1. Register using the **[referral link](https://bit.ly/xolo-signup-free-renta){:target="_blank"}** (50 € bonus to your account for
    registration):
     - Click the Sign Up button at the top right.

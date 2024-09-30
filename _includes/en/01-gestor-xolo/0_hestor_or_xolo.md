@@ -1,7 +1,5 @@
 # Gestor or Xolo?
 
-{% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
-
 I registered and manage autonomo through the [Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"} service
 instead of an individual gestor. The platform completely replaces a gestor and is ideal for freelancers from IT,
 marketing, media, design, consulting, and [other fields](#is-xolo-suitable-for-you).
