@@ -1,15 +1,6 @@
 ## After registration (mandatory)
 
-1. Obtain an electronic certificate (or Cl@ve PIN)
-    - This can be done at any time, even before registering as an autónomo (but it's better not to delay).
-    - An electronic certificate can be obtained in several ways. I did it here, for
-      free: [https://certificadoelectronico.es/](https://certificadoelectronico.es/){:target="_blank"} (it took a few
-      minutes, and I didn't have to go anywhere).
-      This certificate has the same legal force as a certificate issued by FNMT. If you need it urgently, you can pay
-      extra
-      on this site for express service, and the certificate will be made the same day.
-    - Cl@ve PIN is easiest to obtain when you already have an electronic certificate. Cl@ve PIN is not mandatory, but I
-      think it might be more convenient to use some services in Spain with it. I have it.
+1. [Obtain an electronic certificate](#obtaining-an-electronic-certificate).
 2. Check that the correct IBAN of the account from which payments for Seguridad Social will be debited is indicated on
    the Seguridad Social portal.
     - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:

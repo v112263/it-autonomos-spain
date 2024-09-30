@@ -2,8 +2,6 @@
 
 Если вы решили перейти от вашего хестора на Xolo, процесс очень простой и быстрый.
 
-{% include ru/00-exclusive-offer/0_xolo_exclusive_offer.md %}
-
 1. Зарегистрироваться по **[реферальной ссылке](https://bit.ly/xolo-signup-free-renta){:target="_blank"}** (бонус 50 € на ваш счет
    за регистрацию):
     - Жмите кнопку Sign Up справа сверху.

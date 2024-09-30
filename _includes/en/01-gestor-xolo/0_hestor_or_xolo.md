@@ -1,7 +1,5 @@
 # Gestor or Xolo?
 
-{% include en/00-exclusive-offer/0_xolo_exclusive_offer.md %}
-
 I registered and manage autonomo through the [Xolo](https://bit.ly/xolo-signup-free-renta){:target="_blank"} service
 instead of an individual gestor. The platform completely replaces a gestor and is ideal for freelancers from IT,
 marketing, media, design, consulting, and [other fields](#is-xolo-suitable-for-you).
@@ -13,7 +11,8 @@ marketing, media, design, consulting, and [other fields](#is-xolo-suitable-for-y
 - Support in English and Spanish, responding quickly.
 - All communication with the tax authorities is handled by the
   service ([proven by personal experience](#my-problem-with-the-spanish-tax-office)).
-- No need to provide your electronic key. The service submits reports using their own keys.
+- No need to provide your personal electronic certificate. The service submits reports using its own electronic
+  certificate.
 - The service [takes responsibility for errors](#responsibility-in-case-of-error) in reporting.
 - [Convenient dashboard](#dashboard-demo-tutorials) for income/tax statistics, tax deductions, invoices, and
   notifications.
