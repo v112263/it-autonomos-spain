@@ -1,19 +1,19 @@
-## Obtaining an electronic certificate
+## Obtaining a digital certificate
 
-An electronic certificate in Spain (Certificado Digital) is a digital document that confirms a person's identity. It
+A digital certificate in Spain (Certificado Digital) is a digital document that confirms a person's identity. It
 allows official interactions with government agencies, banks, the tax office, and other institutions in a secure
 manner, without the need for personal presence. It can also be used to sign documents electronically.
 
-If you are autónomo, you **need** an electronic certificate. You can apply for it at any time, but it’s better to do it
+If you are autónomo, you **need** a digital certificate. You can apply for it at any time, but it’s better to do it
 as soon as possible (even before registering as an autónomo). If you delay obtaining the certificate, you might find
 yourself in a situation where you suddenly need it, and then you'll have to get it urgently, likely for a fee.
 
-There are many ways to obtain an electronic certificate. Regardless of the method you choose, the certificate will have
+There are many ways to obtain a digital certificate. Regardless of the method you choose, the certificate will have
 the same legal validity. Below are several ways to get it (there are actually more).
 
 **Method #1**
 
-Obtain it through a gestor. Some gestors are accredited to issue personal electronic certificates (remotely). This
+Obtain it through a gestor. Some gestors are accredited to issue personal digital certificates (remotely). This
 allows you to get the certificate without leaving your home.
 
 This is one of the fastest methods (if you need it urgently and are willing to pay). If you don’t have a gestor or if
