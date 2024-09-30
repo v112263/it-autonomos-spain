@@ -2,7 +2,7 @@
 
 {% include en/10-miscellaneous/registration_documents.md %}
 {% include en/10-miscellaneous/recommendation.md %}
-{% include en/10-miscellaneous/electronic_certificate.md %}
+{% include en/10-miscellaneous/electronic_certificate_warning.md %}
 {% include en/10-miscellaneous/eu_vat_check.md %}
 {% include en/10-miscellaneous/documents_download.md %}
 {% include en/10-miscellaneous/fraud.md %}
