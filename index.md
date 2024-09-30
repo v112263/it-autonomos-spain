@@ -83,6 +83,7 @@ the [secret section](#secret-section).
 - [Miscellaneous](#miscellaneous)
     - [Necessary documents for registering an autónomo](#necessary-documents-for-registering-an-autónomo)
     - [An obvious but very important recommendation](#an-obvious-but-very-important-recommendation)
+    - [Obtaining an electronic certificate](#obtaining-an-electronic-certificate)
     - [Providing an electronic certificate to the gestor](#providing-an-electronic-certificate-to-the-gestor)
     - [Checking the validity of the EU VAT number](#checking-the-validity-of-the-eu-vat-number)
     - [Regular downloading of all documents](#regular-downloading-of-all-documents)
