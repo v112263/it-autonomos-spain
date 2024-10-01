@@ -28,7 +28,7 @@ the [secret section](#secret-section).
 
 ## Contents
 
-- [Gestor or Xolo?](#gestor-or-xolo)
+- [Gestor or Xolo?](#gestor-or-xol)
 - [Reliable gestors](#reliable-gestors)
 - [Autónomo registration (step by step)](#autónomo-registration-step-by-step)
     - [Registration (basic)](#registration-basic)
