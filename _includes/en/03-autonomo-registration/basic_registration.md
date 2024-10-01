@@ -4,7 +4,8 @@
 2. [Open a bank account](#which-bank-account-and-which-bank-to-use).
 3. Register in Xolo [using this guide](#xolo-registration).
     - If you are collaborating with a gestor, skip this step.
-4. [Submit the application for autónomo registration](#registration-of-autónomo-xolo).
+4. Submit the application for autónomo registration.
+    - [Instructions for Xolo](#registration-of-autónomo-xolo).
     - If you are collaborating with a gestor, skip this step.
 5. [Pay the subscription](#subscription-payment).
     - If you are collaborating with a gestor, skip this step.
