@@ -27,5 +27,5 @@
     - If you are collaborating with a gestor, skip this step.
 7. [Learn to manage tax deductions](#tax-deductions-and-benefits).
 8. Learn to create invoices.
-    - [Instructions for Xolo](#how-to-create-an-invoice-in-xolo).
+    - [Instructions for Xolo](#creating-an-invoice-xolo).
     - If you are collaborating with a gestor, they will provide you with their own instructions.

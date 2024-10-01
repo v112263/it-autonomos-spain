@@ -77,7 +77,7 @@ the [secret section](#secret-section).
     - [Xolo's liability](#xolos-liability)
     - [Subscription payment](#subscription-payment)
     - [Creating a client](#creating-a-client)
-    - [How to create an invoice in Xolo?](#how-to-create-an-invoice-in-xolo)
+    - [Creating an invoice (Xolo)](#creating-an-invoice-xolo)
     - [Dashboard demo, tutorials](#dashboard-demo-tutorials)
     - [My problem with the Spanish tax office](#my-problem-with-the-spanish-tax-office)
 - [Miscellaneous](#miscellaneous)
