@@ -13,7 +13,7 @@ marketing, media, design, consulting, and [other fields](#is-xolo-suitable-for-y
   service ([proven by personal experience](#my-problem-with-the-spanish-tax-office)).
 - No need to provide your personal digital certificate. The service submits reports using their own digital
   certificates.
-- The service [takes responsibility for errors](#responsibility-in-case-of-error) in reporting.
+- The service [takes responsibility for errors](#xolos-liability) in reporting.
 - [Convenient dashboard](#dashboard-demo-tutorials) for income/tax statistics, tax deductions, invoices, and
   notifications.
 - Partnership agreement with Agencia Tributaria (Spanish Tax Agency).

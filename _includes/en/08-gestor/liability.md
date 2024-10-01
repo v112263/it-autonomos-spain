@@ -1,4 +1,4 @@
-## Liability in case of error
+## Gestor's liability
 
 A good gestor should have liability insurance in case, for example, they make a mistake in reporting. If this
 mistake leads to financial damage (e.g. fines), the insurance should cover the damage. Such insurance may include a
