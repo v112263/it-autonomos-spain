@@ -5,3 +5,4 @@
 
 {% include ua/08-gestor/reliable_gestor_criteria.md %}
 {% include ua/08-gestor/liability.md %}
+{% include ua/08-gestor/gestor_autonomo_registration.md %}

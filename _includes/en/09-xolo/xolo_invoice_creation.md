@@ -1,4 +1,4 @@
-## How to create an invoice in Xolo?
+## Creating an invoice (Xolo)
 
 I create invoices in the first days of the current month for the previous month. It is important to do this by the 4th
 of the current month. For example, I create the invoice for January by February 4th.

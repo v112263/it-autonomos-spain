@@ -28,5 +28,5 @@ you won't need to hand over the certificate.
 
 **How does it work with Xolo?**
 
-Xolo uses their certificates to submit reports and [takes responsibility](#responsibility-in-case-of-error) if errors
+Xolo uses their certificates to submit reports and [takes responsibility](#xolos-liability) if errors
 are made.

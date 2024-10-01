@@ -1,4 +1,4 @@
-## Registration of Autónomo
+## Registration of Autónomo (Xolo)
 
 Register autónomo through the Xolo dashboard.
 
