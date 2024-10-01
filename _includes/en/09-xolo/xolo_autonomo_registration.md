@@ -40,4 +40,6 @@ Register autónomo through the Xolo dashboard.
     mind that by law, you cannot use more than 30% of the apartment area for economic activity. The value you specify in
     this field will be taken into account when deducting apartment rental expenses from taxes (if you decide to deduct
     them).
-20. [Pay the subscription](#subscription-payment).
+
+After filling out the form and completing the identity verification process, you will need
+to [pay for the subscription](#subscription-payment).
