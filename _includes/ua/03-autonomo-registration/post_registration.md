@@ -1,6 +1,6 @@
 ## Після реєстрації (обов'язково)
 
-1. [Оформити електронний сертифікат](#оформлення-електронного-сертифіката).
+1. [Оформити цифровий сертифікат](#оформлення-цифрового-сертифіката).
 2. Перевірити, що в кабінеті Seguridad Social вказано правильний IBAN рахунку, з якого будуть списуватися платежі за
    Seguridad Social.
     - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:

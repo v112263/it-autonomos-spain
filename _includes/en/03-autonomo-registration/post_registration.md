@@ -1,6 +1,6 @@
 ## After registration (mandatory)
 
-1. [Obtain an electronic certificate](#obtaining-an-electronic-certificate).
+1. [Obtain a digital certificate](#obtaining-a-digital-certificate).
 2. Check that the correct IBAN of the account from which payments for Seguridad Social will be debited is indicated on
    the Seguridad Social portal.
     - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
