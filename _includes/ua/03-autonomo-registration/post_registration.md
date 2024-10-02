@@ -6,9 +6,9 @@
     - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
       target="_blank"} (ver tus datos de autónomo -> Domiciliación bancaria)
     - Якщо ви співпрацюєте з хестором, він повинен зробити це за вас.
-3. Завантажити Modelo 036
-   [за цією інструкцією](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
-   target="_blank"}.
+3. Завантажити Modelo 036.
+    - [Інструкція для Xolo](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
+      target="_blank"}.
     - Якщо ви співпрацюєте з хестором, він повинен зробити це за вас.
 4. Зайти в свій банк і надати Modelo 036.
     - Я прийшов до відділення і відправив менеджеру Modelo 036 на email в електронному вигляді, але деякі воліють
@@ -21,8 +21,8 @@
       менеджер зробив це прямо зараз.
     - У деяких банках це можна зробити онлайн, тож якщо не хочете йти – дізнайтеся у підтримці банку, як це можна
       зробити. Моя порада – краще сходити, якщо є можливість.
-5. [Перевірити коректність вашого EU VAT номера](#перевірка-коректності-eu-vat-номера).
-    - Якщо ви співпрацюєте з хестором, він повинен зробити це за вас.
+5. [Перевірити коректність вашого EU VAT номера](#перевірка-коректності-eu-vat-номера) (якщо ви співпрацюєте з
+   хестором, він повинен зробити це за вас).
 6. [Розібратися з податковими відрахуваннями](#податкові-відрахування-та-пільги).
 7. Розібратися зі створенням інвойсів.
     - [Інструкція для Xolo](#створення-інвойсу-xolo).
