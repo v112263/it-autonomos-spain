@@ -23,9 +23,7 @@
       be done. My advice is to go if you have the opportunity.
 5. [Check the validity of your EU VAT number](#checking-the-validity-of-the-eu-vat-number).
     - If you are collaborating with a gestor, they should do this for you.
-6. [Create a client in the Xolo dashboard](#creating-a-client).
-    - If you are collaborating with a gestor, skip this step.
-7. [Learn to manage tax deductions](#tax-deductions-and-benefits).
-8. Learn to create invoices.
+6. [Learn to manage tax deductions](#tax-deductions-and-benefits).
+7. Learn to create invoices.
     - [Instructions for Xolo](#creating-an-invoice-xolo).
     - If you are collaborating with a gestor, they will provide you with their own instructions.
