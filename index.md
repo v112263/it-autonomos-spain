@@ -65,6 +65,13 @@ the [secret section](#secret-section).
     - [Equipment, furniture](#equipment-furniture)
     - [Other professional expenses](#other-professional-expenses)
     - [Regional quotas](#regional-quotas)
+- [Bank account for autónomo](#bank-account-for-autónomo)
+    - [Choosing a bank](#choosing-a-bank)
+    - [Receiving income in USD](#receiving-income-in-usd)
+    - [Receiving income in EUR](#receiving-income-in-eur)
+    - [Taxation and account usage](#taxation-and-account-usage)
+    - [Registration of Modelo 036 in the bank](#registration-of-modelo-036-in-the-bank)
+    - [Account top-up limits and potential risks](#account-top-up-limits-and-potential-risks)
 - [Gestor](#gestor)
     - [Criteria for a reliable gestor](#criteria-for-a-reliable-gestor)
     - [Gestor's liability](#gestors-liability)
@@ -88,7 +95,6 @@ the [secret section](#secret-section).
     - [Checking the validity of the EU VAT number](#checking-the-validity-of-the-eu-vat-number)
     - [Regular downloading of all documents](#regular-downloading-of-all-documents)
     - [Fraud](#fraud)
-    - [Which bank account and which bank to use](#which-bank-account-and-which-bank-to-use)
     - [Signing a contract with a client](#signing-a-contract-with-a-client)
     - [Getting a plastic SIP for yourself](#getting-a-plastic-sip-for-yourself)
     - [Getting a plastic SIP for family members](#getting-a-plastic-sip-for-family-members)
@@ -96,7 +102,6 @@ the [secret section](#secret-section).
     - [Tax agency mobile app](#tax-agency-mobile-app)
     - [Notifications from the tax office](#notifications-from-the-tax-office)
     - [Amazon Business](#amazon-business)
-    - [How much money can be deposited into a bank account](#how-much-money-can-be-deposited-into-a-bank-account)
 - [Useful links and contacts](#useful-links-and-contacts)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
@@ -108,6 +113,7 @@ the [secret section](#secret-section).
 {% include en/05-tax-payments/0_tax_payments.md %}
 {% include en/06-tax-reporting/0_tax_reporting.md %}
 {% include en/07-tax-deductions/0_tax_deductions.md %}
+{% include en/08-bank-account/0_bank_account.md %}
 {% include en/08-gestor/0_gestor.md %}
 {% include en/09-xolo/0_xolo.md %}
 {% include en/10-miscellaneous/0_miscellaneous.md %}

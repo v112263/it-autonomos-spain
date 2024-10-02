@@ -1,4 +1,4 @@
-## How much money can be deposited into a bank account?
+## Account top-up limits and potential risks
 
 This question is not directly related to autónomos, but it is often discussed in the chat.
 
