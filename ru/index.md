@@ -111,20 +111,20 @@ target="_blank"}, а также на консультациях у хестор�
 - [Секретный раздел](#секретный-раздел)
 - [Версии документа](#версии-документа)
 
-{% include ru/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include ru/02-reliable-gestors/0_reliable_gestors.md %}
-{% include ru/03-autonomo-registration/0_registration_autonomo.md %}
-{% include ru/04-it-autonomos-chat/0_chat_it_autonomos.md %}
-{% include ru/05-tax-payments/0_tax_payments.md %}
-{% include ru/06-tax-reporting/0_tax_reporting.md %}
-{% include ru/07-tax-deductions/0_tax_deductions.md %}
-{% include ru/08-bank-account/0_bank_account.md %}
-{% include ru/08-gestor/0_gestor.md %}
-{% include ru/09-xolo/0_xolo.md %}
-{% include ru/10-miscellaneous/0_miscellaneous.md %}
-{% include ru/11-useful-links/0_useful_links.md %}
-{% include ru/12-secret-section/0_secret_section.md %}
-{% include ru/13-document-versions/0_document_versions.md %}
+{% include ru/gestor-xolo/0_hestor_or_xolo.md %}
+{% include ru/reliable-gestors/0_reliable_gestors.md %}
+{% include ru/autonomo-registration/0_registration_autonomo.md %}
+{% include ru/it-autonomos-chat/0_chat_it_autonomos.md %}
+{% include ru/tax-payments/0_tax_payments.md %}
+{% include ru/tax-reporting/0_tax_reporting.md %}
+{% include ru/tax-deductions/0_tax_deductions.md %}
+{% include ru/bank-account/0_bank_account.md %}
+{% include ru/gestor/0_gestor.md %}
+{% include ru/xolo/0_xolo.md %}
+{% include ru/miscellaneous/0_miscellaneous.md %}
+{% include ru/useful-links/0_useful_links.md %}
+{% include ru/secret-section/0_secret_section.md %}
+{% include ru/document-versions/0_document_versions.md %}
 
 ---
 

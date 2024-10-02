@@ -106,20 +106,20 @@ the [secret section](#secret-section).
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
-{% include en/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include en/02-reliable-gestors/0_reliable_gestors.md %}
-{% include en/03-autonomo-registration/0_registration_autonomo.md %}
-{% include en/04-it-autonomos-chat/0_chat_it_autonomos.md %}
-{% include en/05-tax-payments/0_tax_payments.md %}
-{% include en/06-tax-reporting/0_tax_reporting.md %}
-{% include en/07-tax-deductions/0_tax_deductions.md %}
-{% include en/08-bank-account/0_bank_account.md %}
-{% include en/08-gestor/0_gestor.md %}
-{% include en/09-xolo/0_xolo.md %}
-{% include en/10-miscellaneous/0_miscellaneous.md %}
-{% include en/11-useful-links/0_useful_links.md %}
-{% include en/12-secret-section/0_secret_section.md %}
-{% include en/13-document-versions/0_document_versions.md %}
+{% include en/gestor-xolo/0_hestor_or_xolo.md %}
+{% include en/reliable-gestors/0_reliable_gestors.md %}
+{% include en/autonomo-registration/0_registration_autonomo.md %}
+{% include en/it-autonomos-chat/0_chat_it_autonomos.md %}
+{% include en/tax-payments/0_tax_payments.md %}
+{% include en/tax-reporting/0_tax_reporting.md %}
+{% include en/tax-deductions/0_tax_deductions.md %}
+{% include en/bank-account/0_bank_account.md %}
+{% include en/gestor/0_gestor.md %}
+{% include en/xolo/0_xolo.md %}
+{% include en/miscellaneous/0_miscellaneous.md %}
+{% include en/useful-links/0_useful_links.md %}
+{% include en/secret-section/0_secret_section.md %}
+{% include en/document-versions/0_document_versions.md %}
 
 ---
 

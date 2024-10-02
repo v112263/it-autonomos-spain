@@ -111,20 +111,20 @@ blank"}, а також на консультаціях у хесторів. До
 - [Секретний розділ](#секретний-розділ)
 - [Версії документа](#версії-документа)
 
-{% include ua/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include ua/02-reliable-gestors/0_reliable_gestors.md %}
-{% include ua/03-autonomo-registration/0_registration_autonomo.md %}
-{% include ua/04-it-autonomos-chat/0_chat_it_autonomos.md %}
-{% include ua/05-tax-payments/0_tax_payments.md %}
-{% include ua/06-tax-reporting/0_tax_reporting.md %}
-{% include ua/07-tax-deductions/0_tax_deductions.md %}
-{% include ua/08-bank-account/0_bank_account.md %}
-{% include ua/08-gestor/0_gestor.md %}
-{% include ua/09-xolo/0_xolo.md %}
-{% include ua/10-miscellaneous/0_miscellaneous.md %}
-{% include ua/11-useful-links/0_useful_links.md %}
-{% include ua/12-secret-section/0_secret_section.md %}
-{% include ua/13-document-versions/0_document_versions.md %}
+{% include ua/gestor-xolo/0_hestor_or_xolo.md %}
+{% include ua/reliable-gestors/0_reliable_gestors.md %}
+{% include ua/autonomo-registration/0_registration_autonomo.md %}
+{% include ua/it-autonomos-chat/0_chat_it_autonomos.md %}
+{% include ua/tax-payments/0_tax_payments.md %}
+{% include ua/tax-reporting/0_tax_reporting.md %}
+{% include ua/tax-deductions/0_tax_deductions.md %}
+{% include ua/bank-account/0_bank_account.md %}
+{% include ua/gestor/0_gestor.md %}
+{% include ua/xolo/0_xolo.md %}
+{% include ua/miscellaneous/0_miscellaneous.md %}
+{% include ua/useful-links/0_useful_links.md %}
+{% include ua/secret-section/0_secret_section.md %}
+{% include ua/document-versions/0_document_versions.md %}
 
 ---
 
