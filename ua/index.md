@@ -70,6 +70,13 @@ blank"}, а також на консультаціях у хесторів. До
     - [Техніка, меблі](#техніка-меблі)
     - [Інші професійні витрати](#інші-професійні-витрати)
     - [Регіональні квоти](#регіональні-квоти)
+- [Банківський рахунок для аутономо](#банківський-рахунок-для-аутономо)
+    - [Вибір банку](#вибір-банку)
+    - [Отримання доходу в USD](#отримання-доходу-в-usd)
+    - [Отримання доходу в EUR](#отримання-доходу-в-eur)
+    - [Оподаткування і використання рахунку](#оподаткування-і-використання-рахунку)
+    - [Реєстрація Modelo 036 у банку](#реєстрація-modelo-036-у-банку)
+    - [Ліміти на поповнення рахунку та можливі ризики](#ліміти-на-поповнення-рахунку-та-можливі-ризики)
 - [Хестор](#хестор)
     - [Критерії надійного хестора](#критерії-надійного-хестора)
     - [Відповідальність хестора](#відповідальність-хестора)
@@ -93,7 +100,6 @@ blank"}, а також на консультаціях у хесторів. До
     - [Перевірка коректності EU VAT номера](#перевірка-коректності-eu-vat-номера)
     - [Регулярне завантаження всіх документів](#регулярне-завантаження-всіх-документів)
     - [Шахрайство](#шахрайство)
-    - [Який банківський рахунок і який банк використовувати](#який-банківський-рахунок-і-який-банк-використовувати)
     - [Підписання контракту з замовником](#підписання-контракту-з-замовником)
     - [Отримання пластикового SIP для себе](#отримання-пластикового-sip-для-себе)
     - [Отримання пластикового SIP для членів сім'ї](#отримання-пластикового-sip-для-членів-сімї)
@@ -101,24 +107,24 @@ blank"}, а також на консультаціях у хесторів. До
     - [Мобільний додаток податкової служби](#мобільний-додаток-податкової-служби)
     - [Повідомлення від податкової](#повідомлення-від-податкової)
     - [Amazon Business](#amazon-business)
-    - [Скільки грошей можна класти на банківський рахунок](#скільки-грошей-можна-класти-на-банківський-рахунок)
 - [Корисні посилання та контакти](#корисні-посилання-та-контакти)
 - [Секретний розділ](#секретний-розділ)
 - [Версії документа](#версії-документа)
 
-{% include ua/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include ua/02-reliable-gestors/0_reliable_gestors.md %}
-{% include ua/03-autonomo-registration/0_registration_autonomo.md %}
-{% include ua/04-it-autonomos-chat/0_chat_it_autonomos.md %}
-{% include ua/05-tax-payments/0_tax_payments.md %}
-{% include ua/06-tax-reporting/0_tax_reporting.md %}
-{% include ua/07-tax-deductions/0_tax_deductions.md %}
-{% include ua/08-gestor/0_gestor.md %}
-{% include ua/09-xolo/0_xolo.md %}
-{% include ua/10-miscellaneous/0_miscellaneous.md %}
-{% include ua/11-useful-links/0_useful_links.md %}
-{% include ua/12-secret-section/0_secret_section.md %}
-{% include ua/13-document-versions/0_document_versions.md %}
+{% include ua/gestor-xolo/0_hestor_or_xolo.md %}
+{% include ua/reliable-gestors/0_reliable_gestors.md %}
+{% include ua/autonomo-registration/0_registration_autonomo.md %}
+{% include ua/it-autonomos-chat/0_chat_it_autonomos.md %}
+{% include ua/tax-payments/0_tax_payments.md %}
+{% include ua/tax-reporting/0_tax_reporting.md %}
+{% include ua/tax-deductions/0_tax_deductions.md %}
+{% include ua/bank-account/0_bank_account.md %}
+{% include ua/gestor/0_gestor.md %}
+{% include ua/xolo/0_xolo.md %}
+{% include ua/miscellaneous/0_miscellaneous.md %}
+{% include ua/useful-links/0_useful_links.md %}
+{% include ua/secret-section/0_secret_section.md %}
+{% include ua/document-versions/0_document_versions.md %}
 
 ---
 

@@ -65,6 +65,13 @@ the [secret section](#secret-section).
     - [Equipment, furniture](#equipment-furniture)
     - [Other professional expenses](#other-professional-expenses)
     - [Regional quotas](#regional-quotas)
+- [Bank account for autónomo](#bank-account-for-autónomo)
+    - [Choosing a bank](#choosing-a-bank)
+    - [Receiving income in USD](#receiving-income-in-usd)
+    - [Receiving income in EUR](#receiving-income-in-eur)
+    - [Taxation and account usage](#taxation-and-account-usage)
+    - [Registration of Modelo 036 in the bank](#registration-of-modelo-036-in-the-bank)
+    - [Account top-up limits and potential risks](#account-top-up-limits-and-potential-risks)
 - [Gestor](#gestor)
     - [Criteria for a reliable gestor](#criteria-for-a-reliable-gestor)
     - [Gestor's liability](#gestors-liability)
@@ -88,7 +95,6 @@ the [secret section](#secret-section).
     - [Checking the validity of the EU VAT number](#checking-the-validity-of-the-eu-vat-number)
     - [Regular downloading of all documents](#regular-downloading-of-all-documents)
     - [Fraud](#fraud)
-    - [Which bank account and which bank to use](#which-bank-account-and-which-bank-to-use)
     - [Signing a contract with a client](#signing-a-contract-with-a-client)
     - [Getting a plastic SIP for yourself](#getting-a-plastic-sip-for-yourself)
     - [Getting a plastic SIP for family members](#getting-a-plastic-sip-for-family-members)
@@ -96,24 +102,24 @@ the [secret section](#secret-section).
     - [Tax agency mobile app](#tax-agency-mobile-app)
     - [Notifications from the tax office](#notifications-from-the-tax-office)
     - [Amazon Business](#amazon-business)
-    - [How much money can be deposited into a bank account](#how-much-money-can-be-deposited-into-a-bank-account)
 - [Useful links and contacts](#useful-links-and-contacts)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
-{% include en/01-gestor-xolo/0_hestor_or_xolo.md %}
-{% include en/02-reliable-gestors/0_reliable_gestors.md %}
-{% include en/03-autonomo-registration/0_registration_autonomo.md %}
-{% include en/04-it-autonomos-chat/0_chat_it_autonomos.md %}
-{% include en/05-tax-payments/0_tax_payments.md %}
-{% include en/06-tax-reporting/0_tax_reporting.md %}
-{% include en/07-tax-deductions/0_tax_deductions.md %}
-{% include en/08-gestor/0_gestor.md %}
-{% include en/09-xolo/0_xolo.md %}
-{% include en/10-miscellaneous/0_miscellaneous.md %}
-{% include en/11-useful-links/0_useful_links.md %}
-{% include en/12-secret-section/0_secret_section.md %}
-{% include en/13-document-versions/0_document_versions.md %}
+{% include en/gestor-xolo/0_hestor_or_xolo.md %}
+{% include en/reliable-gestors/0_reliable_gestors.md %}
+{% include en/autonomo-registration/0_registration_autonomo.md %}
+{% include en/it-autonomos-chat/0_chat_it_autonomos.md %}
+{% include en/tax-payments/0_tax_payments.md %}
+{% include en/tax-reporting/0_tax_reporting.md %}
+{% include en/tax-deductions/0_tax_deductions.md %}
+{% include en/bank-account/0_bank_account.md %}
+{% include en/gestor/0_gestor.md %}
+{% include en/xolo/0_xolo.md %}
+{% include en/miscellaneous/0_miscellaneous.md %}
+{% include en/useful-links/0_useful_links.md %}
+{% include en/secret-section/0_secret_section.md %}
+{% include en/document-versions/0_document_versions.md %}
 
 ---
 
