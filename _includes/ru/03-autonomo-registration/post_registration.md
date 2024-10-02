@@ -1,12 +1,8 @@
 ## После регистрации (обязательно)
 
 1. [Оформить цифровой сертификат](#оформление-цифрового-сертификата).
-2. Проверить, что в кабинете Seguridad Social указан правильный IBAN счета, с
-   которого будут списываться платежи за Seguridad Social.
-    - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.
-      es/wps/portal/importass/importass/bienvenida){:
-      target="_blank"} (ver tus datos de autonomo -> Domiciliación bancaria).
-    - Если вы сотрудничаете с хестором, он должен это сделать за вас.
+2. Проверить, что в кабинете Seguridad Social [указан правильный IBAN](#риск-лишиться-скидки-seguridad-social) (если вы
+   сотрудничаете с хестором, он должен это сделать за вас).
 3. Скачать Modelo 036.
     - [Инструкция для Xolo](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
       target="_blank"}.

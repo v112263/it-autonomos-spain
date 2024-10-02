@@ -1,5 +1,12 @@
 ## Риск лишиться скидки Seguridad Social
 
+Обязательно проверьте, указан ли в кабинете Seguridad Social корректный IBAN вашего банковского счета. Именно с
+этого счета будут списываться [социальные взносы](#социальные-взносы-seguridad-social).
+
+Проверить это можно здесь:
+[Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
+target="_blank"} (ver tus datos de autonomo -> Domiciliación bancaria)
+
 Всегда держите достаточно денег на счете, с которого списываются платежи за Seguridad Social. Если при попытке
 снятия будет недостаточно денег - вас могут лишить скидки в том месяце, когда не получилось списать деньги за Seguridad
 Social с первого раза. Также, есть риск штрафа.
@@ -7,9 +14,4 @@ Social с первого раза. Также, есть риск штрафа.
 Скидка на Seguridad Social действует в течение 12 месяцев после регистрации аутономо. Если в течение 12 месяцев вы
 закроете аутономо, то вы не сможете активировать скидку заново в течение 3 лет после закрытия аутономо.
 
-Также я слышал, что у многих бывают проблемы со списыванием платежа в первый месяц. Это можно проконтролировать
-заранее. Нужно проверить, что в кабинете Seguridad Social указан правильный IBAN счета, с которого будут списываться
-платежи за Seguridad Social.
-
-[Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
-target="_blank"} (ver tus datos de autonomo -> Domiciliación bancaria)
+Также я слышал, что у многих бывают проблемы со списыванием платежа в первый месяц. Поэтому, проверяйте все заранее.

@@ -1,11 +1,9 @@
 ## After registration (mandatory)
 
 1. [Obtain a digital certificate](#obtaining-a-digital-certificate).
-2. Check that the correct IBAN of the account from which payments for Seguridad Social will be debited is indicated on
-   the Seguridad Social portal.
-    - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
-      target="_blank"} (ver tus datos de autónomo -> Domiciliación bancaria)
-    - If you are collaborating with a gestor, they should do this for you.
+2. Check that the correct IBAN
+   is [indicated in the Seguridad Social portal](#risk-of-losing-the-seguridad-social-discount) (if you are
+   collaborating with a gestor, they should do this for you).
 3. Download Modelo 036.
     - [Instructions for Xolo](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
       target="_blank"}.
@@ -21,7 +19,7 @@
       does it right away.
     - In some banks, this can be done online, so if you don't want to go, find out from the bank's support how this can
       be done. My advice is to go if you have the opportunity.
-5. [Check the validity of your EU VAT number](#checking-the-validity-of-the-eu-vat-number) (if you are collaborating 
+5. [Check the validity of your EU VAT number](#checking-the-validity-of-the-eu-vat-number) (if you are collaborating
    with a gestor, they should do this for you).
 6. [Learn to manage tax deductions](#tax-deductions-and-benefits).
 7. Learn to create invoices.
