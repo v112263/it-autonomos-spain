@@ -1,7 +1,7 @@
 ## После регистрации (обязательно)
 
 1. [Оформить цифровой сертификат](#оформление-цифрового-сертификата).
-2. Проверить, что в кабинете Seguridad Social [указан правильный IBAN](#риск-лишиться-скидки-seguridad-social) (если вы
+2. [Проверить IBAN в кабинете Seguridad Social](#риск-лишиться-скидки-seguridad-social) (если вы
    сотрудничаете с хестором, он должен это сделать за вас).
 3. Скачать Modelo 036.
     - [Инструкция для Xolo](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
