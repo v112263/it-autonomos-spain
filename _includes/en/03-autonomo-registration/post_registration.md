@@ -6,9 +6,9 @@
     - [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
       target="_blank"} (ver tus datos de autónomo -> Domiciliación bancaria)
     - If you are collaborating with a gestor, they should do this for you.
-3. Download Modelo 036
-   [according to this instruction](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
-   target="_blank"}.
+3. Download Modelo 036.
+    - [Instructions for Xolo](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
+      target="_blank"}.
     - If you are collaborating with a gestor, they should do this for you.
 4. Go to your bank and provide Modelo 036.
     - I went to the branch and sent the manager the Modelo 036 by email, but some prefer to print it out
@@ -21,11 +21,9 @@
       does it right away.
     - In some banks, this can be done online, so if you don't want to go, find out from the bank's support how this can
       be done. My advice is to go if you have the opportunity.
-5. [Check the validity of your EU VAT number](#checking-the-validity-of-the-eu-vat-number).
-    - If you are collaborating with a gestor, they should do this for you.
-6. [Create a client in the Xolo dashboard](#creating-a-client).
-    - If you are collaborating with a gestor, skip this step.
-7. [Learn to manage tax deductions](#tax-deductions-and-benefits).
-8. Learn to create invoices.
+5. [Check the validity of your EU VAT number](#checking-the-validity-of-the-eu-vat-number) (if you are collaborating 
+   with a gestor, they should do this for you).
+6. [Learn to manage tax deductions](#tax-deductions-and-benefits).
+7. Learn to create invoices.
     - [Instructions for Xolo](#creating-an-invoice-xolo).
     - If you are collaborating with a gestor, they will provide you with their own instructions.

@@ -1,5 +1,7 @@
 ## Creating an invoice (Xolo)
 
+Before you create your first invoice, you need to [create a client in the Xolo dashboard](#creating-a-client).
+
 I create invoices in the first days of the current month for the previous month. It is important to do this by the 4th
 of the current month. For example, I create the invoice for January by February 4th.
 
