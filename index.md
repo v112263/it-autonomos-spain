@@ -70,7 +70,6 @@ the [secret section](#secret-section).
     - [Gestor's liability](#gestors-liability)
     - [Registration of Autónomo (gestor)](#registration-of-autónomo-gestor)
 - [Xolo](#xolo)
-    - [Xolo registration](#xolo-registration)
     - [Registration of Autónomo (Xolo)](#registration-of-autónomo-xolo)
     - [Gestor to Xolo transition](#gestor-to-xolo-transition)
     - [Is Xolo suitable for you](#is-xolo-suitable-for-you)
