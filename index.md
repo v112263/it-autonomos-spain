@@ -102,7 +102,6 @@ the [secret section](#secret-section).
     - [Tax agency mobile app](#tax-agency-mobile-app)
     - [Notifications from the tax office](#notifications-from-the-tax-office)
     - [Amazon Business](#amazon-business)
-- [Useful links and contacts](#useful-links-and-contacts)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
@@ -117,7 +116,6 @@ the [secret section](#secret-section).
 {% include en/gestor/0_gestor.md %}
 {% include en/xolo/0_xolo.md %}
 {% include en/miscellaneous/0_miscellaneous.md %}
-{% include en/useful-links/0_useful_links.md %}
 {% include en/secret-section/0_secret_section.md %}
 {% include en/document-versions/0_document_versions.md %}
 

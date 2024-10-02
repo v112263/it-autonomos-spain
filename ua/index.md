@@ -107,7 +107,6 @@ blank"}, а також на консультаціях у хесторів. До
     - [Мобільний додаток податкової служби](#мобільний-додаток-податкової-служби)
     - [Повідомлення від податкової](#повідомлення-від-податкової)
     - [Amazon Business](#amazon-business)
-- [Корисні посилання та контакти](#корисні-посилання-та-контакти)
 - [Секретний розділ](#секретний-розділ)
 - [Версії документа](#версії-документа)
 
@@ -122,7 +121,6 @@ blank"}, а також на консультаціях у хесторів. До
 {% include ua/gestor/0_gestor.md %}
 {% include ua/xolo/0_xolo.md %}
 {% include ua/miscellaneous/0_miscellaneous.md %}
-{% include ua/useful-links/0_useful_links.md %}
 {% include ua/secret-section/0_secret_section.md %}
 {% include ua/document-versions/0_document_versions.md %}
 
