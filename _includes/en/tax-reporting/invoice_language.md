@@ -1,5 +1,5 @@
 ## Invoice language
 
-In Xolo, you can choose the language for generating invoices (Spanish or English). Personally, I do them in English, but
-some autónomos in the chat recommend doing them in Spanish. I asked Xolo, and they said that the tax authorities accept
-invoices equally in both languages; it doesn't matter if they are in English or Spanish.
+For the Spanish tax authorities, it does not matter whether you issue invoices in English or Spanish. This applies to
+the invoices you send to your clients so they can pay for your services. Personally, I create invoices in English, so do
+whatever is more comfortable for you.
