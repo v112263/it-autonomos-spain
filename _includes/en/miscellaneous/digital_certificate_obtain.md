@@ -16,14 +16,16 @@ the same legal validity. Below are several ways to get it (there are actually mo
 Obtain it through a gestor. Some gestors are accredited to issue personal digital certificates (remotely). This
 allows you to get the certificate without leaving your home.
 
-This is one of the fastest methods (if you need it urgently and are willing to pay). If you don’t have a gestor or if
-your gestor doesn’t provide this service, you can contact a gestor from
+This is one of the fastest methods (if you need it urgently and are willing to pay). If you submit the documents in
+the morning, there is a chance to receive the certificate on the same day (if later, the certificate will be ready the
+next day). If you don’t have a gestor or if your gestor doesn’t provide this service, you can contact a gestor from
 the [reliable gestors section](#reliable-gestors).
 
 **Method #2**
 
 I applied on [this website](https://certificadoelectronico.es/){:target="_blank"}, for free. It took a few minutes, and
-I didn’t have to go anywhere. I submitted my documents on the website, waited a few days, and downloaded the certificate.
+I didn’t have to go anywhere. I submitted my documents on the website, waited a few days, and downloaded the
+certificate.
 
 Depending on the online queue, the waiting time may vary. But if you need it urgently, there is an option to pay and get
 the certificate on the same day.
