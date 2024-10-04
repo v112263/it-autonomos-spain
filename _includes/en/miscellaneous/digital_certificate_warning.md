@@ -26,7 +26,7 @@ If, for some operations, your gestor insists on having your personal certificate
 option to make a call and handle everything interactively on your computer (for example, using TeamViewer). This way,
 you won't need to hand over the certificate.
 
-**How does it work with Xolo?**
+**Digital certificate in Xolo**
 
-Xolo uses their certificates to submit reports and [takes responsibility](#xolos-liability) if errors
-are made.
+The service uses its own certificates for filing reports, so there is no need to provide them with your digital
+certificate.
