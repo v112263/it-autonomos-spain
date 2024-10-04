@@ -3,8 +3,25 @@
 > With the SIP card, patients can receive medical services in public hospitals and clinics. The procedure for obtaining
 > a card may vary depending on which comunidad autónoma of Spain you live in. Somewhere initially they issue a plastic
 > permanent SIP when you first go to apply for it, and somewhere they issue a paper SIP with a limited validity period.
+> If your family members do not have a permanent plastic SIP, it can be obtained after the autónomo registration.
 
-For me, it turned out to be quite simple.
+**Method #1**
+
+The most reliable way. After registering as an autónomo (better to wait a few days), visit your local Centro de Salud
+and inform them that you would like to get a plastic SIP for your family members. They will tell you what documents are
+required for this.
+
+**Method #2**
+
+1. Go to the [Tu Seguridad Social](https://sede-tu.seg-social.gob.es/){:target="_blank"} portal.
+2. Navigate to the section Representante -> Tu Asistencia Sanitaria: Gestiona tus beneficiarios and enter your
+   personal account.
+3. Add your family members (you will need to upload scanned documents).
+4. Wait a few days, then go to the Centro de Salud with the documents to receive the plastic SIP.
+
+**Method #3**
+
+I followed this instruction. It may not be the fastest, but it works as well.
 
 1. First, I made an appointment (cita) at the Seguridad Social.
 2. A few days later, I went there with my spouse and child.
@@ -14,7 +31,7 @@ For me, it turned out to be quite simple.
 5. A couple of days later, my spouse went to the Centro de Salud and picked up the plastic SIP for herself and the
    child.
 
-If you want to try this same method, here is the instruction on how to make an appointment:
+How to get a cita:
 
 1. Go to the website of the Spanish Social Security
    service: [Seguridad Social Sede Electrónica](https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio){:target="_
