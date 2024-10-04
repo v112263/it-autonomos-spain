@@ -76,6 +76,7 @@ the [secret section](#secret-section).
     - [Criteria for a reliable gestor](#criteria-for-a-reliable-gestor)
     - [Gestor's liability](#gestors-liability)
     - [Registration of Autónomo (gestor)](#registration-of-autónomo-gestor)
+    - [Changing the gestor](#changing-the-gestor)
 - [Xolo](#xolo)
     - [Registration of Autónomo (Xolo)](#registration-of-autónomo-xolo)
     - [Gestor to Xolo transition](#gestor-to-xolo-transition)
