@@ -6,3 +6,4 @@
 {% include en/gestor/reliable_gestor_criteria.md %}
 {% include en/gestor/liability.md %}
 {% include en/gestor/gestor_autonomo_registration.md %}
+{% include en/gestor/changing_gestor.md %}
