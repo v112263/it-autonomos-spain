@@ -43,7 +43,7 @@ the [secret section](#secret-section).
     - [Fee for incoming funds to a bank account](#fee-for-incoming-funds-to-a-bank-account)
     - [How much tax will need to be paid for the year?](#how-much-tax-will-need-to-be-paid-for-the-year)
 - [Tax reporting](#tax-reporting)
-    - [Quarterly declaration](#quarterly-declaration)
+    - [Quarterly declarations](#quarterly-declarations)
     - [Annual declaration](#annual-declaration)
     - [Property in other countries](#property-in-other-countries)
     - [Tax audits](#tax-audits)
