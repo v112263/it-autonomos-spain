@@ -1,6 +1,6 @@
 # Налоговая отчетность
 
-{% include ru/tax-reporting/quarterly_declaration.md %}
+{% include ru/tax-reporting/quarterly_declarations.md %}
 {% include ru/tax-reporting/annual_declaration.md %}
 {% include ru/tax-reporting/foreign_property.md %}
 {% include ru/tax-reporting/tax_audits.md %}
