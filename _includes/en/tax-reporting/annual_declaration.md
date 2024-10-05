@@ -1,18 +1,19 @@
 ## Annual declaration
 
-Modelo 100 is submitted once a year and is usually a separate paid service, both with gestors and Xolo (in some Xolo
-subscriptions, this is included, and no additional payment will be required).
+The Renta (annual declaration - Modelo 100) is submitted once a year. The submission process is the same for both
+gestores and Xolo. In most cases, this is a separate paid service.
 
-Xolo sends a large questionnaire in which you need to provide information about your family, children, and spouse, as
-well as answer questions that affect the report calculation. This questionnaire needs to be filled out carefully and
-sent back. Then, a manager is assigned to you who maintains contact, answers questions, and explains all the details.
-The manager sends a draft report for review, which will include all calculations, discounts, and the final tax amount.
-After your approval, the manager sends the documents to the relevant authorities and informs you of the tax deduction
-date.
+You will receive a large questionnaire in which you will need to provide information about your family, children, and
+spouse, as well as answer questions that affect the calculations. This questionnaire needs to be carefully filled out.
+You will be consulted on all the nuances (e.g., what tax deductions can be applied) and helped to fill out the
+questionnaire. After that, a draft version will be sent to you for review (it will contain all the calculations and the
+final tax amount). After your review and confirmation, the declaration will be sent to the tax authorities, and you will
+be informed about the tax payment date.
 
-Later, the tax office should deduct the funds from the specified account (in case of underpayment of taxes), or vice
-versa, refund the overpaid amounts (within 6 months). Ensure that the necessary amount is in the account, otherwise
-serious problems may arise.
+Later, the tax authorities will deduct the funds from the specified account (in case of underpayment of taxes), or,
+conversely, will return any overpaid amounts (within 6 months). Make sure that the required amount is in the account,
+otherwise, serious problems may arise.
 
-_Do not worry that there is currently no detailed information in the document on filling out Modelo 100. I will start
-working on this in advance, so when it comes time to submit this declaration - there will be useful information here._
+_Do not worry that there is currently no detailed information in the document about filling out Modelo 100. I will begin
+working on this in advance, so by the time you need to submit this declaration, a detailed guide will be available
+here._
