@@ -2,7 +2,7 @@
 
 If you decide to transition from your gestor to Xolo, the process is very simple and quick.
 
-1. Register using the **[referral link](https://bit.ly/xolo-signup-free-renta){:target="_blank"}** (50 € bonus to your account for
+1. Register using the **[referral link](https://bit.ly/xolosignup){:target="_blank"}** (50 € bonus to your account for
    registration):
     - Click the Sign Up button at the top right.
     - Choose the Global plan (59 euros + VAT) - this plan is necessary if your clients are outside Spain.
