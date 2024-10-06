@@ -111,7 +111,7 @@ blank"}, а також на консультаціях у хесторів. До
 - [Секретний розділ](#секретний-розділ)
 - [Версії документа](#версії-документа)
 
-{% include ua/gestor-xolo/0_hestor_or_xolo.md %}
+{% include ua/gestor-xolo/0_gestor_or_xolo.md %}
 {% include ua/reliable-gestors/0_reliable_gestors.md %}
 {% include ua/autonomo-registration/0_registration_autonomo.md %}
 {% include ua/it-autonomos-chat/0_chat_it_autonomos.md %}

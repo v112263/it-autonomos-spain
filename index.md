@@ -106,7 +106,7 @@ the [secret section](#secret-section).
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
-{% include en/gestor-xolo/0_hestor_or_xolo.md %}
+{% include en/gestor-xolo/0_gestor_or_xolo.md %}
 {% include en/reliable-gestors/0_reliable_gestors.md %}
 {% include en/autonomo-registration/0_registration_autonomo.md %}
 {% include en/it-autonomos-chat/0_chat_it_autonomos.md %}

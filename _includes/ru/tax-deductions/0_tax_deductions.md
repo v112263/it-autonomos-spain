@@ -21,7 +21,7 @@
 target="_blank"}
 
 {% include ru/tax-deductions/invoices_lifehacks.md %}
-{% include ru/tax-deductions/hestor_xolo.md %}
+{% include ru/tax-deductions/gestor_xolo.md %}
 {% include ru/tax-deductions/bank_fees.md %}
 {% include ru/tax-deductions/social_security.md %}
 {% include ru/tax-deductions/activity_reduction.md %}

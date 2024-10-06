@@ -111,7 +111,7 @@ target="_blank"}, а также на консультациях у хестор�
 - [Секретный раздел](#секретный-раздел)
 - [Версии документа](#версии-документа)
 
-{% include ru/gestor-xolo/0_hestor_or_xolo.md %}
+{% include ru/gestor-xolo/0_gestor_or_xolo.md %}
 {% include ru/reliable-gestors/0_reliable_gestors.md %}
 {% include ru/autonomo-registration/0_registration_autonomo.md %}
 {% include ru/it-autonomos-chat/0_chat_it_autonomos.md %}
