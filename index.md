@@ -72,7 +72,7 @@ the [secret section](#secret-section).
     - [Taxation and account usage](#taxation-and-account-usage)
     - [Registration of Modelo 036 in the bank](#registration-of-modelo-036-in-the-bank)
     - [Account top-up limits and potential risks](#account-top-up-limits-and-potential-risks)
-- [Gestor](#gestor)
+- [Gestor](#gestor-1)
     - [Criteria for a reliable gestor](#criteria-for-a-reliable-gestor)
     - [Gestor's liability](#gestors-liability)
     - [Registration of Autónomo (gestor)](#registration-of-autónomo-gestor)
