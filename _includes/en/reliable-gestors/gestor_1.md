@@ -9,8 +9,8 @@ Denis has his own accounting firm serving small and medium-sized businesses.
 - **Experience:** 6 years
 - **Education:** Universidad de Alicante Grado en Administración y Dirección de Empresas
 - **Regions:** all except Ceuta, Melilla, País Vasco, and Navarra
-- **Digital certificate:** gestor submits reports using his own certificate (you will need to authorize him through
-  the tax office portal)
+- **Digital certificate:** gestor submits reports using his own certificate, which you authorize through the tax office
+  portal
 - **Responsibility:** insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza
   8/6.371.558-N)
 - **Services:**
@@ -19,7 +19,7 @@ Denis has his own accounting firm serving small and medium-sized businesses.
     - Autónomo management (65 €/month), with detailed quarterly reports
     - Individual 45-minute consultation (65 €)
     - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
-    - Other services: digital signature issuance (remotely), SL registration and management, and much more
+    - Other services: SL registration and management, digital signature issuance (remotely), and much more
 
 All prices exclude IVA.
 

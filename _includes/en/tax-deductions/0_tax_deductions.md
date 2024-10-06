@@ -21,7 +21,7 @@ here: [Expense Categories](https://www.xolo.io/es-en/faq/xolo-spain/category/all
 target="_blank"}
 
 {% include en/tax-deductions/invoices_lifehacks.md %}
-{% include en/tax-deductions/hestor_xolo.md %}
+{% include en/tax-deductions/gestor_xolo.md %}
 {% include en/tax-deductions/bank_fees.md %}
 {% include en/tax-deductions/social_security.md %}
 {% include en/tax-deductions/activity_reduction.md %}
