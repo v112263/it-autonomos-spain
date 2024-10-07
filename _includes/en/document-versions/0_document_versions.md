@@ -1,41 +1,57 @@
 ## Document versions
 
-### 3.1 (12/08/2024)
+### Release notes - v4.0 (08/10/2024)
 
-The document **has been reviewed by professional gestors**, after which I made dozens of corrections. The information is
-now even more accurate and verified.
+Release of a major document update. Now, let me tell you what I've managed to accomplish in two months, between visits
+to the barbershop. The document already contains about **50 pages** of useful information.
 
-New sections:
+**In brief, the most important updates**
 
-- Gestor to Xolo transition;
-- Required documents for registering an autónomo;
-- Obtaining a plastic SIP for yourself;
-- Tax agency mobile application;
-- Xolo - specific questions;
-- Xolo dashboard demo, tutorials.
+- The document now regularly undergoes review by gestors
+- A list of reliable gestors has been added, which I will expand in the future
+- A lot of information has been added about managing autónomo through gestors
+- The autónomo registration guide has been significantly revised
 
-Updated sections:
+52 commits (excluding merge commits), with around 30 articles updated and added.
 
-- Risk of losing the Seguridad Social discount;
-- Guide to registering as an autónomo;
-- Which bank account and which bank to use;
-- Annual declaration;
-- Obtaining a plastic SIP for family members;
-- Paying taxes for the entire year or from the moment of autónomo registration;
-- Property in other countries;
-- Tax audits;
-- Tax deductions and benefits;
-- Bank transfer fees;
-- Regional quotas;
-- Waste tax;
-- Autónomo colaborador;
-- Amazon Business;
-- How to create an invoice in Xolo.
+**New sections**
 
-Many cosmetic improvements, as well as other minor corrections in the document (based on feedback in the chat).
+- A dedicated section on specifics of working with gestors
+    - Criteria for a reliable gestor
+    - Responsibility in case of errors
+    - Registration of Autónomo (gestor)
+    - Changing a gestor
+- A separate section on bank account for autónomo
+- Registration of Modelo 036 in a bank
+- Digital certificate obtain
+- Tips for handling invoices
+- Verification of the EU VAT number's validity
+
+**Updated sections**
+
+- Autónomo registration guide (major update)
+- Tax deductions and benefits
+- Providing the digital certificate to the gestor
+- Obtaining a plastic SIP for yourself
+- Obtaining a plastic SIP for family members
+- Quarterly declarations
+- Annual declaration
+- Invoice language
+- Regular downloading of all documents
+- Social contributions (Seguridad Social)
+- Secret section
+- Gestor or Xolo?
+- Xolo
+    - Transition from gestor to Xolo
+    - Subscription payment
+    - Is Xolo suitable for you?
+
+Numerous cosmetic improvements and other minor content enhancements. The roadmap is extensive, so I will continue to
+release comprehensive updates.
 
 ### Past Versions
 
+- [Release notes - v3.1 (12/08/2024)](en/versions/3.1.html)
 - [Release notes - v3.0 (24/07/2024)](en/versions/3.0.html)
 - [Release notes - v2.2 (05/07/2024)](en/versions/2.2.html)
 - [Release notes - v2.1 (18/06/2024)](en/versions/2.1.html)
