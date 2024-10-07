@@ -23,14 +23,9 @@ the [reliable gestors section](#reliable-gestors).
 
 **Method #2**
 
-I applied on [this website](https://certificadoelectronico.es/){:target="_blank"}, for free. It took a few minutes, and
-I didn’t have to go anywhere. I submitted my documents on the website, waited a few days, and downloaded the
-certificate.
-
-Depending on the online queue, the waiting time may vary. But if you need it urgently, there is an option to pay and get
-the certificate on the same day.
-
-This is one of the fastest methods (if you need it urgently and are willing to pay).
+Previously, it was possible to do it for free on [this website](https://certificadoelectronico.es/){:target="_blank"}.
+But now, only paid options remain. However, if you don't want to travel and are willing to pay, this is a suitable
+option. You will need to upload documents on the website, after which you wait for the certificate to be issued.
 
 **Method #3**
 
