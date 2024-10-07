@@ -9,7 +9,7 @@ title: "Autónomo - Complete Guide"
 
 {% include common/scripts.js %}
 
-# Autónomo - Complete Guide [3.1]
+# Autónomo - Complete Guide [v4.0]
 
 **EN** | [UA]({{site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
 
