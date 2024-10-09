@@ -1,7 +1,7 @@
 # Xolo
 
-In this section, specific topics and nuances are covered that you may encounter if you manage an autónomo through the 
-Xolo service.
+In this section, specific topics and nuances are covered that you may encounter if you manage an autónomo through the
+service.
 
 {% include en/xolo/autonomo_registration.md %}
 {% include en/xolo/gestor_to_xolo_transition.md %}

@@ -1,6 +1,6 @@
 ## Registration of Autónomo (Xolo)
 
-**First, you need to register with Xolo:**
+**First, you need to register on the platform:**
 
 1. Register using the **[referral link](https://bit.ly/xolosignup){:target="_blank"}** (50 € bonus to
    your account for registration).
@@ -16,7 +16,7 @@
 10. What is your expected annual income? - Any value, income may change over time (and this is normal for an autónomo).
 11. Check your email. You'll receive a link to log in to the dashboard.
 
-**After registering with Xolo, you need to fill out the form to apply for autónomo registration:**
+**After registration, you need to fill out the form to apply for autónomo registration:**
 
 1. Log in to the Xolo dashboard using the link sent to your email.
 2. After logging in, click "Register as Autonomo".
