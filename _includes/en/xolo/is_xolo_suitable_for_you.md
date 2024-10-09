@@ -11,7 +11,7 @@ following criteria:
 - Who do not have employees.
 - Who do not have a shop or other establishment open to the public (if you sell goods).
 
-List of fields for which Xolo is ideal:
+List of fields for which service is ideal:
 
 - Developers, programmers and other IT-related freelancers.
 - Business consultants and analysts.

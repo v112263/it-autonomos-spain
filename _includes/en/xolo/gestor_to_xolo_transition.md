@@ -7,7 +7,7 @@ If you decide to transition from your gestor to Xolo, the process is very simple
     - Click the Sign Up button at the top right.
     - Choose the Global plan (59 euros + VAT) - this plan is necessary if your clients are outside Spain.
     - Check that the registration page has the section "We detected a referral code:" with the filled value.
-    - Enter your first name, last name, email, phone number, click Sign Up - then a login link to the Xolo dashboard
+    - Enter your first name, last name, email, phone number, click Sign Up - then a login link to the service dashboard
       will be sent to your email.
     - Do you reside in Spain? (living here for more than 183 days in a year) or plan to be? - YES
     - Are you registered as an autónomo in Spain - YES
@@ -28,8 +28,8 @@ If you decide to transition from your gestor to Xolo, the process is very simple
 4. Wait 1-2 business days while your data is verified.
 5. If all documents are correct, your application will be accepted, and you will need to complete ID verification (this
    is quick, you will need to photograph your document and take a selfie).
-6. [Pay for the subscription](#subscription-payment), after that you can start using Xolo.
-7. After paying for the subscription, you will be asked to provide additional documents. You can send them to Xolo via
+6. [Pay for the subscription](#subscription-payment), after that you can start using the service.
+7. After paying for the subscription, you will be asked to provide additional documents. You can send them via
    email, or you can provide Xolo with your previous gestor's contact information, and they will contact them to request
    all necessary documents:
     - You will need to sign a document that will allow Xolo to process the data transfer in accordance with GDPR.
