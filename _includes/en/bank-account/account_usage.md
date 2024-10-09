@@ -13,8 +13,7 @@ money from it.
 The account to which you receive payments as an autónomo (in a Spanish bank) can also
 be used for personal expenses. Also, there are no problems
 if your friend transfers you 100 euros for a dinner at a restaurant to this same account
-(no taxes need to be paid on this receipt). I additionally
-clarified this with Xolo support. You will need to pay taxes only on autónomo receipts.
+(no taxes need to be paid on this receipt). You will need to pay taxes only on autónomo receipts.
 
 If desired, you can use different accounts for autónomo and for personal needs.
 

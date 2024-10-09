@@ -20,7 +20,7 @@
     - email
     - номер телефона
     - дата регистрации autónomo
-    - I have employees - NO (имейте ввиду, что Xolo не поддерживает [colaborador](#autónomo-colaborador))
+    - I have employees - NO (имейте ввиду, что сервис не поддерживает [colaborador](#autónomo-colaborador))
     - I'm using 7% IRPF on invoice - если вы не знаете что это, вероятно вы не используете это (лучше уточнить у
       вашего хестора)
     - Tax register declaration - форма 036 или 037

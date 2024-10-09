@@ -20,7 +20,7 @@ If you decide to transition from your gestor to Xolo, the process is very simple
     - email
     - phone number
     - autónomo registration date
-    - I have employees - NO (note that Xolo does not support [colaborador](#autónomo-colaborador))
+    - I have employees - NO (note that service does not support [colaborador](#autónomo-colaborador))
     - I'm using 7% IRPF on invoice - if you're not sure what this is, you probably don't use it (better to clarify with
       your gestor)
     - Tax register declaration - form 036 or 037
