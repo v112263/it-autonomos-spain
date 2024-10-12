@@ -1,30 +1,25 @@
 ## Rent
 
-You can send your rental agreement to your gestor or Xolo. They will analyze it (Xolo does this for free, but with
-gestors, it may vary) and tell you if you can deduct part of your rent expenses from taxes. If your agreement prohibits
-this (as mine did), there is an option to sign an additional agreement with the landlord. Check with your landlord if
-they are okay with signing it. If they agree, ask your gestor or Xolo to prepare an addendum to the contract (Xolo
-charges 36 euros for this). In my case, the landlord did not object, and I signed this addendum, which explicitly states
-that I am allowed to conduct economic activities in the rented property.
+If you want to deduct part of the rent from taxes as expenses for your autónomo, this must be permitted by your lease
+agreement.
 
-I strongly recommend not coming up with reasons why the landlord might refuse. Just ask them, that’s all. I've heard
-various assumptions from some people about why it might be unprofitable for the landlord (and these people never find
-out, deciding for the landlord themselves).
+It is necessary to carefully read the agreement and ensure there is no clause prohibiting economic activity in the
+residential space. If such a clause exists, you can sign an additional agreement with the landlord (as I did) allowing
+economic activity.
 
-How much can you deduct? Xolo uses the following formula:
+Formula for calculating the deduction amount:  
+_[rental cost in euros] × 30% × [% of the apartment used for economic activity]_
 
-_[rental cost in euros] * 30% * [% of apartment area used for economic activities]_
+Step-by-step instructions:
 
-Algorithm:
+1. Analyze the lease agreement for a clause prohibiting economic activity. For this, you can use ChatGPT, contact your
+   gestor or Xolo.
+2. If the lease prohibits economic activity, ask for an amendment to allow it (usually a paid but inexpensive service).
+3. Sign the amendment to the contract (for example, using an electronic signature on a computer).
+4. Send the document to your landlord for their signature.
+5. Send the signed amendment to the gestor so they can consider it for future rent deductions.
+6. Each month, provide a bank statement showing the rent payment to your gestor or upload it to the Xolo dashboard (an
+   invoice is not required, just the statement).
 
-1. Analyze your contract and find the clause prohibiting commercial activities (if it exists). You can use ChatGPT for
-   this or send your contract to your gestor or Xolo for analysis.
-2. If your contract prohibits commercial activities in the rented property, you need to sign an addendum to allow this
-   activity.
-3. Ask your gestor or Xolo to prepare an addendum to the contract, allowing commercial activities.
-4. Sign this PDF document (I used the signature feature on my MacBook).
-5. Send it to your landlord for their signature as well.
-6. Send the signed addendum to your gestor or Xolo so they can record it and approve the rent expense deduction in the
-   future.
-7. Every month, provide a bank statement of the rent payment to your gestor or upload it to the Xolo dashboard (an
-   invoice is not required, only the statement).
+Don't invent reasons why the landlord might refuse to sign the additional agreement - just ask them. Often, people make
+assumptions without checking, thereby missing the opportunity to save money.
