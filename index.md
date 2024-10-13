@@ -28,12 +28,9 @@ the [secret section](#secret-section).
 
 ## Contents
 
-- [Preparation for registering as autónomo](#preparation-for-registering-as-autónomo)
-- [Reliable gestors](#reliable-gestors)
-- [Autónomo registration (step by step)](#autónomo-registration-step-by-step)
-    - [Registration (basic)](#registration-basic)
-    - [After registration (mandatory)](#after-registration-mandatory)
-    - [Optional](#optional)
+- **[Preparation for registering as autónomo](#preparation-for-registering-as-autónomo)**
+- **[Reliable gestors](#reliable-gestors)**
+- **[Autónomo registration (step by step)](#autónomo-registration-step-by-step)**
 - [IT Autonomos [Spain] chat](#it-autonomos-spain-chat)
 - [Tax payment](#tax-payment)
     - [Risk of losing the Seguridad Social discount](#risk-of-losing-the-seguridad-social-discount)
