@@ -77,7 +77,7 @@ the [secret section](#secret-section).
     - [Gestor's liability](#gestors-liability)
     - [Registration of Autónomo (gestor)](#registration-of-autónomo-gestor)
     - [Changing the gestor](#changing-the-gestor)
-- [Xolo](#xolo)
+- [Xolo](#xolo-1)
     - [Registration of Autónomo (Xolo)](#registration-of-autónomo-xolo)
     - [Gestor to Xolo transition](#gestor-to-xolo-transition)
     - [Is Xolo suitable for you](#is-xolo-suitable-for-you)
