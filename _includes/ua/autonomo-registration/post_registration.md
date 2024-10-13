@@ -3,7 +3,7 @@
 1. [Оформити цифровий сертифікат](#оформлення-цифрового-сертифіката).
 2. [Перевірити IBAN у кабінеті Seguridad Social](#ризик-втратити-знижку-seguridad-social) (якщо ви співпрацюєте з
    хестором, він повинен зробити це за вас).
-3. Завантажити Modelo 036.
+3. Завантажити Modelo 036 (форма для реєстрації та оновлення податкового статусу аутономо).
     - [Інструкція для Xolo](https://www.xolo.io/es-en/faq/xolo-spain/category/get-started/article/i-am-already-registered-as-self-employed-where-can-i-find-my){:
       target="_blank"}.
     - Якщо ви співпрацюєте з хестором, він повинен зробити це за вас.
