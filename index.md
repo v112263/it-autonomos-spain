@@ -28,7 +28,7 @@ the [secret section](#secret-section).
 
 ## Contents
 
-- [Gestor or Xolo?](#gestor-or-xolo)
+- [Preparation for registering as autónomo](#preparation-for-registering-as-autónomo)
 - [Reliable gestors](#reliable-gestors)
 - [Autónomo registration (step by step)](#autónomo-registration-step-by-step)
     - [Registration (basic)](#registration-basic)
@@ -77,17 +77,17 @@ the [secret section](#secret-section).
     - [Gestor's liability](#gestors-liability)
     - [Registration of Autónomo (gestor)](#registration-of-autónomo-gestor)
     - [Changing the gestor](#changing-the-gestor)
-- [Xolo](#xolo)
+- [Xolo](#xolo-1)
+    - [Is Xolo suitable for you](#is-xolo-suitable-for-you)
     - [Registration of Autónomo (Xolo)](#registration-of-autónomo-xolo)
     - [Gestor to Xolo transition](#gestor-to-xolo-transition)
-    - [Is Xolo suitable for you](#is-xolo-suitable-for-you)
-    - [Support contacts](#support-contacts)
-    - [Xolo's liability](#xolos-liability)
     - [Subscription payment](#subscription-payment)
     - [Creating a client](#creating-a-client)
     - [Creating an invoice (Xolo)](#creating-an-invoice-xolo)
     - [Dashboard demo, tutorials](#dashboard-demo-tutorials)
     - [My problem with the Spanish tax office](#my-problem-with-the-spanish-tax-office)
+    - [Xolo's liability](#xolos-liability)
+    - [Support contacts](#support-contacts)
 - [Miscellaneous](#miscellaneous)
     - [Necessary documents for registering an autónomo](#necessary-documents-for-registering-an-autónomo)
     - [An obvious but very important recommendation](#an-obvious-but-very-important-recommendation)
@@ -106,7 +106,7 @@ the [secret section](#secret-section).
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
-{% include en/gestor-xolo/0_gestor_or_xolo.md %}
+{% include en/autonomo-registration-preparation/0_autonomo_registration_preparation.md %}
 {% include en/reliable-gestors/0_reliable_gestors.md %}
 {% include en/autonomo-registration/0_registration_autonomo.md %}
 {% include en/it-autonomos-chat/0_chat_it_autonomos.md %}

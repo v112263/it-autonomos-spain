@@ -1,4 +1,4 @@
-# Gestor or Xolo?
+# Preparation for registering as autónomo
 
 To register and manage an autónomo, you can choose between two popular options: a gestor or
 the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service. Personally, I use the service and am very satisfied.
@@ -8,8 +8,8 @@ the [criteria for a reliable gestor](#criteria-for-a-reliable-gestor)) and about
 
 ## Xolo
 
-The platform fully replaces a gestor and is ideal for freelancers in IT, marketing, media, design,
-and [other fields](#is-xolo-suitable-for-you).
+Xolo is a service that fully replaces a traditional gestor, offering convenient and automated management of autónomo for
+freelancers in IT, marketing, media, design, consulting, and [other fields](#is-xolo-suitable-for-you).
 
 - Subscription costs €15 / €49 / €59 / €99 (+ IVA) per month, depending on the plan (I have the €59 plan).
 - Registration for autónomo and EU VAT is free.
@@ -32,6 +32,9 @@ _If you are working with a gestor but want to switch to Xolo, see
 the [instructions for switching from a gestor to Xolo](#gestor-to-xolo-transition)._
 
 ## Gestor
+
+Gestor is a specialist in accounting and taxes who provides personalized support to autónomo in matters of reporting,
+interaction with the tax authorities, and solving non-standard situations.
 
 - Supports [autónomo colaborador](#autónomo-colaborador).
 - Personal communication and individual consultations.
