@@ -4,14 +4,15 @@
 [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
 target="_blank"} (Entrar en tu área personal -> ver tus datos de autonomo -> Domiciliación bancaria).
 
-Make sure that the correct IBAN of your bank account is indicated in the Seguridad Social
-account. [Social contributions](#social-contributions-seguridad-social) will be debited from this account.
+Make sure that the correct IBAN is indicated in your Seguridad Social account,
+as [social contributions](#social-contributions-seguridad-social) will be deducted from this account.
 
-Always keep enough money in the account. If there is insufficient money when attempting to withdraw, you may lose the
-social security discount for the month in which the money could not be debited on the first attempt. There is also a
-risk of a fine.
+It is important to always maintain a sufficient balance in the account. If there are insufficient funds at the time of
+the withdrawal attempt, you may lose the discount on social security contributions for the current month. In addition,
+there is a risk of a fine for non-payment.
 
-The Seguridad Social discount is valid for 12 months after registering as autónomo. If you close the autónomo status
-within 12 months, you will not be able to activate the discount again for 3 years after closing.
+The Seguridad Social discount is provided for 12 months after registering as an autónomo. If you stop your activity
+before the end of this period, it will be impossible to reactivate the discount for 3 years.
 
-I’ve also heard that many people have issues with the first month's payment. Therefore, check everything in advance.
+In the first month, many face issues with the withdrawal of funds. Therefore, it is better to check everything in
+advance to avoid problems.
