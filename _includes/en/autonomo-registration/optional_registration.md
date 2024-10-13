@@ -9,8 +9,6 @@ autónomo. If you pay taxes, why not take advantage of these benefits?
       in another country.
 2. Download the document with your social security number (NSS) -
    [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
-   target="_blank"}.
-    - I don't know how necessary it is. But I adhere to the approach of downloading and saving all
-      documents so that they are easy to present if needed. I recommend you follow this approach as well.
+   target="_blank"} (I recommend downloading it just in case you need to present this document somewhere).
 3. [Obtain a plastic SIP card for yourself](#obtaining-a-plastic-sip-for-yourself).
 4. [Obtain plastic SIP cards for family members](#obtaining-a-plastic-sip-for-family-members).
