@@ -1,4 +1,4 @@
-## Optional
+## Not mandatory, but recommended
 
 What follows is not mandatory, but I highly recommend it. Some points relate to benefits you receive as an
 autónomo. If you pay taxes, why not take advantage of these benefits?
