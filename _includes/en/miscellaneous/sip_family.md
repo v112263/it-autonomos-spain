@@ -1,4 +1,4 @@
-## Getting a plastic SIP for family members
+## Obtaining a plastic SIP for family members
 
 > With the SIP card, patients can receive medical services in public hospitals and clinics. The procedure for obtaining
 > a card may vary depending on which comunidad autónoma of Spain you live in. Somewhere initially they issue a plastic
