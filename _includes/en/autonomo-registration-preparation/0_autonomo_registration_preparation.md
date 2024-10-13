@@ -1,4 +1,4 @@
-# Gestor or Xolo?
+# Preparation for registering as autónomo
 
 To register and manage an autónomo, you can choose between two popular options: a gestor or
 the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service. Personally, I use the service and am very satisfied.

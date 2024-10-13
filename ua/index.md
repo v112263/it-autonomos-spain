@@ -33,7 +33,7 @@ blank"}, а також на консультаціях у хесторів. До
 
 ## Зміст
 
-- [Хестор чи Xolo?](#хестор-чи-xolo)
+- [Підготовка до реєстрації аутономо](#підготовка-до-реєстрації-аутономо)
 - [Надійні хестори](#надійні-хестори)
 - [Реєстрація Autónomo (покроково)](#реєстрація-autónomo-покроково)
     - [Реєстрація (базова)](#реєстрація-базова)
@@ -111,7 +111,7 @@ blank"}, а також на консультаціях у хесторів. До
 - [Секретний розділ](#секретний-розділ)
 - [Версії документа](#версії-документа)
 
-{% include ua/gestor-xolo/0_gestor_or_xolo.md %}
+{% include ua/autonomo-registration-preparation/0_autonomo_registration_preparation.md %}
 {% include ua/reliable-gestors/0_reliable_gestors.md %}
 {% include ua/autonomo-registration/0_registration_autonomo.md %}
 {% include ua/it-autonomos-chat/0_chat_it_autonomos.md %}
