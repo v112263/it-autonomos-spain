@@ -1,8 +1,8 @@
 ## Registration (basic)
 
-1. Ensure that you have [all the necessary documents](#necessary-documents-for-registering-an-autónomo).
-2. [Open a bank account](#bank-account-for-autónomo).
-3. Choose a [method of registration and management for autónomo](#gestor-or-xolo).
+1. Choose a [method of registration and management for autónomo](#gestor-or-xolo).
+2. Prepare [all necessary documents](#necessary-documents-for-registering-an-autónomo).
+3. [Open a bank account](#bank-account-for-autónomo).
 4. Submit the application for autónomo registration.
     - [Instructions for Xolo](#registration-of-autónomo-xolo).
     - [Instructions for gestor](#registration-of-autónomo-gestor).
