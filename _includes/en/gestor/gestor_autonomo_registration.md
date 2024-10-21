@@ -10,7 +10,7 @@ for you.
    during the registration process.
 3. The gestor will register the autónomo for you (this is done very quickly, and then you will need to wait a little).
 
-Some gestores can register the autónomo for you without your personal digital certificate. They can do this if they are
+Some gestors can register the autónomo for you without your personal digital certificate. They can do this if they are
 registered in special registries that allow them to register autónomos for their clients with only scanned documents.
 You can find such a gestor in the section [reliable gestors](#reliable-gestors).
 

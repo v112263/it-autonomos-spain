@@ -7,3 +7,4 @@
 {% include ru/gestor/liability.md %}
 {% include ru/gestor/gestor_autonomo_registration.md %}
 {% include ru/gestor/changing_gestor.md %}
+{% include ru/gestor/problems.md %}

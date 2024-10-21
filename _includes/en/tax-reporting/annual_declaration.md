@@ -1,7 +1,7 @@
 ## Annual declaration
 
 The Renta (annual declaration - Modelo 100) is submitted once a year. The submission process is the same for both
-gestores and Xolo. In most cases, this is a separate paid service.
+gestors and Xolo. In most cases, this is a separate paid service.
 
 You will receive a large questionnaire in which you will need to provide information about your family, children, and
 spouse, as well as answer questions that affect the calculations. This questionnaire needs to be carefully filled out.
