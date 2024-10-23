@@ -19,9 +19,10 @@ easier for you to avoid similar problems.
 
 ### Situation 1: Errors in opening or closing autónomo
 
-A frequently discussed problem in the [chat](https://bit.ly/it-autonomos-es){:target="_blank"} is the incorrect opening
-or closing of an autónomo. In such cases, the client may lose a discount on social payments or face fines. Often,
-gestor errors result in extra money being withdrawn from the account, for example, if the autónomo was closed late.
+A frequently discussed problem in the [chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} is the incorrect
+opening or closing of an autónomo. In such cases, the client may lose a discount on social payments or face fines. 
+Often, gestor errors result in extra money being withdrawn from the account, for example, if the autónomo was closed 
+late.
 
 Most of these situations are not critical, with damages amounting to a few hundred euros. If the gestor is responsible,
 they will cover the damage; otherwise, you will have to cover it yourself.
