@@ -18,7 +18,7 @@ reading books and would gladly chat about this topic in person. Also, I love cyc
 If you'd like to thank me for the work I’ve done:
 
 - Share this document with those who are planning to register as autónomo or are already managing it.
-- Join our [autónomo chat](https://bit.ly/it-autonomos-es){:target="_blank"}.
+- Join our [autónomo chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
 - Star the [GitHub repository](https://bit.ly/it-autonomos-github){:target="_blank"} with the document source.
 - Send pull requests if you wish to add anything.
 - Help chat members with questions where you have knowledge and experience, especially newcomers.
