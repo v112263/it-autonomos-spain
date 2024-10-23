@@ -1,5 +1,8 @@
 ## Criteria for a reliable gestor
 
+When searching for a gestor, always ask if they meet all the criteria described below. If they do not meet any of the
+criteria, I recommend looking for another specialist.
+
 - Adequate communication and prompt response to requests. It sounds basic, but if your communication is slow and
   problematic from the start, it's a reason to think (likely, there will be issues in the future as well).
 - Capable of correctly registering an autonomo so that there are no fines or problems.
@@ -12,3 +15,5 @@
 - Handles communication with all government agencies directly.
 - Monitors notifications from the tax office and other government bodies.
 - Has [insurance in case of their own mistake](#gestors-liability).
+
+**Gestors from the [list of reliable gestors](#reliable-gestors) fully meet all the criteria described.**
