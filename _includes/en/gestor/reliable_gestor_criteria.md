@@ -15,5 +15,6 @@ criteria, I recommend looking for another specialist.
 - Handles communication with all government agencies directly.
 - Monitors notifications from the tax office and other government bodies.
 - Has [insurance in case of their own mistake](#gestors-liability).
+- Treats colleagues with respect and does not claim to be "the best of the best", belittling others.
 
 **Gestors from the [list of reliable gestors](#reliable-gestors) fully meet all the criteria described.**
