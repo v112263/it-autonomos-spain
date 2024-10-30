@@ -5,7 +5,13 @@ related to professional activity (e.g., office rent, purchase of equipment, serv
 
 To deduct expenses, it is necessary to provide full invoices (indicating your NIE, name, and autónomo
 registration address) to your gestor or upload them to the Xolo dashboard. In rare cases, bank statements may be
-acceptable instead of full invoices (this is specified separately below).
+acceptable instead of full invoices (this is specified separately below). It is recommended to provide invoices for your
+expenses in Spanish. This will help avoid potential difficulties during tax inspections. If invoices are in another
+language, they may need to be translated into Spanish in the event of an audit.
+
+If you use professional services (such as lawyers, consultants, engineers, and other specialists) or rent a commercial
+property, you will be issued invoices that may include retentions (retenciones) at rates of 7%, 15%, or 19%. Send these
+invoices to your gestor or Xolo on time to avoid penalties for delayed registration.
 
 Some believe it is not worth bothering with tax deductions, thinking the amounts are small. From my experience, aside
 from direct savings, there may be other positive side effects. For example, after I transferred the electricity contract
