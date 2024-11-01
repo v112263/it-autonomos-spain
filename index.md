@@ -45,6 +45,7 @@ the [secret section](#secret-section).
     - [Property in other countries](#property-in-other-countries)
     - [Tax audits](#tax-audits)
     - [Risk of tax audits if deducting rent from taxes](#risk-of-tax-audits-if-deducting-rent-from-taxes)
+    - [Invoice currency](#invoice-currency)
     - [Invoice language](#invoice-language)
 - [Tax deductions and benefits](#tax-deductions-and-benefits)
     - [Lifehacks with invoices](#lifehacks-with-invoices)
