@@ -5,4 +5,5 @@
 {% include en/tax-reporting/foreign_property.md %}
 {% include en/tax-reporting/tax_audits.md %}
 {% include en/tax-reporting/audit_risk.md %}
+{% include en/tax-reporting/invoice_currency.md %}
 {% include en/tax-reporting/invoice_language.md %}
