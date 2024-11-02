@@ -1,5 +1,7 @@
 ## Creating an invoice (Xolo)
 
+If you will be issuing invoices in currencies other than the euro, read about [invoice currency](#invoice-currency).
+
 Before you create your first invoice, you need to [create a client in the Xolo dashboard](#creating-a-client).
 
 I create invoices in the first days of the current month for the previous month. It is important to do this by the 4th
