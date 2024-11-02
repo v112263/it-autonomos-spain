@@ -19,7 +19,8 @@ Denis has his own accounting firm serving small and medium-sized businesses.
     - Autónomo management (65 €/month), with detailed quarterly reports
     - Individual 45-minute consultation (65 €)
     - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
-    - Other services: SL registration and management, digital signature issuance (remotely), and much more
+    - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
+      signature issuance (remotely), and much more.
 
 All prices exclude IVA.
 
