@@ -76,6 +76,7 @@ the [secret section](#secret-section).
     - [Registration of Autónomo (gestor)](#registration-of-autónomo-gestor)
     - [Changing the gestor](#changing-the-gestor)
     - [Problems with gestors](#problems-with-gestors)
+    - [Creating an invoice (gestor)](#creating-an-invoice-gestor)
 - [Xolo](#xolo-1)
     - [Is Xolo suitable for you](#is-xolo-suitable-for-you)
     - [Registration of Autónomo (Xolo)](#registration-of-autónomo-xolo)
