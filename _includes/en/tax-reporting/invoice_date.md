@@ -17,6 +17,6 @@ If there is an error in the invoice (e.g., an incorrect amount), contact your ge
 
 Until the 20th day of the first month of the new quarter, it is theoretically possible to include new invoices in the
 previous quarter if the accounting is done correctly. This is relevant for those on a quarterly tax reporting system. In
-this system, invoices are not sent directly to the tax office — they are used by the accountant for filing declarations.
+this system, invoices are not sent directly to the tax office - they are used by the accountant for filing declarations.
 However, the monthly system has its specifics: invoices for the past month must be sent to the tax office within the set
 deadlines.
