@@ -1,21 +1,18 @@
-## Receiving income in USD
+## Receiving income in USD (and other currencies besides EUR)
 
-In this case, besides an account in a Spanish bank, it would be more beneficial to additionally
-open an account in Wise or Revolut. You can receive USD on this
-account, then convert USD to EUR and transfer to an account in a Spanish bank.
-Many in the chat recommend this option, as
-receiving USD on an account in a Spanish bank is less advantageous (due to fees and/or
-conversion rates).
+When receiving income in USD or other currencies (other than EUR), it may be more advantageous to open an account with
+Wise, Revolut, or another payment system/bank. You can receive USD, for example, in this account, then convert it to EUR
+and transfer it to a Spanish bank account. Many people recommend this approach, as receiving foreign currency in a
+Spanish account is less favorable due to high fees and poor conversion rates. This method is entirely legal from the
+perspective of the Spanish tax authorities.
 
-**Revolut:** It is recommended to purchase a Revolut Premium subscription, as it will be
-more profitable considering the reduced currency conversion fees.
+**Revolut:** I recommend the Revolut Premium subscription, as it reduces currency conversion fees.
 
-[Revolut registration (mutually beneficial link)](https://bit.ly/revlsignup){:target="_blank"}
+[Revolut Registration (referral link)](https://bit.ly/revlsignup){:target="_blank"}
 
-**Wise:** The advantage of Wise is that the balance earns about 4% per annum.
+**Wise:** Its advantage is that the balance earns approximately 4% annual interest.
 
-[Wise registration (mutually beneficial link)](https://bit.ly/wsesignup){:target="_blank"}
+[Wise Registration (referral link)](https://bit.ly/wsesignup){:target="_blank"}
 
-Which of these options will be more beneficial for you, calculate personally
-based on your salary, the amount you want to keep in
-dollars/euros, where and why you will transfer money, etc.
+Which option is more beneficial depends on your salary, the amount you plan to keep in dollars/euros, and the transfers
+you make.
