@@ -1,9 +1,17 @@
 ## Choosing a bank
 
-You must have an account in a Spanish bank because taxes and social payments will be debited from there.
-
-It is recommended to use
-banks [approved by the Spanish tax authorities](https://sede.agenciatributaria.gob.es/Sede/deudas-apremios-embargos-subastas/pagar-aplazar-consultar/listado-entidades-bancarias-adheridas.html?faqId=c2018148e27c2710VgnVCM100000dc381e0aRCRD){:
+It is recommended to use one of the Spanish
+banks [approved by the Spanish Tax Authority](https://sede.agenciatributaria.gob.es/Sede/deudas-apremios-embargos-subastas/pagar-aplazar-consultar/listado-entidades-bancarias-adheridas.html?faqId=c2018148e27c2710VgnVCM100000dc381e0aRCRD){:
 target="_blank"}.
 
-Many use Spanish banks Santander or BBVA, but you can use other banks as well. Personally, I use Santander.
+At first, I used Santander but later switched to CaixaBank.
+
+I don’t have specific recommendations on Spanish banks. Remember, large banks will always have both positive and
+negative reviews from customers. For example, I was completely satisfied with Santander’s services, but I know people
+who encountered real issues and were unhappy.
+
+The main point is to choose a bank where the fees and terms suit you.
+
+I do not recommend opening an account at a central branch, as the managers there may have a heavy workload. The optimal
+choice is to open an account at a branch on the city outskirts and establish a connection with a manager (for instance,
+my manager responds quickly to WhatsApp messages).
