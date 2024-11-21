@@ -1,4 +1,4 @@
-## Денис
+## Денис И.
 
 > **Скидка 50 €** на регистрацию аутономо по промокоду "IT Autonomos", заполнение годовой декларации бесплатно навсегда.
 
@@ -7,8 +7,10 @@
 - **Языки:** русский, английский, испанский
 - **Опыт:** 6 лет
 - **Образование:** Universidad de Alicante Grado en Administración y Dirección de Empresas
+- **Офис:** Аликанте
+- **Штат:** до 10 сотрудников
 - **Регионы:** все, кроме Ceuta, Melilla, País Vasco и Navarra
-- **Цифровой сертификат:** хестор подает отчетность используя свой сертификат, который вы авторизируете в налоговом 
+- **Цифровой сертификат:** хестор подает отчетность используя свой сертификат, который вы авторизуете в налоговом 
   кабинете
 - **Ответственность:** страховка, которая покрывает ущерб в случае ошибки хестора (Seguros Catalana Occidente, SA
   Póliza 8/6.371.558-N)
@@ -23,5 +25,5 @@
 
 Все цены указаны без учета IVA.
 
-<button type="button" id="showFormButton1" class="btn btn-success">Связаться с хестором</button>
-{% include common/gestors-forms/gestor-form-1.html %}
+<button type="button" id="showFormButtonDenis" class="btn btn-success">Связаться с хестором</button>
+{% include common/gestors-forms/gestor-form-denis.html %}
