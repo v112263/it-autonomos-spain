@@ -24,7 +24,7 @@ Denis has his own accounting firm serving small and medium-sized businesses.
     - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
       signature issuance (remotely), and much more.
 
-All prices exclude IVA.
+All prices are excluding IVA.
 
 <button type="button" id="showFormButtonDenis" class="btn btn-success">Contact the gestor</button>
 {% include common/gestors-forms/gestor-form-denis.html %}

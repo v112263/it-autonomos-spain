@@ -14,3 +14,4 @@ the "Contact the gestor" button and fill out the form - the gestor will respond 
 cases, the next day). If the issue is urgent, please indicate this in your message to expedite the response.
 
 {% include en/reliable-gestors/gestor_denis.md %}
+{% include en/reliable-gestors/gestor_tatiana.md %}
