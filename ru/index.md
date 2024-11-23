@@ -13,8 +13,6 @@ permalink: /ru/
 }
 </style>
 
-{% include common/scripts.js %}
-
 # Autónomo - Полное Руководство [v4.0]
 
 [EN]({{ site.baseurl }}/) | [UA]({{site.baseurl }}/ua/) | **RU**

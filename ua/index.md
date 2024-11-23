@@ -13,8 +13,6 @@ permalink: /ua/
 }
 </style>
 
-{% include common/scripts.js %}
-
 # Autónomo - Повний Довідник [v4.0]
 
 [EN]({{ site.baseurl }}/) | **UA** | [RU]({{ site.baseurl }}/ru/)
