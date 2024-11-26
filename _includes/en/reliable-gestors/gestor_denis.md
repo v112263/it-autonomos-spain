@@ -26,5 +26,10 @@ Denis has his own accounting firm serving small and medium-sized businesses.
 
 All prices are excluding IVA.
 
-<button type="button" id="showFormButtonDenis" class="btn btn-success">Contact the gestor</button>
-{% include common/gestors-forms/gestor-form-denis.html %}
+<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291605"
+  style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="191039291605">
+  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLLip4oH7raAYu1wXOdifiiEZYY5P6tTy81nx3N9RhEtX4HyAmBhApt1MoPfE0KXQMCAyI7S4LiGjEJUPiDET10kjCze1l12iChlC%2FlFZ1VqzLCPGdm0u2okRMqvyYjAl481mbz44VeueBBD5CBgU5lEGQ%3D%3D&webInteractiveContentId=191039291605&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
+    <img alt="Contact Tatiana" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-191039291605.png" style="height: 100%; width: 100%; object-fit: fill"
+      onerror="this.style.display='none'" />
+  </a>
+</div>

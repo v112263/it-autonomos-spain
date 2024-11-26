@@ -25,5 +25,10 @@
 
 Все цены указаны без учета IVA.
 
-<button type="button" id="showFormButtonDenis" class="btn btn-success">Связаться с хестором</button>
-{% include common/gestors-forms/gestor-form-denis.html %}
+<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291619"
+  style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="191039291619">
+  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLI6AdCFGjyf3yRTQF0AJ46yp8rSIcZ32llop7M0gu2RLybRMSgKy41Wh3Vdrofr7zDtu08C8BhquIIeVKZ0XKyjuCAUBZm4084rkT0HT9J2vH4%3D&webInteractiveContentId=191039291619&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
+    <img alt="&#1057;&#1074;&#1103;&#1079;&#1072;&#1090;&#1100;&#1089;&#1103; &#1089; &#1044;&#1077;&#1085;&#1080;&#1089;&#1086;&#1084;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-191039291619.png" style="height: 100%; width: 100%; object-fit: fill"
+      onerror="this.style.display='none'" />
+  </a>
+</div>
