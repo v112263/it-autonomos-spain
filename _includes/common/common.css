@@ -63,7 +63,7 @@
   box-shadow: 0 0 0 0.25rem rgba(22, 163, 88, 0.5);
 }
 
-#gestorForm1 {
+#gestorFormDenis {
   width: 100%;
   border: 2px solid #ccc;
   padding: 15px;
@@ -71,7 +71,7 @@
 }
 
 @media (min-width: 768px) {
-  #gestorForm1 {
+  #gestorFormDenis {
     width: 50%;
     margin-left: 0;
   }
