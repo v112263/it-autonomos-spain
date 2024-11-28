@@ -1,5 +1,6 @@
 # Miscellaneous
 
+{% include en/miscellaneous/mortgage_brief.md %}
 {% include en/miscellaneous/registration_documents.md %}
 {% include en/miscellaneous/recommendation.md %}
 {% include en/miscellaneous/digital_certificate_obtain.md %}

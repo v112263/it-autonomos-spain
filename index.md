@@ -94,6 +94,7 @@ the [secret section](#secret-section).
     - [Xolo's liability](#xolos-liability)
     - [Support contacts](#support-contacts)
 - [Miscellaneous](#miscellaneous)
+    - [Obtaining a mortgage in Spain for autónomo: My experience and mistakes](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes)
     - [Necessary documents for registering an autónomo](#necessary-documents-for-registering-an-autónomo)
     - [An obvious but very important recommendation](#an-obvious-but-very-important-recommendation)
     - [Obtaining a digital certificate](#obtaining-a-digital-certificate)
