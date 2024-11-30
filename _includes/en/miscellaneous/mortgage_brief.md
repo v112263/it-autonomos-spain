@@ -33,5 +33,5 @@ A small note: If you're planning to register as an autónomo, these links may be
 - **[Autónomo - Complete Guide](https://itautonomos.com/)**
 - **[IT Autonomos Chat](https://bit.ly/it-autonomos-spain-eng)**
 
-**I have described the entire mortgage process [in a separate article](../en/mortgage/), and I hope my experience will
+**I have described the entire mortgage process [in a separate article](./en/mortgage/), and I hope my experience will
 be helpful to you.**
