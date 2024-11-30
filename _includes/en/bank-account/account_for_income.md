@@ -4,8 +4,9 @@ To receive payments for autónomo services, you can use any bank or payment syst
 (such as Wise, Revolut, Payoneer, PayPal, and others). Accounting in Spain is based on what you declare, not on a
 specific account where you receive payments.
 
-If you plan to apply for financing from a Spanish bank in the future (such as a mortgage), it is better to receive
-payments directly into a Spanish bank account from the start.
+If you plan to apply for financing from a Spanish bank in the future (for example, **a mortgage**,
+[here you can read about my experience obtaining a mortgage for an autónomo](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes)),
+it is better to receive payments directly into a Spanish bank account from the start.
 
 There is always a possibility that, in the future, you may have to show your account transactions to the tax authorities
 for the account where you receive autónomo payments (even if this is a foreign payment system or bank). With a Spanish

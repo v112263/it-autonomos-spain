@@ -12,3 +12,8 @@ as expected. It’s better to consult with insurance specialists.
 If you want to build a better relationship with the manager, or if an additional service offers some discounts, you may
 consider it. However, if you don’t need these additional services and the manager insists, feel free to file a complaint
 with the bank’s support.
+
+For example, I had to take out life insurance and a security system when
+I [obtained a mortgage from the bank](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes). By
+law, this is not mandatory, but before approving the mortgage, the manager insisted on it, and I had no other options
+because I really wanted to get the mortgage :)
