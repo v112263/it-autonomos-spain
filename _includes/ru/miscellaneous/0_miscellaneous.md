@@ -1,5 +1,6 @@
 # Разное
 
+{% include ru/miscellaneous/mortgage_brief.md %}
 {% include ru/miscellaneous/registration_documents.md %}
 {% include ru/miscellaneous/recommendation.md %}
 {% include ru/miscellaneous/digital_certificate_obtain.md %}

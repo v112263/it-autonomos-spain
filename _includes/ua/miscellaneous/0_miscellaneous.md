@@ -1,5 +1,6 @@
 # Різне
 
+{% include ua/miscellaneous/mortgage_brief.md %}
 {% include ua/miscellaneous/registration_documents.md %}
 {% include ua/miscellaneous/recommendation.md %}
 {% include ua/miscellaneous/digital_certificate_obtain.md %}
