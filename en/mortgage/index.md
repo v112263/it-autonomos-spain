@@ -448,6 +448,32 @@ quickly overall. Thankfully, everything fit in the elevator.
 By Wednesday evening, the entire process was finally complete. Nobody owed anyone anything, and we could finally relax.
 The next project is renovating the apartment. :)
 
+## Detailed information about mortgage terms
+
+I carefully read the purchase agreement (100 pages), which also describes the mortgage terms. Here, I will outline the
+most interesting points. Of course, this may differ from your agreement with your bank, but I think it will be a useful
+guide to understand the overall picture.
+
+- Mortgage interest rate: 2.95% per annum if you purchase additional bank services (life insurance, home insurance,
+  security system, and receive autónomo payments in the bank account). Without these, the rate is 3.95% per annum.
+- Life insurance costs €42/month, home insurance €37/month, security system €52/month.
+- Mortgage term: 30 years, with a fixed rate. This means the monthly payment remains the same for 30 years and does not
+  change.
+- Early repayment fee: If you repay the mortgage early within the first 10 years, there is an additional commission of
+  up to 2% of the early repayment amount. "Up to 2%" is because it will depend on the market situation and other
+  factors (such as housing demand, mortgages, and the state of the economy at that particular moment).
+- An interesting nuance: the property we bought had an existing mortgage from the previous owner. The bank paid off the
+  remaining mortgage for the previous owner (around €20,000) and issued a new mortgage to us, all documented in the
+  purchase agreement.
+- The contract specifies a particular day of each month by which you must make your monthly payment (e.g., by the 10th
+  of each month). This can be arranged with your manager in advance.
+- If you miss payments for two months, the bank can auction your property. If the property sells for too little, you
+  must continue paying the remaining mortgage balance (after all calculations). Alternatively, if the property sells at
+  a good price, the bank may return some money to you.
+- A single day late in paying the monthly installment incurs penalties: €40 for the delay + a percentage for each
+  additional day overdue. The longer the delay, the more extra fees are added, calculated by complex formulas. In
+  summary, missing payments is not an option.
+
 ## P.S.
 
 Thank you for reading to the end. I truly hope this information was helpful and saves you from potential mistakes. I
