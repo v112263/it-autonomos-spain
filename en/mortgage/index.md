@@ -26,17 +26,17 @@ both my spouse and I needed to be present with our young son, which sometimes ma
 apartments, some bank visits, notary, etc.). Additionally, since I don’t speak Spanish, I had to rely on Google
 Translate and ChatGPT, which complicated the process significantly.
 
+**The entire process of obtaining a mortgage is described in detail below, and I hope my experience will be useful to
+you.**
+
+---
+
 A small note: If you're planning to register as an autónomo, these links may be useful:
 
 - **[Step-by-step guide for registering as an autónomo](https://itautonomos.com/#autónomo-registration-step-by-step)**
 - **[List of reliable gestors](https://itautonomos.com/#reliable-gestors)**
 - **[Autónomo - Complete Guide](https://itautonomos.com/)**
 - **[IT Autonomos Chat](https://bit.ly/it-autonomos-spain-eng)**
-
-**The entire process of obtaining a mortgage is described in detail below, and I hope my experience will be useful to
-you.**
-
----
 
 Initially, I planned to write the article in the format of a diary to describe in detail what exactly and when I had to
 do. However, during the process, I realized that the essay format suits much better. There turned out to be too much

@@ -26,12 +26,5 @@ both my spouse and I needed to be present with our young son, which sometimes ma
 apartments, some bank visits, notary, etc.). Additionally, since I don’t speak Spanish, I had to rely on Google
 Translate and ChatGPT, which complicated the process significantly.
 
-A small note: If you're planning to register as an autónomo, these links may be useful:
-
-- **[Step-by-step guide for registering as an autónomo](#autónomo-registration-step-by-step)**
-- **[List of reliable gestors](#reliable-gestors)**
-- **[Autónomo - Complete Guide](https://itautonomos.com/)**
-- **[IT Autonomos Chat](https://bit.ly/it-autonomos-spain-eng)**
-
 **I have described the entire mortgage process [in a separate article](./en/mortgage/), and I hope my experience will
 be helpful to you.**
