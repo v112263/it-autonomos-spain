@@ -7,7 +7,7 @@ title: "Autónomo - Complete Guide"
 {% include common/common.css %}
 </style>
 
-# Autónomo - Complete Guide [v4.0]
+# Autónomo - Complete Guide
 
 **EN** | [UA]({{site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
 
