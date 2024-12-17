@@ -13,7 +13,7 @@ permalink: /ru/
 }
 </style>
 
-# Autónomo - Полное Руководство [v4.0]
+# Autónomo - Полное Руководство
 
 [EN]({{ site.baseurl }}/) | [UA]({{site.baseurl }}/ua/) | **RU**
 
