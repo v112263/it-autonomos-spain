@@ -1,56 +1,53 @@
 ## Document versions
 
-### Release notes - v4.0 (08/10/2024)
+### Release notes - v4.1 (18/12/2024)
 
-Release of a major document update. Now, let me tell you what I've managed to accomplish in two months, between visits
-to the barbershop. The document already contains about **50 pages** of useful information.
+The last update of the year, on which I worked for more than two months. This time, some key sections have been
+significantly reworked. The update includes about 60 commits (excluding merge commits, naturally).
 
-**In brief, the most important updates**
+**Bank account for autónomo**
 
-- The document now regularly undergoes review by gestors
-- A list of reliable gestors has been added, which I will expand in the future
-- A lot of information has been added about managing autónomo through gestors
-- The autónomo registration guide has been significantly revised
+This section has become quite large, but now it answers **all questions** (why a Spanish account is needed, where it is
+better to receive payments, a special account for autónomo, bank selection, how to open an account, receiving payments
+in USD and EUR, Modelo 036 for the bank, and more). After reading it, there should be no remaining questions.
 
-52 commits (excluding merge commits), with around 30 articles updated and added.
+**Mortgage for autónomo**
 
-**New sections**
+I recently wrote about this, but in case you missed it, a detailed article (15 pages) has been added about my personal
+experience obtaining a mortgage in Spain (after 8 months as an autónomo). The entire process step-by-step, with details
+about my mistakes and recommendations.
 
-- A dedicated section on specifics of working with gestors
-    - Criteria for a reliable gestor
-    - Responsibility in case of errors
-    - Registration of Autónomo (gestor)
-    - Changing a gestor
-- A separate section on bank account for autónomo
-- Registration of Modelo 036 in a bank
-- Digital certificate obtain
-- Tips for handling invoices
-- Verification of the EU VAT number's validity
+**Seguridad Social and the risk of losing the Seguridad Social discount**
 
-**Updated sections**
+I wrote in detail about the deductions for SS (how much should be deducted, when), as well as instructions for what to
+do if, for some reason, funds were not deducted (how to check, how to pay). Additionally, it covers the first-year
+discount and the possibility of extending it.
 
-- Autónomo registration guide (major update)
+**List of reliable gestors**
+
+Previously, there was only one gestor in the list; now, there are more. Unfortunately, it is very difficult to find
+verified and qualified gestors that can be confidently recommended to someone. I would appreciate it if you share the
+contact of someone you trust.
+
+**Other updates**
+
+Some old sections have been improved and new ones added:
+
+- Autónomo registration guide
 - Tax deductions and benefits
-- Providing the digital certificate to the gestor
-- Obtaining a plastic SIP for yourself
-- Obtaining a plastic SIP for family members
-- Quarterly declarations
-- Annual declaration
-- Invoice language
-- Regular downloading of all documents
-- Social contributions (Seguridad Social)
-- Secret section
-- Gestor or Xolo?
-- Xolo
-    - Transition from gestor to Xolo
-    - Subscription payment
-    - Is Xolo suitable for you?
+- IRPF
+- Creating an invoice
+- Invoice date
+- Invoice currency
+- Problems with gestors
+- Rent deductions from taxes
+- Many minor and cosmetic improvements
 
-Numerous cosmetic improvements and other minor content enhancements. The roadmap is extensive, so I will continue to
-release comprehensive updates.
+Taking the opportunity (because I rarely write), I wish everyone happy upcoming holidays! 🎄☃️🎅
 
 ### Past Versions
 
+- [Release notes - v4.0 (08/10/2024)](en/versions/4.0.html)
 - [Release notes - v3.1 (12/08/2024)](en/versions/3.1.html)
 - [Release notes - v3.0 (24/07/2024)](en/versions/3.0.html)
 - [Release notes - v2.2 (05/07/2024)](en/versions/2.2.html)
