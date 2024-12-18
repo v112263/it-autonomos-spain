@@ -13,5 +13,5 @@ The specialists listed below are trusted professionals whom I have repeatedly co
 the "Contact the gestor" button and fill out the form - the gestor will respond to you within the working day (in rare
 cases, the next day). If the issue is urgent, please indicate this in your message to expedite the response.
 
-{% include en/reliable-gestors/gestor_denis.md %}
 {% include en/reliable-gestors/gestor_tatiana.md %}
+{% include en/reliable-gestors/gestor_denis.md %}
