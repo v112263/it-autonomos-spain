@@ -11,16 +11,20 @@ title: "Autónomo - Complete Guide"
 
 **EN** | [UA]({{site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
 
-The document contains all the necessary information for registering and managing an autónomo in Spain: instructions,
-lifehacks and useful tips.
+The document contains all the necessary information for registering and managing an autónomo in Spain. It is regularly
+**reviewed by gestors** and frequently updated ([see GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
-The information has been collected for almost a year by me, members of
-the [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} community, and through consultations with
-gestors. The document is regularly **reviewed by gestors** and frequently
-updated - [GitHub repository](https://bit.ly/it-autonomos-github){:target="_blank"}.
-
-If you want to learn about the history of this document, or thank me for my work, check out
-the [secret section](#secret-section).
+1. If you don’t have time to read the document, contact [reliable gestors](#reliable-gestors) - they will help with any
+   questions.
+2. If you plan to register as an autónomo, read
+   the [step-by-step registration guide](#autónomo-registration-step-by-step).
+3. If you are an autónomo and want to apply for a mortgage, read
+   about [my personal experience of getting a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes)
+   (after only 8 months as an autónomo).
+4. If you want to learn about the history of this document, or thank me for my work, check out
+   the [secret section](#secret-section).
+5. The [IT Autonomos chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} will be useful if you have
+   questions.
 
 > Information is provided as is and does not replace professional consultation.
 
