@@ -1,6 +1,6 @@
 ## Denis I.
 
-> **50 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
+> **60 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
 > forever.
 
 Denis has his own accounting firm serving small and medium-sized businesses.
@@ -19,7 +19,7 @@ Denis has his own accounting firm serving small and medium-sized businesses.
     - Free 30-minute consultation before autónomo registration
     - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
     - Autónomo management (70 €/month), with detailed quarterly reports
-    - Individual 45-minute consultation (85 €)
+    - Individual consultation 45 minutes, recording and transcript of the conversation will be sent to your email (85 €)
     - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
     - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
       signature issuance (remotely), and much more.
