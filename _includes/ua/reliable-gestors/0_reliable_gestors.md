@@ -13,5 +13,6 @@
 "Зв’язатися з хестором" і заповніть форму - хестор відповість вам протягом робочого дня (в рідкісних випадках на
 наступний день). Якщо питання термінове, зазначте це у своєму повідомленні, щоб прискорити відповідь.
 
-{% include ua/reliable-gestors/gestor_tatiana.md %}
+{% include ua/reliable-gestors/gestor_marina.md %}
 {% include ua/reliable-gestors/gestor_denis.md %}
+{% include ua/reliable-gestors/gestor_tatiana.md %}

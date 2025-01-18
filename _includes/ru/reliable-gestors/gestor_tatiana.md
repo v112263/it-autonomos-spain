@@ -10,17 +10,10 @@
 предоставляются под ключ благодаря собственной команде юристов.
 
 - **Языки:** русский, английский, испанский, итальянский, каталанский
-- **Опыт:** 10 лет работы с клиентами из 23 стран
-- **Образование:** все сотрудники имеют профильное высшее образование (юридическое, экономическое, финансовое),
-  а также имеют коллегиальные номера в Colegio Oficial de Graduados Sociales Барселоны и Asociación Española
-  Asesores Fiscales y Gestores Tributarios
 - **Офис:** Барселона
-- **Штат:** до 10 сотрудников
-- **Регионы:** все, кроме Ceuta, Melilla, Canarias
-- **Цифровой сертификат:** хестор подает отчетность используя свой сертификат, который вы авторизуете в налоговом
-  кабинете
-- **Ответственность:** страховка, которая покрывает ущерб в случае ошибки хестора (Seguros Catalana Occidente, S.A.,
-  № 8-10.566.641-P)
+- **Провинции обслуживания:** все услуги оказываются полностью дистанционно во всех провинциях, кроме Ceuta, Melilla,
+  Canarias
+- **Опыт:** 10 лет работы с клиентами из 23 стран
 - **Услуги:**
     - Регистрация аутономо + консультация с рекомендациями перед открытием (<s>250 €</s> 150 € по промокоду "IT
       Autonomos")
@@ -32,6 +25,31 @@
       консультирование, и многое другое
 
 Все цены указаны без учета IVA.
+
+<a href="#" id="detailsLinkTatianaB" onclick="toggleDetailsTatianaB(); return false;">Подробнее о компании ⤵</a>
+
+<div id="hiddenContentTatianaB" style="display: none; margin-top: 10px;">
+<ul>
+  <li><strong>Штат:</strong> до 10 сотрудников</li>
+  <li><strong>Образование:</strong> все сотрудники имеют профильное высшее образование (юридическое, экономическое, финансовое), а также имеют коллегиальные номера в Colegio Oficial de Graduados Sociales Барселоны и Asociación Española Asesores Fiscales y Gestores Tributarios</li>
+  <li><strong>Цифровой сертификат:</strong> хестор подает отчетность используя свой сертификат, который вы авторизуете в налоговом кабинете</li>
+  <li><strong>Ответственность:</strong> страховка, которая покрывает ущерб в случае ошибки хестора (Seguros Catalana Occidente, S.A., № 8-10.566.641-P)</li>
+</ul>
+</div>
+
+<script>
+  function toggleDetailsTatianaB() {
+    const content = document.getElementById('hiddenContentTatianaB');
+    const link = document.getElementById('detailsLinkTatianaB');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      link.textContent = 'Подробнее о компании ⤴';
+    } else {
+      content.style.display = 'none';
+      link.textContent = 'Подробнее о компании ⤵';
+    }
+  }
+</script>
 
 <div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-190328526068"
   style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="190328526068">

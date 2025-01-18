@@ -6,25 +6,45 @@
 Denis has his own accounting firm serving small and medium-sized businesses.
 
 - **Languages:** Russian, English, Spanish
+- **Offices:** Alicante, Torrevieja
+- **Service regions:** All services are provided remotely across all provinces except Ceuta, Melilla, País Vasco,
+  Navarra
 - **Experience:** 6 years
-- **Education:** Universidad de Alicante Grado en Administración y Dirección de Empresas
-- **Office:** Alicante
-- **Staff:** Up to 10 employees
-- **Regions:** all except Ceuta, Melilla, País Vasco, and Navarra
-- **Digital certificate:** gestor submits reports using his own certificate, which you authorise through the tax office
-  portal
-- **Responsibility:** insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza
-  8/6.371.558-N)
 - **Services:**
-    - Free 30-minute consultation before autónomo registration
-    - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
-    - Autónomo management (70 €/month), with detailed quarterly reports
-    - Individual consultation 45 minutes, recording and transcript of the conversation will be sent to your email (85 €)
-    - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
-    - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
-      signature issuance (remotely), and much more.
+  - Free 30-minute consultation before autónomo registration
+  - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
+  - Autónomo management (70 €/month), with detailed quarterly reports
+  - Individual consultation 45 minutes, recording and transcript of the conversation will be sent to your email (85 €)
+  - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
+  - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
+    signature issuance (remotely), and much more.
 
 All prices are excluding IVA.
+
+<a href="#" id="detailsLinkDenisI" onclick="toggleDetailsDenisI(); return false;">More about the company ⤵</a>
+
+<div id="hiddenContentDenisI" style="display: none; margin-top: 10px;">
+<ul>
+  <li><strong>Team size:</strong> Up to 5 employees</li>
+  <li><strong>Education:</strong> Universidad de Alicante Grado en Administración y Dirección de Empresas</li>
+  <li><strong>Digital certificate:</strong> gestor submits reports using his own certificate, which you authorise through the tax office portal</li>
+  <li><strong>Liability:</strong> insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)</li>
+</ul>
+</div>
+
+<script>
+  function toggleDetailsDenisI() {
+    const content = document.getElementById('hiddenContentDenisI');
+    const link = document.getElementById('detailsLinkDenisI');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      link.textContent = 'More about the company ⤴';
+    } else {
+      content.style.display = 'none';
+      link.textContent = 'More about the company ⤵';
+    }
+  }
+</script>
 
 <div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291605"
   style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="191039291605">

@@ -10,16 +10,9 @@
 команді юристів.
 
 - **Мови:** російська, англійська, іспанська, італійська, каталонська
-- **Досвід:** 10 років роботи з клієнтами з 23 країн
-- **Освіта:** Всі співробітники мають профільну вищу освіту (юридичну, економічну, фінансову) та колегіальні номери в
-  Colegio Oficial de Graduados Sociales Барселони та Asociación Española Asesores Fiscales y Gestores Tributarios
 - **Офіс:** Барселона
-- **Штат:** до 10 співробітників
-- **Регіони:** всі, окрім Ceuta, Melilla, Canarias
-- **Цифровий сертифікат:** хестор подає звітність за допомогою свого сертифіката, який ви авторизуєте в податковому
-  кабінеті
-- **Відповідальність:** страховка, що покриває збитки у разі помилки хестора (Seguros Catalana Occidente, S.A., №
-  8-10.566.641-P)
+- **Провінції обслуговування:** усі послуги надаються дистанційно у всіх провінціях, окрім Ceuta, Melilla, Canarias
+- **Досвід:** 10 років роботи з клієнтами з 23 країн
 - **Послуги:**
     - Реєстрація аутономо + консультація з рекомендаціями перед відкриттям (<s>250 €</s> 150 € за промокодом "IT
       Autonomos")
@@ -31,6 +24,31 @@
       консультації тощо
 
 Усі ціни вказані без IVA.
+
+<a href="#" id="detailsLinkTatianaB" onclick="toggleDetailsTatianaB(); return false;">Детальніше про компанію ⤵</a>
+
+<div id="hiddenContentTatianaB" style="display: none; margin-top: 10px;">
+<ul>
+  <li><strong>Штат:</strong> до 10 співробітників</li>
+  <li><strong>Освіта:</strong> Всі співробітники мають профільну вищу освіту (юридичну, економічну, фінансову) та колегіальні номери в Colegio Oficial de Graduados Sociales Барселони та Asociación Española Asesores Fiscales y Gestores Tributarios</li>
+  <li><strong>Цифровий сертифікат:</strong> хестор подає звітність за допомогою свого сертифіката, який ви авторизуєте в податковому кабінеті</li>
+  <li><strong>Відповідальність:</strong> страховка, що покриває збитки у разі помилки хестора (Seguros Catalana Occidente, S.A., № 8-10.566.641-P)</li>
+</ul>
+</div>
+
+<script>
+  function toggleDetailsTatianaB() {
+    const content = document.getElementById('hiddenContentTatianaB');
+    const link = document.getElementById('detailsLinkTatianaB');
+    if (content.style.display === 'none') {
+      content.style.display = 'block';
+      link.textContent = 'Детальніше про компанію ⤴';
+    } else {
+      content.style.display = 'none';
+      link.textContent = 'Детальніше про компанію ⤵';
+    }
+  }
+</script>
 
 <div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291591"
   style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="191039291591">
