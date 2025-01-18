@@ -2,19 +2,20 @@
 
 **You must never share your personal digital certificate with anyone, as it carries significant risks.**
 
-Some gestors may ask you to provide them with your personal digital certificate so that they can file reports and
-perform other operations on your behalf. **This approach is dangerous and absolutely unacceptable.**
+Some gestors may request access to your personal digital certificate to submit reports and perform other operations on
+your behalf. **This approach is risky but acceptable if strict security requirements are followed (read on for more
+information).**
 
-By sharing your digital certificate with third parties:
+Risks of sharing your digital certificate with third parties:
 
 1. The holder of your certificate can perform various operations related to your autónomo (change data, file reports,
    sign any documents) on your behalf. However, you will bear the responsibility for these actions.
-2. The gestor will not be liable for any errors in reporting or other operations because all these operations will be
+2. The gestor may not be liable for any errors in reporting or other operations because all these operations will be
    carried out directly on your behalf (using your personal digital certificate).
 3. You can imagine many unpleasant situations that could arise. Even if you have a trustworthy gestor, it doesn't
    protect you from the risk of their computer being hacked, resulting in the theft of your digital certificate.
 
-**What should you do? The best option.**
+**What to do? The ideal approach**
 
 You need to authorize your gestor's digital certificate using your personal digital certificate (this can be done
 through the tax office, and the gestor will guide you on how to do it). After that, the gestor will be able to file
@@ -25,6 +26,18 @@ will be clearly documented that the gestor's actions led to them.
 If, for some operations, your gestor insists on having your personal certificate, remember that you always have the
 option to make a call and handle everything interactively on your computer (for example, using TeamViewer). This way,
 you won't need to hand over the certificate.
+
+**If your gestor absolutely needs your certificate**
+
+In Spain, most gestors (even large and experienced ones) often ask their clients to provide digital certificates. This
+is because having the certificate simplifies tax filings, document requests, and other administrative tasks.
+
+In such cases, you must:
+
+1. Sign an additional agreement that clearly specifies the conditions for using the digital certificate, as well as the
+   gestor's obligations regarding data protection.
+2. Ensure that the gestor has insurance covering liability for potential data protection breaches. This is crucial to
+   protect yourself in case of data leaks or misuse.
 
 **Digital certificate in Xolo**
 
