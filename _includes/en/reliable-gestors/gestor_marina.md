@@ -20,7 +20,7 @@ various countries, which is especially important for foreigners living in Spain.
     - Other services: SL registration (€1200 turn-key), SL management (from €300/month), digital signature issuance
       (remotely) - €50, VAT ID registration (€50), and much more
 
-All prices are VAT exclusive.
+All prices are excluding IVA.
 
 <a href="#" id="detailsLinkMarinaM" onclick="toggleDetailsMarinaM(); return false;">More about the company ⤵</a>
 
