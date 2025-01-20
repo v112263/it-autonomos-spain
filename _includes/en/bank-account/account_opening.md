@@ -11,9 +11,11 @@ strongly suggest sticking to the simplest process to save time and hassle.
    have been cases where issues arose after opening an account online, and the manager advised closing the online
    account and opening a new one at the branch. In the end, this took more time than if the client had just gone to the
    bank initially.
-2. Some managers have refused to open an account, stating that autónomo registration is required first.
-3. Some banks allow a preliminary account opening for autónomo purposes. They provide an IBAN, which can be used for
+2. There were cases in the chat when people were denied service at a branch because their account was opened online.
+   They were told to contact online support as the branch would not assist them.
+3. Some managers have refused to open an account, stating that autónomo registration is required first.
+4. Some banks allow a preliminary account opening for autónomo purposes. They provide an IBAN, which can be used for
    autónomo registration (but the account is not fully opened). After autónomo registration, you must go to the bank and
    bring the necessary documents to fully activate the account.
-4. Even within the same bank, different managers may handle the same operations differently, and some may be unfamiliar
+5. Even within the same bank, different managers may handle the same operations differently, and some may be unfamiliar
    with certain procedures.
