@@ -3,7 +3,15 @@
 > **60 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
 > forever.
 
-Denis has his own accounting firm serving small and medium-sized businesses.
+Denis's consulting company, with a focus on tax optimization and advanced accounting, provides accounting services for
+autónomo/SL. They offer access to one of the popular online platforms for managing accounting. Through it, clients can
+independently create and upload invoices, view a list of accepted documents, and review detailed reports about their
+business using interactive dashboards.
+
+Key staff members have financial education, many years of experience working in large companies in Spain, and daily
+interaction with real businesses, enabling them to provide expert consultations with practical advice. Additional
+services include assistance in obtaining licenses for most types of activities, managing e-commerce businesses (remote
+sales), import/export of goods, and more.
 
 - **Languages:** Russian, English, Spanish
 - **Offices:** Alicante, Torrevieja
@@ -11,13 +19,13 @@ Denis has his own accounting firm serving small and medium-sized businesses.
   Navarra
 - **Experience:** 6 years
 - **Services:**
-  - Free 30-minute consultation before autónomo registration
-  - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
-  - Autónomo management (70 €/month), with detailed quarterly reports
-  - Individual consultation 45 minutes, recording and transcript of the conversation will be sent to your email (85 €)
-  - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
-  - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
-    signature issuance (remotely), and much more.
+    - Free 30-minute consultation before autónomo registration
+    - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
+    - Autónomo management (70 €/month), with detailed quarterly reports
+    - Individual consultation 45 minutes, recording and transcript of the conversation will be sent to your email (85 €)
+    - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
+    - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
+      signature issuance (remotely), and much more.
 
 All prices are excluding IVA.
 
