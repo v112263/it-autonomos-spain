@@ -10,6 +10,7 @@
     - Введіть своє ім'я, прізвище, email, номер телефону, натисніть Sign Up - після чого посилання для входу в дашборд
       сервіса прийде вам на пошту.
     - Do you reside in Spain? (living here for more than 183 days in a year) or plan to be? - YES
+    - In which Comunidad autónoma do you live? - Comunidad Autónoma, в якій ви проживаєте
     - Are you registered as an autónomo in Spain - YES
     - Do you plan to immediately have dependent employees (on payroll)? - NO
     - Do you have dependent employees (on payroll)? - NO
@@ -19,6 +20,7 @@
 3. Заповнити невелику форму:
     - електронна пошта
     - номер телефону
+    - business location - Mainland & Balearic Islands або Canary Islands
     - дата реєстрації autónomo
     - I have employees - NO (майте на увазі, що сервіс не підтримує [colaborador](#autónomo-colaborador))
     - I'm using 7% IRPF on invoice - якщо ви не знаєте, що це таке, ймовірно, ви це не використовуєте (краще уточнити у
