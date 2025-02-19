@@ -20,7 +20,7 @@
 3. Заповнити невелику форму:
     - електронна пошта
     - номер телефону
-    - Business Location: Mainland & Balearic Islands або Canary Islands
+    - business location - Mainland & Balearic Islands або Canary Islands
     - дата реєстрації autónomo
     - I have employees - NO (майте на увазі, що сервіс не підтримує [colaborador](#autónomo-colaborador))
     - I'm using 7% IRPF on invoice - якщо ви не знаєте, що це таке, ймовірно, ви це не використовуєте (краще уточнити у
