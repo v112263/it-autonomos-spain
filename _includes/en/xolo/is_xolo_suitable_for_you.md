@@ -9,7 +9,7 @@ following criteria:
 - Professionals in categories of the Tax on Economic Activities (IAE) that are subject to the simplified direct
   estimation regime.
 - Who do not have employees.
-- Who do not have a shop or other establishment open to the public (if you sell goods).
+- Those who sell physical goods but do not have a shop or other establishment open to the public.
 
 List of fields for which service is ideal:
 
