@@ -10,6 +10,7 @@ If you decide to transition from your gestor to Xolo, the process is very simple
     - Enter your first name, last name, email, phone number, click Sign Up - then a login link to the service dashboard
       will be sent to your email.
     - Do you reside in Spain? (living here for more than 183 days in a year) or plan to be? - YES
+    - In which Comunidad autónoma do you live? - Comunidad Autónoma in which you live
     - Are you registered as an autónomo in Spain - YES
     - Do you plan to immediately have dependent employees (on payroll)? - NO
     - Do you have dependent employees (on payroll)? - NO
@@ -19,6 +20,7 @@ If you decide to transition from your gestor to Xolo, the process is very simple
 3. Fill out a small form:
     - email
     - phone number
+    - business location - Mainland & Balearic Islands or Canary Islands
     - autónomo registration date
     - I have employees - NO (note that service does not support [colaborador](#autónomo-colaborador))
     - I'm using 7% IRPF on invoice - if you're not sure what this is, you probably don't use it (better to clarify with
