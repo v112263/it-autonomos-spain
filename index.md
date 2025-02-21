@@ -23,8 +23,8 @@ The document contains all the necessary information for registering and managing
    (after only 8 months as an autónomo).
 4. If you want to learn about the history of this document, or thank me for my work, check out
    the [secret section](#secret-section).
-5. The [IT Autonomos chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} will be useful if you have
-   questions.
+5. The [IT Autonomos chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} and the Telegram channel  
+   [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} will be useful if you have questions.
 
 > Information is provided as is and does not replace professional consultation.
 
