@@ -28,8 +28,9 @@ permalink: /ua/
    через 8 місяців після реєстрації аутономо).
 4. Якщо хочете дізнатися про історію створення документа або подякувати мені за мою працю, зазирніть
    у [секретний розділ](#секретний-розділ).
-5. [Чат IT Autonomos](https://bit.ly/it-autonomos-es){:target="_blank"} і телеграм-канал  
-   [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} знадобляться, якщо у вас є запитання.
+5. [Чат IT Autonomos](https://bit.ly/it-autonomos-es){:target="_blank"} і
+   телеграм канал [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} знадобляться, якщо у вас є
+   запитання.
 
 > Інформація надається як є і не замінює консультацію спеціаліста.
 
