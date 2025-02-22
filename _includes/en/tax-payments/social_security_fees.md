@@ -19,7 +19,7 @@ the discount. If your income exceeds the minimum subsistence level in the follow
 discount and start paying the full amount. The maximum duration of the discount is 24 months from the date of autónomo
 registration.
 
-If you close your autónomo within 12 months of registration, you will not be able to reactivate the discount for 3 
+If you close your autónomo within 12 months of registration, you will not be able to reactivate the discount for 3
 years.
 
 ### Deduction of social contributions
@@ -38,10 +38,20 @@ years.
 5. In case of technical delays in registration, payment may be charged later. For instance, if you applied in the first
    half of the month but completed registration in the second half, the payment will be taken at the end of the
    following month for the current and next full month. This has been reported in our chat, so do not worry.
+6. In rare cases, the contribution for the first month after registering as an autónomo may be deducted with a
+   significant delay – up to 2 months later (I personally know of several such cases). If you encounter such a
+   situation, I recommend contacting your gestor/Xolo and following the steps outlined below. Most likely, everything
+   will resolve itself, but it’s better to be cautious.  
+   Example of such a rare case:
+    - The autónomo is registered in the first half of November.
+    - At the end of November, the SS deduction for November does not occur.
+    - In December, the contribution for December is deducted, but the deduction for part of November still does not
+      happen.
+    - At the end of January, deductions are made for both January and November.
 
 ### What to do if the SS payment fails
 
-1. Contact your gestor for immediate assistance. Gestors can take action to avoid penalties.
+1. **Contact your gestor for immediate assistance.** Gestors can take action to avoid penalties.
 2. Check
    the [Seguridad Social portal](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Consulta+de+pagos+y+deudas/ConsultaRecibos){:
    target="_blank"} for invoices. If invoices are absent, there is no debt.
