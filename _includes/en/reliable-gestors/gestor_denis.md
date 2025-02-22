@@ -3,8 +3,8 @@
 > **60 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
 > forever.
 
-Denis's consulting company, with a focus on tax optimization and advanced accounting, provides accounting services for
-autónomo/SL. They provide access to one of the popular online accounting services (for an additional fee). In this
+Denis's consulting company, with a focus on tax optimization and advanced accounting, provides all the necessary
+services for Autonomo/SL. As an additional service, they can provide access to an online accounting solution. In this
 service, clients can independently create and upload invoices, view a list of received documents, access detailed
 reports on their business using interactive dashboards, use the CRM system, and much more.
 
