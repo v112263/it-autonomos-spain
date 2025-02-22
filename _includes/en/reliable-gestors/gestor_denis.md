@@ -4,9 +4,9 @@
 > forever.
 
 Denis's consulting company, with a focus on tax optimization and advanced accounting, provides accounting services for
-autónomo/SL. They offer access to one of the popular online platforms for managing accounting. Through it, clients can
-independently create and upload invoices, view a list of accepted documents, and review detailed reports about their
-business using interactive dashboards.
+autónomo/SL. They provide access to one of the popular online accounting services (for an additional fee). In this
+service, clients can independently create and upload invoices, view a list of received documents, access detailed
+reports on their business using interactive dashboards, use the CRM system, and much more.
 
 Key staff members have financial education, many years of experience working in large companies in Spain, and daily
 interaction with real businesses, enabling them to provide expert consultations with practical advice. Additional
