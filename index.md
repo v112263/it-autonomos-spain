@@ -48,6 +48,7 @@ The document contains all the necessary information for registering and managing
     - [Invoice language](#invoice-language)
     - [Quarterly declarations](#quarterly-declarations)
     - [Annual declaration](#annual-declaration)
+    - [Checking filed tax declarations](#checking-filed-tax-declarations)
     - [Property in other countries](#property-in-other-countries)
     - [Tax audits](#tax-audits)
     - [Risk of tax audits if deducting rent from taxes](#risk-of-tax-audits-if-deducting-rent-from-taxes)
