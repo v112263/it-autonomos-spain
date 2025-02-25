@@ -46,5 +46,5 @@ Get the certificate through [FNMT](https://www.fnmt.es){:target="_blank"} (Fábr
 free.
 
 1. Create a certificate application on the website.
-2. Go to one of the authorized centers with your documents to confirm your identity (tax office, Seguridad Social
-   office, Ayuntamiento).
+2. Go to one of the authorized centers with your documents to confirm your identity (tax office (AEAT), Seguridad Social
+   office, Ayuntamiento, PROP).
