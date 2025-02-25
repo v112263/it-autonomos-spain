@@ -5,7 +5,8 @@ Be sure to read the [reliable gestor criteria](#criteria-for-a-reliable-gestor) 
 
 1. Find a new gestor you trust. You can ask your acquaintances or search in
    the [reliable gestors section](#reliable-gestors).
-2. Ask your current gestor to prepare the following list of documents:
+2. Ask your current gestor to prepare the following list of documents. The list depends on your tax regime and whether
+   you have employees:
     - Libro diario o Libro de gastos e ingresos (for the last 6 years)
     - Libro de facturas emitidas (for the last 6 years)
     - Libro de facturas recibidas (for the last 6 years)
