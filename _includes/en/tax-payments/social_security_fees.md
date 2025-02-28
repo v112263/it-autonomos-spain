@@ -8,7 +8,7 @@ obliged to continue paying contributions while searching for new ones.
 
 Be sure to read about [the risk of losing the discount](#risk-of-losing-the-seguridad-social-discount).
 
-During the first year, there is a discount, and the contribution amounts to €86.66 per month. After 12 months from the
+During the first year, there is a discount, and the contribution amounts to €87.61 per month. After 12 months from the
 registration of an autónomo, the contribution amount increases and depends on your income. More details can be found
 here: [Calculadora de cuotas para autónomos](https://portal.seg-social.gob.es/wps/portal/importass/importass/tramites/simuladorRETAPublico){:
 target="_blank"}.
