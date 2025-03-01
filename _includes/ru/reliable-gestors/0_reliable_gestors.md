@@ -14,6 +14,7 @@
 сообщения (мои контакты есть в чате). Для меня важно быть уверенным, что хесторы из списка предоставляют вам
 качественный сервис, а при возникновении спорных ситуаций они успешно решаются.
 
-{% include ru/reliable-gestors/gestor_marina.md %}
+{% include ru/reliable-gestors/gestor_lyudmila.md %}
 {% include ru/reliable-gestors/gestor_denis.md %}
+{% include ru/reliable-gestors/gestor_marina.md %}
 {% include ru/reliable-gestors/gestor_tatiana.md %}
