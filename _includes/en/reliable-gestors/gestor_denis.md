@@ -13,6 +13,8 @@ interaction with real businesses, enabling them to provide expert consultations 
 services include assistance in obtaining licenses for most types of activities, managing e-commerce businesses (remote
 sales), import/export of goods, and more.
 
+**Free 30-minute consultation before autónomo registration.**
+
 - **Languages:** Russian, English, Spanish
 - **Offices:** Alicante, Torrevieja
 - **Service regions:** All services are provided remotely across all provinces except Ceuta, Melilla, País Vasco,
