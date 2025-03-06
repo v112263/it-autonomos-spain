@@ -47,7 +47,7 @@ out that
 they needed to have submitted a Renta declaration the previous year. The good news is that penalties in these situations
 are usually small.
 
-### The Renta Submission Process
+### The Renta submission process
 
 The submission process looks the same for both [gestors](#reliable-gestors) and [Xolo](#xolo-1). In most cases, this is
 a separate paid service.
@@ -121,7 +121,7 @@ calculations and the final tax amount. After your review and confirmation, the d
 authorities.
 After calculating the declaration, you will be informed of the results – the tax amount to be paid or refunded.
 
-### Tax Deduction
+### Tax deduction
 
 After sending the final declaration to the tax authorities, the gestor will inform you of the tax deduction date. You
 can request in advance
@@ -132,7 +132,7 @@ case of underpayment of taxes) or return the overpayment (within 6 months).
 
 Make sure that the required amount is in the account, otherwise problems may arise.
 
-### How to Reduce Your Tax?
+### How to reduce your tax?
 
 When submitting the Renta, your gestor will already have some of the necessary documents for applying tax deductions.
 For example, if an
@@ -146,14 +146,14 @@ section on [tax deductions and benefits](#tax-deductions-and-benefits)** again, 
 reduce the tax
 amount.
 
-### Regional Tax Deductions
+### Regional tax deductions
 
 This is a more complex topic, and it's unlikely that any gestors will be able to help you effectively with this (there
 are many nuances, and they
 differ for each province). Be sure to read the section on [regional deductions](#regional-deductions) to
 maximize your tax savings.
 
-### Types of Modelo Submitted with Renta
+### Types of Modelo submitted with Renta
 
 Initially, Renta refers to Modelo 100 (IRPF tax declaration). In addition, gestors submit other Modelo forms depending
 on your answers to the questions.
@@ -181,7 +181,7 @@ Therefore, indicate in advance all assets you own. If this nuance is important t
 advance
 with a [gestor](#reliable-gestors).
 
-### Make Sure Your Gestor Is Doing Everything Correctly
+### Make sure your gestor is doing everything correctly
 
 If your gestor's Renta submission process differs significantly from what's described above, it makes sense to clarify
 the
@@ -195,14 +195,14 @@ asset sales).
 If the gestor doesn't take into account all the necessary information, this can lead to problems - from correcting the
 declaration to penalties.
 
-### Do You Need to Submit Your Renta as Soon as Possible?
+### Do you need to submit your Renta as soon as possible?
 
 In some situations, such as
 when [obtaining a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes) or
 a loan, you may need to submit your Renta as soon as possible. In this case, try to arrange with your gestor for
 an urgent submission of the declaration.
 
-### How to Save on Filing Your Renta?
+### How to save on filing your Renta?
 
 You can submit your Renta through Xolo, your gestor, or any other gestor.
 
