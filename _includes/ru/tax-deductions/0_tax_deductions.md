@@ -41,4 +41,4 @@ target="_blank"}
 {% include ru/tax-deductions/food.md %}
 {% include ru/tax-deductions/equipment.md %}
 {% include ru/tax-deductions/other_expenses.md %}
-{% include ru/tax-deductions/regional_quotas.md %}
+{% include ru/tax-deductions/regional_deductions.md %}

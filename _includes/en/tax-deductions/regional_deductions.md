@@ -1,12 +1,12 @@
-## Regional quotas
+## Regional deductions
 
-Regional quotas are tax deductions established by the autonomous communities of Spain and may vary depending on the
+Regional deductions are tax deductions established by the autonomous communities of Spain and may vary depending on the
 region. These can be used by taxpayers residing in the relevant region if their annual income does not exceed the
 established limits. For example, in Valencia, for many deductions, the annual income should not exceed 30,000 euros for
 individual declarations and 50,000 euros for joint declarations. These limits and types of deductions may vary by
 region.
 
-Regional quotas can only be applied when submitting the annual declaration (Renta).
+Regional deductions can only be applied when submitting the [annual declaration (Renta)](#annual-declaration-renta).
 
 Examples of deductions for Valencia:
 
@@ -21,6 +21,6 @@ Examples of deductions for Valencia:
 - Donations for Covid-19 research.
 - Purchase of new eco-friendly vehicles.
 
-More about Valencia regional quotas
+More about Valencia regional deductions
 here: [Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2023/c17-deducciones-autonomicas-cuota/comunitat-valenciana.html){:
-target="_blank"}. Information about other regions can also be found there.
+target="_blank"}. Information about other regions can also be found there. 

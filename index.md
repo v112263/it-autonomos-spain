@@ -14,7 +14,7 @@ title: "Autónomo - Complete Guide"
 The document contains all the necessary information for registering and managing an autónomo in Spain. It is regularly
 **reviewed by gestors** and frequently updated ([see GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
 
-1. If you don’t have time to read the document, contact [reliable gestors](#reliable-gestors) - they will help with any
+1. If you don't have time to read the document, contact [reliable gestors](#reliable-gestors) - they will help with any
    questions.
 2. If you plan to register as an autónomo, read
    the [step-by-step registration guide](#autónomo-registration-step-by-step).
@@ -47,7 +47,7 @@ The document contains all the necessary information for registering and managing
     - [Invoice currency](#invoice-currency)
     - [Invoice language](#invoice-language)
     - [Quarterly declarations](#quarterly-declarations)
-    - [Annual declaration](#annual-declaration)
+    - [Annual declaration (Renta)](#annual-declaration-renta)
     - [Checking filed tax declarations](#checking-filed-tax-declarations)
     - [Property in other countries](#property-in-other-countries)
     - [Tax audits](#tax-audits)
@@ -67,7 +67,7 @@ The document contains all the necessary information for registering and managing
     - [Food, lunches](#food-lunches)
     - [Equipment, furniture](#equipment-furniture)
     - [Other professional expenses](#other-professional-expenses)
-    - [Regional quotas](#regional-quotas)
+    - [Regional deductions](#regional-deductions)
 - [Bank account for autónomo](#bank-account-for-autónomo)
     - [Why you need a Spanish bank account](#why-you-need-a-spanish-bank-account)
     - [Which account to use for receiving payments](#which-account-to-use-for-receiving-payments)
