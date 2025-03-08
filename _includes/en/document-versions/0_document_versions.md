@@ -1,52 +1,44 @@
 ## Document versions
 
-### Release notes - v4.1 (18/12/2024)
+### Release notes - v4.2 (10/03/2024)
 
-The last update of the year, on which I worked for more than two months. This time, some key sections have been
-significantly reworked. The update includes about 60 commits (excluding merge commits, naturally).
+This is a significant update with improvements to key sections, especially the tax reporting process. I've been working
+on it for about three months ([34 commits](https://bit.ly/it-autonomos-github)). The document now has over 60 pages of
+information.
 
-**Bank account for autónomo**
+The document now has contributors - thank you very much for your help!
 
-This section has become quite large, but now it answers **all questions** (why a Spanish account is needed, where it is
-better to receive payments, a special account for autónomo, bank selection, how to open an account, receiving payments
-in USD and EUR, Modelo 036 for the bank, and more). After reading it, there should be no remaining questions.
+**In brief, the most important updates**
 
-**Mortgage for autónomo**
+- Major improvement of the annual tax declaration (Renta) section
+    - Who must file Renta
+    - Renta filing process
+    - Tax payment
+    - How to reduce tax
+    - Regional tax deductions
+    - Modelo types filed with Renta
+    - Ensuring your gestor does everything correctly
+    - Need to file Renta as soon as possible?
+    - How to save on Renta filing
+- Expanded list of reliable gestors, now with 4 verified professionals
 
-I recently wrote about this, but in case you missed it, a detailed article (15 pages) has been added about my personal
-experience obtaining a mortgage in Spain (after 8 months as an autónomo). The entire process step-by-step, with details
-about my mistakes and recommendations.
+**Also, added and updated articles**
 
-**Seguridad Social and the risk of losing the Seguridad Social discount**
+- Autónomo registration guide through Xolo
+- Checking filed tax declarations
+- Bank account opening
+- Changing gestor
+- Reliable gestor criteria
+- Digital certificate obtain
+- Providing digital certificate to gestor
+- Regional tax deductions
 
-I wrote in detail about the deductions for SS (how much should be deducted, when), as well as instructions for what to
-do if, for some reason, funds were not deducted (how to check, how to pay). Additionally, it covers the first-year
-discount and the possibility of extending it.
-
-**List of reliable gestors**
-
-Previously, there was only one gestor in the list; now, there are more. Unfortunately, it is very difficult to find
-verified and qualified gestors that can be confidently recommended to someone. I would appreciate it if you share the
-contact of someone you trust.
-
-**Other updates**
-
-Some old sections have been improved and new ones added:
-
-- Autónomo registration guide
-- Tax deductions and benefits
-- IRPF
-- Creating an invoice
-- Invoice date
-- Invoice currency
-- Problems with gestors
-- Rent deductions from taxes
-- Many minor and cosmetic improvements
-
-Taking the opportunity (because I rarely write), I wish everyone happy upcoming holidays! 🎄☃️🎅
+Many cosmetic improvements, as well as other minor content enhancements. The document regularly continues to grow and
+improve.
 
 ### Past Versions
 
+- [Release notes - v4.1 (18/12/2024)](en/versions/4.1.html)
 - [Release notes - v4.0 (08/10/2024)](en/versions/4.0.html)
 - [Release notes - v3.1 (12/08/2024)](en/versions/3.1.html)
 - [Release notes - v3.0 (24/07/2024)](en/versions/3.0.html)
