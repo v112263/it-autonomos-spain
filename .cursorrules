@@ -1,40 +1,23 @@
 # Project structure summary
 project_structure:
-  root:
-    description: "Main project directory containing Jekyll-based site about being an autónomo in Spain"
-    files:
-      - "index.md": "Main landing page with language selection and links to all articles for english version"
-      - "_config.yml": "Jekyll configuration file for site settings and parameters"
-      - "Gemfile": "Ruby dependencies for Jekyll site generation"
+    description: "Jekyll-based site about being an autónomo in Spain deployed on GitHub Pages"
     directories:
       - index_files:
-          description: "Holds index files for each language"
           paths: ["index.md", "ru/index.md", "ua/index.md"]
-          purpose: "Contains index files with links to all articles for each language"
+          description: "Contains index files with links to all articles for each language"
       - language_directories:
-          description: "Root-level language-specific directories with some site content"
           paths: ["en/", "ru/", "ua/"]
-          purpose: "Contains part of content for each language"
+          description: "Root-level language-specific directories with some site content"
       - all_articles:
-          description: "Holds most of the multilingual articles or include files"
           paths: ["_includes/en/", "_includes/ru/", "_includes/ua/"]
-          purpose: "Contains most of the articles or localized includes for each language"
-      - assets:
-          description: "Static assets for the site"
-          paths: ["_img/"]
-          purpose: "Contains images and possibly other media files"
+          description: "Contains most of the articles for each language"
 
-# Editing guidelines
-editing_guidelines:
+# Coding guidelines
+coding_guidelines:
   css:
     - "Store in _includes/common/common.css"
   javascript:
     - "Store in _includes/common/scripts.js"
-  localization:
-    - "Keep parallel structure between language versions"
-    - "Maintain consistent navigation elements across languages"
-    - "Use language-specific subdirectories for all content"
-    - "Search for existing article links in table of contents to place links to them in the edited article"
 
 # File relationships
 file_relationships:
@@ -56,23 +39,21 @@ file_relationships:
       - "ru/index.md"
       - "ua/index.md"
 
+# Translation rules
+translation_rules:
+  - "Keep the same structure and content for each language"
+  - "Use the same tone and style for translations as it is in the original Russian text"
+  - "Do not translate English and Spanish terms or phrases"
+  - "The markdown markup in the translated texts is preserved exactly as in the original Russian text"
+  - "Use the following translations from Russian:"
+    - "хестор (Russian) -> gestor, gestors (English), хестор (Ukrainian)"
+    - "аутономо (Russian) -> autónomo (English), аутономо (Ukrainian)"
+    - "сита (Russian) -> cita (English), сіта (Ukrainian)"
+  - "Use Sentence case for titles in all languages, example: “This is an example of sentence case”"
+  - "For Ukrainian translation always use the initial Russian text as a source"
+
 # Formatting rules
 formatting_rules:
   links:
     - "Use Jekyll liquid tags for internal links: {% link path/to/file.md %}"
     - "For external links, use Markdown format with target attribute: [text](url){:target=\"_blank\"}"
-
-# Translation rules
-translation_rules:
-  - "Translate all content from Russian to English and Ukrainian"
-  - "Keep the same structure and content for each language"
-  - "Use the same tone and style for translations as it is in the original Russian language"
-  - "Do not translate English and Spanish terms or phrases"
-  - "Keep external links unchanged from the original text"
-  - "The markdown markup in the translated texts is preserved exactly as in the original Russian text"
-  - "Use the following translations from Russian:"
-    - "хестор" (Russian) -> "gestor", "gestors" (English), "хестор" (Ukrainian).
-    - "аутономо" (Russian) -> "autónomo" (English), "аутономо" (Ukrainian).
-    - "сита" (Russian) -> "cita" (English), "сіта" (Ukrainian).
-  - "Use Sentence case for titles in all languages, example: “This is an example of sentence case”."
-  - "For Ukrainian translation always use the initial Russian text as a source."
