@@ -9,23 +9,20 @@ title: "Autónomo - Complete Guide"
 
 # Autónomo - Complete Guide
 
-**EN** | [UA]({{site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
+**EN** | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/)
 
-The document contains all the necessary information for registering and managing an autónomo in Spain. It is regularly
-**reviewed by gestors** and frequently updated ([see GitHub](https://bit.ly/it-autonomos-github){:target="_blank"}).
+This document contains all the necessary information for registering and managing autónomo in Spain. It is regularly updated and
+**reviewed by gestors**.
 
-1. If you don't have time to read the document, contact [reliable gestors](#reliable-gestors) - they will help with any
-   questions.
-2. If you plan to register as an autónomo, read
-   the [step-by-step registration guide](#autónomo-registration-step-by-step).
-3. If you are an autónomo and want to apply for a mortgage, read
-   about [my personal experience of getting a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes)
-   (after only 8 months as an autónomo).
-4. If you want to learn about the history of this document, or thank me for my work, check out
-   the [secret section](#secret-section).
-5. The [IT Autonomos chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} and the Telegram
-   channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} will be useful if you have
-   questions.
+1. Contact [reliable gestors](#reliable-gestors) for help with registering and managing autónomo/SL, personal
+   consultations, and any other questions.
+2. Read the step-by-step [guide to autónomo registration](#autónomo-registration-step-by-step).
+3. [My personal experience getting a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes) 8 months
+   after registering as autónomo.
+4. Subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} and
+   join the chat [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
+5. Check out the [secret section](#secret-section) if you want to learn about the history of this document or
+   thank me for my work.
 
 > Information is provided as is and does not replace professional consultation.
 
