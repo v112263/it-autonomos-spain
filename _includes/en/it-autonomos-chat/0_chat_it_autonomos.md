@@ -8,3 +8,5 @@ help each other. The chat includes people from different fields and cities in Sp
 Spain, finding housing, etc.
 
 The purpose of the chat is to share experiences on tax deductions, tips, and any useful relevant information.
+
+Also, subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} to stay updated on important news.  
