@@ -1,6 +1,6 @@
 # Preparation for registering as Autónomo
 
-To register and manage an autónomo, you can choose between two popular options: a gestor or
+To register and manage an autónomo, you can choose between two popular options: a [gestor](#reliable-gestors) or
 the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service. Personally, I use the service and am very satisfied.
 
 Before choosing one of the options, I recommend reading the sections about the [gestor](#gestor-1) (especially
@@ -33,7 +33,7 @@ the [instructions for switching from a gestor to Xolo](#gestor-to-xolo-transitio
 
 ## Gestor
 
-Gestor is a specialist in accounting and taxes who provides personalized support to autónomo in matters of reporting,
+[Gestor](#reliable-gestors) is a specialist in accounting and taxes who provides personalized support to autónomo in matters of reporting,
 interaction with the tax authorities, and solving non-standard situations.
 
 - Supports [autónomo colaborador](#autónomo-colaborador).

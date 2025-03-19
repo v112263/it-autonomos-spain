@@ -106,7 +106,7 @@ Some factors can reduce the tax amount (for example, having children, submitting
   To
   apply this discount, you need to meet certain criteria.*
 
-Your gestor will consult with you on any questions you may have, to help you complete the
+Your [gestor](#reliable-gestors) will consult with you on any questions you may have, to help you complete the
 questionnaire as accurately as possible. Also, for some questions, you may need to provide the gestor with additional
 data or
 documentary evidence.

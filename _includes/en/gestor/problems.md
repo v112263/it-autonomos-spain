@@ -1,6 +1,6 @@
 ## Problems with gestors
 
-As in any profession, among gestors, you can find both responsible and qualified specialists as well as less
+As in any profession, among [gestors](#reliable-gestors), you can find both responsible and qualified specialists as well as less
 conscientious ones. I would not wish anyone to encounter a problematic gestor because, most likely, you'll have to
 resolve tax issues on your own.
 
