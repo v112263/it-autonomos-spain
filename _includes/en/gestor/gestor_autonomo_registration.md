@@ -1,6 +1,6 @@
 ## Registration of Autónomo (gestor)
 
-The procedure for registering an autónomo with a gestor is as simple as possible because the gestor will do everything
+The procedure for registering an autónomo with a [gestor](#reliable-gestors) is as simple as possible because the gestor will do everything
 for you.
 
 1. You will need to provide the gestor with scans

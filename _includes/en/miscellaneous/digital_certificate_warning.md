@@ -12,12 +12,12 @@ Risks of sharing your digital certificate with third parties:
    sign any documents) on your behalf. However, you will bear the responsibility for these actions.
 2. The gestor may not be liable for any errors in reporting or other operations because all these operations will be
    carried out directly on your behalf (using your personal digital certificate).
-3. You can imagine many unpleasant situations that could arise. Even if you have a trustworthy gestor, it doesn't
+3. You can imagine many unpleasant situations that could arise. Even if you have a trustworthy [gestor](#reliable-gestors), it doesn't
    protect you from the risk of their computer being hacked, resulting in the theft of your digital certificate.
 
 **What to do? The ideal approach**
 
-You need to authorize your gestor's digital certificate using your personal digital certificate (this can be done
+You need to authorize your [gestor's](#reliable-gestors) digital certificate using your personal digital certificate (this can be done
 through the tax office, and the gestor will guide you on how to do it). After that, the gestor will be able to file
 reports and perform necessary operations for managing your autónomo using their own certificate (gestor's). It will
 always be recorded that the gestor acted on their behalf, but with your permission. In case of any issues or errors, it

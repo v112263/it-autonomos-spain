@@ -1,7 +1,7 @@
 # Gestor
 
-В этом разделе освещены специфические темы и нюансы, с которыми вы можете столкнуться если будете вести аутономо с
-хестором.
+This section covers specific topics and nuances that you may encounter if you manage your autónomo with a
+[gestor](#reliable-gestors).
 
 {% include en/gestor/reliable_gestor_criteria.md %}
 {% include en/gestor/liability.md %}

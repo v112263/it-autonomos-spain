@@ -1,6 +1,6 @@
 ## Criteria for a reliable gestor
 
-When searching for a gestor, always ask if they meet all the criteria described below. If they do not meet any of the
+When searching for a [gestor](#reliable-gestors), always ask if they meet all the criteria described below. If they do not meet any of the
 criteria, I recommend looking for another specialist.
 
 - Adequate communication and prompt response to requests. It sounds basic, but if your communication is slow and
