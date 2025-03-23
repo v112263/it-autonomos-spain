@@ -2,6 +2,14 @@
 
 > **Скидка 50 €** на регистрацию аутономо по промокоду "IT Autonomos", заполнение годовой декларации бесплатно.
 
+<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-213943038171"
+  style="max-width:100%; max-height:100%; width:240px;height:50px" data-hubspot-wrapper-cta-id="213943038171">
+  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLIDS5FVMbAdatdX7xdo2WdNOxcwoSRHx6oq29kyaFBnEvoN10agtsMkZcen0xERu72h%2BY7dRUusJSZ7Phty0kAzEoYMJ8i7XcB6WAy6U2vXzgoTfwbxAucmSN3AdIXEFCMakXpatCM7H9BoQhVVZwrtWw%3D%3D&webInteractiveContentId=213943038171&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
+    <img alt="&#1057;&#1074;&#1103;&#1079;&#1072;&#1090;&#1100;&#1089;&#1103; &#1089; &#1051;&#1102;&#1076;&#1084;&#1080;&#1083;&#1086;&#1081;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-213943038171.png" style="height: 100%; width: 100%; object-fit: fill"
+      onerror="this.style.display='none'" />
+  </a>
+</div>
+
 Людмила - управляющий партнер компании, которая предоставляет бухгалтерские, налоговые, консультационные, миграционные и
 административные услуги. В услуги входит сопровождение Autónomo/SL, все задачи начиная от регистрации бизнеса и до
 ведения первичной документации и управления трудовыми ресурсами. Для компании очень важно давать быстрые и четкие ответы
@@ -63,11 +71,3 @@
     }
   }
 </script>
-
-<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-213943038171"
-  style="max-width:100%; max-height:100%; width:240px;height:50px" data-hubspot-wrapper-cta-id="213943038171">
-  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLIDS5FVMbAdatdX7xdo2WdNOxcwoSRHx6oq29kyaFBnEvoN10agtsMkZcen0xERu72h%2BY7dRUusJSZ7Phty0kAzEoYMJ8i7XcB6WAy6U2vXzgoTfwbxAucmSN3AdIXEFCMakXpatCM7H9BoQhVVZwrtWw%3D%3D&webInteractiveContentId=213943038171&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
-    <img alt="&#1057;&#1074;&#1103;&#1079;&#1072;&#1090;&#1100;&#1089;&#1103; &#1089; &#1051;&#1102;&#1076;&#1084;&#1080;&#1083;&#1086;&#1081;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-213943038171.png" style="height: 100%; width: 100%; object-fit: fill"
-      onerror="this.style.display='none'" />
-  </a>
-</div>

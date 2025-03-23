@@ -2,6 +2,14 @@
 
 > **Знижка 100 €** на реєстрацію аутономо за промокодом "IT Autonomos".
 
+<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291591"
+  style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="191039291591">
+  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLL2N3%2F19UG9t58zGAxjQmPWaNO3lqaJkX%2F6O93WNWFt9l6JL6Ot%2BdDRsC%2B%2BQAPPWQgU0hGAPnRLV9iMMs%2FAjeZoxshuLAotaAamhXKA5AdZ5MI%3D&webInteractiveContentId=191039291591&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
+    <img alt="&#1047;&#1074;'&#1103;&#1079;&#1072;&#1090;&#1080;&#1089;&#1103; &#1079; &#1058;&#1077;&#1090;&#1103;&#1085;&#1086;&#1102;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-191039291591.png" style="height: 100%; width: 100%; object-fit: fill"
+      onerror="this.style.display='none'" />
+  </a>
+</div>
+
 Тетяна керує компанією, яка понад 10 років надає бухгалтерські та юридичні послуги. Для аутономо та SL компанія здійснює
 реєстрацію, ведення податкового та бухгалтерського обліку, консультує щодо оптимізації оподаткування, допомагає з
 отриманням ліцензій та відкриттям банківських рахунків. Вирішує юридичні питання: консультує щодо місцевого
@@ -49,11 +57,3 @@
     }
   }
 </script>
-
-<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291591"
-  style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="191039291591">
-  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLL2N3%2F19UG9t58zGAxjQmPWaNO3lqaJkX%2F6O93WNWFt9l6JL6Ot%2BdDRsC%2B%2BQAPPWQgU0hGAPnRLV9iMMs%2FAjeZoxshuLAotaAamhXKA5AdZ5MI%3D&webInteractiveContentId=191039291591&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
-    <img alt="&#1047;&#1074;'&#1103;&#1079;&#1072;&#1090;&#1080;&#1089;&#1103; &#1079; &#1058;&#1077;&#1090;&#1103;&#1085;&#1086;&#1102;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-191039291591.png" style="height: 100%; width: 100%; object-fit: fill"
-      onerror="this.style.display='none'" />
-  </a>
-</div>
