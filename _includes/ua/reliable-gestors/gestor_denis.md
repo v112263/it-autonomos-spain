@@ -2,6 +2,14 @@
 
 > **Знижка 60 €** на реєстрацію аутономо за промокодом "IT Autonomos", подання річної декларації безкоштовно назавжди.
 
+<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291623"
+  style="max-width:100%; max-height:100%; width:225px;height:50px" data-hubspot-wrapper-cta-id="191039291623">
+  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLISBp37hQvTtLhUKlfr76%2BmGIpGycUIGCy%2FSgtbZAS101kJsmrgxjDy%2F6ciP9MWX%2FFMJYeu7QI7lO3Lnu%2BgAey4%2B8k3vSU8H74IFYPb%2BXwZltEVdV1ykuAfK%2B7hPsPXgv6uRR6NrX%2BZfunWkvwAEIC47A%3D%3D&webInteractiveContentId=191039291623&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
+    <img alt="&#1047;&#1074;'&#1103;&#1079;&#1072;&#1090;&#1080;&#1089;&#1103; &#1079; &#1044;&#1077;&#1085;&#1080;&#1089;&#1086;&#1084;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-191039291623.png" style="height: 100%; width: 100%; object-fit: fill"
+      onerror="this.style.display='none'" />
+  </a>
+</div>
+
 Консультаційна компанія Дениса, з акцентом на оптимізацію податків і просунуту бухгалтерію, надає всі необхідні послуги
 для Autonomo/SL. Як додатковий сервіс, вони можуть надати доступ до онлайн-рішення для ведення бухгалтерії. У ньому
 клієнти можуть самостійно створювати й завантажувати інвойси, бачити список прийнятих документів, переглядати детальні
@@ -54,11 +62,3 @@
     }
   }
 </script>
-
-<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291623"
-  style="max-width:100%; max-height:100%; width:225px;height:50px" data-hubspot-wrapper-cta-id="191039291623">
-  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLISBp37hQvTtLhUKlfr76%2BmGIpGycUIGCy%2FSgtbZAS101kJsmrgxjDy%2F6ciP9MWX%2FFMJYeu7QI7lO3Lnu%2BgAey4%2B8k3vSU8H74IFYPb%2BXwZltEVdV1ykuAfK%2B7hPsPXgv6uRR6NrX%2BZfunWkvwAEIC47A%3D%3D&webInteractiveContentId=191039291623&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
-    <img alt="&#1047;&#1074;'&#1103;&#1079;&#1072;&#1090;&#1080;&#1089;&#1103; &#1079; &#1044;&#1077;&#1085;&#1080;&#1089;&#1086;&#1084;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-191039291623.png" style="height: 100%; width: 100%; object-fit: fill"
-      onerror="this.style.display='none'" />
-  </a>
-</div>

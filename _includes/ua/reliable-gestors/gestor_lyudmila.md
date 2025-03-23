@@ -2,6 +2,14 @@
 
 > **Знижка 50 €** на реєстрацію аутономо за промокодом "IT Autonomos", заповнення річної декларації безкоштовно.
 
+<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-213943038188"
+  style="max-width:100%; max-height:100%; width:240px;height:50px" data-hubspot-wrapper-cta-id="213943038188">
+  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLJt8Pqrf7Wo%2FdphUdDoGRrMjCKGdmhWE8miF%2Ft7CcKK00pNoAMQv5B7cTrJM0jIwDuYcb8%2B%2F2AWslvXJ80hSzjkVtRXo4cxpcDElE6U2Xh9HuFbc%2Bgu4Y7Sj2kWa9oUuDSmLKOs2M0rVi6uFoRJhprNfA%3D%3D&webInteractiveContentId=213943038188&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
+    <img alt="&#1047;&#1074;'&#1103;&#1079;&#1072;&#1090;&#1080;&#1089;&#1103; &#1079; &#1051;&#1102;&#1076;&#1084;&#1080;&#1083;&#1086;&#1102;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-213943038188.png" style="height: 100%; width: 100%; object-fit: fill"
+      onerror="this.style.display='none'" />
+  </a>
+</div>
+
 Людмила – керуючий партнер компанії, яка надає бухгалтерські, податкові, консультаційні, міграційні та адміністративні
 послуги. До послуг входить супровід Autónomo/SL, усі завдання від реєстрації бізнесу до ведення первинної документації
 та управління трудовими ресурсами. Для компанії дуже важливо надавати швидкі та чіткі відповіді клієнтам і регулярно
@@ -63,11 +71,3 @@
     }
   }
 </script>
-
-<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-213943038188"
-  style="max-width:100%; max-height:100%; width:240px;height:50px" data-hubspot-wrapper-cta-id="213943038188">
-  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLJt8Pqrf7Wo%2FdphUdDoGRrMjCKGdmhWE8miF%2Ft7CcKK00pNoAMQv5B7cTrJM0jIwDuYcb8%2B%2F2AWslvXJ80hSzjkVtRXo4cxpcDElE6U2Xh9HuFbc%2Bgu4Y7Sj2kWa9oUuDSmLKOs2M0rVi6uFoRJhprNfA%3D%3D&webInteractiveContentId=213943038188&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
-    <img alt="&#1047;&#1074;'&#1103;&#1079;&#1072;&#1090;&#1080;&#1089;&#1103; &#1079; &#1051;&#1102;&#1076;&#1084;&#1080;&#1083;&#1086;&#1102;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-213943038188.png" style="height: 100%; width: 100%; object-fit: fill"
-      onerror="this.style.display='none'" />
-  </a>
-</div>
