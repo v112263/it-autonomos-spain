@@ -34,6 +34,7 @@ chatgpt, что тоже значительно осложняло весь пр
 - **[Список надежных хесторов](https://itautonomos.com/ru/#надежные-хесторы)**
 - **[Autónomo - Полное Руководство](https://itautonomos.com/ru/)**
 - **[Чат IT Autonomos](https://bit.ly/it-autonomos-es)**
+- **[Telegram канал Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}**
 
 Изначально я планировал написать статью в формате дневника, чтобы подробно описать, что именно и когда мне
 пришлось делать. Однако в процессе понял, что формат эссе подходит гораздо лучше. Информации оказалось слишком
@@ -471,5 +472,6 @@ Hacienda и Seguridad Social.
 - **[Список надежных хесторов](https://itautonomos.com/ru/#надежные-хесторы)**
 - **[Autónomo - Полное Руководство](https://itautonomos.com/ru/)**
 - **[Чат IT Autonomos](https://bit.ly/it-autonomos-es)**
+- **[Telegram канал Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}**
 
 Обнял!
