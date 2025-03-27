@@ -14,16 +14,16 @@ has partial renovations. The building itself is very well-maintained, with a com
 facade, and roof done a few years ago. The metro is a 2-minute walk away, and Valencia city center is 5 minutes by
 metro. I won't disclose the price of the apartment.
 
-The process could have taken less time if we hadn’t fought until the end for a 90% mortgage (which we had a good chance
+The process could have taken less time if we hadn't fought until the end for a 90% mortgage (which we had a good chance
 of obtaining).
 
 The amount required to obtain the mortgage: 20% down payment of the property's cost, 9% ITP tax (property transfer tax),
 €4000 agency fee, around €1000 for notary services, plus up to €1000 for various small expenses (some of which will be
 refunded later).
 
-Overall, I wouldn’t say the entire process was very difficult, but rather moderately so. There were many places where
+Overall, I wouldn't say the entire process was very difficult, but rather moderately so. There were many places where
 both my spouse and I needed to be present with our young son, which sometimes made things challenging (viewing
-apartments, some bank visits, notary, etc.). Additionally, since I don’t speak Spanish, I had to rely on Google
+apartments, some bank visits, notary, etc.). Additionally, since I don't speak Spanish, I had to rely on Google
 Translate and ChatGPT, which complicated the process significantly.
 
 **The entire process of obtaining a mortgage is described in detail below, and I hope my experience will be useful to
@@ -37,6 +37,7 @@ A small note: If you're planning to register as an autónomo, these links may be
 - **[List of reliable gestors](https://itautonomos.com/#reliable-gestors)**
 - **[Autónomo - Complete Guide](https://itautonomos.com/)**
 - **[IT Autonomos Chat](https://bit.ly/it-autonomos-spain-eng)**
+- **[Autonomo & SL Telegram Channel](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}**
 
 Initially, I planned to write the article in the format of a diary to describe in detail what exactly and when I had to
 do. However, during the process, I realized that the essay format suits much better. There turned out to be too much
@@ -47,14 +48,14 @@ information, and I wanted not just to list events but also to share my thoughts.
 > made
 > mistakes.
 
-As I mentioned at the very beginning, we didn’t even plan to get a mortgage anytime soon. We wanted to **try** to do it,
+As I mentioned at the very beginning, we didn't even plan to get a mortgage anytime soon. We wanted to **try** to do it,
 at best, next year. But we accidentally managed to do it now.
 
 My spouse and I always try to adhere to the **probability approach**, especially in matters where many say "
-impossible," "it won’t work," etc. Between "zero chances" (when you don’t try at all) and "very small chances," there is
+impossible," "it won't work," etc. Between "zero chances" (when you don't try at all) and "very small chances," there is
 a giant gap. If there is an opportunity to try and use small chances, you must do it, as we were convinced once again.
 
-Thanks to several people from the [chat](https://bit.ly/it-autonomos-spain-eng) who helped with some questions I didn’t
+Thanks to several people from the [chat](https://bit.ly/it-autonomos-spain-eng) who helped with some questions I didn't
 understand and shared their successful mortgage cases.
 
 If the information about the mortgage is useful to you and you want to thank me for my work, visit
@@ -65,7 +66,7 @@ the [secret section](https://itautonomos.com/#secret-section).
 ### Tuesday
 
 My spouse practically forced me to go to the bank - just to ask if it would even be possible to get a mortgage and what
-would be needed for that. At that moment, we didn’t even hope to do it anytime soon. The purpose of the visit was to
+would be needed for that. At that moment, we didn't even hope to do it anytime soon. The purpose of the visit was to
 preliminarily understand the main nuances to try to get a mortgage next year.
 
 Among my acquaintances, there were two successful cases of obtaining a mortgage at CaixaBank, so I went there first.
@@ -82,7 +83,7 @@ of required documents:
 - Bank statement for the last 6 months for the account where I receive payments as an autónomo (at that time, I was
   using Santander).
 
-All these documents can be easily provided if you are an autónomo. But my problem was that I didn’t have an annual
+All these documents can be easily provided if you are an autónomo. But my problem was that I didn't have an annual
 declaration (renta) for the previous year (2023) because I started autónomo activity in 2024. Instead of the annual
 declaration, I could only provide quarterly declarations for the 3 quarters of the current year. This is a **serious
 problem** that significantly reduces the chances of mortgage approval.
@@ -90,7 +91,7 @@ problem** that significantly reduces the chances of mortgage approval.
 The manager explained two possible mortgage options:
 
 - **100% property value coverage by the bank**, with no need for a down payment. This is possible if the property is
-  bought from the bank’s inventory. Such properties can be searched for on websites like haya.es and solvia.es.
+  bought from the bank's inventory. Such properties can be searched for on websites like haya.es and solvia.es.
 - **Up to 90% property value coverage by the bank**, if the property is purchased on the secondary market and does not
   belong to the bank.
 
@@ -119,7 +120,7 @@ clear understanding of the criteria to consider, what to pay attention to, and t
 we watched a lot of real estate content and regularly monitored listings on Idealista.
 
 Initially, we wanted to search for housing in two specific neighborhoods but later settled on one (the one we liked the
-most). We didn’t consider ground or first-floor apartments because they tend to have less light, more street noise, car
+most). We didn't consider ground or first-floor apartments because they tend to have less light, more street noise, car
 exhaust and other odors, potential humidity problems, and pests like cockroaches. We also decided to look for a building
 with an elevator, an apartment with 4-5 rooms (preferably with 2 bathrooms), and a balcony or terrace.
 
@@ -137,7 +138,7 @@ We took another walk to the building and caught some residents near the entrance
 the building and the neighbors (noise levels, any problems).
 
 From the moment we submitted a request on Idealista to the moment we decided to go with that apartment, 3 days had
-passed. I think we couldn’t have made a quicker decision. Even when searching for a rental apartment, it took us about a
+passed. I think we couldn't have made a quicker decision. Even when searching for a rental apartment, it took us about a
 week.
 
 ## Week 2: Apartment reservation and mortgage approval
@@ -158,7 +159,7 @@ We were lucky, as the apartment owner was also present along with the realtor, a
 questions. In the end, the renovation specialist and we were satisfied; the deficiencies we found were minor. Moreover,
 we managed to negotiate the price down by €10,000.
 
-After the viewing, we immediately went to the agency’s office to reserve the apartment and leave a deposit. Signing the
+After the viewing, we immediately went to the agency's office to reserve the apartment and leave a deposit. Signing the
 **Arras** took about another hour, and we left a deposit of €3,000.
 
 **Arras** is a preliminary contract or deposit agreement used in Spain when purchasing real estate. This document
@@ -172,15 +173,15 @@ Overall, I have a very basic understanding of this matter, so I had to consult C
 YouTube, and ask friends who had bought apartments in Valencia. Additionally, we consulted a realtor acquaintance before
 reserving the apartment to ensure the price was fair and to get advice on negotiating.
 
-I listed the criteria we paid attention to when viewing the apartment. The list doesn’t claim to be exhaustive, but I
-think it’s a good starting point.
+I listed the criteria we paid attention to when viewing the apartment. The list doesn't claim to be exhaustive, but I
+think it's a good starting point.
 
 - Ask the realtor and owner, and verify if possible: utility costs; whether the pipes in the building have been
   replaced; when the roof was last repaired; electrical wiring (when it was last updated); apartment temperature in
   winter and summer (ask former residents); inquire about load-bearing walls (useful for understanding potential layout
   changes).
 - General apartment features: ceiling height; electrical panel; test all lights; close windows and check for odors; open
-  and close shutters (check if they’re damp or smelly); look for cockroaches, mold, water stains, or cracks; inspect the
+  and close shutters (check if they're damp or smelly); look for cockroaches, mold, water stains, or cracks; inspect the
   basement, if present (check for cockroaches, rats, and dampness); soundproofing between rooms; noise from cars and
   airplanes with windows closed.
 - Air conditioners: functionality and noise levels.
@@ -196,7 +197,7 @@ think it’s a good starting point.
 ### Tuesday
 
 In the afternoon, the realtor sent me the Nota Simple (a document with information about the property), after which I
-needed to go to the bank. However, it was already late in the day, and there wasn’t enough time before the bank closed,
+needed to go to the bank. However, it was already late in the day, and there wasn't enough time before the bank closed,
 so I had to postpone the visit.
 
 ### Wednesday
@@ -205,7 +206,7 @@ My spouse and I went to the bank with all the documents and submitted the mortga
 and the process took more than an hour. The manager was surprised at how quickly we had managed to find an apartment in
 just a few days. :)
 
-That was it - from this point on, we just had to wait for the bank’s decision.
+That was it - from this point on, we just had to wait for the bank's decision.
 
 ### Thursday
 
@@ -213,8 +214,8 @@ The next day, the manager contacted me and asked me to come to the bank. It turn
 mortgage for both 80% and 90% coverage. However, to get 90%, we needed to apply for the government program **IVF
 Vivienda** (this is done online and is relatively quick).
 
-I was happy but skeptical because I didn’t know what this program entailed or how easy it would be to qualify.
-Unfortunately, my spouse and I didn’t meet one of the criteria: having two years of officially documented residence in
+I was happy but skeptical because I didn't know what this program entailed or how easy it would be to qualify.
+Unfortunately, my spouse and I didn't meet one of the criteria: having two years of officially documented residence in
 the Valencian Community (with registration). We had only one and a half years.
 
 From this day, we could sign the 80% mortgage at any time, as it was already approved. However, we decided to fight for
@@ -227,9 +228,9 @@ The manager informed me that there was a chance to get the 90% mortgage without 
 opened an account with the bank and transferred some funds into it. Additionally, my current credit rating (RISA) was
 3.1. If I could lower it to 2.9, the bank would be able to approve the 90% coverage.
 
-**RISA credit rating** is CaixaBank’s internal rating system that helps the bank assess risks related to the borrower’s
+**RISA credit rating** is CaixaBank's internal rating system that helps the bank assess risks related to the borrower's
 potential inability to pay. Factors influencing the rating include: credit history, current financial obligations,
-income and job stability, personal data (age, marital status, number of dependents), and the borrower’s history of
+income and job stability, personal data (age, marital status, number of dependents), and the borrower's history of
 interactions with the bank (receiving salary payments, purchasing banking products).
 
 **If I had known this in advance, I would have opened an account with CaixaBank instead of Santander when registering as
@@ -269,9 +270,9 @@ I signed the authorization for the appraisal and provided additional documents c
 Hacienda and Seguridad Social.
 
 We agreed with the realtor and the seller to wait until the 5th of the next month to recalculate the credit rating. If
-the 90% mortgage wasn’t approved by then, we would proceed with the 80% mortgage.
+the 90% mortgage wasn't approved by then, we would proceed with the 80% mortgage.
 
-However, there was a small nuance: if we ultimately didn’t complete the mortgage process, the €3,000 deposit would not
+However, there was a small nuance: if we ultimately didn't complete the mortgage process, the €3,000 deposit would not
 be refunded. This was because, by the 5th of the next month, more than 20 days would have passed, as stipulated in the
 agreement. We decided to take this slight risk.
 
@@ -283,7 +284,7 @@ The appraiser visited the apartment to confirm its market value.
 
 ### Wednesday
 
-The appraisal was completed, and the apartment’s value turned out to be higher than the purchase price. This was a good
+The appraisal was completed, and the apartment's value turned out to be higher than the purchase price. This was a good
 sign because if the appraised value had been lower, the bank would base the mortgage on its appraisal rather than the
 actual purchase price.
 
@@ -301,7 +302,7 @@ These services lower the mortgage interest rate and are mandatory for the first 
 Of course, it is more advantageous to take as few additional services as possible, as the total amount paid will be
 lower (even considering the higher mortgage interest rate).
 
-It’s important to note that home insurance is mandatory for the entire mortgage term. However, you are not obligated to
+It's important to note that home insurance is mandatory for the entire mortgage term. However, you are not obligated to
 purchase it directly from the bank; you can buy it from any provider as long as it meets the necessary criteria (these
 are specified in your mortgage agreement).
 
@@ -309,7 +310,7 @@ are specified in your mortgage agreement).
 
 ### Monday
 
-I went to the bank to recalculate the credit rating. Unfortunately, it didn’t improve...
+I went to the bank to recalculate the credit rating. Unfortunately, it didn't improve...
 
 This meant that the bank could only provide 80% financing for the mortgage. My feelings were mixed: on the one hand, I
 was glad we could move forward; on the other hand, 80% was less comfortable for us compared to 90%.
@@ -347,30 +348,30 @@ We needed to attend a preliminary meeting with the notary. There are usually two
 preliminary, where the mortgage terms are explained, and you are asked to complete a questionnaire to confirm that you
 understand everything correctly; the second is the final signing by the buyer and seller, with the handover of the keys.
 
-We were warned that we would need to bring a translator to the final meeting (unfortunately, we haven’t learned Spanish
+We were warned that we would need to bring a translator to the final meeting (unfortunately, we haven't learned Spanish
 yet).
 
-I thought that it wasn’t necessary to bring a translator to the preliminary meeting - it’s just preliminary, after all.
+I thought that it wasn't necessary to bring a translator to the preliminary meeting - it's just preliminary, after all.
 I also assumed there was no need to bring any documents :) The notary was, to put it mildly, surprised by this approach.
 My wife, to put it mildly, was as well. I was surprised too - in Ukraine, I would never have done such a thing, but
-after two years in Spain, I’ve become a bit relaxed.
+after two years in Spain, I've become a bit relaxed.
 
 Fortunately, we managed to resolve everything by sending the documents via email and using ChatGPT as a translator. But
-I don’t recommend repeating our experience. As the notary said, "You should ALWAYS bring all documents to such
+I don't recommend repeating our experience. As the notary said, "You should ALWAYS bring all documents to such
 meetings." We managed everything in about half an hour, completed and signed the questionnaire, and then went for
 coffee.
 
 ### Checking debts on the apartment before purchase
 
-This is usually handled by the realtor, but I’m used to controlling everything myself. She promised to provide all
+This is usually handled by the realtor, but I'm used to controlling everything myself. She promised to provide all
 necessary receipts and certificates to confirm that there were no debts for water, electricity, gas (rare, but our
-apartment has gas), or the homeowners’ association fund.
+apartment has gas), or the homeowners' association fund.
 
 There were no problems with water, electricity, or gas. Even if debts exist, they remain with the previous owner;
-theoretically, you are not responsible for them and won’t need to cover them. However, with the homeowners’ association
-fund, it’s more complicated. By law, debts from the past three years (if any) are transferred to you. Therefore, it’s
+theoretically, you are not responsible for them and won't need to cover them. However, with the homeowners' association
+fund, it's more complicated. By law, debts from the past three years (if any) are transferred to you. Therefore, it's
 crucial to check the **Certificado de estar al corriente de pago** in advance, which confirms there are no outstanding
-debts to the homeowners’ association (Comunidad de Propietarios).
+debts to the homeowners' association (Comunidad de Propietarios).
 
 ## The finale: Completing the transaction and receiving the keys
 
@@ -381,7 +382,7 @@ This was the day of the final document signing.
 We arranged to meet the seller 45 minutes before the notary appointment to inspect the apartment one last time. We
 needed to make sure that the apartment was still in the same condition as during the last viewing. During earlier
 viewings, we had asked the realtor whether the furniture would remain in the apartment, and we were told, "If you want,
-they’ll leave the furniture." We decided to keep the furniture because shortly after the signing, our relatives were
+they'll leave the furniture." We decided to keep the furniture because shortly after the signing, our relatives were
 planning to visit, and we wanted to host them in our new apartment.
 
 We were in for a surprise. To skip ahead: the day turned out to be stressful.
@@ -410,17 +411,17 @@ accompanying me to the offices and helping me handle everything).
 
 ### Problem 2
 
-You’d think everything was done, and we could relax. But no, another problem surfaced. After we signed all the documents
+You'd think everything was done, and we could relax. But no, another problem surfaced. After we signed all the documents
 at the notary, the bank manager made the transfer to the seller from my account within an hour. For some reason, **he
 transferred €2,000 more** than was necessary.
 
 The next day, I had to go to the bank to sort it out. Another error was discovered, this time in the preliminary
-agreement (Arras). When we signed it, I made a €3,000 deposit (via bank transfer to the agency’s account). At some
-point, the bank asked me to send the Arras, but the version I had on hand only had my signature (don’t ask why - human
+agreement (Arras). When we signed it, I made a €3,000 deposit (via bank transfer to the agency's account). At some
+point, the bank asked me to send the Arras, but the version I had on hand only had my signature (don't ask why - human
 error and exhaustion that day were to blame). I asked the realtor to send me a document with her signature. She did, but
 for some reason, it stated a deposit of €1,000 instead of €3,000.
 
-I didn’t pay attention to this discrepancy (again, don’t ask why - it was my mistake).
+I didn't pay attention to this discrepancy (again, don't ask why - it was my mistake).
 
 As a result, the bank transferred €2,000 extra to the seller because it recorded that I had made a €1,000 deposit
 instead of €3,000.
@@ -437,9 +438,9 @@ Two days later, we met to:
 
 The seller transferred €2,000 to my account with the comment "Devolución por exceso de transferencia" ("Refund for
 transfer excess"). I also insisted that we sign a document stating that the bank had mistakenly transferred €2,000 more
-to the seller’s account, that the seller acknowledged this, and that he refunded the money via bank transfer to a
-specific IBAN. Additionally, it stated that neither party had any claims against the other. I’m not sure how necessary
-this was, but that’s my approach.
+to the seller's account, that the seller acknowledged this, and that he refunded the money via bank transfer to a
+specific IBAN. Additionally, it stated that neither party had any claims against the other. I'm not sure how necessary
+this was, but that's my approach.
 
 The situation with the furniture was amusing - I was sure the agency would hire movers. But no, they decided to bring
 everything themselves (the former owner, his wife, the realtor, and her supervisor) :) I joined in too, so we managed
@@ -486,5 +487,6 @@ already an autónomo or plan to register in the future:
 - **[List of reliable gestors](https://itautonomos.com/#reliable-gestors)**
 - **[Autónomo - Complete Guide](https://itautonomos.com/)**
 - **[IT Autonomos Chat](https://bit.ly/it-autonomos-spain-eng)**
+- **[Autonomo & SL Telegram Channel](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}**
 
 Take care!
