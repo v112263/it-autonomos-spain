@@ -10,6 +10,7 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://itautonomos.com/ru/"/>
     <xhtml:link rel="alternate" hreflang="uk" href="https://itautonomos.com/ua/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://itautonomos.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://itautonomos.com/es/"/>
   </url>
   <url>
     <loc>https://itautonomos.com/ru/</loc>
@@ -20,6 +21,12 @@
   <url>
     <loc>https://itautonomos.com/ua/</loc>
     <lastmod>2025-03-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/</loc>
+    <lastmod>2024-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -38,6 +45,12 @@
   <url>
     <loc>https://itautonomos.com/ua/mortgage/</loc>
     <lastmod>2024-12-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/mortgage/</loc>
+    <lastmod>2024-04-02</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -185,6 +198,55 @@
   <url>
     <loc>https://itautonomos.com/en/versions/4.1.html</loc>
     <lastmod>2024-12-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- Release notes (Spanish) -->
+  <url>
+    <loc>https://itautonomos.com/es/versions/1.0.html</loc>
+    <lastmod>2024-04-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/2.0.html</loc>
+    <lastmod>2024-04-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/2.1.html</loc>
+    <lastmod>2024-04-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/2.2.html</loc>
+    <lastmod>2024-04-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/3.0.html</loc>
+    <lastmod>2024-04-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/3.1.html</loc>
+    <lastmod>2024-04-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/4.0.html</loc>
+    <lastmod>2024-04-02</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/4.1.html</loc>
+    <lastmod>2024-04-02</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
