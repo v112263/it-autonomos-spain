@@ -101,7 +101,7 @@ Si el gestor no tiene en cuenta toda la información necesaria, esto puede lleva
 
 ### ¿Necesita presentar la Renta lo antes posible?
 
-En algunas situaciones, como al [obtener una hipoteca](#obtención-de-hipoteca-en-españa-para-autónomos-mi-experiencia-y-errores) o un crédito, puede necesitar presentar la Renta lo antes posible. En tal caso, intente acordar con el gestor la presentación urgente de la declaración.
+En algunas situaciones, como al [obtener una hipoteca](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores) o un crédito, puede necesitar presentar la Renta lo antes posible. En tal caso, intente acordar con el gestor la presentación urgente de la declaración.
 
 ### ¿Cómo ahorrar en la presentación de la Renta?
 
