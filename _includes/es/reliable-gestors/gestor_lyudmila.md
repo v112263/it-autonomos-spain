@@ -37,6 +37,7 @@ certificados, presentar declaraciones fiscales, documentos CFC e interacciones c
     - Registro de autónomo (<s>250 €</s> 200 € con el código promocional "IT Autonomos")
     - Gestión de autónomo (80 €/mes)
     - Consulta individual 60 min (150 €)
+    - Gestión de colaboradores o empleados (40 €)
     - Otros servicios: registro de SL (1500 € llave en mano), gestión de SL (desde 150 €/mes), tramitación de firma
       digital (desde 30 €), apertura de cuenta bancaria (desde 50 €), y mucho más
 
@@ -46,7 +47,7 @@ Todos los precios son sin IVA.
 
 <div id="hiddenContentLyudmilaD" style="display: none; margin-top: 10px;">
 <ul>
-  <li><strong>Tamaño del equipo:</strong> hasta 10 empleados</li>
+  <li><strong>Plantilla:</strong> hasta 10 empleados</li>
   <li><strong>Educación:</strong>
     <ul>
       <li>Todos los empleados tienen educación superior en áreas relevantes (derecho, economía, finanzas)</li>

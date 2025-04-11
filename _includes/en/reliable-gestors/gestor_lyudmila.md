@@ -37,6 +37,7 @@ certificates, tax reporting, CFC documents, and interactions with government aut
     - Autónomo registration (<s>250 €</s> 200 € with promo code "IT Autonomos")
     - Autónomo management (80 €/month)
     - Individual consultation 60 min (150 €)
+    - Management of collaborators or hired employees (40 €)
     - Other services: SL registration (1500 € turnkey), SL management (from 150 €/month), digital signature processing
       (from 30 €), bank account opening (from 50 €), and much more
 

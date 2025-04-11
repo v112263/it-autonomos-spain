@@ -18,8 +18,8 @@ La empresa también proporciona una gama completa de servicios migratorios, incl
 de permisos de residencia. Todos los servicios se ofrecen llave en mano gracias a un equipo interno de abogados.
 
 - **Idiomas:** ruso, inglés, español, italiano, catalán
-- **Oficina:** Barcelona
-- **Regiones atendidas:** Todos los servicios se prestan de forma remota en todas las provincias excepto Ceuta, Melilla,
+- **Oficinas:** Barcelona
+- **Provincias atendidas:** Todos los servicios se prestan de forma remota en todas las provincias excepto Ceuta, Melilla,
   Canarias
 - **Experiencia:** 10 años trabajando con clientes de 23 países
 - **Servicios:**
@@ -38,7 +38,7 @@ Todos los precios son sin IVA.
 
 <div id="hiddenContentTatianaB" style="display: none; margin-top: 10px;">
 <ul>
-  <li><strong>Tamaño del equipo:</strong> Hasta 10 empleados</li>
+  <li><strong>Plantilla:</strong> Hasta 10 empleados</li>
   <li><strong>Educación:</strong> Todos los empleados tienen educación superior especializada (derecho, economía, finanzas) y son miembros del Colegio Oficial de Graduados Sociales de Barcelona y de la Asociación Española Asesores Fiscales y Gestores Tributarios</li>
   <li><strong>Certificado digital:</strong> El gestor presenta informes utilizando su propio certificado, que usted autoriza en el portal tributario</li>
   <li><strong>Responsabilidad:</strong> Seguro que cubre daños en caso de error del gestor (Seguros Catalana Occidente, S.A., № 8-10.566.641-P)</li>

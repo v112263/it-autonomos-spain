@@ -17,8 +17,8 @@ España durante más de 10 años y tiene amplia experiencia en diversas áreas r
 España.
 
 - **Idiomas:** ucraniano, ruso, inglés, español
-- **Oficina:** Valencia
-- **Regiones atendidas:** Todos los servicios se prestan de forma remota en todas las provincias excepto Ceuta, Melilla,
+- **Oficinas:** Valencia
+- **Provincias atendidas:** Todos los servicios se prestan de forma remota en todas las provincias excepto Ceuta, Melilla,
   País Vasco, Navarra
 - **Experiencia:** 5 años en España, más de 20 años en Ucrania
 - **Servicios:**
@@ -35,8 +35,8 @@ Todos los precios son sin IVA.
 
 <div id="hiddenContentMarinaM" style="display: none; margin-top: 10px;">
 <ul>
-  <li><b>Tamaño del equipo:</b> Hasta 5 empleados</li>
-  <li><b>Educación:</b> 
+  <li><strong>Plantilla:</strong> Hasta 5 empleados</li>
+  <li><strong>Educación:</strong> 
     <ul>
       <li>Título de educación superior en Economía de Ucrania, homologado en España.</li>
       <li>Máster en Asesoría Fiscal de la Universidad Católica Valencia</li>
@@ -49,10 +49,10 @@ Todos los precios son sin IVA.
       </li>
     </ul>
   </li>
-  <li><b>Certificado digital:</b> 
+  <li><strong>Certificado digital:</strong> 
     El gestor presenta informes utilizando el certificado del cliente proporcionado al registrar el autónomo. Se firma un acuerdo separado para el uso de datos personales, y existe un seguro para la protección de datos personales de los clientes.
   </li>
-  <li><b>Responsabilidad:</b>
+  <li><strong>Responsabilidad:</strong>
     <ul>
       <li>Seguro que cubre daños en caso de error del gestor (MAFRE Responsabilidad Civil Professional Póliza/Spto 0972300000612 / 000 Fecha 29/09/2023)</li>
       <li>Seguro para infracciones de protección de datos (MAFRE Ciber On Autónomos y Pymes Póliza/Spto 0472300000141 / 000 Fecha 29/09/2023)</li>
