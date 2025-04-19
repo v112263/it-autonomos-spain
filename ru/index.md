@@ -13,6 +13,9 @@ permalink: /ru/
 }
 </style>
 
+{% assign lang = "ru" %}
+{% include common/social-bar.html lang=lang %}
+
 # Autónomo - Полное Руководство
 
 [EN]({{ site.baseurl }}/) | [UA]({{ site.baseurl }}/ua/) | **RU** | [ES]({{ site.baseurl }}/es/)
