@@ -13,6 +13,9 @@ permalink: /ua/
 }
 </style>
 
+{% assign lang = "ua" %}
+{% include common/social-bar.html lang=lang %}
+
 # Autónomo - Повний Довідник
 
 [EN]({{ site.baseurl }}/) | **UA** | [RU]({{ site.baseurl }}/ru/) | [ES]({{ site.baseurl }}/es/)
