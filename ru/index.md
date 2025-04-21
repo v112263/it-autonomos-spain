@@ -5,6 +5,8 @@ description: "Подробный гайд по регистрации и вед�
 permalink: /ru/
 ---
 
+{% include common/gtm-body.html %}
+
 <style>
 {% include common/common.css %}
 

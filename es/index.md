@@ -5,6 +5,8 @@ description: "Guía detallada para registrarse y gestionar el autónomo en Espa�
 permalink: /es/
 ---
 
+{% include common/gtm-body.html %}
+
 <style>
 {% include common/common.css %}
 
