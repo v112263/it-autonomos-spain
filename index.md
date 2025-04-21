@@ -3,6 +3,8 @@ layout: default
 title: "Autónomo - Complete Guide"
 ---
 
+{% include common/gtm-body.html %}
+
 <style>
 {% include common/common.css %}
 </style>

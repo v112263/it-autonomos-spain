@@ -5,6 +5,8 @@ description: "Повний гайд з реєстрації та ведення 
 permalink: /ua/
 ---
 
+{% include common/gtm-body.html %}
+
 <style>
 {% include common/common.css %}
 
