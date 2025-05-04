@@ -1,6 +1,6 @@
 ## Document versions
 
-### Release notes - v4.2 (10/03/2024)
+### Release notes - v4.2 (10/03/2025)
 
 This is a significant update with improvements to key sections, especially the tax reporting process. I've been working
 on it for about three months ([34 commits](https://bit.ly/it-autonomos-github)). The document now has over 60 pages of
