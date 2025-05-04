@@ -1,6 +1,6 @@
 ## Versiones del documento
 
-### Release notes - v4.2 (10/03/2024)
+### Release notes - v4.2 (10/03/2025)
 
 Esta es una actualización significativa con mejoras en secciones clave, especialmente en el proceso de presentación de impuestos. He trabajado en ella
 durante aproximadamente tres meses ([34 commits](https://bit.ly/it-autonomos-github)). El documento ya cuenta con más de 60 páginas de información.
