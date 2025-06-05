@@ -14,6 +14,6 @@ If you suddenly encounter any disputes or need any assistance, write to me in pr
 chat). It is important to me to ensure that the gestors from the list provide you with quality service and that any
 disputes are successfully resolved.
 
-{% include en/reliable-gestors/gestor_lyudmila.md %}
 {% include en/reliable-gestors/gestor_denis.md %}
 {% include en/reliable-gestors/gestor_tatiana.md %}
+{% include en/reliable-gestors/gestor_lyudmila.md %}
