@@ -14,6 +14,6 @@
 повідомлення (мої контакти є в чаті). Для мене важливо бути впевненим, що хестори зі списку надають вам
 якісний сервіс, а у разі виникнення спірних ситуацій вони успішно вирішуються.
 
-{% include ua/reliable-gestors/gestor_lyudmila.md %}
 {% include ua/reliable-gestors/gestor_denis.md %}
+{% include ua/reliable-gestors/gestor_lyudmila.md %}
 {% include ua/reliable-gestors/gestor_tatiana.md %}
