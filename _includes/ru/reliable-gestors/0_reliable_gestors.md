@@ -16,5 +16,4 @@
 
 {% include ru/reliable-gestors/gestor_lyudmila.md %}
 {% include ru/reliable-gestors/gestor_denis.md %}
-{% include ru/reliable-gestors/gestor_marina.md %}
 {% include ru/reliable-gestors/gestor_tatiana.md %}
