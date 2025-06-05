@@ -16,5 +16,4 @@ disputes are successfully resolved.
 
 {% include en/reliable-gestors/gestor_lyudmila.md %}
 {% include en/reliable-gestors/gestor_denis.md %}
-{% include en/reliable-gestors/gestor_marina.md %}
 {% include en/reliable-gestors/gestor_tatiana.md %}
