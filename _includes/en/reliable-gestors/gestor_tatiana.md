@@ -2,7 +2,7 @@
 
 > **Discount of 100 €** for autónomo registration with the promo code "IT Autonomos".
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Contact Tatiana</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Message Tatiana</a>
 
 {% include common/contact-forms/gestor_tatiana_form.html %}
 

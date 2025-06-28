@@ -4,7 +4,7 @@ In the [autónomo chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}
 for a qualified gestor. Such specialists can be difficult to find.
 
 The specialists listed below are verified professionals whom I have contacted many times for work-related issues. Click
-the "Contact the gestor" button and fill out the form – the gestor will reply to you within a business day (in rare
+the "Message the gestor" button and fill out the form – the gestor will reply to you within a business day (in rare
 cases, the next day). If the matter is urgent, mention this in your message.
 
 Be sure to read about the [criteria for a reliable gestor](#criteria-for-a-reliable-gestor) and, ideally, the

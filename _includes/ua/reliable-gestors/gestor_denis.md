@@ -2,7 +2,7 @@
 
 > **Знижка 60 €** на реєстрацію аутономо за промокодом "IT Autonomos", подання річної декларації безкоштовно назавжди.
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorDenis(); return false;">Зв'язатися з Денисом</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorDenis(); return false;">Написати Денису</a>
 
 {% include common/contact-forms/gestor_denis_form.html %}
 

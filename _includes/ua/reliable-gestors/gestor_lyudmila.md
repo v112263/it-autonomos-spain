@@ -2,7 +2,7 @@
 
 > **Знижка 50 €** на реєстрацію аутономо за промокодом "IT Autonomos", заповнення річної декларації безкоштовно.
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Зв'язатися з Людмилою</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Написати Людмилі</a>
 
 {% include common/contact-forms/gestor_lyudmila_form.html %}
 
