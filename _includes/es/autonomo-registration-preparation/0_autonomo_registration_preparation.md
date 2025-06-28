@@ -1,14 +1,32 @@
 # Preparación para registrarse como Autónomo
 
 Para registrarse y gestionar su actividad como autónomo, puede elegir una de las opciones populares: [gestor](#gestores-de-confianza) o
-el servicio [Xolo](https://bit.ly/xolosignup){:target="_blank"}. Personalmente, utilizo el servicio y estoy muy satisfecho.
+el servicio [Xolo](https://bit.ly/xolosignup){:target="_blank"}.
 
 Antes de elegir una de las opciones, recomiendo leer las secciones sobre [gestor](#gestor-1) (especialmente
 [criterios de un gestor fiable](#criterios-de-un-gestor-fiable)) y sobre [Xolo](#xolo-1).
 
+## Gestor
+
+Un [gestor](#gestores-de-confianza) es un especialista en contabilidad e impuestos que proporciona apoyo personalizado a los autónomos en cuestiones
+de presentación de impuestos, interacción con Hacienda y resolución de situaciones no estándar.
+
+- Admite [autónomo colaborador](#autónomo-colaborador).
+- Comunicación personal y consultas individualizadas.
+- Posibilidad de discutir situaciones no estándar.
+- Toda la comunicación con Hacienda y otros organismos es gestionada por el gestor.
+- [Asume la responsabilidad](#responsabilidad-del-gestor) por errores en la presentación.
+- No requiere proporcionar su [certificado digital](#proporcionar-certificado-digital-al-gestor).
+- ⚠️ A veces puede ser difícil encontrar un gestor profesional y responsable.
+- ⚠️ La suscripción en la mayoría de los casos es más cara que la del servicio.
+- ⚠️ El registro como autónomo y del EU VAT generalmente es de pago.
+
+_Si está buscando un buen gestor, consulte la sección de [gestores fiables](#gestores-de-confianza). Y si ya
+está colaborando con un gestor pero no está satisfecho - consulte las [instrucciones para cambiar de gestor](#cambio-de-gestor)._
+
 ## Xolo
 
-Xolo es un servicio que reemplaza completamente al gestor tradicional, ofreciendo una gestión cómoda y automatizada
+Xolo es un servicio que reemplaza en gran medida al gestor tradicional, ofreciendo una gestión cómoda y automatizada
 de su actividad como autónomo para freelancers de IT, marketing, medios, diseño, consultoría
 y [otros sectores](#es-xolo-adecuado-para-ti).
 
@@ -32,22 +50,4 @@ Registro a través del **[enlace de referido](https://bit.ly/xolosignup){:target
 por registrarse).
 
 _Si está colaborando con un gestor pero quiere cambiar a
-Xolo - consulte las [instrucciones para cambiar de gestor a Xolo](#transición-de-gestor-a-xolo)._
-
-## Gestor
-
-Un [gestor](#gestores-de-confianza) es un especialista en contabilidad e impuestos que proporciona apoyo personalizado a los autónomos en cuestiones
-de presentación de impuestos, interacción con Hacienda y resolución de situaciones no estándar.
-
-- Admite [autónomo colaborador](#autónomo-colaborador).
-- Comunicación personal y consultas individualizadas.
-- Posibilidad de discutir situaciones no estándar.
-- Toda la comunicación con Hacienda y otros organismos es gestionada por el gestor.
-- [Asume la responsabilidad](#responsabilidad-del-gestor) por errores en la presentación.
-- No requiere proporcionar su [certificado digital](#proporcionar-certificado-digital-al-gestor).
-- ⚠️ A veces puede ser difícil encontrar un gestor profesional y responsable.
-- ⚠️ La suscripción en la mayoría de los casos es más cara que la del servicio.
-- ⚠️ El registro como autónomo y del EU VAT generalmente es de pago.
-
-_Si está buscando un buen gestor, consulte la sección de [gestores fiables](#gestores-de-confianza). Y si ya
-está colaborando con un gestor pero no está satisfecho - consulte las [instrucciones para cambiar de gestor](#cambio-de-gestor)._ 
+Xolo - consulte las [instrucciones para cambiar de gestor a Xolo](#transición-de-gestor-a-xolo)._ 

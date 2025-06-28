@@ -3,7 +3,7 @@
 > **60 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
 > forever.
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorDenis(); return false;">Contact Denis</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorDenis(); return false;">Message Denis</a>
 
 {% include common/contact-forms/gestor_denis_form.html %}
 

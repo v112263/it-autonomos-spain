@@ -2,7 +2,7 @@
 
 > **Descuento de 100 €** para el registro de autónomo con el código promocional "IT Autonomos".
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Contactar con Tatiana</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Escribe a Tatiana</a>
 
 {% include common/contact-forms/gestor_tatiana_form.html %}
 

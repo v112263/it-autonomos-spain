@@ -2,7 +2,7 @@
 
 > **Знижка 100 €** на реєстрацію аутономо за промокодом "IT Autonomos".
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Зв'язатися з Тетяною</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Написати Тетяні</a>
 
 {% include common/contact-forms/gestor_tatiana_form.html %}
 

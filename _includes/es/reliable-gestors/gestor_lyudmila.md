@@ -3,7 +3,7 @@
 > **Descuento de 50 €** en el registro de autónomo con el código promocional "IT Autonomos", declaración anual de
 > impuestos gratis.
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Contactar con Lyudmila</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Escribe a Lyudmila</a>
 
 {% include common/contact-forms/gestor_lyudmila_form.html %}
 

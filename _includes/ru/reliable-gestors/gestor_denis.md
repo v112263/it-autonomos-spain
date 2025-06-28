@@ -2,7 +2,7 @@
 
 > **Скидка 60 €** на регистрацию аутономо по промокоду "IT Autonomos", заполнение годовой декларации бесплатно навсегда.
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorDenis(); return false;">Связаться с Денисом</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorDenis(); return false;">Написать Денису</a>
 
 {% include common/contact-forms/gestor_denis_form.html %}
 

@@ -2,7 +2,7 @@
 
 > **Скидка 100 €** на регистрацию аутономо по промокоду "IT Autonomos".
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Связаться с Татьяной</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Написать Татьяне</a>
 
 {% include common/contact-forms/gestor_tatiana_form.html %}
 

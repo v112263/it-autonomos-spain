@@ -4,7 +4,7 @@ En el [chat de autónomos](https://bit.ly/it-autonomos-spain-eng){:target="_blan
 cualificados. Estos especialistas pueden ser difíciles de encontrar.
 
 Los especialistas enumerados a continuación son profesionales de confianza a los que he consultado varias veces por asuntos laborales. Haga clic en el
-botón "Contactar con el gestor" y complete el formulario - el gestor le responderá durante el día laborable (en casos excepcionales al
+botón "Escribir al gestor" y complete el formulario - el gestor le responderá durante el día laborable (en casos excepcionales al
 día siguiente). Si su consulta es urgente, indíquelo en su mensaje.
 
 Asegúrese de leer sobre los [criterios de un gestor fiable](#criterios-de-un-gestor-fiable) y preferiblemente

@@ -2,7 +2,7 @@
 
 > **Скидка 50 €** на регистрацию аутономо по промокоду "IT Autonomos", заполнение годовой декларации бесплатно.
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Связаться с Людмилой</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Написать Людмиле</a>
 
 {% include common/contact-forms/gestor_lyudmila_form.html %}
 

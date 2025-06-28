@@ -3,7 +3,7 @@
 > **50 € dicsount** on autónomo registration with the promo code "IT Autonomos", annual tax return filing free of
 > charge.
 
-<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Contact Lyudmila</a>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Message Lyudmila</a>
 
 {% include common/contact-forms/gestor_lyudmila_form.html %}
 
