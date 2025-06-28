@@ -3,13 +3,9 @@
 > **Descuento de 50 €** en el registro de autónomo con el código promocional "IT Autonomos", declaración anual de
 > impuestos gratis.
 
-<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-213943039162"
-  style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="213943039162">
-  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLJzVOM7B%2F%2F7DJvDD4NZ4do08jiHCsX7NaoT7bv5NghooXkwNnHF5zDP%2F6VzQag5XUf%2FFwDf%2BE6pRzXWDk%2FMq80YC6SDFQ1%2Be4wEPoFBH560zgAdfIKylcH9N2N5BxbjcSuF5QwSb70Kyr2LU6mvPPH6Jw%3D%3D&webInteractiveContentId=213943039162&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
-    <img alt="Contact Lyudmila" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-213943039162.png" style="height: 100%; width: 100%; object-fit: fill"
-      onerror="this.style.display='none'" />
-  </a>
-</div>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorLyudmila(); return false;">Contactar con Lyudmila</a>
+
+{% include common/contact-forms/gestor_lyudmila_form.html %}
 
 Lyudmila es socia directora de una empresa que ofrece servicios de contabilidad, fiscalidad, consultoría, migración y
 administración. Los servicios incluyen soporte para Autónomo/SL, abarcando desde el registro del negocio hasta la gestión

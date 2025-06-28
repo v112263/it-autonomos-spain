@@ -2,13 +2,9 @@
 
 > **Скидка 100 €** на регистрацию аутономо по промокоду "IT Autonomos".
 
-<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-190328526068"
-  style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="190328526068">
-  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLKe2t2RV7L4m%2BneFiZ%2FLxT%2BFO2DA5MSfHV23HFPiVMK0rGaCSVBJXU7AfcR8FUueAisccocKgeYTXdG1yGhvV2DudOosIRBCaV3Te4385Ks5f%2FZH4%2Fy9PHVGryMUwos3vkS11DFkyLriMiZd4f3DB6dIg%3D%3D&webInteractiveContentId=190328526068&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
-    <img alt="&#1053;&#1072;&#1087;&#1080;&#1089;&#1072;&#1090;&#1100; &#1058;&#1072;&#1090;&#1100;&#1103;&#1085;&#1077;" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-190328526068.png" style="height: 100%; width: 100%; object-fit: fill"
-      onerror="this.style.display='none'" />
-  </a>
-</div>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorTatiana(); return false;">Связаться с Татьяной</a>
+
+{% include common/contact-forms/gestor_tatiana_form.html %}
 
 Татьяна руководит компанией, предоставляющей бухгалтерские и юридические услуги более 10 лет. Для аутономо и SL
 компания выполняет регистрацию, ведение налогового и бухгалтерского учета, консультирует по оптимизации

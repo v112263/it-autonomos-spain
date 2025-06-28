@@ -3,13 +3,9 @@
 > **60 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
 > forever.
 
-<div class="hs-cta-embed hs-cta-simple-placeholder hs-cta-embed-191039291605"
-  style="max-width:100%; max-height:100%; width:220px;height:50px" data-hubspot-wrapper-cta-id="191039291605">
-  <a href="https://cta-eu1.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLLip4oH7raAYu1wXOdifiiEZYY5P6tTy81nx3N9RhEtX4HyAmBhApt1MoPfE0KXQMCAyI7S4LiGjEJUPiDET10kjCze1l12iChlC%2FlFZ1VqzLCPGdm0u2okRMqvyYjAl481mbz44VeueBBD5CBgU5lEGQ%3D%3D&webInteractiveContentId=191039291605&portalId=145459200" target="_blank" rel="noopener" crossorigin="anonymous">
-    <img alt="Contact Tatiana" loading="lazy" src="https://hubspot-no-cache-eu1-prod.s3.amazonaws.com/cta/default/145459200/interactive-191039291605.png" style="height: 100%; width: 100%; object-fit: fill"
-      onerror="this.style.display='none'" />
-  </a>
-</div>
+<a href="#" class="btn-contact-gestor" onclick="contactGestorDenis(); return false;">Contact Denis</a>
+
+{% include common/contact-forms/gestor_denis_form.html %}
 
 Denis's consulting company, with a focus on tax optimization and advanced accounting, provides all the necessary
 services for Autonomo/SL. As an additional service, they can provide access to an online accounting solution. In this
