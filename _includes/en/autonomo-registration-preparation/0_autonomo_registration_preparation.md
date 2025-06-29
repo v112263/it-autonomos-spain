@@ -3,6 +3,8 @@
 To register and manage an autónomo, you can choose between two popular options: a [gestor](#reliable-gestors) or
 the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service.
 
+Personally, I have extensive experience using both options - both gestor services and Xolo services. I can confidently say that both of these options are good, and you can choose the one you prefer.
+
 Before choosing one of the options, I recommend reading the sections about the [gestor](#gestor-1) (especially
 the [criteria for a reliable gestor](#criteria-for-a-reliable-gestor)) and about [Xolo](#xolo-1).
 

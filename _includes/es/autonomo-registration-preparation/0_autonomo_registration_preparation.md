@@ -3,6 +3,8 @@
 Para registrarse y gestionar su actividad como autónomo, puede elegir una de las opciones populares: [gestor](#gestores-de-confianza) o
 el servicio [Xolo](https://bit.ly/xolosignup){:target="_blank"}.
 
+Personalmente, tengo una amplia experiencia utilizando ambas opciones - tanto los servicios de gestor como los servicios de Xolo. Puedo decir con confianza que ambas opciones son buenas, y puede elegir la que más le guste.
+
 Antes de elegir una de las opciones, recomiendo leer las secciones sobre [gestor](#gestor-1) (especialmente
 [criterios de un gestor fiable](#criterios-de-un-gestor-fiable)) y sobre [Xolo](#xolo-1).
 
