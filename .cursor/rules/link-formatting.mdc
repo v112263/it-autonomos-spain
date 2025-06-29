@@ -1,0 +1,37 @@
+---
+description: Jekyll link formatting standards for internal and external links
+globs: **/*.md,_includes/**/*.md
+alwaysApply: false
+---
+
+# Link Formatting Standards
+
+## Internal Links
+Use Jekyll liquid tags for internal links to ensure proper path resolution:
+
+```markdown
+{% link path/to/file.md %}
+```
+
+### Benefits
+- Automatic path resolution
+- Build-time link validation
+- Consistent URL generation across environments
+
+## External Links  
+Use standard Markdown format with target attribute for external links:
+
+```markdown
+[text](mdc:url){:target="_blank"}
+```
+
+### Requirements
+- Always include `{:target="_blank"}` for external links
+- Ensures links open in new tabs/windows
+- Improves user experience and site retention
+
+## Best Practices
+- Verify all internal links use Jekyll liquid syntax
+- Test link functionality across all language versions
+- Maintain consistent link formatting throughout the site
+- Use descriptive link text for accessibility

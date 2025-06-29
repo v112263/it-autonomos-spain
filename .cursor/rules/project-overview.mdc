@@ -1,0 +1,39 @@
+---
+description: Overall project context and development guidelines for autónomo and SL documentation site
+globs: 
+alwaysApply: true
+---
+
+# Autónomo and SL Spain Documentation Project
+
+## Project Overview
+This is a Jekyll-based multilingual documentation website about being an autónomo or SL in Spain. The site is deployed on GitHub Pages and provides comprehensive guidance in multiple languages.
+
+## Key Principles
+
+### Multilingual First
+- All content must be available in Russian, Ukrainian, English, and Spanish
+- Maintain consistency across all language versions
+- Russian serves as the primary source language
+
+### Content Quality
+- Provide accurate, up-to-date information about Spanish autonomo and SL
+- Maintain professional tone and clear explanations
+- Include practical examples and real-world guidance
+- Use the author's distinctive voice: conversational, practical, and experience-based
+
+### Technical Standards
+- Follow Jekyll best practices
+- Ensure responsive design and accessibility
+- Optimize for search engines and user experience
+
+## Development Workflow
+When making changes:
+1. Update content in the primary language (usually Russian)
+2. Ensure corresponding translations are updated
+3. Verify all navigation and links work across languages
+
+## File Organization
+- Use consistent directory structure across languages
+- Store shared assets in `_includes/common/`
+- Maintain clear separation between content and presentation
