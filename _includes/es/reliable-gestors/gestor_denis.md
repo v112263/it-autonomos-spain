@@ -12,7 +12,7 @@ Los empleados clave tienen formación financiera, años de experiencia trabajand
 
 **Consulta gratuita de 30 minutos antes del registro como autónomo.**
 
-- **Idiomas:** ruso, inglés, español
+- **Idiomas:** español, inglés, ruso
 - **Oficinas:** Alicante, Torrevieja
 - **Provincias atendidas:** todos los servicios se prestan completamente a distancia en todas las provincias, excepto Ceuta, Melilla, País Vasco, Navarra
 - **Experiencia:** 6 años
@@ -26,27 +26,6 @@ Los empleados clave tienen formación financiera, años de experiencia trabajand
 
 Todos los precios no incluyen IVA.
 
-<a href="#" id="detailsLinkDenisI" onclick="toggleDetailsDenisI(); return false;">Más sobre la empresa ⤵</a>
-
-<div id="hiddenContentDenisI" style="display: none; margin-top: 10px;">
-<ul>
-  <li><strong>Plantilla:</strong> hasta 5 empleados</li>
-  <li><strong>Educación:</strong> Universidad de Alicante Grado en Administración y Dirección de Empresas</li>
-  <li><strong>Certificado digital:</strong> el gestor presenta informes utilizando su propio certificado, que usted autoriza en el portal fiscal</li>
-  <li><strong>Responsabilidad:</strong> seguro que cubre daños en caso de error del gestor (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)</li>
-</ul>
-</div>
-
-<script>
-  function toggleDetailsDenisI() {
-    const content = document.getElementById('hiddenContentDenisI');
-    const link = document.getElementById('detailsLinkDenisI');
-    if (content.style.display === 'none') {
-      content.style.display = 'block';
-      link.textContent = 'Más sobre la empresa ⤴';
-    } else {
-      content.style.display = 'none';
-      link.textContent = 'Más sobre la empresa ⤵';
-    }
-  }
-</script> 
+- **Plantilla:** hasta 5 empleados
+- **Certificado digital:** el gestor presenta informes utilizando su propio certificado, que usted autoriza en el portal fiscal
+- **Responsabilidad:** seguro que cubre daños en caso de error del gestor (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N) 

@@ -34,27 +34,6 @@
 
 Усі ціни вказані без урахування IVA.
 
-<a href="#" id="detailsLinkDenisI" onclick="toggleDetailsDenisI(); return false;">Детальніше про компанію ⤵</a>
-
-<div id="hiddenContentDenisI" style="display: none; margin-top: 10px;">
-<ul>
-  <li><strong>Штат:</strong> до 5 співробітників</li>
-  <li><strong>Освіта:</strong> Universidad de Alicante Grado en Administración y Dirección de Empresas</li>
-  <li><strong>Цифровий сертифікат:</strong> хестор подає звітність використовуючи свій сертифікат, який ви авторизуєте в податковому кабінеті</li>
-  <li><strong>Відповідальність:</strong> страхування, яке покриває збитки в разі помилки хестора (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)</li>
-</ul>
-</div>
-
-<script>
-  function toggleDetailsDenisI() {
-    const content = document.getElementById('hiddenContentDenisI');
-    const link = document.getElementById('detailsLinkDenisI');
-    if (content.style.display === 'none') {
-      content.style.display = 'block';
-      link.textContent = 'Детальніше про компанію ⤴';
-    } else {
-      content.style.display = 'none';
-      link.textContent = 'Детальніше про компанію ⤵';
-    }
-  }
-</script>
+- **Штат:** до 5 співробітників
+- **Цифровий сертифікат:** хестор подає звітність використовуючи свій сертифікат, який ви авторизуєте в податковому кабінеті
+- **Відповідальність:** страхування, яке покриває збитки в разі помилки хестора (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)
