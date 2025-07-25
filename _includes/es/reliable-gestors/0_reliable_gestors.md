@@ -16,4 +16,5 @@ un servicio de calidad y que cualquier situación controvertida se resuelve sati
 
 {% include es/reliable-gestors/gestor_denis.md %}
 {% include es/reliable-gestors/gestor_tatiana.md %}
-{% include es/reliable-gestors/gestor_lyudmila.md %} 
+{% include es/reliable-gestors/gestor_lyudmila.md %}
+{% include es/reliable-gestors/gestor_nelia.md %} 
