@@ -23,7 +23,7 @@ sales), import/export of goods, and more.
 - **Offices:** Alicante, Torrevieja
 - **Service regions:** All services are provided remotely across all provinces except Ceuta, Melilla, País Vasco,
   Navarra
-- **Experience:** 6 years
+- **Experience:** 7 years
 - **Services:**
     - Free 30-minute consultation before autónomo registration
     - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
@@ -36,5 +36,5 @@ sales), import/export of goods, and more.
 All prices are excluding IVA.
 
 - **Team size:** Up to 5 employees
-- **Digital certificate:** gestor submits reports using his own certificate, which you authorise through the tax office portal
+- **Digital certificate:** The gestor submits reports using their own certificate, which you authorize in the tax portal
 - **Liability:** insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)

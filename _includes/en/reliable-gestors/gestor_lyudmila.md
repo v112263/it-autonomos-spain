@@ -40,5 +40,5 @@ certificates, tax reporting, CFC documents, and interactions with government aut
 All prices are excluding IVA.
 
 - **Team size:** up to 10 employees
-- **Digital certificate:** gestor submits reports using his own certificate, which you authorise through the tax office portal
+- **Digital certificate:** The gestor submits reports using their own certificate, which you authorize in the tax portal
 - **Liability:** insurance that covers damages in case of gestor's error (Catalana Occidente N de póliza 8-6.371.558-N)
