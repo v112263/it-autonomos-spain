@@ -13,7 +13,7 @@ la legislación local, revisa y redacta contratos, representa a clientes ante or
 La empresa también proporciona una gama completa de servicios migratorios, incluyendo la tramitación de todo tipo
 de permisos de residencia. Todos los servicios se ofrecen llave en mano gracias a un equipo interno de abogados.
 
-- **Idiomas:** ruso, inglés, español, italiano, catalán
+- **Idiomas:** español, inglés, ruso, italiano, catalán
 - **Oficinas:** Barcelona
 - **Provincias atendidas:** Todos los servicios se prestan de forma remota en todas las provincias excepto Ceuta, Melilla,
   Canarias
@@ -30,27 +30,6 @@ de permisos de residencia. Todos los servicios se ofrecen llave en mano gracias 
 
 Todos los precios son sin IVA.
 
-<a href="#" id="detailsLinkTatianaB" onclick="toggleDetailsTatianaB(); return false;">Más sobre la empresa ⤵</a>
-
-<div id="hiddenContentTatianaB" style="display: none; margin-top: 10px;">
-<ul>
-  <li><strong>Plantilla:</strong> Hasta 10 empleados</li>
-  <li><strong>Educación:</strong> Todos los empleados tienen educación superior especializada (derecho, economía, finanzas) y son miembros del Colegio Oficial de Graduados Sociales de Barcelona y de la Asociación Española Asesores Fiscales y Gestores Tributarios</li>
-  <li><strong>Certificado digital:</strong> El gestor presenta informes utilizando su propio certificado, que usted autoriza en el portal tributario</li>
-  <li><strong>Responsabilidad:</strong> Seguro que cubre daños en caso de error del gestor (Seguros Catalana Occidente, S.A., № 8-10.566.641-P)</li>
-</ul>
-</div>
-
-<script>
-  function toggleDetailsTatianaB() {
-    const content = document.getElementById('hiddenContentTatianaB');
-    const link = document.getElementById('detailsLinkTatianaB');
-    if (content.style.display === 'none') {
-      content.style.display = 'block';
-      link.textContent = 'Más sobre la empresa ⤴';
-    } else {
-      content.style.display = 'none';
-      link.textContent = 'Más sobre la empresa ⤵';
-    }
-  }
-</script> 
+- **Plantilla:** Hasta 10 empleados
+- **Certificado digital:** El gestor presenta informes utilizando su propio certificado, que usted autoriza en el portal tributario
+- **Responsabilidad:** Seguro que cubre daños en caso de error del gestor (Seguros Catalana Occidente, S.A., № 8-10.566.641-P) 

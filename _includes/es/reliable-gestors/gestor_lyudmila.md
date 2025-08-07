@@ -23,7 +23,7 @@ certificados, presentar declaraciones fiscales, documentos CFC e interacciones c
 
 **Consulta gratuita de 30 minutos antes del registro como autónomo.**
 
-- **Idiomas:** ucraniano, ruso, español, inglés, francés
+- **Idiomas:** español, inglés, ruso, ucraniano, francés
 - **Oficinas:** Valencia, Kiev
 - **Provincias atendidas:** todos los servicios se prestan completamente a distancia en todas las provincias de España
 - **Experiencia:** en la empresa trabajan gestores con 10 años de experiencia en España, así como expertos en
@@ -39,33 +39,6 @@ certificados, presentar declaraciones fiscales, documentos CFC e interacciones c
 
 Todos los precios son sin IVA.
 
-<a href="#" id="detailsLinkLyudmilaD" onclick="toggleDetailsLyudmilaD(); return false;">Más sobre la empresa ⤵</a>
-
-<div id="hiddenContentLyudmilaD" style="display: none; margin-top: 10px;">
-<ul>
-  <li><strong>Plantilla:</strong> hasta 10 empleados</li>
-  <li><strong>Educación:</strong>
-    <ul>
-      <li>Todos los empleados tienen educación superior en áreas relevantes (derecho, economía, finanzas)</li>
-      <li>Lyudmila: Economista Honorífica de Ucrania (2017), graduada MBA de Edinburgh Business School (2020), Doctora por la Universidad Nacional Taras Shevchenko de Kiev (2021)</li>
-      <li>Anatolii (cofundador de la empresa): Instituto Gilabert de Centelles, especialización en "Administración y finanzas" (2018), miembro de la asociación madrileña "Asesores Excelentes"</li>
-    </ul>
-  </li>
-  <li><strong>Certificado digital:</strong> el gestor presenta informes utilizando su propio certificado, que usted autoriza a través del portal de la agencia tributaria</li>
-  <li><strong>Responsabilidad:</strong> seguro que cubre daños en caso de error del gestor (Catalana Occidente N de póliza 8-6.371.558-N)</li>
-</ul>
-</div>
-
-<script>
-  function toggleDetailsLyudmilaD() {
-    const content = document.getElementById('hiddenContentLyudmilaD');
-    const link = document.getElementById('detailsLinkLyudmilaD');
-    if (content.style.display === 'none') {
-      content.style.display = 'block';
-      link.textContent = 'Más sobre la empresa ⤴';
-    } else {
-      content.style.display = 'none';
-      link.textContent = 'Más sobre la empresa ⤵';
-    }
-  }
-</script> 
+- **Plantilla:** hasta 10 empleados
+- **Certificado digital:** el gestor presenta informes utilizando su propio certificado, que usted autoriza a través del portal de la agencia tributaria
+- **Responsabilidad:** seguro que cubre daños en caso de error del gestor (Catalana Occidente N de póliza 8-6.371.558-N) 

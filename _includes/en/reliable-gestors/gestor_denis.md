@@ -19,11 +19,11 @@ sales), import/export of goods, and more.
 
 **Free 30-minute consultation before autónomo registration.**
 
-- **Languages:** Russian, English, Spanish
+- **Languages:** English, Spanish, Russian
 - **Offices:** Alicante, Torrevieja
 - **Service regions:** All services are provided remotely across all provinces except Ceuta, Melilla, País Vasco,
   Navarra
-- **Experience:** 6 years
+- **Experience:** 7 years
 - **Services:**
     - Free 30-minute consultation before autónomo registration
     - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
@@ -35,27 +35,6 @@ sales), import/export of goods, and more.
 
 All prices are excluding IVA.
 
-<a href="#" id="detailsLinkDenisI" onclick="toggleDetailsDenisI(); return false;">More about the company ⤵</a>
-
-<div id="hiddenContentDenisI" style="display: none; margin-top: 10px;">
-<ul>
-  <li><strong>Team size:</strong> Up to 5 employees</li>
-  <li><strong>Education:</strong> Universidad de Alicante Grado en Administración y Dirección de Empresas</li>
-  <li><strong>Digital certificate:</strong> gestor submits reports using his own certificate, which you authorise through the tax office portal</li>
-  <li><strong>Liability:</strong> insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)</li>
-</ul>
-</div>
-
-<script>
-  function toggleDetailsDenisI() {
-    const content = document.getElementById('hiddenContentDenisI');
-    const link = document.getElementById('detailsLinkDenisI');
-    if (content.style.display === 'none') {
-      content.style.display = 'block';
-      link.textContent = 'More about the company ⤴';
-    } else {
-      content.style.display = 'none';
-      link.textContent = 'More about the company ⤵';
-    }
-  }
-</script>
+- **Team size:** Up to 5 employees
+- **Digital certificate:** The gestor submits reports using their own certificate, which you authorize in the tax portal
+- **Liability:** insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)

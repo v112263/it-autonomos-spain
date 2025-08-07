@@ -38,33 +38,6 @@
 
 Усі ціни вказані без урахування IVA.
 
-<a href="#" id="detailsLinkLyudmilaD" onclick="toggleDetailsLyudmilaD(); return false;">Детальніше про компанію ⤵</a>
-
-<div id="hiddenContentLyudmilaD" style="display: none; margin-top: 10px;">
-<ul>
-  <li><strong>Штат:</strong> до 10 співробітників</li>
-  <li><strong>Освіта:</strong>
-    <ul>
-      <li>Усі співробітники мають профільну вищу освіту (юридичну, економічну, фінансову)</li>
-      <li>Людмила: Заслужений економіст України (2017 рік), випускниця MBA в Единбурзькій бізнес-школі (2020 рік), доктор філософії Київського національного університету імені Тараса Шевченка (2021)</li>
-      <li>Анатолій (співзасновник компанії): Instituto Gilabert de Centelles, спеціалізація "Administración y finanzas" (2018), член Мадридської асоціації "Asesores Excelentes"</li>
-    </ul>
-  </li>
-  <li><strong>Цифровий сертифікат:</strong> хестор подає звітність використовуючи свій сертифікат, який ви авторизуєте в податковому кабінеті</li>
-  <li><strong>Відповідальність:</strong> страхування, яке покриває збитки в разі помилки хестора (Catalana Occidente N de póliza 8-6.371.558-N)</li>
-</ul>
-</div>
-
-<script>
-  function toggleDetailsLyudmilaD() {
-    const content = document.getElementById('hiddenContentLyudmilaD');
-    const link = document.getElementById('detailsLinkLyudmilaD');
-    if (content.style.display === 'none') {
-      content.style.display = 'block';
-      link.textContent = 'Детальніше про компанію ⤴';
-    } else {
-      content.style.display = 'none';
-      link.textContent = 'Детальніше про компанію ⤵';
-    }
-  }
-</script>
+- **Штат:** до 10 співробітників
+- **Цифровий сертифікат:** хестор подає звітність використовуючи свій сертифікат, який ви авторизуєте в податковому кабінеті
+- **Відповідальність:** страхування, яке покриває збитки в разі помилки хестора (Catalana Occidente N de póliza 8-6.371.558-N)
