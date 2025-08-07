@@ -1,9 +1,7 @@
 ---
 description: Language priority ordering for partner profiles across multilingual site versions
-globs: _includes/*/reliable-gestors/*.md
 alwaysApply: false
 ---
-
 # Language Priority for Partner/Gestor Profiles
 
 ## Principle
