@@ -1,4 +1,4 @@
-## Contribution Base (base de cotización)
+## Calculation base for social contributions (Base de cotización)
 
 Base de cotización is the calculation base for [social security contributions](#social-contributions-seguridad-social).
 
@@ -11,14 +11,14 @@ starting from the 13th month you will pay social security contributions at the r
 You need to choose the base de cotización yourself within the limits allowed for your income level. The monthly
 quota is calculated from this base, and your future benefits and pension are also calculated based on this same base.
 
-The contribution base can be changed up to 6 times per year. The new base takes effect every two months: from March 1 / May 1 / July 1 /
+The base de cotización can be changed up to 6 times per year. The new base takes effect every two months: from March 1 / May 1 / July 1 /
 September 1 / November 1 / January 1.
 
 Calculator with income ranges and corresponding monthly
 contributions: [Calculadora de cuotas para autónomos](https://portal.seg-social.gob.es/wps/portal/importass/importass/tramites/simuladorRETAPublico){:
 target="_blank"}
 
-**How to change the contribution base**
+**How to change the base de cotización**
 
 1. Go to the
    link [Modificación de datos de autónomos](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Altas,+bajas+y+modificaciones/Bajas+y+modificaciones/ModDatosAutonomos){:
@@ -35,7 +35,7 @@ target="_blank"}
 The amount in the "Base de cotización" field is not what will be debited from your account. The actual quota is approximately
 31% of the base.
 
-**What if during the year income changed, but you didn't change the contribution base?**
+**What if during the year income changed, but you didn't change the base de cotización?**
 
 If income decreased during the year, and you overpaid for Seguridad Social - the refund will be made automatically after the annual
 reconciliation with the tax authority.

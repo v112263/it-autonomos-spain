@@ -46,7 +46,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 - [Pago de impuestos](#pago-de-impuestos)
     - [Riesgo de perder el descuento Seguridad Social](#riesgo-de-perder-el-descuento-seguridad-social)
     - [Cotizaciones sociales (Seguridad Social)](#cotizaciones-sociales-seguridad-social)
-    - [Base de cotización](#base-de-cotización)
+    - [Base de cálculo para cotizaciones sociales (Base de cotización)](#base-de-cálculo-para-cotizaciones-sociales-base-de-cotización)
     - [IRPF (Impuesto sobre la Renta de las Personas Físicas)](#irpf-impuesto-sobre-la-renta-de-las-personas-físicas)
     - [Pagar impuestos por todo el año o desde el momento del registro como autónomo](#pagar-impuestos-por-todo-el-año-o-desde-el-momento-del-registro-como-autónomo)
     - [Comisión por recepción de fondos en la cuenta bancaria](#comisión-por-recepción-de-fondos-en-la-cuenta-bancaria)

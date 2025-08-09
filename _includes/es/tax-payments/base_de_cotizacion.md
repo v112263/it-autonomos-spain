@@ -1,4 +1,4 @@
-## Base de cotización
+## Base de cálculo para cotizaciones sociales (Base de cotización)
 
 La base de cotización es la base de cálculo para las [cotizaciones de la seguridad social](#cotizaciones-sociales-seguridad-social).
 
