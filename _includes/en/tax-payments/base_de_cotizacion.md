@@ -1,0 +1,44 @@
+## Contribution Base (base de cotización)
+
+Base de cotización is the calculation base for [social security contributions](#social-security-contributions-seguridad-social).
+
+During the first 12 months after autonomo registration, a [reduced rate](#first-year-discount) applies for
+social security contributions.
+
+If in the first year the autonomo's income was above the minimum wage in Spain (approximately 17,000 euros per year), then
+starting from the 13th month you will pay social security contributions at the regular rate depending on your income.
+
+You need to choose the base de cotización yourself within the limits allowed for your income level. The monthly
+quota is calculated from this base, and your future benefits and pension are also calculated based on this same base.
+
+The contribution base can be changed up to 6 times per year. The new base takes effect every two months: from March 1 / May 1 / July 1 /
+September 1 / November 1 / January 1.
+
+Calculator with income ranges and corresponding monthly
+contributions: [Calculadora de cuotas para autónomos](https://portal.seg-social.gob.es/wps/portal/importass/importass/tramites/simuladorRETAPublico){:
+target="_blank"}
+
+**How to change the contribution base**
+
+1. Go to the
+   link [Modificación de datos de autónomos](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Altas,+bajas+y+modificaciones/Bajas+y+modificaciones/ModDatosAutonomos){:
+   target="_blank"}
+2. Solicitar modificación -> Log into the system (for example, using
+   a [digital certificate](#digital-certificate-issuance)) -> Cuota y cotización -> Modificar.
+3. Enter your monthly income (exact formula can be found
+   in [the calculator](https://portal.seg-social.gob.es/wps/portal/importass/importass/tramites/simuladorRETAPublico){:
+   target="_blank"}).
+4. Choose the monthly quota (you can select the minimum), this amount you will pay every month. Also,
+   the quota size affects your future pension and benefits.
+5. Firmar y confirmar.
+
+The amount in the "Base de cotización" field is not what will be debited from your account. The actual quota is approximately
+31% of the base.
+
+**What if during the year income changed, but you didn't change the contribution base?**
+
+If income decreased during the year, and you overpaid for Seguridad Social - the refund will be made automatically after the annual
+reconciliation with the tax authority.
+
+If income increased during the year, and you underpaid for Seguridad Social - you will receive a resolution with the amount and payment deadline
+(approximately 1 month). This payment must be made manually. If you miss the deadline, there will be a penalty of up to 20%.
