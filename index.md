@@ -40,7 +40,7 @@ This document contains all the necessary information for registering and managin
 - [Tax payment](#tax-payment)
     - [Risk of losing the Seguridad Social discount](#risk-of-losing-the-seguridad-social-discount)
     - [Social contributions (Seguridad Social)](#social-contributions-seguridad-social)
-    - [Contribution Base (base de cotización)](#contribution-base-base-de-cotización)
+    - [Calculation base for social contributions (Base de cotización)](#calculation-base-for-social-contributions-base-de-cotización)
     - [IRPF (income tax)](#irpf-income-tax)
     - [Paying taxes for the entire year or from the date of autónomo registration](#paying-taxes-for-the-entire-year-or-from-the-date-of-autónomo-registration)
     - [Fee for incoming funds to a bank account](#fee-for-incoming-funds-to-a-bank-account)
