@@ -1,8 +1,8 @@
 ## Contribution Base (base de cotización)
 
-Base de cotización is the calculation base for [social security contributions](#social-security-contributions-seguridad-social).
+Base de cotización is the calculation base for [social security contributions](#social-contributions-seguridad-social).
 
-During the first 12 months after autonomo registration, a [reduced rate](#first-year-discount) applies for
+During the first 12 months after autonomo registration, a [reduced rate](#risk-of-losing-the-seguridad-social-discount) applies for
 social security contributions.
 
 If in the first year the autonomo's income was above the minimum wage in Spain (approximately 17,000 euros per year), then
@@ -24,7 +24,7 @@ target="_blank"}
    link [Modificación de datos de autónomos](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Altas,+bajas+y+modificaciones/Bajas+y+modificaciones/ModDatosAutonomos){:
    target="_blank"}
 2. Solicitar modificación -> Log into the system (for example, using
-   a [digital certificate](#digital-certificate-issuance)) -> Cuota y cotización -> Modificar.
+   a [digital certificate](#obtaining-a-digital-certificate)) -> Cuota y cotización -> Modificar.
 3. Enter your monthly income (exact formula can be found
    in [the calculator](https://portal.seg-social.gob.es/wps/portal/importass/importass/tramites/simuladorRETAPublico){:
    target="_blank"}).

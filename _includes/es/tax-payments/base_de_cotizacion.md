@@ -1,8 +1,8 @@
 ## Base de cotización
 
-La base de cotización es la base de cálculo para las [cotizaciones de la seguridad social](#cotizaciones-seguridad-social).
+La base de cotización es la base de cálculo para las [cotizaciones de la seguridad social](#cotizaciones-sociales-seguridad-social).
 
-Durante los primeros 12 meses después del registro como autónomo se aplica una [tarifa reducida](#descuento-en-el-primer-año) para
+Durante los primeros 12 meses después del registro como autónomo se aplica una [tarifa reducida](#riesgo-de-perder-el-descuento-seguridad-social) para
 las cotizaciones de la seguridad social.
 
 Si en el primer año los ingresos del autónomo fueron superiores al salario mínimo en España (aproximadamente 17.000 euros al año), entonces
@@ -24,7 +24,7 @@ target="_blank"}
    enlace [Modificación de datos de autónomos](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Altas,+bajas+y+modificaciones/Bajas+y+modificaciones/ModDatosAutonomos){:
    target="_blank"}
 2. Solicitar modificación -> Entrar en el sistema (por ejemplo, usando
-   un [certificado digital](#obtención-certificado-digital)) -> Cuota y cotización -> Modificar.
+   un [certificado digital](#obtención-del-certificado-digital)) -> Cuota y cotización -> Modificar.
 3. Introduce tus ingresos mensuales (la fórmula exacta se puede encontrar
    en [la calculadora](https://portal.seg-social.gob.es/wps/portal/importass/importass/tramites/simuladorRETAPublico){:
    target="_blank"}).
