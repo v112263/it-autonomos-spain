@@ -1,6 +1,6 @@
 ## Nelia B.
 
-> **Free consultation** on autónomo registration and tax optimization (up to 60 minutes) with the promo code "IT Autonomos".
+> **Autónomo registration is free** with the promo code "IT Autonomos".
 
 <a href="#" class="btn-contact-gestor" onclick="contactGestorNelia(); return false;">Message Nelia</a>
 
@@ -12,7 +12,7 @@ In the team with Nelia works a partner-lawyer with 30 years of experience, who i
 
 The team manages a wide range of businesses: from cosmetic factories and raw material import companies to major IT companies and investment companies. This diverse experience allows providing expert consultations on the most complex taxation issues and business process optimization.
 
-**Free consultation up to 60 minutes when registering autónomo.**
+**Autónomo registration is free.**
 
 - **Languages:** English, Russian, Ukrainian, Spanish
 - **Offices:** Madrid
@@ -20,7 +20,7 @@ The team manages a wide range of businesses: from cosmetic factories and raw mat
   País Vasco, Navarra
 - **Experience:** Nelia - 13 years in Spain (and 7 years in Ukraine), partner-lawyer - 30 years in Spain
 - **Services:**
-    - Autónomo registration (70 €)
+    - Autónomo registration (<s>70 €</s> free with promo code "IT Autonomos")
     - Autónomo management (from 70 €/month)
     - Individual consultation 60 min (75 €)
     - Collaborator management (40 €/month)
