@@ -16,7 +16,6 @@ permalink: /es/
 </style>
 
 {% assign lang = "es" %}
-{% include common/social-bar.html lang=lang %}
 
 # Autónomo - Guía Completa
 

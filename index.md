@@ -10,7 +10,6 @@ title: "Autónomo - Complete Guide"
 </style>
 
 {% assign lang = "en" %}
-{% include common/social-bar.html lang=lang %}
 
 # Autónomo - Complete Guide
 
