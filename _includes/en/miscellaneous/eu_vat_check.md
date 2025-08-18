@@ -9,7 +9,7 @@ about 1-2 days later stating that your EU VAT number has been successfully regis
 If you haven't registered for an EU VAT number yet - no problem, contact [Xolo support](#support-contacts) or your 
 gestor, and they will promptly handle everything.
 
-After registering the EU VAT, log in to your [tax agency personal area](#notifications-from-the-tax-office) to check the
+After registering the EU VAT, log in to your tax agency personal area to check the
 notifications, and download the document "AEAT ACUERDO DE ALTA EN EL REGISTRO DE OPERADORES INTRACOMUNITARIOS". In this
 document, you will find your EU VAT number under "Su Número de operador intracomunitario a efectos de IVA es".
 
