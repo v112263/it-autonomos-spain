@@ -6,6 +6,6 @@ Si al registrarse como autónomo también registró un número VAT de la UE (mar
 
 Si aún no ha registrado el VAT de la UE - no hay problema, escriba al [soporte de Xolo](#contactos-de-soporte) o a su gestor, y lo harán rápidamente.
 
-Después de registrar el VAT de la UE, inicie sesión en el [portal fiscal](#notificaciones-de-la-agencia-tributaria) para ver las notificaciones, y descargue el documento "AEAT ACUERDO DE ALTA EN EL REGISTRO DE OPERADORES INTRACOMUNITARIOS". En este documento encontrará su número VAT de la UE "Su Número de operador intracomunitario a efectos de IVA es".
+Después de registrar el VAT de la UE, inicie sesión en el portal fiscal para ver las notificaciones, y descargue el documento "AEAT ACUERDO DE ALTA EN EL REGISTRO DE OPERADORES INTRACOMUNITARIOS". En este documento encontrará su número VAT de la UE "Su Número de operador intracomunitario a efectos de IVA es".
 
 Verifique su número VAT de la UE aquí: [VIES VAT number validation](https://ec.europa.eu/taxation_customs/vies/#/vat-validation){:target="_blank"} 

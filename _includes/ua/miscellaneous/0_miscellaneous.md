@@ -12,6 +12,5 @@
 {% include ua/miscellaneous/sip_for_yourself.md %}
 {% include ua/miscellaneous/sip_family.md %}
 {% include ua/miscellaneous/colaborador.md %}
-{% include ua/miscellaneous/tax_mobile_app.md %}
-{% include ua/miscellaneous/tax_notifications.md %}
+{% include ua/miscellaneous/dehu_notifications.md %}
 {% include ua/miscellaneous/amazon_business.md %}
