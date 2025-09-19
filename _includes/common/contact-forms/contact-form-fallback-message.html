@@ -1,0 +1,10 @@
+{% assign url = page.url | downcase %}
+{% if url contains '/ru/' %}
+{% include common/contact-forms/contact-form-fallback-message.ru.html %}
+{% elsif url contains '/ua/' %}
+{% include common/contact-forms/contact-form-fallback-message.ua.html %}
+{% elsif url contains '/es/' %}
+{% include common/contact-forms/contact-form-fallback-message.es.html %}
+{% else %}
+{% include common/contact-forms/contact-form-fallback-message.en.html %}
+{% endif %}
