@@ -21,6 +21,8 @@
 - Отправьте документ тем, кто планирует регистрировать аутономо или уже ведет его.
 - Присоединяйтесь к нашему [чату аутономо](https://bit.ly/it-autonomos-es){:target="_blank"} и подписывайтесь на телеграм канал
   [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}.
+- Если у вас есть Telegram Premium, [забустите канал 
+  Autonomo & SL](https://bit.ly/autonomo-and-sl-channel-boost){:target="_blank"}.
 - Поставьте звезду [GitHub репозиторию](https://bit.ly/it-autonomos-github){:target="_blank"} с исходниками документа.
 - Присылайте пулл реквесты, если будет желание что-то добавить.
 - Помогайте участникам чата с вопросами, в которых у вас есть знания и опыт, особенно новичкам.
