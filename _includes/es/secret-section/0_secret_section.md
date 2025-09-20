@@ -20,6 +20,7 @@ Si desea agradecerme por el trabajo realizado:
 - Envíe este documento a quienes planean registrarse como autónomos o ya lo son.
 - Únase a nuestro [chat de autónomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} y suscríbase al canal de Telegram
   [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}.
+- Si tiene Telegram Premium, [impulse el canal Autonomo & SL](https://bit.ly/autonomo-and-sl-channel-boost){:target="_blank"}.
 - Dé una estrella al [repositorio de GitHub](https://bit.ly/it-autonomos-github){:target="_blank"} con el código fuente del documento.
 - Envíe pull requests si desea agregar algo.
 - Ayude a los miembros del chat con preguntas en las que tenga conocimiento y experiencia, especialmente a los principiantes.
