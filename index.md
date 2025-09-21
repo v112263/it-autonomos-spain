@@ -82,7 +82,7 @@ This document contains all the necessary information for registering and managin
     - [Receiving income in EUR](#receiving-income-in-eur)
     - [Account freezes and deposit limits](#account-freezes-and-deposit-limits)
     - [Pushing additional services when opening an account](#pushing-additional-services-when-opening-an-account)
-    - [Registration of Modelo 036 in the bank](#registration-of-modelo-036-in-the-bank)
+    - [Documents for the bank after autónomo registration](#documents-for-the-bank-after-autónomo-registration)
 - [Gestor](#gestor-1)
     - [Criteria for a reliable gestor](#criteria-for-a-reliable-gestor)
     - [Gestor's liability](#gestors-liability)
@@ -116,6 +116,8 @@ This document contains all the necessary information for registering and managin
     - [Autónomo colaborador](#autónomo-colaborador)
     - [Electronic notifications from government agencies (DEHú)](#electronic-notifications-from-government-agencies-dehú)
     - [Amazon Business](#amazon-business)
+    - [Modelo 036](#modelo-036)
+    - [Vida Laboral](#vida-laboral)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 

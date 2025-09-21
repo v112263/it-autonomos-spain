@@ -23,4 +23,4 @@
 {% include ua/bank-account/eur_income.md %}
 {% include ua/bank-account/account_blocks_and_deposits.md %}
 {% include ua/bank-account/forced_upselling.md %}
-{% include ua/bank-account/modelo_036.md %}
+{% include ua/bank-account/documents_to_bank.md %}

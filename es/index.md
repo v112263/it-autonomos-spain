@@ -88,7 +88,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
     - [Recibir ingresos en EUR](#recibir-ingresos-en-eur)
     - [Bloqueos de cuenta y límites de depósitos](#bloqueos-de-cuenta-y-límites-de-depósitos)
     - [Venta forzada de servicios al abrir una cuenta](#venta-forzada-de-servicios-al-abrir-una-cuenta)
-    - [Registro del Modelo 036 en el banco](#registro-del-modelo-036-en-el-banco)
+    - [Documentos para el banco tras registrarte como autónomo](#documentos-para-el-banco-tras-registrarte-como-autónomo)
 - [Gestor](#gestor-1)
     - [Criterios de un gestor fiable](#criterios-de-un-gestor-fiable)
     - [Responsabilidad del gestor](#responsabilidad-del-gestor)
@@ -122,6 +122,8 @@ Este documento contiene toda la información necesaria para registrarse y gestio
     - [Autónomo colaborador](#autónomo-colaborador)
     - [Notificaciones electrónicas de organismos gubernamentales (DEHú)](#notificaciones-electrónicas-de-organismos-gubernamentales-dehú)
     - [Amazon Business](#amazon-business)
+    - [Modelo 036](#modelo-036)
+    - [Vida Laboral](#vida-laboral)
 - [Sección secreta](#sección-secreta)
 - [Versiones del documento](#versiones-del-documento)
 

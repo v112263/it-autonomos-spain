@@ -14,3 +14,5 @@
 {% include ua/miscellaneous/colaborador.md %}
 {% include ua/miscellaneous/dehu_notifications.md %}
 {% include ua/miscellaneous/amazon_business.md %}
+{% include ua/miscellaneous/modelo_036.md %}
+{% include ua/miscellaneous/vida_laboral.md %}
