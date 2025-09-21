@@ -25,7 +25,7 @@
    el cliente ignora esta solicitud, el banco puede recordárselo varias veces y luego bloquear la cuenta hasta una visita personal y
    la presentación de documentos.
 5. Trate de proporcionar al banco tantos documentos actualizados como sea posible. Empadronamiento, recibo de servicios públicos,
-   Vida Laboral, [Modelo 036](#registro-del-modelo-036-en-el-banco). Todo esto ayudará a reducir la probabilidad de bloqueos. Ha habido
+   [Vida Laboral](#vida-laboral), [Modelo 036](#modelo-036). Todo esto ayudará a reducir la probabilidad de bloqueos. Ha habido
    casos en los que la cuenta fue bloqueada debido a la falta de alguno de estos documentos, y no se notificó en ninguna parte (ni en
    la aplicación, ni por correo electrónico, ni por SMS).
 6. En cualquier situación poco clara, contacte con su gestor o el soporte del banco. 

@@ -22,4 +22,4 @@ Si tiene preguntas, lea la información a continuación, donde todo se explica c
 {% include es/bank-account/eur_income.md %}
 {% include es/bank-account/account_blocks_and_deposits.md %}
 {% include es/bank-account/forced_upselling.md %}
-{% include es/bank-account/modelo_036.md %} 
+{% include es/bank-account/documents_to_bank.md %} 

@@ -25,8 +25,8 @@
 4. Every year, banks update client information (requesting documents, income sources, place of employment, etc.). If a
    client ignores this request, the bank may remind them several times and then block the account until a personal visit
    and document submission.
-5. Try to provide the bank with as many up-to-date documents as possible. Proof of residence, a utility bill, Vida
-   Laboral, [Modelo 036](#registration-of-modelo-036-in-the-bank) can all help reduce the chances of a freeze. There
+5. Try to provide the bank with as many up-to-date documents as possible. Proof of residence, a utility bill, [Vida
+   Laboral](#vida-laboral), [Modelo 036](#modelo-036) can all help reduce the chances of a freeze. There
    have been cases where accounts were frozen due to a lack of one of these documents, without any notification (neither
    in the app, by mail, nor via SMS).
 6. In any unclear situation, contact your manager or bank support.
