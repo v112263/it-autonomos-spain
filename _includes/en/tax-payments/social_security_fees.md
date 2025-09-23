@@ -39,9 +39,9 @@ years.
    half of the month but completed registration in the second half, the payment will be taken at the end of the
    following month for the current and next full month. This has been reported in our chat, so do not worry.
 6. In rare cases, the contribution for the first month after registering as an autónomo may be deducted with a
-   significant delay – up to 2 months later (I personally know of several such cases). If you encounter such a
+   significant delay - up to 2 months later (I personally know of several such cases). If you encounter such a
    situation, I recommend contacting your gestor/Xolo and following the steps outlined below. Most likely, everything
-   will resolve itself, but it’s better to be cautious.  
+   will resolve itself, but it's better to be cautious.  
    Example of such a rare case:
     - The autónomo is registered in the first half of November.
     - At the end of November, the SS deduction for November does not occur.

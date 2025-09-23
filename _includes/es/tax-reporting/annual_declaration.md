@@ -61,7 +61,7 @@ El [gestor](#gestores-de-confianza) le asesorará sobre cualquier pregunta que t
 
 Una vez recibida la información, el gestor calculará la base imponible y el importe del IRPF. Aplicará todas las [deducciones y beneficios](#deducciones-y-beneficios-fiscales) correspondientes, así como tendrá en cuenta el beneficio neto del negocio (ingresos menos gastos documentados).
 
-Después de completar el cuestionario y todas las conciliaciones, le enviarán un borrador para su revisión, que incluirá todos los cálculos y el importe total del impuesto. Tras su revisión y confirmación, la declaración se enviará a Hacienda. Después del cálculo de la declaración, se le informará de los resultados – el importe del impuesto a pagar o a devolver.
+Después de completar el cuestionario y todas las conciliaciones, le enviarán un borrador para su revisión, que incluirá todos los cálculos y el importe total del impuesto. Tras su revisión y confirmación, la declaración se enviará a Hacienda. Después del cálculo de la declaración, se le informará de los resultados - el importe del impuesto a pagar o a devolver.
 
 ### Cargo del impuesto
 

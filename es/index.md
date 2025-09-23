@@ -39,7 +39,9 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 ## Contenido
 
 - **[Preparación para registrarse como Autónomo](#preparación-para-registrarse-como-autónomo)**
-- **[Gestores de confianza](#gestores-de-confianza)**
+- **[Especialistas de confianza](#especialistas-de-confianza)**
+    - [Gestores](#gestores-de-confianza)
+    - [Abogados de inmigración](#abogados-de-inmigración-de-confianza)
 - **[Registro de Autónomo (paso a paso)](#registro-de-autónomo-paso-a-paso)**
 - [Chat IT Autonomos [Spain]](#chat-it-autonomos-spain)
 - [Pago de impuestos](#pago-de-impuestos)
@@ -128,7 +130,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 - [Versiones del documento](#versiones-del-documento)
 
 {% include es/autonomo-registration-preparation/0_autonomo_registration_preparation.md %}
-{% include es/reliable-gestors/0_reliable_gestors.md %}
+{% include es/reliable-specialists/0_reliable_specialists.md %}
 {% include es/autonomo-registration/0_registration_autonomo.md %}
 {% include es/it-autonomos-chat/0_chat_it_autonomos.md %}
 {% include es/tax-payments/0_tax_payments.md %}

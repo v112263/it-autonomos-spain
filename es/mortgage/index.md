@@ -101,7 +101,7 @@ Tuvimos suerte, y junto con la agente inmobiliaria también estaba el propietari
 
 Después de la visita, fuimos inmediatamente a la oficina de la agencia para reservar el apartamento y dejar un depósito. La firma de las Arras tomó aproximadamente otra hora, dejamos un depósito de 3.000 euros.
 
-**Arras** — es un contrato preliminar o acuerdo de depósito que se utiliza en España al comprar bienes inmuebles. Este documento establece las obligaciones entre el vendedor y el comprador antes de concluir el contrato principal de compraventa.
+**Arras** - es un contrato preliminar o acuerdo de depósito que se utiliza en España al comprar bienes inmuebles. Este documento establece las obligaciones entre el vendedor y el comprador antes de concluir el contrato principal de compraventa.
 
 **En nuestras Arras se establecía que si ningún banco nos concedía una hipoteca, nos devolverían el depósito de 3.000 euros.**
 

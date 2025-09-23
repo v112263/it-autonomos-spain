@@ -39,7 +39,9 @@ permalink: /ua/
 ## Зміст
 
 - **[Підготовка до реєстрації Autónomo](#підготовка-до-реєстрації-autónomo)**
-- **[Надійні хестори](#надійні-хестори)**
+- **[Надійні спеціалісти](#надійні-спеціалісти)**
+    - [Хестори](#надійні-хестори)
+    - [Міграційні юристи](#надійні-міграційні-юристи)
 - **[Реєстрація Autónomo (покроково)](#реєстрація-autónomo-покроково)**
 - [Чат IT Autonomos [Spain]](#чат-it-autonomos-spain)
 - [Сплата податків](#сплата-податків)
@@ -128,7 +130,7 @@ permalink: /ua/
 - [Версії документа](#версії-документа)
 
 {% include ua/autonomo-registration-preparation/0_autonomo_registration_preparation.md %}
-{% include ua/reliable-gestors/0_reliable_gestors.md %}
+{% include ua/reliable-specialists/0_reliable_specialists.md %}
 {% include ua/autonomo-registration/0_registration_autonomo.md %}
 {% include ua/it-autonomos-chat/0_chat_it_autonomos.md %}
 {% include ua/tax-payments/0_tax_payments.md %}

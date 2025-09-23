@@ -29,7 +29,7 @@ This is a Jekyll-based multilingual documentation website about being an autóno
 
 ## Development Workflow
 When making changes:
-1. Update content in the primary language (usually Russian)
+1. Update content in the primary language (Russian)
 2. Ensure corresponding translations are updated
 3. Verify all navigation and links work across languages
 

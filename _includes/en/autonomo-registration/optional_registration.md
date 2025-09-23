@@ -12,6 +12,6 @@ autónomo. If you pay taxes, why not take advantage of these benefits?
 3. Download the document with your social security number (NSS) -
    [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:
    target="_blank"} (I recommend downloading it just in case you need to present this document somewhere).
-4. Familiarize yourself with the [annual declaration filing process](#annual-declaration-renta). This is mandatory, but not urgent — it will become relevant at the beginning of the next year after registering your autónomo.
+4. Familiarize yourself with the [annual declaration filing process](#annual-declaration-renta). This is mandatory, but not urgent - it will become relevant at the beginning of the next year after registering your autónomo.
 5. [Obtain a plastic SIP card for yourself](#obtaining-a-plastic-sip-for-yourself).
 6. [Obtain plastic SIP cards for family members](#obtaining-a-plastic-sip-for-family-members).

@@ -56,4 +56,4 @@ gratuitamente.
 Obtener un certificado a través de [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de Telecomunicacions i Certificació de la Generalitat Valenciana), en línea y (por ahora) gratis.
 	1.	Abrir la página web en el teléfono móvil y crear la solicitud.
 	2.	Hacer una foto del TIE y grabar un video-selfi.
-	3.	Esperar la aprobación por correo electrónico en 1–2 días y seguir las instrucciones.
+	3.	Esperar la aprobación por correo electrónico en 1-2 días y seguir las instrucciones.

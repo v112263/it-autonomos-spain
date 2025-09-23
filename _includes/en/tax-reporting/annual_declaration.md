@@ -119,7 +119,7 @@ After completing the questionnaire and all agreements, you will be sent a draft 
 all
 calculations and the final tax amount. After your review and confirmation, the declaration will be sent to the tax
 authorities.
-After calculating the declaration, you will be informed of the results – the tax amount to be paid or refunded.
+After calculating the declaration, you will be informed of the results - the tax amount to be paid or refunded.
 
 ### Tax deduction
 
