@@ -50,3 +50,10 @@ gratuitamente.
 1. Crear una solicitud para obtener el certificado en el sitio web.
 2. Acudir con los documentos a uno de los centros autorizados para verificar su identidad (oficina de Hacienda (AEAT),
    Seguridad Social, Ayuntamiento, PROP). 
+
+**Método #5**
+
+Obtener un certificado a través de [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de Telecomunicacions i Certificació de la Generalitat Valenciana), en línea y (por ahora) gratis.
+	1.	Abrir la página web en el teléfono móvil y crear la solicitud.
+	2.	Hacer una foto del TIE y grabar un video-selfi.
+	3.	Esperar la aprobación por correo electrónico en 1–2 días y seguir las instrucciones.
