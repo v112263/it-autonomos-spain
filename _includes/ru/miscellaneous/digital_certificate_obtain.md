@@ -53,8 +53,8 @@
 
 **Способ #5**
 
-Оформить сертификат через [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de 
-Telecomunicacions i Certificació от мэрии Валенсии), онлайн и (пока) бесплатно.
+Оформить сертификат через [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de
+Telecomunicacions i Certificació от Правительства Валенсийского сообщества), онлайн и (пока) бесплатно.
 
 1. Открыть сайт на мобильном телефоне, создать заявку.
 2. Сфотографировать TIE и сделать видео-селфи.
