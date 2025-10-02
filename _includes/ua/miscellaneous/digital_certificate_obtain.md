@@ -52,7 +52,7 @@
 
 **Спосіб №5**
 
-Оформити сертифікат через [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de Telecomunicacions i Certificació від мерії Валенсії), онлайн і (поки що) безкоштовно.
+Оформити сертифікат через [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de Telecomunicacions i Certificació від Уряду Валенсійської спільноти), онлайн і (поки що) безкоштовно.
 	1.	Відкрити сайт на мобільному телефоні та створити заявку.
 	2.	Сфотографувати TIE і записати відео-селфі.
 	3.	Дочекатися схвалення на e-mail протягом 1–2 днів і діяти за інструкцією.
