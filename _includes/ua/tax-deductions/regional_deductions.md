@@ -22,5 +22,5 @@
 - Покупка нових екологічних транспортних засобів.
 
 Детальніше про регіональні вирахування Валенсії
-тут: [Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2023/c17-deducciones-autonomicas-cuota/comunitat-valenciana.html){:
+тут: [Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/comunitat-valenciana.html){:
 target="_blank"}. Там же можна знайти інформацію про інші регіони. 

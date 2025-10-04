@@ -4,4 +4,4 @@ Los nuevos autónomos (aquellos que no han ejercido previamente la actividad de 
 
 Para aplicar este descuento, debe discutirlo con su gestor o Xolo al presentar la [declaración anual de la renta](#declaración-anual-renta).
 
-Más información: [Agencia Tributaria: 7.4.2.7. Reducción por inicio de una actividad económica](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2022/7-cumplimentacion-irpf/7_4-rendimientos-actividades-economicas/7_4_2-regimen-estimacion-directa/7_4_2_7-reduccion-inicio-actividad-economica.html){:target="_blank"} 
+Más información: [Agencia Tributaria: 7.4.2.7. Reducción por inicio de una actividad económica](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2024/7-cumplimentacion-irpf/7_4-rendimientos-actividades-economicas/7_4_2-regimen-estimacion-directa/7_4_2_7-reduccion-inicio-actividad-economica.html){:target="_blank"} 

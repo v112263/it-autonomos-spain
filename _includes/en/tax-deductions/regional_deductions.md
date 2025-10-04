@@ -22,5 +22,5 @@ Examples of deductions for Valencia:
 - Purchase of new eco-friendly vehicles.
 
 More about Valencia regional deductions
-here: [Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2023/c17-deducciones-autonomicas-cuota/comunitat-valenciana.html){:
+here: [Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/comunitat-valenciana.html){:
 target="_blank"}. Information about other regions can also be found there. 

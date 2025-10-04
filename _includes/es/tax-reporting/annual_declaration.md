@@ -10,12 +10,12 @@ Para maximizar el ahorro de impuestos, le recomiendo encarecidamente que lea tod
 
 La Renta deben presentarla **no solo los autónomos**. Deben presentarla todas las personas físicas que cumplan ciertos criterios. En algunos casos es obligatorio presentarla, incluso si no está trabajando.
 
-Abajo daré un ejemplo general. Pero la información exacta debe verificarse en el sitio web de Hacienda para el año específico para el que se presenta la declaración. Para 2023 puede consultarse aquí - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2023/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html), y para 2024 deberían publicarlo más tarde.
+Abajo daré un ejemplo general. Pero la información exacta debe verificarse en el sitio web de Hacienda para el año específico para el que se presenta la declaración. Para 2024 puede consultarse aquí - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html), y para 2025 deberían publicarlo más tarde.
 
 Es obligatorio presentar la Renta si en el año fiscal tuvo:
 
 - Ingresos laborales superiores a 22.000 € al año de un solo empleador.
-- Ingresos laborales superiores a 15.000 € al año, si tiene 2 o más empleadores, y uno de ellos pagó más de 1.500 €.
+- Ingresos laborales superiores a 15.876 € al año, si tiene 2 o más empleadores, y uno de ellos pagó más de 1.500 €.
 - Prestaciones o ayudas sociales: ERTE, pagos del ayuntamiento, subsidios, etc.
 - Alquiler: si alquiló una vivienda y ganó más de 1.000 €.
 - Ingresos del extranjero.

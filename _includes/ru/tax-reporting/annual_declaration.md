@@ -19,14 +19,14 @@ Renta должны подавать **не только аутономо**. Ее
 определенные критерии. В некоторых случаях ее обязательно подавать, даже если вы не работаете.
 
 Общий пример я приведу ниже. Но точную информацию нужно проверять на сайте налоговой за конкретный год, для которого
-подается декларация. Для 2023 года можно посмотреть
-здесь - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2023/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html),
-а для 2024 года должны опубликовать позже.
+подается декларация. Для 2024 года можно посмотреть
+здесь - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html),
+а для 2025 года должны опубликовать позже.
 
 Ренту обязательно подавать, если в отчетном году у вас были:
 
 - Доход от работы больше 22 000 € за год от одного работодателя.
-- Доход от работы больше 15 000 € за год, если есть 2 и более работодателя, и один из них выплатил более 1 500 €.
+- Доход от работы больше 15 876 € за год, если есть 2 и более работодателя, и один из них выплатил более 1 500 €.
 - Пособия или соцпомощь: ERTE, выплаты от мэрии, субсидии и т. д.
 - Аренда: если сдавали жильё и заработали более 1 000 €.
 - Доходы из-за границы.
