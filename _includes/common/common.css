@@ -14,14 +14,7 @@
   margin-top: 0;
 }
 
-.hs-cta-embed {
-  margin-bottom: 15px;
-}
-
-
-
-/* Gestor contact button */
-.btn-contact-gestor {
+.btn-contact-specialist {
   display: inline-block;
   font-weight: 470;
   text-align: center;
@@ -41,20 +34,19 @@
   margin: 10px 0;
 }
 
-.btn-contact-gestor:hover {
+.btn-contact-specialist:hover {
   color: #fff;
   background-color: #218838;
   border-color: #1e7e34;
   text-decoration: none;
 }
 
-.btn-contact-gestor:focus, .btn-contact-gestor:active {
+.btn-contact-specialist:focus, .btn-contact-specialist:active {
   box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
   text-decoration: none;
 }
 
-/* Gestor contact form container */
-.gestor-contact-form {
+.specialist-contact-form {
   margin-top: 15px; 
   border: 1px solid #dcedc8; 
   border-radius: 6px; 
@@ -64,14 +56,14 @@
 }
 
 @media (min-width: 768px) {
-  .gestor-contact-form {
+  .specialist-contact-form {
     max-width: 600px;
     width: 100%;
   }
 
   .contact-form-fallback {
-    margin-top: 30px; /* 28–32px on desktop */
-    padding: 20px; /* 16–20px comfortable density */
+    margin-top: 30px; /* 28-32px on desktop */
+    padding: 20px; /* 16-20px comfortable density */
   }
 }
 
@@ -122,4 +114,9 @@
   margin-bottom: 6px;
 }
 
-
+/* Invisible legacy anchor targets: keep scrollable offset without affecting layout */
+.legacy-anchor {
+  display: block;
+  height: 0;
+  visibility: hidden;
+}

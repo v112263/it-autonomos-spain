@@ -21,6 +21,6 @@
 - Донаты на исследования в области Covid-19.
 - Покупка новых экологичных транспортных средств.
 
-Подробнее про региональные вычеты Валенсии здесь: 
-[Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2023/c17-deducciones-autonomicas-cuota/comunitat-valenciana.html){:
+Подробнее про региональные вычеты Валенсии здесь:
+[Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/comunitat-valenciana.html){:
 target="_blank"}. Там же можно найти информацию о других регионах. 

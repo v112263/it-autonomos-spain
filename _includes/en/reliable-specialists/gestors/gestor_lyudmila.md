@@ -1,0 +1,45 @@
+<span id="lyudmila-d" class="legacy-anchor"></span>
+## Lyudmila D. - Gestor
+
+> **50 € dicsount** on autónomo registration with the promo code "IT Autonomos", annual tax return filing free of
+> charge.
+
+<a href="#" class="btn-contact-specialist" onclick="contactGestorLyudmila(); return false;">Message Lyudmila</a>
+
+{% include common/contact-forms/gestors/gestor_lyudmila_form.html %}
+
+Lyudmila is a managing partner of a company that provides accounting, tax, consulting, migration, and administrative
+services. The services include support for Autónomo/SL, covering everything from business registration to handling
+initial documentation and human resource management. It is very important for the company to provide fast and clear
+responses to clients and to stay in regular contact.
+
+Lyudmila is an expert in tax legislation, economics, and finance. From 2015 to 2019, she headed the State Fiscal Service
+of Ukraine in Kyiv.
+
+A team of gestors with 10 years of experience in Spain helps clients solve complex accounting and tax issues and find
+optimal business solutions in new conditions.
+
+In addition to its office in Spain, the company has an office in Ukraine that assists clients with obtaining
+certificates, tax reporting, CFC documents, and interactions with government authorities.
+
+**Free 30-minute consultation before autónomo registration.**
+
+- **Languages:** English, Spanish, Russian, Ukrainian, French
+- **Offices:** Valencia, Kyiv
+- **Service provinces:** all services are provided completely remotely in all provinces of Spain
+- **Experience:** the company employs gestors with 10 years of experience in Spain, as well as experts in Ukrainian
+  legislation and taxes
+- **Services:**
+    - Free 30-minute consultation before autónomo registration
+    - Autónomo registration (<s>250 €</s> 200 € with promo code "IT Autonomos")
+    - Autónomo management (80 €/month)
+    - Individual consultation 60 min (150 €)
+    - Management of collaborators or hired employees (40 €/month)
+    - Other services: SL registration (1500 € turnkey), SL management (from 200 €/month), digital signature processing
+      (50 € without assistance / 80 € with assistance), bank account opening (from 50 €), and much more
+
+All prices are excluding IVA.
+
+- **Team size:** up to 10 employees
+- **Digital certificate:** The gestor submits reports using their own certificate, which you authorize in the tax portal
+- **Liability:** insurance that covers damages in case of gestor's error (Catalana Occidente N de póliza 8-6.371.558-N)

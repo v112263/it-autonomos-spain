@@ -22,14 +22,14 @@ certain criteria. In some cases, it's mandatory to submit it even if you don't w
 
 I'll provide a general example below. However, the exact information should be checked on the tax authority's website
 for the specific year
-for which the declaration is being submitted. For 2023, you can check
-here - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2023/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html),
-and for 2024, it should be published later.
+for which the declaration is being submitted. For 2024, you can check
+here - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html),
+and for 2025, it should be published later.
 
 You must submit a Renta declaration if during the reporting year you had:
 
 - Work income over €22,000 per year from a single employer.
-- Work income over €15,000 per year if you have 2 or more employers, and one of them paid more than €1,500.
+- Work income over €15,876 per year if you have 2 or more employers, and one of them paid more than €1,500.
 - Benefits or social assistance: ERTE, payments from the city council, subsidies, etc.
 - Rental income: if you rented out property and earned more than €1,000.
 - Income from abroad.
@@ -119,7 +119,7 @@ After completing the questionnaire and all agreements, you will be sent a draft 
 all
 calculations and the final tax amount. After your review and confirmation, the declaration will be sent to the tax
 authorities.
-After calculating the declaration, you will be informed of the results – the tax amount to be paid or refunded.
+After calculating the declaration, you will be informed of the results - the tax amount to be paid or refunded.
 
 ### Tax deduction
 

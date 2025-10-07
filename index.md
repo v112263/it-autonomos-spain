@@ -33,7 +33,9 @@ This document contains all the necessary information for registering and managin
 ## Contents
 
 - **[Preparation for registering as Autónomo](#preparation-for-registering-as-autónomo)**
-- **[Reliable gestors](#reliable-gestors)**
+- **[Reliable specialists](#reliable-specialists)**
+    - [Gestors](#reliable-gestors)
+    - [Immigration lawyers](#reliable-immigration-lawyers)
 - **[Autónomo registration (step by step)](#autónomo-registration-step-by-step)**
 - [IT Autonomos [Spain] chat](#it-autonomos-spain-chat)
 - [Tax payment](#tax-payment)
@@ -122,7 +124,7 @@ This document contains all the necessary information for registering and managin
 - [Document versions](#document-versions)
 
 {% include en/autonomo-registration-preparation/0_autonomo_registration_preparation.md %}
-{% include en/reliable-gestors/0_reliable_gestors.md %}
+{% include en/reliable-specialists/0_reliable_specialists.md %}
 {% include en/autonomo-registration/0_registration_autonomo.md %}
 {% include en/it-autonomos-chat/0_chat_it_autonomos.md %}
 {% include en/tax-payments/0_tax_payments.md %}

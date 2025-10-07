@@ -8,4 +8,4 @@ used for professional activity.
 It is difficult to say in advance whether you will need to pay this tax, because it depends on the specific
 municipality. It even happens that in one city, some people need to pay this tax, while others do not.
 
-In average, waste tax is 91 euros per year.
+On average, waste tax is 91 euros per year.

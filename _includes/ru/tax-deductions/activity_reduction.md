@@ -11,4 +11,4 @@
 
 Для того чтобы применить эту скидку, нужно обсудить это с вашим хестором или Xolo при подаче [годовой декларации](#годовая-декларация-renta).
 
-Подробнее: [Agencia Tributaria: 7.4.2.7. Reducción por inicio de una actividad económica](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2022/7-cumplimentacion-irpf/7_4-rendimientos-actividades-economicas/7_4_2-regimen-estimacion-directa/7_4_2_7-reduccion-inicio-actividad-economica.html){:target="_blank"}
+Подробнее: [Agencia Tributaria: 7.4.2.7. Reducción por inicio de una actividad económica](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2024/7-cumplimentacion-irpf/7_4-rendimientos-actividades-economicas/7_4_2-regimen-estimacion-directa/7_4_2_7-reduccion-inicio-actividad-economica.html){:target="_blank"}
