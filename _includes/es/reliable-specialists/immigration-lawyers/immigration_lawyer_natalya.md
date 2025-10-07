@@ -2,8 +2,7 @@
 
 > **Consulta gratuita de 15 minutos** para clientes que llegan a través de IT Autonomos.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Reservar una
-consulta gratuita</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Reservar una consulta</a>
 
 {% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form.html %}
 
