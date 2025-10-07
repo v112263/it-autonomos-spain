@@ -20,12 +20,14 @@ This document contains all the necessary information for registering and managin
 
 1. Contact [reliable gestors](#reliable-gestors) for help with registering and managing autónomo/SL, personal
    consultations, and any other questions.
-2. Read the step-by-step [guide to autónomo registration](#autónomo-registration-step-by-step).
-3. [My personal experience getting a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes) 8 months
+2. Contact [reliable immigration lawyers](#reliable-immigration-lawyers) for help with obtaining any type of
+   residence permit (Digital Nomad, Cuenta Propia, Arraigo, etc.) or Spanish citizenship. Free consultation.
+3. Read the step-by-step [guide to autónomo registration](#autónomo-registration-step-by-step).
+4. [My personal experience getting a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes) 8 months
    after registering as autónomo.
-4. Subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} and
+5. Subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} and
    join the chat [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
-5. Check out the [secret section](#secret-section) if you want to learn about the history of this document or
+6. Check out the [secret section](#secret-section) if you want to learn about the history of this document or
    thank me for my work.
 
 > Information is provided as is and does not replace professional consultation.

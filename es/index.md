@@ -26,12 +26,14 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 
 1. Contacta con [gestores de confianza](#gestores-de-confianza) para ayudarte con el registro y gestión de autónomo/SL, consultas
    personales y cualquier otra pregunta.
-2. Lee la [guía paso a paso para registrarse como autónomo](#registro-de-autónomo-paso-a-paso).
-3. [Mi experiencia personal obteniendo una hipoteca](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores) 8 meses
+2. Contacta con [abogados de inmigración de confianza](#abogados-de-inmigración-de-confianza) para ayudarte con la obtención de cualquier
+   tipo de residencia (Digital Nomad, Cuenta Propia, Arraigo, etc.) o la nacionalidad española. Consulta gratuita.
+3. Lee la [guía paso a paso para registrarse como autónomo](#registro-de-autónomo-paso-a-paso).
+4. [Mi experiencia personal obteniendo una hipoteca](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores) 8 meses
    después de registrarme como autónomo.
-4. Suscríbete al canal de Telegram [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} y
+5. Suscríbete al canal de Telegram [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} y
    únete al chat [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
-5. Echa un vistazo a la [sección secreta](#sección-secreta) si quieres conocer la historia de la creación de este documento o
+6. Echa un vistazo a la [sección secreta](#sección-secreta) si quieres conocer la historia de la creación de este documento o
    agradecerme por mi trabajo.
 
 > La información se proporciona tal cual y no sustituye a la consulta profesional.
