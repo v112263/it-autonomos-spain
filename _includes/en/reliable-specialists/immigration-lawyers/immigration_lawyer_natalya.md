@@ -2,8 +2,7 @@
 
 > **Free 15-minute consultation** for clients coming through IT Autonomos.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Book a free
-consultation</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Book a consultation</a>
 
 {% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form.html %}
 

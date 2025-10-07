@@ -2,8 +2,7 @@
 
 > **Безкоштовна консультація 15 хвилин** для клієнтів, які прийшли через IT Autonomos.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Записатися на
-безкоштовну консультацію</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Записатися на консультацію</a>
 
 {% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form.html %}
 
