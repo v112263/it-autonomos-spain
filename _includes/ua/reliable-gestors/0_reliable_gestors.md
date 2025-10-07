@@ -13,7 +13,7 @@
 target="_blank"}, я допоможу. Для мене важливо бути впевненим, що хестори зі списку надають вам якісний
 сервіс, а при виникненні спірних ситуацій вони успішно вирішуються.
 
-{% include ua/reliable-gestors/gestor_nelia.md %}
 {% include ua/reliable-gestors/gestor_denis.md %}
-{% include ua/reliable-gestors/gestor_tatiana.md %}
 {% include ua/reliable-gestors/gestor_lyudmila.md %}
+{% include ua/reliable-gestors/gestor_tatiana.md %}
+{% include ua/reliable-gestors/gestor_nelia.md %}

@@ -13,7 +13,7 @@ Need help - write me private messages [in the telegram channel](https://bit.ly/a
 target="_blank"}, I will help. It is important to me to be sure that the gestors from the list provide you with quality
 service, and when disputes arise they are successfully resolved.
 
-{% include en/reliable-gestors/gestor_nelia.md %}
 {% include en/reliable-gestors/gestor_denis.md %}
-{% include en/reliable-gestors/gestor_tatiana.md %}
 {% include en/reliable-gestors/gestor_lyudmila.md %}
+{% include en/reliable-gestors/gestor_nelia.md %}
+{% include en/reliable-gestors/gestor_tatiana.md %}
