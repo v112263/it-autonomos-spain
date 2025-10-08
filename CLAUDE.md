@@ -99,18 +99,26 @@ A Jekyll-based multilingual documentation website about being an autónomo or SL
 ├── ru/index.md                 # Russian index
 ├── ua/index.md                 # Ukrainian index
 ├── es/index.md                 # Spanish index
-├── en/                         # English article pages
-├── ru/                         # Russian article pages
-├── ua/                         # Ukrainian article pages
-├── es/                         # Spanish article pages
+├── en/                         # Full-length articles (mortgage, versions)
+│   ├── mortgage/index.md      # Full mortgage guide
+│   └── versions/              # Document version history (1.0.md, 2.0.md, etc.)
+├── ru/                         # Full-length articles (mortgage, versions)
+│   ├── mortgage/index.md
+│   └── versions/
+├── ua/                         # Full-length articles (mortgage, versions)
+│   ├── mortgage/index.md
+│   └── versions/
+├── es/                         # Full-length articles (mortgage, versions)
+│   ├── mortgage/index.md
+│   └── versions/
 ├── _includes/
 │   ├── common/                 # Shared assets (CSS, JS, forms)
 │   │   ├── common.css         # All site styles
 │   │   └── scripts.js         # All site scripts
-│   ├── en/                    # English article includes
-│   ├── ru/                    # Russian article includes
-│   ├── ua/                    # Ukrainian article includes
-│   └── es/                    # Spanish article includes
+│   ├── en/                    # English article includes (majority of articles)
+│   ├── ru/                    # Russian article includes (majority of articles)
+│   ├── ua/                    # Ukrainian article includes (majority of articles)
+│   └── es/                    # Spanish article includes (majority of articles)
 ├── _layouts/                   # Jekyll layouts
 └── _img/                       # Images and media assets
 ```
@@ -118,7 +126,10 @@ A Jekyll-based multilingual documentation website about being an autónomo or SL
 ### Content Organization
 
 - Each language maintains **identical structure and organization**
-- Articles are stored in `_includes/{lang}/` directories, organized by topic
+- **Primary content location**: `_includes/{lang}/` directories contain the majority of articles, organized by topic
+- **Separately placed in root language directories** (`en/`, `ru/`, `ua/`, `es/`):
+  - `mortgage/index.md` - Full mortgage guide article
+  - `versions/` - Document version history and past release notes
 - Index files (`*/index.md`) serve as navigation hubs linking to all articles
 - Common assets (CSS, JS, forms) are in `_includes/common/`
 
