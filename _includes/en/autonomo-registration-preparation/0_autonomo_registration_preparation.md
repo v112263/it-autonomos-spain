@@ -1,17 +1,23 @@
 # Preparation for registering as Autónomo
 
+Before registering as autónomo, you need to obtain a residence permit with
+the right to work. I recommend contacting
+[reliable immigration lawyers](#reliable-immigration-lawyers) for help with obtaining Digital Nomad, Cuenta Propia
+or other types of residence.
+
 To register and manage an autónomo, you can choose between two popular options: a [gestor](#reliable-gestors) or
 the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service.
 
-Personally, I have extensive experience using both options - both gestor services and Xolo services. I can confidently say that both of these options are good, and you can choose the one you prefer.
+Personally, I have extensive experience using both options - both gestor services and Xolo services. I can confidently
+say that both of these options are good, and you can choose the one you prefer.
 
 Before choosing one of the options, I recommend reading the sections about the [gestor](#gestor-1) (especially
 the [criteria for a reliable gestor](#criteria-for-a-reliable-gestor)) and about [Xolo](#xolo-1).
 
 ## Gestor
 
-[Gestor](#reliable-gestors) is a specialist in accounting and taxes who provides personalized support to autónomo in matters of reporting,
-interaction with the tax authorities, and solving non-standard situations.
+[Gestor](#reliable-gestors) is a specialist in accounting and taxes who provides personalized support to autónomo in matters
+of reporting, interaction with the tax authorities, and solving non-standard situations.
 
 - Supports [autónomo colaborador](#autónomo-colaborador).
 - Personal communication and individual consultations.

@@ -1,17 +1,23 @@
 # Preparación para registrarse como Autónomo
 
+Antes de registrarse como autónomo, necesita obtener un permiso de residencia con
+derecho a trabajar. Recomiendo contactar con
+[abogados de inmigración de confianza](#abogados-de-inmigración-de-confianza) para ayuda con la obtención de Digital Nomad, Cuenta Propia
+u otro tipo de residencia.
+
 Para registrarse y gestionar su actividad como autónomo, puede elegir una de las opciones populares: [gestor](#gestores-de-confianza) o
 el servicio [Xolo](https://bit.ly/xolosignup){:target="_blank"}.
 
-Personalmente, tengo una amplia experiencia utilizando ambas opciones - tanto los servicios de gestor como los servicios de Xolo. Puedo decir con confianza que ambas opciones son buenas, y puede elegir la que más le guste.
+Personalmente, tengo una amplia experiencia utilizando ambas opciones - tanto los servicios de gestor como los servicios de Xolo. Puedo decir con confianza
+que ambas opciones son buenas, y puede elegir la que más le guste.
 
 Antes de elegir una de las opciones, recomiendo leer las secciones sobre [gestor](#gestor-1) (especialmente
 [criterios de un gestor fiable](#criterios-de-un-gestor-fiable)) y sobre [Xolo](#xolo-1).
 
 ## Gestor
 
-Un [gestor](#gestores-de-confianza) es un especialista en contabilidad e impuestos que proporciona apoyo personalizado a los autónomos en cuestiones
-de presentación de impuestos, interacción con Hacienda y resolución de situaciones no estándar.
+Un [gestor](#gestores-de-confianza) es un especialista en contabilidad e impuestos que proporciona apoyo personalizado
+a los autónomos en cuestiones de presentación de impuestos, interacción con Hacienda y resolución de situaciones no estándar.
 
 - Admite [autónomo colaborador](#autónomo-colaborador).
 - Comunicación personal y consultas individualizadas.
