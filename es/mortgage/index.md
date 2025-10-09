@@ -2,7 +2,7 @@
 
 Una de las razones por las que me registré como autónomo fue la posibilidad de obtener una hipoteca.
 
-Recientemente, mi cónyuge y yo obtuvimos una hipoteca en Valencia por el 80% (2,95% anual). A pesar de que llevaba menos de 8 meses como autónomo y no tenía declaración anual (renta). Todo el proceso tomó menos de un mes y medio desde la primera visita al banco y la pregunta "¿es posible obtener una hipoteca y qué se necesita para ello?" hasta el momento de recibir las llaves del apartamento. También añadiré que vivimos en España bajo protección temporal para ucranianos.
+Recientemente, mi cónyuge y yo obtuvimos una hipoteca en Valencia por el 80% (2,95% anual). A pesar de que llevaba menos de 8 meses como autónomo y no tenía declaración anual (renta). Todo el proceso tomó menos de un mes y medio desde la primera visita al banco y la pregunta "¿es posible obtener una hipoteca y qué se necesita para ello?" hasta el momento de recibir las llaves del apartamento. También añadiré que vivimos en España bajo protección temporal para ucranianos. Si necesita ayuda con la obtención de residencia u otros asuntos de inmigración, le recomiendo que contacte con [abogados de inmigración de confianza](https://itautonomos.com/es/#abogados-de-inmigración-de-confianza).
 
 Brevemente sobre el apartamento: 120 metros cuadrados, 5 habitaciones (solo una de ellas con ventana al patio interior), salón grande, 2 baños, cocina separada con galería, balcón, edificio con ascensor. El apartamento está parcialmente reformado. El edificio está muy bien cuidado, hace un par de años se realizó una reforma integral del portal, la fachada y el tejado. A 2 minutos a pie del metro, a 5 minutos en metro del centro de Valencia. No revelaré el precio del apartamento.
 
@@ -20,6 +20,7 @@ Un pequeño paréntesis. Si planea registrarse como autónomo, le serán útiles
 
 - **[Instrucciones para registrarse como autónomo](https://itautonomos.com/es/#registro-de-autónomo-paso-a-paso)**
 - **[Lista de gestores confiables](https://itautonomos.com/es/#gestores-de-confianza)**
+- **[Lista de abogados de inmigración de confianza](https://itautonomos.com/es/#abogados-de-inmigración-de-confianza)**
 - **[Autónomo - Guía Completa](https://itautonomos.com/es/)**
 - **[Chat IT Autonomos](https://bit.ly/it-autonomos-spain-eng)**
 - **[Canal de Telegram Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}**
@@ -312,6 +313,7 @@ Recuerdo que tengo un documento muy detallado sobre el registro y gestión como 
 
 - **[Instrucciones para registrarse como autónomo](https://itautonomos.com/es/#registro-de-autónomo-paso-a-paso)**
 - **[Lista de gestores confiables](https://itautonomos.com/es/#gestores-de-confianza)**
+- **[Lista de abogados de inmigración de confianza](https://itautonomos.com/es/#abogados-de-inmigración-de-confianza)**
 - **[Autónomo - Guía Completa](https://itautonomos.com/es/)**
 - **[Chat IT Autonomos](https://bit.ly/it-autonomos-spain-eng)**
 - **[Canal de Telegram Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}**
