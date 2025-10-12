@@ -16,3 +16,4 @@
 {% include ua/miscellaneous/amazon_business.md %}
 {% include ua/miscellaneous/modelo_036.md %}
 {% include ua/miscellaneous/vida_laboral.md %}
+{% include ua/miscellaneous/hacienda_consultations.md %}
