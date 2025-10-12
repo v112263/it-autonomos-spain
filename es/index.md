@@ -128,6 +128,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
     - [Amazon Business](#amazon-business)
     - [Modelo 036](#modelo-036)
     - [Vida Laboral](#vida-laboral)
+    - [Consultas oficiales de la agencia tributaria](#consultas-oficiales-de-la-agencia-tributaria)
 - [Sección secreta](#sección-secreta)
 - [Versiones del documento](#versiones-del-documento)
 

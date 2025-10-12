@@ -122,6 +122,7 @@ This document contains all the necessary information for registering and managin
     - [Amazon Business](#amazon-business)
     - [Modelo 036](#modelo-036)
     - [Vida Laboral](#vida-laboral)
+    - [Official tax authority consultations](#official-tax-authority-consultations)
 - [Secret section](#secret-section)
 - [Document versions](#document-versions)
 
