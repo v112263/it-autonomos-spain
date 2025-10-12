@@ -159,6 +159,16 @@ Use **Sentence case** for all titles in all languages:
 
 Apply consistently across all language versions.
 
+### Punctuation Rules
+
+**CRITICAL RULE**: **Only use short hyphen "-" (U+002D), never use em dash "—" (U+2014) or en dash "–" (U+2013)**
+
+This is a universal rule that applies to ALL content across all language versions.
+
+Examples:
+- CORRECT: `text - text`
+- WRONG: `text — text` or `text – text`
+
 ## Link Formatting
 
 ### Internal Links
@@ -245,6 +255,7 @@ Apply consistently across all partners; don't hardcode exceptions.
 - [ ] Matched author's tone and style
 - [ ] EN/ES terms remain untranslated
 - [ ] Titles use Sentence case
+- [ ] Only short hyphen "-" used (no em dash "—" or en dash "–")
 - [ ] Internal links use `{% raw %}{% link path.md %}{% endraw %}`
 - [ ] External links have `{:target="_blank"}`
 - [ ] Correct Telegram links for Russian version
@@ -259,6 +270,7 @@ Apply consistently across all partners; don't hardcode exceptions.
 - [ ] Translated to EN from approved RU
 - [ ] Translated to ES from approved RU
 - [ ] EN/ES terms remain untranslated in all versions
+- [ ] Only short hyphen "-" used in all versions (no em dash "—" or en dash "–")
 - [ ] All formatting preserved exactly
 - [ ] Correct Telegram links for each language
 - [ ] Updated all 4 index files (if structure changed)
