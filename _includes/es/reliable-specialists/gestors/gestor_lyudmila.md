@@ -22,7 +22,7 @@ contables y fiscales, y a encontrar soluciones empresariales óptimas en nuevas 
 Además de su oficina en España, la empresa cuenta con una oficina en Ucrania que ayuda a los clientes a obtener
 certificados, presentar declaraciones fiscales, documentos CFC e interacciones con las autoridades gubernamentales.
 
-Una ventaja adicional es trabajar en equipo con [la abogada de inmigración Natalia](#natalia-d---abogada-de-inmigración).
+Una ventaja adicional es trabajar en equipo con [la abogada de inmigración Natalia](#natalya-d---abogada-de-inmigración).
 Esto significa que puede recibir un apoyo integral: resolver simultáneamente cuestiones fiscales y
 cuestiones de inmigración (tramitación de permiso de residencia, renovación de residencia, transición de un tipo de permiso de residencia a otro, solicitud de ciudadanía).
 
