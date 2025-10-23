@@ -1,17 +1,6 @@
 ## Is Xolo suitable for you
 
-Xolo works for freelancers who are already self-employed or who want to register as self-employed and meet the
-following criteria:
-
-- Residents in Spain, meaning they live or plan on living in Spain for more than 183 days and therefore are obligated to
-  declare their income to the Tax Office. Unless you can opt for the impatriates regime (Beckham Law).
-- Individuals who do not live in Ceuta, Melilla, the Basque Country, or Navarre.
-- Professionals in categories of the Tax on Economic Activities (IAE) that are subject to the simplified direct
-  estimation regime.
-- Who do not have employees.
-- Those who sell physical goods but do not have a shop or other establishment open to the public.
-
-List of fields for which service is ideal:
+List of fields for which the service is ideal:
 
 - Developers, programmers and other IT-related freelancers.
 - Business consultants and analysts.
@@ -23,3 +12,12 @@ List of fields for which service is ideal:
 - Data and statistics analysts.
 - Freelance teachers.
 - Translators or interpreters.
+
+The service is suitable for those who plan to register as autónomo, as well as those who are already autónomo and
+meet the following criteria:
+
+- Lives in Spain and has work authorization (if you don't yet have residence permit with work authorization, you can contact [experienced immigration lawyers](#reliable-immigration-lawyers) for assistance with the application).
+- Does not live in Ceuta, Melilla, the Basque Country, or Navarre (these regions have special tax rules that the service does not work with).
+- Works in fields from the list above (the service is not suitable for other types of professions, such as taxi drivers, bar owners, and some others).
+- Does not have employees.
+- If selling physical goods - does not have a shop or other establishment open to the public.
