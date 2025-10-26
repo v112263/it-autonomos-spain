@@ -1,5 +1,6 @@
 <span id="denis-i" class="legacy-anchor"></span>
-## Denis I. - Gestor
+<span id="denis-i---gestor" class="legacy-anchor"></span>
+## Denis - Gestor
 
 > **60 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
 > forever.

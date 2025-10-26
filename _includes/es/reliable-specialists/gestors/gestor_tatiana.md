@@ -1,5 +1,6 @@
 <span id="tatiana-b" class="legacy-anchor"></span>
-## Tatiana B. - Gestor
+<span id="tatiana-b---gestor" class="legacy-anchor"></span>
+## Tatiana - Gestor
 
 > **Descuento de 100 €** para el registro de autónomo con el código promocional "IT Autonomos".
 
