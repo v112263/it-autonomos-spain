@@ -1,5 +1,6 @@
 <span id="lyudmila-d" class="legacy-anchor"></span>
-## Lyudmila D. - Gestor
+<span id="lyudmila-d---gestor" class="legacy-anchor"></span>
+## Lyudmila - Gestor
 
 > **Descuento de 50 €** en el registro de autónomo con el código promocional "IT Autonomos", declaración anual de
 > impuestos gratis.

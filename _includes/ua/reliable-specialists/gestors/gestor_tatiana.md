@@ -1,5 +1,6 @@
 <span id="тетяна-б" class="legacy-anchor"></span>
-## Тетяна Б. - Хестор
+<span id="тетяна-б---хестор" class="legacy-anchor"></span>
+## Тетяна - Хестор
 
 > **Знижка 100 €** на реєстрацію аутономо за промокодом "IT Autonomos".
 

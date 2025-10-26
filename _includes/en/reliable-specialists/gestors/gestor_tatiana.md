@@ -1,5 +1,6 @@
 <span id="tatiana-b" class="legacy-anchor"></span>
-## Tatiana B. - Gestor
+<span id="tatiana-b---gestor" class="legacy-anchor"></span>
+## Tatiana - Gestor
 
 > **Discount of 100 €** for autónomo registration with the promo code "IT Autonomos".
 

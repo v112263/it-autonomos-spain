@@ -1,5 +1,6 @@
 <span id="nelia-b" class="legacy-anchor"></span>
-## Nelia B. - Gestor
+<span id="nelia-b---gestor" class="legacy-anchor"></span>
+## Nelia - Gestor
 
 > **Autónomo registration is free** with the promo code "IT Autonomos".
 

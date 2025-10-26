@@ -1,5 +1,6 @@
 <span id="nelia-b" class="legacy-anchor"></span>
-## Nelia B. - Gestor
+<span id="nelia-b---gestor" class="legacy-anchor"></span>
+## Nelia - Gestor
 
 > **Registro de autónomo gratis** con el código promocional "IT Autonomos".
 

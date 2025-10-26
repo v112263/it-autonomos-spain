@@ -1,5 +1,6 @@
 <span id="denis-i" class="legacy-anchor"></span>
-## Denis I. - Gestor
+<span id="denis-i---gestor" class="legacy-anchor"></span>
+## Denis - Gestor
 
 > **Descuento de 60 €** en el registro de autónomo con el código promocional "IT Autonomos", declaración anual de impuestos gratis para siempre.
 

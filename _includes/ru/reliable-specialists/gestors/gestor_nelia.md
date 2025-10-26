@@ -1,5 +1,6 @@
 <span id="неля-б" class="legacy-anchor"></span>
-## Неля Б. - Хестор
+<span id="неля-б---хестор" class="legacy-anchor"></span>
+## Неля - Хестор
 
 > **Бесплатная регистрация аутономо** по промокоду "IT Autonomos".
 

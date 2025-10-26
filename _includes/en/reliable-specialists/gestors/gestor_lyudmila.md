@@ -1,5 +1,6 @@
 <span id="lyudmila-d" class="legacy-anchor"></span>
-## Lyudmila D. - Gestor
+<span id="lyudmila-d---gestor" class="legacy-anchor"></span>
+## Lyudmila - Gestor
 
 > **50 € dicsount** on autónomo registration with the promo code "IT Autonomos", annual tax return filing free of
 > charge.
