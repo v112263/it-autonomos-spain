@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://itautonomos.com/</loc>
-    <lastmod>2025-03-19</lastmod>
+    <lastmod>2025-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://itautonomos.com/"/>
@@ -14,43 +14,43 @@
   </url>
   <url>
     <loc>https://itautonomos.com/ru/</loc>
-    <lastmod>2025-03-19</lastmod>
+    <lastmod>2025-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/ua/</loc>
-    <lastmod>2025-03-19</lastmod>
+    <lastmod>2025-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2025-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/en/mortgage/</loc>
-    <lastmod>2024-12-18</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/ru/mortgage/</loc>
-    <lastmod>2024-12-18</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/ua/mortgage/</loc>
-    <lastmod>2024-12-18</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/mortgage/</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2025-10-09</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -103,6 +103,12 @@
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://itautonomos.com/ru/versions/4.2.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
   <!-- Release notes (Ukrainian) -->
   <url>
     <loc>https://itautonomos.com/ua/versions/1.0.html</loc>
@@ -149,6 +155,12 @@
   <url>
     <loc>https://itautonomos.com/ua/versions/4.1.html</loc>
     <lastmod>2024-12-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/ua/versions/4.2.html</loc>
+    <lastmod>2025-10-29</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
@@ -201,52 +213,64 @@
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://itautonomos.com/en/versions/4.2.html</loc>
+    <lastmod>2025-10-29</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
   <!-- Release notes (Spanish) -->
   <url>
     <loc>https://itautonomos.com/es/versions/1.0.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-02-20</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/versions/2.0.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-06-04</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/versions/2.1.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/versions/2.2.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-07-05</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/versions/3.0.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-07-24</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/versions/3.1.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-08-12</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/versions/4.0.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-10-08</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://itautonomos.com/es/versions/4.1.html</loc>
-    <lastmod>2024-04-02</lastmod>
+    <lastmod>2024-12-18</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://itautonomos.com/es/versions/4.2.html</loc>
+    <lastmod>2025-10-29</lastmod>
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
