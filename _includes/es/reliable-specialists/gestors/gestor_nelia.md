@@ -24,7 +24,7 @@ El equipo gestiona una amplia gama de negocios: desde fábricas de cosméticos y
 - **Servicios:**
     - Registro de autónomo (<s>70 €</s> gratis con el código promocional "IT Autonomos")
     - Gestión de autónomo (desde 70 €/mes)
-    - Consulta individual 60 min (75 €)
+    - Consulta individual 60 min (100 €)
     - Gestión de colaborador (40 €/mes)
     - Cuestiones migratorias
     - Contratos
