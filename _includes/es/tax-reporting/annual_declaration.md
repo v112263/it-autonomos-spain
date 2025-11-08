@@ -59,7 +59,7 @@ A continuación presento una lista aproximada de preguntas con matices important
 
 El [gestor](#gestores-de-confianza) le asesorará sobre cualquier pregunta que tenga, para que complete el cuestionario con la máxima corrección. Además, para algunas preguntas puede necesitar proporcionar al gestor datos adicionales o algún tipo de documentación justificativa.
 
-Una vez recibida la información, el gestor calculará la base imponible y el importe del IRPF. Aplicará todas las [deducciones y beneficios](#deducciones-y-beneficios-fiscales) correspondientes, así como tendrá en cuenta el beneficio neto del negocio (ingresos menos gastos documentados).
+Una vez recibida la información, el gestor calculará la base imponible y el importe del IRPF. Aplicará todas las [deducciones y beneficios](#optimización-fiscal) correspondientes, así como tendrá en cuenta el beneficio neto del negocio (ingresos menos gastos documentados).
 
 Después de completar el cuestionario y todas las conciliaciones, le enviarán un borrador para su revisión, que incluirá todos los cálculos y el importe total del impuesto. Tras su revisión y confirmación, la declaración se enviará a Hacienda. Después del cálculo de la declaración, se le informará de los resultados - el importe del impuesto a pagar o a devolver.
 
@@ -73,7 +73,7 @@ Asegúrese de que la cantidad necesaria esté en la cuenta, de lo contrario pued
 
 Durante la presentación de la Renta, el gestor ya tendrá parte de los documentos necesarios para aplicar las deducciones fiscales. Por ejemplo, si un autónomo realiza alguna adquisición para el negocio y la deduce de la base imponible, transmite estos documentos al gestor regularmente durante el año. Sin embargo, existen otras deducciones que se aplican en la fase final de la presentación de la declaración y requieren una discusión separada.
 
-Por lo tanto, recomiendo **familiarizarse una vez más detenidamente con la sección [deducciones y beneficios fiscales](#deducciones-y-beneficios-fiscales)**, y aplicar todo lo que pueda para reducir el importe del impuesto.
+Por lo tanto, recomiendo **familiarizarse una vez más detenidamente con la sección [optimización fiscal](#optimización-fiscal)**, y aplicar todo lo que pueda para reducir el importe del impuesto.
 
 ### Deducciones fiscales regionales
 

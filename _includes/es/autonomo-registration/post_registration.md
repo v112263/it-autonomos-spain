@@ -10,7 +10,7 @@
 6. [Llevar los documentos de autónomo al banco](#documentos-para-el-banco-tras-registrarte-como-autónomo).
 7. [Verificar la validez del número VAT de la UE](#verificación-de-la-validez-del-número-vat-de-la-ue) (si trabaja con un
    gestor).
-8. [Entender las deducciones fiscales](#deducciones-y-beneficios-fiscales).
+8. [Entender la optimización fiscal (deducciones, beneficios, etc.)](#optimización-fiscal).
 9. Entender cómo crear facturas.
     - [Instrucciones para gestor](#creación-de-facturas-gestor).
     - [Instrucciones para Xolo](#creación-de-factura-xolo).
