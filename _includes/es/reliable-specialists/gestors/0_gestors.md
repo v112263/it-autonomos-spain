@@ -6,6 +6,11 @@ Los especialistas que se enumeran a continuación son profesionales verificados,
 Haga clic en el botón **"Escribir al gestor"** - el gestor le responderá durante el día laborable (rara vez - al día siguiente). ¿Urgente?
 Escríbalo directamente en el formulario.
 
+La lista de gestores de confianza es un mecanismo vivo. Recibo regularmente comentarios de los participantes del chat, y si
+la calidad del servicio de un gestor se deteriora, lo excluyo de la lista. Puede
+[leer aquí](https://bit.ly/removed-from-reliable-gestors){:target="_blank"} sobre uno de esos casos en los que tuve que
+eliminar a un gestor de la lista.
+
 Asegúrese de leer sobre los [criterios de un gestor fiable](#criterios-de-un-gestor-fiable) y toda
 la [sección sobre gestores](#gestor-1).
 
