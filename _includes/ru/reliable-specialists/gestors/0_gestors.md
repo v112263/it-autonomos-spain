@@ -15,7 +15,7 @@
 
 {% include ru/reliable-specialists/help_notice.md %}
 
+{% include ru/reliable-specialists/gestors/gestor_nelia.md %}
 {% include ru/reliable-specialists/gestors/gestor_denis.md %}
 {% include ru/reliable-specialists/gestors/gestor_lyudmila.md %}
-{% include ru/reliable-specialists/gestors/gestor_nelia.md %}
 {% include ru/reliable-specialists/gestors/gestor_tatiana.md %}
