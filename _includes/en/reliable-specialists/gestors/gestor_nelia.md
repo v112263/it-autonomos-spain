@@ -30,7 +30,7 @@ The team manages a wide range of businesses: from cosmetic factories and raw mat
     - Contracts
     - All main types of litigation, including administrative, labor, civil, tax, family, commercial, 
       arbitration and consumer protection procedures, except criminal cases.
-    - Other services: SL registration (1700 € turnkey), SL management (from 200 €/month), digital 
+    - Other services: SL registration (1700 € turnkey), SL management (from 220 €/month), digital
       signature processing (remotely) - 50 €
 
 All prices are excluding IVA.
