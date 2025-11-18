@@ -30,7 +30,7 @@ El equipo gestiona una amplia gama de negocios: desde fábricas de cosméticos y
     - Contratos
     - Todos los principales tipos de procedimientos judiciales, incluyendo administrativo, laboral, civil, fiscal, 
       familiar, mercantil, arbitraje y procedimientos de protección al consumidor, excepto casos penales.
-    - Otros servicios: registro de SL (1700 € llave en mano), gestión de SL (desde 200 €/mes), tramitación de 
+    - Otros servicios: registro de SL (1700 € llave en mano), gestión de SL (desde 220 €/mes), tramitación de
       firma digital (remotamente) - 50 €
 
 Todos los precios son sin IVA.
