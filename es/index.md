@@ -99,7 +99,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
     - [Recibir ingresos en EUR](#recibir-ingresos-en-eur)
     - [Bloqueos de cuenta y límites de depósitos](#bloqueos-de-cuenta-y-límites-de-depósitos)
     - [Venta forzada de servicios al abrir una cuenta](#venta-forzada-de-servicios-al-abrir-una-cuenta)
-    - [Documentos para el banco tras registrarte como autónomo](#documentos-para-el-banco-tras-registrarte-como-autónomo)
+    - [Documentos para el banco tras registrarse como autónomo](#documentos-para-el-banco-tras-registrarse-como-autónomo)
 - [Gestor](#gestor-1)
     - [Criterios de un gestor fiable](#criterios-de-un-gestor-fiable)
     - [Responsabilidad del gestor](#responsabilidad-del-gestor)
