@@ -7,7 +7,7 @@
    con un gestor, él debe hacer esto por usted).
 4. Descargar [Modelo 036](#modelo-036).
 5. Descargar [Vida Laboral](#vida-laboral).
-6. [Llevar los documentos de autónomo al banco](#documentos-para-el-banco-tras-registrarte-como-autónomo).
+6. [Llevar los documentos de autónomo al banco](#documentos-para-el-banco-tras-registrarse-como-autónomo).
 7. [Verificar la validez del número VAT de la UE](#verificación-de-la-validez-del-número-vat-de-la-ue) (si trabaja con un
    gestor).
 8. [Entender la optimización fiscal (deducciones, beneficios, etc.)](#optimización-fiscal).
