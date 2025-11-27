@@ -112,7 +112,7 @@ data or
 documentary evidence.
 
 After receiving the information, the gestor will calculate the tax base and the IRPF amount. They will apply all
-eligible [deductions and benefits](#tax-deductions-and-benefits), and
+eligible [deductions and benefits](#tax-optimization), and
 also take into account the net profit from your business (income minus documented expenses).
 
 After completing the questionnaire and all agreements, you will be sent a draft version for review, which will indicate
@@ -142,8 +142,7 @@ submitting the
 declaration and require separate discussion.
 
 Therefore, I recommend **carefully reviewing the
-section on [tax deductions and benefits](#tax-deductions-and-benefits)** again, and applying everything you can to
-reduce the tax
+section on [tax optimization](#tax-optimization)** again, and applying everything you can to reduce the tax
 amount.
 
 ### Regional tax deductions

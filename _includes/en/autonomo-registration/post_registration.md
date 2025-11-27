@@ -10,7 +10,7 @@
 6. [Take autónomo documents to the bank](#documents-for-the-bank-after-autónomo-registration).
 7. [Check the validity of your EU VAT number](#checking-the-validity-of-the-eu-vat-number) (if you are collaborating
    with a gestor, they should do this for you).
-8. [Learn to manage tax deductions](#tax-deductions-and-benefits).
+8. [Learn about tax optimization (deductions, benefits, etc.)](#tax-optimization).
 9. Learn to create invoices.
     - [Instructions for gestor](#creating-an-invoice-gestor).
     - [Instructions for Xolo](#creating-an-invoice-xolo).
