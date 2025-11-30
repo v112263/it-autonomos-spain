@@ -30,3 +30,7 @@ For each URL above:
 ## Expected output
 
 A clear summary showing the health of all 4 language versions, highlighting any issues that need fixing.
+
+**Important**: Explicitly state whether all anchor links are valid across all language versions. Example:
+- "✅ All anchor links are valid in all 4 language versions" (if no issues)
+- "Broken anchor links found in: [list languages and specific broken anchors]" (if issues exist)
