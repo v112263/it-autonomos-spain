@@ -3,7 +3,7 @@
 To claim expenses and pay less taxes, you need to provide invoices (full invoices) to your [gestor](#reliable-gestors)
 or upload them to the Xolo dashboard.
 
-**What should be in the invoice:**
+**What should be in the invoice**
 
 - The word "Factura" or "Invoice" and a sequential number
 - Your DNI/NIE/CIF

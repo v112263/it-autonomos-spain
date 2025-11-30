@@ -3,7 +3,7 @@
 Para contabilizar gastos y pagar menos impuestos, es necesario proporcionar facturas (facturas completas) a su
 [gestor](#gestores-de-confianza) o cargarlas en el panel de Xolo.
 
-**Qué debe contener la factura:**
+**Qué debe contener la factura**
 
 - La palabra "Factura" o "Invoice" y un número secuencial
 - Su DNI/NIE/CIF
