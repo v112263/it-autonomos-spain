@@ -10,14 +10,17 @@
 {% include common/contact-forms/gestors/gestor_denis_form.html %}
 
 Denis's consulting company, with a focus on tax optimization and advanced accounting, provides all the necessary
-services for Autonomo/SL. As an additional service, they can provide access to an online accounting solution. In this
-service, clients can independently create and upload invoices, view a list of received documents, access detailed
-reports on their business using interactive dashboards, use the CRM system, and much more.
+services for Autonomo/SL and their employees. The company management service includes free access to an online solution
+for creating compliant invoices (VeriFactu mandatory starting January 1, 2026). In this program, clients can
+independently issue or upload invoices, check the list of accepted and rejected accounting documents, view results and
+taxes payable online, use the CRM system, mobile application, and much more.
 
 Key staff members have financial education, many years of experience working in large companies in Spain, and daily
 interaction with real businesses, enabling them to provide expert consultations with practical advice. Additional
 services include assistance in obtaining licenses for most types of activities, managing e-commerce businesses (remote
 sales), import/export of goods, and more.
+
+For client convenience, personal account, WhatsApp, email, and phone calls are used for communication and work.
 
 **Free 30-minute consultation before autónomo registration.**
 
@@ -29,7 +32,7 @@ sales), import/export of goods, and more.
 - **Services:**
     - Free 30-minute consultation before autónomo registration
     - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")
-    - Autónomo management (70 €/month), with detailed quarterly reports
+    - Autónomo management and program access (70 €/month)
     - Individual consultation 45 minutes, recording and transcript of the conversation will be sent to your email (85 €)
     - Management of collaborators or hired employees (40 € for the first employee + 14 € for each additional one)
     - Other services: SL registration (€400 + taxes, notary and RM), SL management (from €200/month), digital
@@ -37,6 +40,8 @@ sales), import/export of goods, and more.
 
 All prices are excluding IVA.
 
-- **Team size:** Up to 5 employees
-- **Digital certificate:** The gestor submits reports using their own certificate, which you authorize in the tax portal
-- **Liability:** insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza 8/6.371.558-N)
+- **Team size:** Up to 10 employees
+- **Digital certificate:** The gestor submits reports using their own certificate, which you authorize in the tax
+  portal
+- **Liability:** insurance that covers damages in case of gestor's error (Seguros Catalana Occidente, SA Póliza
+  8/6.371.558-N)
