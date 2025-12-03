@@ -11,7 +11,7 @@
 
 Denis's consulting company, with a focus on tax optimization and advanced accounting, provides all the necessary
 services for Autonomo/SL and their employees. The company management service includes free access to an online solution
-for creating compliant invoices (VeriFactu mandatory starting January 1, 2026). In this program, clients can
+for creating compliant invoices (VeriFactu mandatory starting January 1, 2027). In this program, clients can
 independently issue or upload invoices, check the list of accepted and rejected accounting documents, view results and
 taxes payable online, use the CRM system, mobile application, and much more.
 
