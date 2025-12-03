@@ -10,7 +10,7 @@
 
 La empresa consultora de Denis, con enfoque en la optimización fiscal y contabilidad avanzada, ofrece todos los
 servicios necesarios para Autónomo/SL y sus empleados. El servicio de gestión de empresas incluye acceso gratuito a una
-solución online para la creación de facturas reglamentadas (VeriFactu obligatorio a partir del 1 de enero de 2026). En
+solución online para la creación de facturas reglamentadas (VeriFactu obligatorio a partir del 1 de enero de 2027). En
 este programa, los clientes pueden emitir o subir facturas por sí mismos, consultar la lista de documentos aceptados y
 rechazados de contabilidad, ver los resultados e impuestos a pagar online, utilizar un sistema CRM, aplicación móvil y
 mucho más.
