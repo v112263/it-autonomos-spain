@@ -1,7 +1,7 @@
 # Preparación para registrarse como Autónomo
 
 Antes de registrarse como autónomo, necesita obtener un permiso de residencia con
-derecho a trabajar. Recomiendo contactar con
+derecho a trabajar o protección temporal. Recomiendo contactar con
 [abogados de inmigración de confianza](#abogados-de-inmigración-de-confianza) para ayuda con la obtención de Digital Nomad, Cuenta Propia
 u otro tipo de residencia.
 
