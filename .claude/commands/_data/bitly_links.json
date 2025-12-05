@@ -1,0 +1,239 @@
+{
+  "description": "Bit.ly links used in the project. Run /check-bitly-links to verify all redirects.",
+  "links": [
+    {
+      "bitly": "https://bit.ly/autonomo-manual",
+      "expected_url": "https://itautonomos.com/ru/",
+      "description": "Main document - Russian version"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-manual-en",
+      "expected_url": "https://itautonomos.com/",
+      "description": "Main document - English version"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-manual-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "description": "Main document - Ukrainian version"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-manual-es",
+      "expected_url": "https://itautonomos.com/es/",
+      "description": "Main document - Spanish version"
+    },
+    {
+      "bitly": "https://bit.ly/it-autonomos-es",
+      "expected_url": "https://t.me/it_autonomos_spain",
+      "description": "Telegram chat - Russian/Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/it-autonomos-spain-eng",
+      "expected_url": "https://t.me/it_autonomos_spain_en",
+      "description": "Telegram chat - English/Spanish"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-and-sl-channel",
+      "expected_url": "https://t.me/autonomo_and_sl",
+      "description": "Telegram channel - all languages"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-and-sl-channel-boost",
+      "expected_url": "https://t.me/autonomo_and_sl?boost",
+      "description": "Telegram channel boost link"
+    },
+    {
+      "bitly": "https://bit.ly/it-autonomos-github",
+      "expected_url": "https://github.com/v112263/it-autonomos-spain",
+      "description": "GitHub repository"
+    },
+    {
+      "bitly": "https://bit.ly/xolosignup",
+      "expected_url": "https://www.xolo.io/es-en?ref=VLADMY",
+      "description": "Xolo referral signup link"
+    },
+    {
+      "bitly": "https://bit.ly/revlsignup",
+      "expected_url": "https://www.revolut.com/referral/?referral-code=vladys7xwo",
+      "description": "Revolut referral signup link"
+    },
+    {
+      "bitly": "https://bit.ly/wsesignup",
+      "expected_url": "https://wise.com/invite/ihpc/vladyslavd540",
+      "description": "Wise referral signup link"
+    },
+    {
+      "bitly": "https://bit.ly/removed-from-reliable-gestors",
+      "expected_url": "https://t.me/autonomo_and_sl/33",
+      "description": "Article about removed gestor (Telegram post)"
+    },
+    {
+      "bitly": "https://bit.ly/buy-coffee-v112263",
+      "expected_url": "https://buymeacoffee.com/v112263",
+      "description": "Buy me a coffee donation link"
+    },
+    {
+      "bitly": "https://bit.ly/it_autonomos_spain_inst",
+      "expected_url": "https://www.instagram.com/it_autonomos_spain/",
+      "description": "IT Autonomos Spain - Instagram"
+    },
+    {
+      "bitly": "https://bit.ly/autofirma-fix-youtube",
+      "expected_url": "https://www.youtube.com/watch?t=434&v=lVkdSKJfeJk&feature=youtu.be",
+      "description": "AutoFirma fix YouTube video"
+    },
+    {
+      "bitly": "https://bit.ly/petete-tributos",
+      "expected_url": "https://petete.tributos.hacienda.gob.es/consultas/",
+      "description": "Consultas de la D.G. Tributos"
+    },
+    {
+      "bitly": "https://bit.ly/V0507-18",
+      "expected_url": "https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V0507-18",
+      "description": "Consulta V0507-18 - D.G. Tributos"
+    },
+    {
+      "bitly": "https://bit.ly/V3625-16",
+      "expected_url": "https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V3625-16",
+      "description": "Consulta V3625-16 - D.G. Tributos"
+    },
+    {
+      "bitly": "https://bit.ly/V1766-22",
+      "expected_url": "https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V1766-22",
+      "description": "Consulta V1766-22 - D.G. Tributos"
+    },
+    {
+      "bitly": "https://bit.ly/V2594-21",
+      "expected_url": "https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V2594-21",
+      "description": "Consulta V2594-21 - D.G. Tributos"
+    },
+    {
+      "bitly": "https://bit.ly/V2554-23",
+      "expected_url": "https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V2554-23",
+      "description": "Consulta V2554-23 - D.G. Tributos"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-mortgage-ru",
+      "expected_url": "https://itautonomos.com/ru/mortgage/",
+      "description": "Получение ипотеки в Испании - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-mortgage-ua",
+      "expected_url": "https://itautonomos.com/ua/mortgage/",
+      "description": "Отримання іпотеки в Іспанії - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/reliable-gestors-ru",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "надежные-хесторы",
+      "description": "Надежные хесторы - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/reliable-gestors-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "надійні-хестори",
+      "description": "Надійні хестори - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/reliable-immigration-lawyers",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "надежные-миграционные-юристы",
+      "description": "Надежные миграционные юристы - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/reliable-immigration-lawyers-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "надійні-міграційні-юристи",
+      "description": "Надійні міграційні юристи - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/natalya-immigration-lawyer",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "наталия---миграционный-юрист",
+      "description": "Наталия - миграционный юрист"
+    },
+    {
+      "bitly": "https://bit.ly/nelia-gestor",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "неля-б",
+      "description": "Неля - Хестор"
+    },
+    {
+      "bitly": "https://bit.ly/denis-gestor",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "денис-и",
+      "description": "Денис - Хестор"
+    },
+    {
+      "bitly": "https://bit.ly/liudmila-gestor",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "людмила-д",
+      "description": "Людмила - Хестор"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-ru",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "регистрация-autónomo-пошагово",
+      "description": "Регистрация Autónomo (пошагово) - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "реєстрація-autónomo-покроково",
+      "description": "Реєстрація Autónomo (покроково) - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/renta-submit-ru",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "годовая-декларация-renta",
+      "description": "Годовая декларация (Renta) - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/renta-submit-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "річна-декларація-renta",
+      "description": "Річна декларація (Renta) - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/renta-submit-en",
+      "expected_url": "https://itautonomos.com/",
+      "expected_anchor": "annual-declaration-renta",
+      "description": "Annual declaration (Renta) - English"
+    },
+    {
+      "bitly": "https://bit.ly/vida-laboral-ss",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "vida-laboral",
+      "description": "Vida Laboral - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/modelo-036",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "modelo-036",
+      "description": "Modelo 036 - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/digital-certificate-obtain",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "оформление-цифрового-сертификата",
+      "description": "Оформление цифрового сертификата - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/ss-tarifa-plana-loose-risk",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "риск-лишиться-скидки-seguridad-social",
+      "description": "Риск лишиться скидки Seguridad Social - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/change-gestor",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "смена-хестора",
+      "description": "Смена хестора - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/seguridad-social-article",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "социальные-взносы-seguridad-social",
+      "description": "Социальные взносы (Seguridad Social) - Russian"
+    }
+  ]
+}
