@@ -1,18 +1,11 @@
 # Run Local Tests
 
-Run all local validation checks that don't require network access to the live site.
+Run all LOCAL validation checks that don't require network access to the live site.
 
 ## Checks to run
 
-1. `.claude/commands/check-and-update-anchors.md` - Expected anchors validation (local _site/ files for all 8 pages: 4 index + 4 mortgage)
-2. `.claude/commands/check-bitly-links.md` - Bit.ly redirects validation
-
-## Prerequisites
-
-The `_site/` directory must exist with compiled HTML files. If it doesn't exist, run:
-```bash
-bundle exec jekyll build
-```
+1. `.claude/commands/test-and-update-anchors.md` - Expected anchors validation (LOCAL _site/ files for all 8 pages: 4 index + 4 mortgage)
+2. `.claude/commands/test-local-site-links.md` - LOCAL site links & anchors validation (requires LOCAL server running)
 
 ## Instructions
 
@@ -27,10 +20,10 @@ bundle exec jekyll build
 # Local Tests Results
 
 ## 1. Expected Anchors
-[Summary from check-and-update-anchors]
+[Summary from test-and-update-anchors]
 
-## 2. Bit.ly Links
-[Summary from check-bitly-links]
+## 2. LOCAL Site Links (lychee)
+[Summary from test-local-site-links]
 
 ---
 
@@ -39,6 +32,6 @@ bundle exec jekyll build
 | Check | Status |
 |-------|--------|
 | Expected Anchors | ✅ / ❌ |
-| Bit.ly Links | ✅ / ❌ |
-| **TOTAL** | ✅ **All local tests passed** / ❌ **Issues found** |
+| LOCAL Site Links | ✅ / ❌ |
+| **TOTAL** | ✅ **All LOCAL tests passed** / ❌ **Issues found** |
 ```

@@ -1,11 +1,11 @@
 # Run All Tests
 
-Run all automated checks for the project (both local and remote) and provide a unified summary.
+Run all automated checks for the project (both LOCAL and PROD) and provide a unified summary.
 
 ## Test suites to run
 
-1. `.claude/commands/run-local-tests.md` 
-2. `.claude/commands/run-remote-tests.md`
+1. `.claude/commands/run-local-tests.md`
+2. `.claude/commands/run-prod-tests.md`
 
 ## Instructions
 
@@ -19,18 +19,21 @@ Run all automated checks for the project (both local and remote) and provide a u
 ```
 # All Checks Results
 
-## Local Tests
+## LOCAL Tests
 
 ### 1. Expected Anchors
-[Summary from check-and-update-anchors]
+[Summary from test-and-update-anchors]
 
-### 2. Bit.ly Links
-[Summary from check-bitly-links]
+### 2. LOCAL Site Links (lychee)
+[Summary from test-local-site-links]
 
-## Remote Tests
+## PROD Tests
 
-### 3. ITAutonomos Links (W3C)
-[Summary from check-itautonomos-links]
+### 1. Bit.ly Links
+[Summary from test-bitly-links]
+
+### 2. PROD Site Links (lychee)
+[Summary from test-prod-site-links]
 
 ---
 
@@ -38,18 +41,12 @@ Run all automated checks for the project (both local and remote) and provide a u
 
 | Test Suite | Checks | Status |
 |------------|--------|--------|
-| Local Tests | Anchors (8 pages), Bit.ly | ✅ / ❌ |
-| Remote Tests | ITAutonomos Links (8 pages) | ✅ / ❌ |
+| LOCAL Tests | Anchors (8 pages), LOCAL Site Links | ✅ / ❌ |
+| PROD Tests | Bit.ly Links, PROD Site Links (8 pages) | ✅ / ❌ |
 | **TOTAL** | **All checks** | ✅ **All passed** / ❌ **Issues found** |
 ```
 
 ## Adding new checks
 
-- To add a local check: add it to `run-local-tests.md`
-- To add a remote check: add it to `run-remote-tests.md`
-
-## Pages covered
-
-All tests now cover the complete site content:
-- 4 index pages: `/`, `/ru/`, `/ua/`, `/es/`
-- 4 mortgage pages: `/en/mortgage/`, `/ru/mortgage/`, `/ua/mortgage/`, `/es/mortgage/`
+- To add a LOCAL check: add it to `run-local-tests.md`
+- To add a PROD check: add it to `run-prod-tests.md`

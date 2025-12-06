@@ -101,7 +101,7 @@ End with a clear summary in this format:
 |----------|---------|--------|
 | External Services | X links | ✅ All working / ❌ Y issues |
 | ITAutonomos.com | X links | ✅ All working / ❌ Y issues |
-| **TOTAL** | **44 links** | ✅ **All working** / ❌ **Y issues** |
+| **TOTAL** | **X links** | ✅ **All working** / ❌ **Y issues** |
 ```
 
 If all links work: "✅ ALL BIT.LY LINKS ARE WORKING CORRECTLY"
