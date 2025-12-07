@@ -10,17 +10,38 @@ The user will provide a Telegram post text as argument: $ARGUMENTS
 
 1. Read the bitly links database from `.claude/commands/_data/bitly_links.json`
 
-2. Analyze the input text and find opportunities to insert links based on:
+2. **Normalize line breaks**:
+   - Remove line breaks **within sentences** (merge broken sentences into single lines)
+   - Keep line breaks **between sentences** within the same paragraph (single line break after sentence-ending punctuation)
+   - Keep paragraph separators (double line breaks / empty lines between paragraphs)
+   - In other words: if a sentence is split across multiple lines, merge it; but don't merge separate sentences
+
+3. **Convert formatting to Telegram-compatible syntax**:
+   - Telegram uses its own markdown variant, convert if needed:
+     - **Bold**: `**text**` (double asterisks)
+     - **Italic**: `__text__` (double underscores) - NOT single asterisks!
+     - **Bold + Italic**: `**__text__**`
+     - **Strikethrough**: `~~text~~`
+   - If input uses `*text*` for italic, convert to `__text__`
+   - If input uses `_text_` for italic, convert to `__text__`
+
+4. **Handle existing links in the input text**:
+   - If the text already contains Markdown links `[text](url)`, check each URL:
+     - **Bitly links** (`bit.ly/*`): Keep them as-is
+     - **Non-bitly links**: Check if a matching bit.ly link exists in the database (compare `expected_url` field). If found, replace the URL with the corresponding bit.ly link
+   - This ensures all links use bit.ly for tracking purposes
+
+5. Analyze the input text and find opportunities to insert **additional** links based on:
    - **Keywords matching**: Look for mentions of terms that correspond to link descriptions
    - **Context matching**: Understand what the text is about and suggest relevant links
 
-3. **Matching approach**:
+6. **Matching approach**:
    - Read all links from the database with their `description` fields
    - Use your judgment to find phrases in the post text that semantically match any link's purpose
    - Consider context, synonyms, and related concepts - not just exact keyword matches
    - The `description` field in each link entry explains what that link is for
 
-4. **Output format**:
+7. **Output format**:
 
    Output the text in **raw Markdown format** inside a code block:
    - Use `[text](bitly_url)` format for links
@@ -29,7 +50,7 @@ The user will provide a Telegram post text as argument: $ARGUMENTS
    - Don't over-link - max 3-5 links per post unless post is very long
    - Prioritize the most relevant links
 
-5. **Output structure**:
+8. **Output structure**:
 
    First show the formatted post inside a code block:
 
@@ -42,7 +63,13 @@ The user will provide a Telegram post text as argument: $ARGUMENTS
    Then show the links summary table (outside code block):
 
    ```
-   ## Links Used
+   ## Links Replaced (if any)
+
+   | Original URL | Replaced with | Description |
+   |--------------|---------------|-------------|
+   | original url | bit.ly/xxx | what it links to |
+
+   ## Links Added
 
    | Link text | Bitly | Description |
    |-----------|-------|-------------|
@@ -52,6 +79,13 @@ The user will provide a Telegram post text as argument: $ARGUMENTS
 
    - Any suggestions or observations
    ```
+
+9. **Save to file**:
+   - Save **only the formatted post text** to a file (no headers, no code block markers, no tables)
+   - Just the raw text with Telegram markdown formatting and links, ready to copy-paste
+   - File path: `.claude/commands/utils/telegram-post-YYYY-MM-DD-HH-MM-SS.txt`
+   - Use current date and time for the filename
+   - Display the file path to the user after saving
 
 ## Example
 
@@ -70,7 +104,11 @@ The user will provide a Telegram post text as argument: $ARGUMENTS
 ```
 ~~~
 
-## Links Used
+## Links Replaced
+
+_No links replaced_
+
+## Links Added
 
 | Link text | Bitly | Description |
 |-----------|-------|-------------|
