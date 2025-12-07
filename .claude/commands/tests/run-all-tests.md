@@ -4,8 +4,8 @@ Run all automated checks for the project (both LOCAL and PROD) and provide a uni
 
 ## Test suites to run
 
-1. `.claude/commands/run-local-tests.md`
-2. `.claude/commands/run-prod-tests.md`
+1. `.claude/commands/tests/local/run-local-tests.md`
+2. `.claude/commands/tests/prod/run-prod-tests.md`
 
 ## Instructions
 
