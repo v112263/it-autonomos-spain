@@ -4,8 +4,8 @@ Run all validation checks that require network access to the live site (itautono
 
 ## Checks to run
 
-1. `.claude/commands/test-bitly-links.md` - Bit.ly redirects validation
-2. `.claude/commands/test-prod-site-links.md` - PROD site links & anchors validation using lychee
+1. `.claude/commands/tests/prod/test-bitly-links.md` - Bit.ly redirects validation
+2. `.claude/commands/tests/prod/test-prod-site-links.md` - PROD site links & anchors validation using lychee
 
 ## Instructions
 
