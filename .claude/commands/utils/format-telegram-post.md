@@ -24,6 +24,7 @@ The user will provide a Telegram post text as argument: $ARGUMENTS
      - **Strikethrough**: `~~text~~`
    - If input uses `*text*` for italic, convert to `__text__`
    - If input uses `_text_` for italic, convert to `__text__`
+   - **Markdown headings** (`#`, `##`, `###`, etc.): Convert to bold text (`**text**`) and remove the `#` symbols
 
 4. **Handle existing links in the input text**:
    - If the text already contains Markdown links `[text](url)`, check each URL:

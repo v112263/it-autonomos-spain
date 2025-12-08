@@ -74,17 +74,19 @@ Some links may show errors but are false positives:
 ```
 ## LOCAL Site Link Check Results
 
-| Page | Total | OK | Errors | Excluded | Status |
-|------|-------|-----|--------|----------|--------|
-| EN Index (/) | 150 | 148 | 0 | 2 | ✅ |
-| RU Index (/ru/) | 171 | 168 | 0 | 3 | ✅ |
-| UA Index (/ua/) | 165 | 162 | 0 | 3 | ✅ |
-| ES Index (/es/) | 150 | 148 | 0 | 2 | ✅ |
-| EN Mortgage | 45 | 44 | 0 | 1 | ✅ |
-| RU Mortgage | 45 | 44 | 0 | 1 | ✅ |
-| UA Mortgage | 45 | 44 | 0 | 1 | ✅ |
-| ES Mortgage | 45 | 44 | 0 | 1 | ✅ |
+| Page | Total | OK | Redirects | Excluded | Errors | Status |
+|------|-------|-----|-----------|----------|--------|--------|
+| EN Index (/) | 150 | 138 | 10 | 2 | 0 | ✅ |
+| RU Index (/ru/) | 171 | 158 | 10 | 3 | 0 | ✅ |
+| UA Index (/ua/) | 165 | 152 | 10 | 3 | 0 | ✅ |
+| ES Index (/es/) | 150 | 138 | 10 | 2 | 0 | ✅ |
+| EN Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
+| RU Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
+| UA Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
+| ES Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
 ```
+
+**Note**: Total = OK + Redirects + Excluded + Errors
 
 ### Errors Report (if any)
 
