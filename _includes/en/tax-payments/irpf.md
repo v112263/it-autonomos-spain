@@ -37,15 +37,15 @@ segment. For example, if your annual income is €50,000, the tax is calculated 
 
 ### IRPF payment
 
-1. In case of any problems with IRPF payment, contact your gestor immediately for assistance.
+1. In case of any problems with IRPF payment, contact your [gestor](#reliable-gestors) immediately for assistance.
 2. For autónomos, the tax is automatically debited from the bank account every quarter on the 20th of April, July,
    October, and (in January, the debit day differs) at a rate of 20% of income. For direct debit to work, it is
-   important to submit quarterly returns on time. If the 20th falls on a weekend, the deduction will be postponed to the
+   important to submit [quarterly returns](#quarterly-declarations) on time. If the 20th falls on a weekend, the deduction will be postponed to the
    next business day. The exact calendar is available on
    the [tax office website](https://sede.agenciatributaria.gob.es/Sede/Bibl_virtual/folletos/calendario_contribuyente.shtml){:
    target="_blank"}.
 3. You can pay the tax manually (and even more than 20%), but this may come with additional challenges, so it is
    recommended to use the standard scheme.
 4. If there are insufficient funds at the time of the tax deduction, you may be fined.
-5. After submitting the annual return, a recalculation is performed: if there was an underpayment of IRPF, you will need
+5. After submitting the [annual return](#annual-declaration-renta), a recalculation is performed: if there was an underpayment of IRPF, you will need
    to pay the difference, and in the case of an overpayment, the excess will be refunded.
