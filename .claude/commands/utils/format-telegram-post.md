@@ -8,7 +8,7 @@ The user will provide a Telegram post text as argument: $ARGUMENTS
 
 ## Instructions
 
-1. Read the bitly links database from `.claude/commands/_data/bitly_links.json`
+1. Read the bitly links database from `_resources/bitly_links.json`
 
 2. **Normalize line breaks**:
    - Remove line breaks **within sentences** (merge broken sentences into single lines)

@@ -14,7 +14,7 @@ Parse the input in any format - extract the essential information:
 
 ## Instructions
 
-1. Read current database from `.claude/commands/_data/bitly_links.json`
+1. Read current database from `_resources/bitly_links.json`
 
 2. **IMPORTANT: Analyze existing entries in the database to understand the format patterns for all fields (URL format, description style, etc.). New entries MUST follow the same format as similar existing entries.**
 

@@ -20,8 +20,8 @@ The input should be a path to an article file (e.g., `_includes/ru/some-article.
    - `*/mortgage/*` → mortgage page
 
 3. **Load the correct anchors database**:
-   - For main pages: `.claude/commands/_data/expected_anchors_main_{lang}.json`
-   - For mortgage pages: `.claude/commands/_data/expected_anchors_mortgage_{lang}.json`
+   - For main pages: `_resources/anchors_main_{lang}.json`
+   - For mortgage pages: `_resources/anchors_mortgage_{lang}.json`
    - Where `{lang}` is: `ru`, `ua`, `en`, or `es`
 
 4. **Understand what anchors represent**:
