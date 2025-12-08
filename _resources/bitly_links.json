@@ -239,7 +239,187 @@
       "bitly": "https://bit.ly/irpf-income-tax",
       "expected_url": "https://itautonomos.com/ru/",
       "expected_anchor": "irpf-подоходный-налог",
-      "description": "IRPF (подоходный налог) | Autónomo - Complete Guide"
+      "description": "IRPF (подоходный налог) - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-preparation",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "подготовка-к-регистрации-autónomo",
+      "description": "Подготовка к регистрации Autónomo - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-required-docs",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "необходимые-документы-для-регистрации-autónomo",
+      "description": "Необходимые документы для регистрации Autónomo - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-bank-account",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "банковский-счет-для-аутономо",
+      "description": "Банковский счет для аутономо - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-gestor",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "регистрация-autónomo-хестор",
+      "description": "Регистрация Autónomo (хестор) - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-xolo",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "регистрация-autónomo-xolo",
+      "description": "Регистрация Autónomo (Xolo) - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/dehu-notifications",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "электронные-уведомления-от-госорганов-dehú",
+      "description": "Электронные уведомления DEHú - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/bank-docs-after-registration",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "документы-для-банка-после-регистрации-аутономо",
+      "description": "Документы для банка после регистрации - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/eu-vat-check",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "проверка-корректности-eu-vat-номера",
+      "description": "Проверка корректности EU VAT номера - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/tax-optimization",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "оптимизация-налогов",
+      "description": "Оптимизация налогов - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/invoice-gestor",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "создание-инвойса-хестор",
+      "description": "Создание инвойса (хестор) - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/invoice-xolo",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "создание-инвойса-xolo",
+      "description": "Создание инвойса (Xolo) - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/sip-card-self",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "оформление-пластикового-sip-для-себя",
+      "description": "Оформление пластикового SIP для себя - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/sip-card-family",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "оформление-пластикового-sip-для-членов-семьи",
+      "description": "Оформление пластикового SIP для членов семьи - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-preparation-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "підготовка-до-реєстрації-autónomo",
+      "description": "Підготовка до реєстрації Autónomo - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-required-docs-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "необхідні-документи-для-реєстрації-аутономо",
+      "description": "Необхідні документи для реєстрації аутономо - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-bank-account-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "банківський-рахунок-для-аутономо",
+      "description": "Банківський рахунок для аутономо - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-gestor-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "реєстрація-autónomo-хестор",
+      "description": "Реєстрація Autónomo (хестор) - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/autonomo-registration-xolo-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "реєстрація-autónomo-xolo",
+      "description": "Реєстрація Autónomo (Xolo) - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/dehu-notifications-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "електронні-повідомлення-від-держорганів-dehú",
+      "description": "Електронні повідомлення DEHú - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/modelo-036-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "modelo-036",
+      "description": "Modelo 036 - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/vida-laboral-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "vida-laboral",
+      "description": "Vida Laboral - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/bank-docs-after-registration-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "документи-для-банку-після-реєстрації-аутономо",
+      "description": "Документи для банку після реєстрації - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/eu-vat-check-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "перевірка-коректності-eu-vat-номера",
+      "description": "Перевірка коректності EU VAT номера - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/tax-optimization-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "оптимізація-податків",
+      "description": "Оптимізація податків - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/invoice-gestor-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "створення-інвойсу-хестор",
+      "description": "Створення інвойсу (хестор) - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/invoice-xolo-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "створення-інвойсу-xolo",
+      "description": "Створення інвойсу (Xolo) - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/digital-certificate-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "оформлення-цифрового-сертифіката",
+      "description": "Оформлення цифрового сертифіката - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/ss-tarifa-plana-risk-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "ризик-втратити-знижку-seguridad-social",
+      "description": "Ризик втратити знижку Seguridad Social - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/sip-card-self-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "оформлення-пластикового-sip-для-себе",
+      "description": "Оформлення пластикового SIP для себе - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/sip-card-family-ua",
+      "expected_url": "https://itautonomos.com/ua/",
+      "expected_anchor": "оформлення-пластикового-sip-для-членів-сімї",
+      "description": "Оформлення пластикового SIP для членів сім'ї - Ukrainian"
     }
   ]
 }

@@ -4,7 +4,7 @@ Verify that all bit.ly shortlinks redirect to the expected destinations.
 
 ## Instructions
 
-1. Read the links configuration from `.claude/commands/_data/bitly_links.json`
+1. Read the links configuration from `_resources/bitly_links.json`
 
 2. For each link in the `links` array, check the redirect destination:
    ```bash

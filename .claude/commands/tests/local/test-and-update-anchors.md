@@ -11,16 +11,16 @@ Run this after adding/modifying content or before deploying to ensure all anchor
 ## Configuration Files
 
 ### Main pages (index)
-- `.claude/commands/_data/expected_anchors_main_en.json` - English index anchors
-- `.claude/commands/_data/expected_anchors_main_ru.json` - Russian index anchors
-- `.claude/commands/_data/expected_anchors_main_ua.json` - Ukrainian index anchors
-- `.claude/commands/_data/expected_anchors_main_es.json` - Spanish index anchors
+- `_resources/anchors_main_en.json` - English index anchors
+- `_resources/anchors_main_ru.json` - Russian index anchors
+- `_resources/anchors_main_ua.json` - Ukrainian index anchors
+- `_resources/anchors_main_es.json` - Spanish index anchors
 
 ### Mortgage pages
-- `.claude/commands/_data/expected_anchors_mortgage_en.json` - English mortgage anchors
-- `.claude/commands/_data/expected_anchors_mortgage_ru.json` - Russian mortgage anchors
-- `.claude/commands/_data/expected_anchors_mortgage_ua.json` - Ukrainian mortgage anchors
-- `.claude/commands/_data/expected_anchors_mortgage_es.json` - Spanish mortgage anchors
+- `_resources/anchors_mortgage_en.json` - English mortgage anchors
+- `_resources/anchors_mortgage_ru.json` - Russian mortgage anchors
+- `_resources/anchors_mortgage_ua.json` - Ukrainian mortgage anchors
+- `_resources/anchors_mortgage_es.json` - Spanish mortgage anchors
 
 ## Excluded ID Patterns
 
@@ -54,19 +54,19 @@ bundle exec jekyll build
 
    | Language | HTML File | Expected Anchors JSON |
    |----------|-----------|----------------------|
-   | EN | `_site/index.html` | `expected_anchors_main_en.json` |
-   | RU | `_site/ru/index.html` | `expected_anchors_main_ru.json` |
-   | UA | `_site/ua/index.html` | `expected_anchors_main_ua.json` |
-   | ES | `_site/es/index.html` | `expected_anchors_main_es.json` |
+   | EN | `_site/index.html` | `anchors_main_en.json` |
+   | RU | `_site/ru/index.html` | `anchors_main_ru.json` |
+   | UA | `_site/ua/index.html` | `anchors_main_ua.json` |
+   | ES | `_site/es/index.html` | `anchors_main_es.json` |
 
    ### Mortgage pages
 
    | Language | HTML File | Expected Anchors JSON |
    |----------|-----------|----------------------|
-   | EN | `_site/en/mortgage/index.html` | `expected_anchors_mortgage_en.json` |
-   | RU | `_site/ru/mortgage/index.html` | `expected_anchors_mortgage_ru.json` |
-   | UA | `_site/ua/mortgage/index.html` | `expected_anchors_mortgage_ua.json` |
-   | ES | `_site/es/mortgage/index.html` | `expected_anchors_mortgage_es.json` |
+   | EN | `_site/en/mortgage/index.html` | `anchors_mortgage_en.json` |
+   | RU | `_site/ru/mortgage/index.html` | `anchors_mortgage_ru.json` |
+   | UA | `_site/ua/mortgage/index.html` | `anchors_mortgage_ua.json` |
+   | ES | `_site/es/mortgage/index.html` | `anchors_mortgage_es.json` |
 
 3. **Extraction logic** - Extract all `id` attributes from HTML elements, excluding technical IDs:
    ```bash
@@ -78,7 +78,7 @@ bundle exec jekyll build
    - The `hs-script-loader` ID (HubSpot script)
 
 4. **For each language**:
-   - Read the current expected_anchors_{lang}.json
+   - Read the current anchors_{page_type}_{lang}.json
    - Compare extracted anchors with existing anchors in database
    - Identify NEW anchors (present in HTML but not in database)
    - Identify REMOVED anchors (present in database but not in HTML)
@@ -203,9 +203,9 @@ OR
 ✅ **DATABASE UPDATED** - All checks passed. Added X new anchor(s) to Y file(s).
 
 Updated files:
-- .claude/commands/_data/expected_anchors_main_en.json (+5 anchors)
-- .claude/commands/_data/expected_anchors_main_ua.json (+2 anchors)
-- .claude/commands/_data/expected_anchors_mortgage_en.json (+1 anchors)
+- _resources/anchors_main_en.json (+5 anchors)
+- _resources/anchors_main_ua.json (+2 anchors)
+- _resources/anchors_mortgage_en.json (+1 anchors)
 ```
 
 OR
