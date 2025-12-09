@@ -53,7 +53,11 @@ gratuitamente.
 
 **Método #5**
 
-Obtener un certificado a través de [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de Telecomunicacions i Certificació de la Generalitat Valenciana), en línea y (por ahora) gratis.
-	1.	Abrir la página web en el teléfono móvil y crear la solicitud.
-	2.	Hacer una foto del TIE y grabar un video-selfi.
-	3.	Esperar la aprobación por correo electrónico en 1-2 días y seguir las instrucciones.
+Obtener un certificado a través de [ACCV](https://www.accv.es/){:target="_blank"} (Agència de Tecnologia i Certificació
+Electrònica de la Comunitat Valenciana), en línea y (por ahora) gratis.
+
+Para la tramitación necesitará: TIE (o permiso de conducir español), un número de teléfono español y un correo electrónico.
+
+1. Abrir la página web en el teléfono móvil y crear la solicitud.
+2. Hacer una foto del TIE (o del permiso de conducir) y completar la verificación por vídeo.
+3. Esperar la aprobación por correo electrónico (normalmente unas horas si se envía durante el día) y seguir las instrucciones.
