@@ -49,9 +49,13 @@ free.
 2. Go to one of the authorized centers with your documents to confirm your identity (tax office (AEAT), Seguridad Social
    office, Ayuntamiento, PROP).
 
-***Method #5***
+**Method #5**
 
-Obtain a certificate through [Istec](https://www.accv.es/){:target="_blank"} (Infraestructures i Serveis de Telecomunicacions i Certificació from Generalitat Valenciana), online and (for now) free of charge.
-	1.	Open the website on your mobile phone and create an application.
-	2.	Take a photo of your TIE and record a video selfie.
-	3.	Wait for approval by e-mail within 1-2 days and follow the instructions.
+Obtain a certificate through [ACCV](https://www.accv.es/){:target="_blank"} (Agència de Tecnologia i Certificació
+Electrònica de la Comunitat Valenciana), online and (for now) free of charge.
+
+You will need: TIE (or Spanish driver's license), a Spanish phone number, and an email address.
+
+1. Open the website on your mobile phone and create an application.
+2. Take a photo of your TIE (or driver's license) and complete the video verification.
+3. Wait for approval by email (usually a few hours if submitted during the day) and follow the instructions.
