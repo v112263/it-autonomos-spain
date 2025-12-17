@@ -420,6 +420,12 @@
       "expected_url": "https://itautonomos.com/ua/",
       "expected_anchor": "оформлення-пластикового-sip-для-членів-сімї",
       "description": "Оформлення пластикового SIP для членів сім'ї - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/factura-lifehack",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "лайфхаки-с-фактурами",
+      "description": "Лайфхаки с фактурами - Russian"
     }
   ]
 }
