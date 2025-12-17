@@ -13,4 +13,3 @@
 {% include ua/reliable-specialists/help_notice.md %}
 
 {% include ua/reliable-specialists/immigration-lawyers/immigration_lawyer_natalya.md %}
-{% comment %}{% include ua/reliable-specialists/immigration-lawyers/immigration_lawyer_jose_manuel.md %}{% endcomment %}

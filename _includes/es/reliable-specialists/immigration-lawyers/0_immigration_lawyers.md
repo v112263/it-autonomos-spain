@@ -13,4 +13,3 @@ Por qué puedes confiar en ellos:
 {% include es/reliable-specialists/help_notice.md %}
 
 {% include es/reliable-specialists/immigration-lawyers/immigration_lawyer_natalya.md %}
-{% comment %}{% include es/reliable-specialists/immigration-lawyers/immigration_lawyer_jose_manuel.md %}{% endcomment %}
