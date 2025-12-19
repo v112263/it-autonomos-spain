@@ -28,7 +28,7 @@ rejections and resolving complex immigration cases in court.
 
 **Free 15-minute consultation before starting work.**
 
-- **Languages:** Ukrainian, Russian, English, Spanish
+- **Languages:** English, Spanish, Russian, Ukrainian
 - **Client work:** with those in Spain and those abroad
 - **Services:**
     - Free 15-min consultation for IT Autonomos clients

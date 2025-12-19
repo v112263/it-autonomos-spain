@@ -16,7 +16,7 @@ In case of rejection, Irina files appeals, and for court proceedings, she collab
 
 **Consultation fee (150 €) is credited towards residence permit or citizenship processing.**
 
-- **Languages:** Russian, Spanish
+- **Languages:** Spanish, Russian
 - **Experience:** since 2013, regular professional development and participation in professional congresses
 - **Client work:** with those in Spain and those abroad
 - **Services:**

@@ -30,7 +30,7 @@ exitosa en la apelación de denegaciones y la resolución de casos migratorios c
 
 **Consulta gratuita de 15 minutos antes de comenzar a trabajar.**
 
-- **Idiomas:** ucraniano, ruso, inglés, español
+- **Idiomas:** español, inglés, ruso, ucraniano
 - **Trabajo con clientes:** tanto en España como en el extranjero
 - **Servicios:**
     - Consulta gratuita de 15 min para clientes de IT Autonomos

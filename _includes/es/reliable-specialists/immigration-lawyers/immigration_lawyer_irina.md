@@ -16,7 +16,7 @@ En caso de denegación, Irina presenta recursos, y para procedimientos judiciale
 
 **El coste de la consulta (150 €) se descuenta al tramitar el permiso de residencia o la ciudadanía.**
 
-- **Idiomas:** ruso, español
+- **Idiomas:** español, ruso
 - **Experiencia:** desde 2013, formación continua regular y participación en congresos profesionales
 - **Trabajo con clientes:** tanto en España como en el extranjero
 - **Servicios:**

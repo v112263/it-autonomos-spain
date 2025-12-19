@@ -16,7 +16,7 @@ The team manages a wide range of businesses: from cosmetic factories and raw mat
 
 **Autónomo registration is free.**
 
-- **Languages:** English, Russian, Ukrainian, Spanish
+- **Languages:** English, Spanish, Russian, Ukrainian
 - **Offices:** Madrid
 - **Service provinces:** all services are provided completely remotely in all provinces, except Ceuta, Melilla,
   País Vasco, Navarra
