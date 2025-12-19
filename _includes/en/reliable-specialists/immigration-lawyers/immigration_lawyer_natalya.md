@@ -28,7 +28,8 @@ rejections and resolving complex immigration cases in court.
 
 **Free 15-minute consultation before starting work.**
 
-- **Languages:** Ukrainian, Russian, English, Spanish
+- **Languages:** English, Spanish, Russian, Ukrainian
+- **Client work:** with those in Spain and those abroad
 - **Services:**
     - Free 15-min consultation for IT Autonomos clients
     - Digital nomad (from 350 €)
@@ -49,4 +50,3 @@ All prices are stated without VAT.
     - **Ukraine:** certificate of no criminal record, apostille on documents (marriage certificate, birth certificate,
       extract on sole proprietorship registration), work experience confirmation
     - **USA, Canada, Malta, Poland, France:** apostille placement, company registration certificates
-- **Client work:** with those in Spain and those abroad

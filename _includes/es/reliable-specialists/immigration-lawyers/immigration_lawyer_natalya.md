@@ -30,7 +30,8 @@ exitosa en la apelación de denegaciones y la resolución de casos migratorios c
 
 **Consulta gratuita de 15 minutos antes de comenzar a trabajar.**
 
-- **Idiomas:** ucraniano, ruso, inglés, español
+- **Idiomas:** español, inglés, ruso, ucraniano
+- **Trabajo con clientes:** tanto en España como en el extranjero
 - **Servicios:**
     - Consulta gratuita de 15 min para clientes de IT Autonomos
     - Digital nomad (desde 350 €)
@@ -51,4 +52,3 @@ Todos los precios están indicados sin IVA.
     - **Ucrania:** certificado de antecedentes penales, apostilla en documentos (certificado de matrimonio, certificado
       de nacimiento, extracto de registro de empresario individual), confirmación de experiencia laboral
     - **EE.UU., Canadá, Malta, Polonia, Francia:** colocación de apostilla, certificados de registro de empresas
-- **Trabajo con clientes:** tanto en España como en el extranjero
