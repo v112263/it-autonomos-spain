@@ -27,7 +27,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 1. Contacta con [gestores de confianza](#gestores-de-confianza) para ayudarte con el registro y gestión de autónomo/SL, consultas
    personales y cualquier otra pregunta.
 2. Contacta con [abogados de inmigración de confianza](#abogados-de-inmigración-de-confianza) para ayudarte con la obtención de cualquier
-   tipo de residencia (Digital Nomad, Cuenta Propia, Arraigo, etc.) o la nacionalidad española. Consulta gratuita.
+   tipo de residencia (Digital Nomad, Cuenta Propia, Arraigo, etc.) o la nacionalidad española. Algunos ofrecen consulta gratuita.
 3. Lee la [guía paso a paso para registrarse como autónomo](#registro-de-autónomo-paso-a-paso).
 4. [Mi experiencia personal obteniendo una hipoteca](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores) 8 meses
    después de registrarme como autónomo.
