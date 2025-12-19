@@ -1,12 +1,12 @@
 # Abogados de inmigración de confianza
 
-Los especialistas que figuran a continuación son abogados de inmigración de confianza que ayudan con todo tipo de permisos
+Los especialistas que figuran a continuación son abogados y expertos de inmigración de confianza que ayudan con todo tipo de permisos
 de residencia en España, así como con la ciudadanía.
 
 Por qué puedes confiar en ellos:
 
-- Muchos años de experiencia;
-- Cientos de tramitaciones exitosas de distintos tipos de residencia y ciudadanía;
+- Muchos años de práctica migratoria;
+- Miles de tramitaciones exitosas de distintos tipos de residencia y ciudadanía;
 - Experiencia en procesos judiciales y presentación de recursos en caso de denegación;
 - Lista de verificación clara y listado de documentos, adaptados específicamente a tu caso.
 
