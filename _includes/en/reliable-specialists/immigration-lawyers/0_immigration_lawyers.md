@@ -12,5 +12,5 @@ Why they can be trusted:
 
 {% include en/reliable-specialists/help_notice.md %}
 
-{% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
 {% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_natalya.md %}
+{% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
