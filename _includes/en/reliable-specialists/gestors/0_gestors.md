@@ -14,6 +14,12 @@ removed from the list.
 Be sure to read about the [criteria for a reliable gestor](#criteria-for-a-reliable-gestor) and the
 entire [section about gestors](#gestor-1).
 
+**Specialists in this section:**
+- [Denis - Alicante, Torrevieja](#denis---gestor)
+- [Lyudmila - Valencia](#lyudmila---gestor)
+- [Nelia - Madrid](#nelia---gestor)
+- [Tatiana - Barcelona](#tatiana---gestor)
+
 {% include en/reliable-specialists/help_notice.md %}
 
 {% include en/reliable-specialists/gestors/gestor_denis.md %}

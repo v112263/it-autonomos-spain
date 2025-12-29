@@ -14,6 +14,12 @@ eliminar a un gestor de la lista.
 Asegúrese de leer sobre los [criterios de un gestor fiable](#criterios-de-un-gestor-fiable) y toda
 la [sección sobre gestores](#gestor-1).
 
+**Especialistas en esta sección:**
+- [Denis - Alicante, Torrevieja](#denis---gestor)
+- [Tatiana - Barcelona](#tatiana---gestor)
+- [Nelia - Madrid](#nelia---gestor)
+- [Lyudmila - Valencia](#lyudmila---gestor)
+
 {% include es/reliable-specialists/help_notice.md %}
 
 {% include es/reliable-specialists/gestors/gestor_denis.md %}

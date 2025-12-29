@@ -10,6 +10,10 @@ Por qué puedes confiar en ellos:
 - Experiencia en procesos judiciales y presentación de recursos en caso de denegación;
 - Lista de verificación clara y listado de documentos, adaptados específicamente a tu caso.
 
+**Especialistas en esta sección:**
+- [Irina - Experta en inmigración](#irina---experta-en-inmigración)
+- [Natalya - Abogada de inmigración](#natalya---abogada-de-inmigración)
+
 {% include es/reliable-specialists/help_notice.md %}
 
 {% include es/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
