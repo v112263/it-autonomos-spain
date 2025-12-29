@@ -10,6 +10,10 @@ Why they can be trusted:
 - Experience with court proceedings and appeals in case of refusal;
 - A clear checklist and document list tailored to your specific case.
 
+**Specialists in this section:**
+- [Natalya - Immigration lawyer](#natalya---immigration-lawyer)
+- [Irina - Immigration expert](#irina---immigration-expert)
+
 {% include en/reliable-specialists/help_notice.md %}
 
 {% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_natalya.md %}
