@@ -54,10 +54,13 @@ gratuitamente.
 **Método #5**
 
 Obtener un certificado a través de [ACCV](https://www.accv.es/){:target="_blank"} (Agència de Tecnologia i Certificació
-Electrònica de la Comunitat Valenciana), en línea y (por ahora) gratis.
+Electrònica de la Comunitat Valenciana), en línea y gratis (actualmente, las condiciones pueden cambiar).
 
 Para la tramitación necesitará: TIE (o permiso de conducir español), un número de teléfono español y un correo electrónico.
 
-1. Abrir la página web en el teléfono móvil y crear la solicitud.
-2. Hacer una foto del TIE (o del permiso de conducir) y completar la verificación por vídeo.
-3. Esperar la aprobación por correo electrónico (normalmente unas horas si se envía durante el día) y seguir las instrucciones.
+1. Abrir el [sitio web de ACCV](https://www.accv.es/){:target="_blank"} en el teléfono móvil.
+2. Pulsar el botón "Obtén certificado", luego "CIUDADANO".
+3. Rellenar todos los datos.
+4. Completar la verificación por vídeo mostrando el documento a la cámara.
+5. Esperar la aprobación por correo electrónico (normalmente unas horas si se envía durante el día).
+6. Recibir el código y descargar el certificado en el ordenador.

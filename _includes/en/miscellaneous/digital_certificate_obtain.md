@@ -52,10 +52,13 @@ free.
 **Method #5**
 
 Obtain a certificate through [ACCV](https://www.accv.es/){:target="_blank"} (Agència de Tecnologia i Certificació
-Electrònica de la Comunitat Valenciana), online and (for now) free of charge.
+Electrònica de la Comunitat Valenciana), online and free of charge (currently, conditions may change).
 
 You will need: TIE (or Spanish driver's license), a Spanish phone number, and an email address.
 
-1. Open the website on your mobile phone and create an application.
-2. Take a photo of your TIE (or driver's license) and complete the video verification.
-3. Wait for approval by email (usually a few hours if submitted during the day) and follow the instructions.
+1. Open the [ACCV website](https://www.accv.es/){:target="_blank"} on your mobile phone.
+2. Click the "Obtén certificado" button, then "CIUDADANO".
+3. Fill in all your details.
+4. Complete the video verification by showing your document to the camera.
+5. Wait for approval by email (usually a few hours if submitted during the day).
+6. Receive the code and download the certificate to your computer.
