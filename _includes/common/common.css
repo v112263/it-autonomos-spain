@@ -28,21 +28,21 @@
   border-radius: 0.25rem;
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #2E7D32;
+  border-color: #2E7D32;
   text-decoration: none;
   margin: 10px 0;
 }
 
 .btn-contact-specialist:hover {
   color: #fff;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #256629;
+  border-color: #1B5E20;
   text-decoration: none;
 }
 
 .btn-contact-specialist:focus, .btn-contact-specialist:active {
-  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(46, 125, 50, 0.5);
   text-decoration: none;
 }
 
