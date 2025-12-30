@@ -4,9 +4,9 @@
 
 > **Скидка 60 €** на регистрацию аутономо по промокоду "IT Autonomos", заполнение годовой декларации бесплатно навсегда.
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorDenis(); return false;">Написать Денису</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorDenisRu(); return false;">Написать Денису</a>
 
-{% include common/contact-forms/gestors/gestor_denis_form.html %}
+{% include common/contact-forms/gestors/gestor_denis_form_ru.html %}
 
 Консультационная компания Дениса, с упором на оптимизацию налогов и продвинутую бухгалтерию, оказывает все необходимые
 услуги для Autonomo/SL и их сотрудников. В сервис по ведению компаний бесплатно входит доступ к онлайн-решению для

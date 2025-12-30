@@ -4,9 +4,9 @@
 
 > **Бесплатная регистрация аутономо** по промокоду "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorNelia(); return false;">Написать Неле</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorNeliaRu(); return false;">Написать Неле</a>
 
-{% include common/contact-forms/gestors/gestor_nelia_form.html %}
+{% include common/contact-forms/gestors/gestor_nelia_form_ru.html %}
 
 Неля - хестор с глубоким пониманием испанской и украинской налоговых систем. С 20-летним опытом (13 лет в Испании и 7 
 лет в 

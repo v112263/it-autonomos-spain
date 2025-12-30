@@ -4,9 +4,9 @@
 
 > **Descuento de 100 €** para el registro de autónomo con el código promocional "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorTatiana(); return false;">Escribe a Tatiana</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorTatianaEs(); return false;">Escribe a Tatiana</a>
 
-{% include common/contact-forms/gestors/gestor_tatiana_form.html %}
+{% include common/contact-forms/gestors/gestor_tatiana_form_es.html %}
 
 Tatiana dirige una empresa que proporciona servicios contables y jurídicos durante más de 10 años. Para autónomos y SLs, 
 la empresa gestiona el registro, impuestos y contabilidad, proporciona asesoramiento sobre optimización fiscal, ayuda

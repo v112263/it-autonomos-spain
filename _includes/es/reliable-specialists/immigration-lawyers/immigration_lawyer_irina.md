@@ -2,9 +2,9 @@
 
 > **El coste de la consulta (150 €) se descuenta** al tramitar el permiso de residencia o la ciudadanía.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrina(); return false;">Reservar una consulta</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrinaEs(); return false;">Reservar una consulta</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form_es.html %}
 
 Irina se especializa exclusivamente en asuntos migratorios desde 2013. Durante este tiempo, ha tramitado todos los tipos de permisos de residencia existentes y ha acumulado experiencia trabajando con consulados de decenas de países. La tasa de decisiones positivas es del 96%, las denegaciones ocurren solo en casos raros realmente arriesgados.
 

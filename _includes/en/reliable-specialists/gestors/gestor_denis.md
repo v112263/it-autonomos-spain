@@ -5,9 +5,9 @@
 > **60 € discount** on autónomo registration with the promo code "IT Autonomos", annual tax declaration filing is free
 > forever.
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorDenis(); return false;">Message Denis</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorDenisEn(); return false;">Message Denis</a>
 
-{% include common/contact-forms/gestors/gestor_denis_form.html %}
+{% include common/contact-forms/gestors/gestor_denis_form_en.html %}
 
 Denis's consulting company, with a focus on tax optimization and advanced accounting, provides all the necessary
 services for Autonomo/SL and their employees. The company management service includes free access to an online solution

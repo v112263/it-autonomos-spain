@@ -3,9 +3,9 @@
 
 > **Free 15-minute consultation** for clients coming through IT Autonomos.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Book a consultation</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalyaEn(); return false;">Book a consultation</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form_en.html %}
 
 Natalya helps clients at all stages of the immigration process: from initial consultation and strategy development to
 document submission and obtaining a positive decision.

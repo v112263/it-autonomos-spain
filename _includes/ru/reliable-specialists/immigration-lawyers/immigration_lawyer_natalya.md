@@ -3,9 +3,9 @@
 
 > **Бесплатная консультация 15 минут** для клиентов, пришедших через IT Autonomos.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Записаться на консультацию</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalyaRu(); return false;">Записаться на консультацию</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form_ru.html %}
 
 Наталия помогает клиентам на всех этапах миграционного процесса: от первичной консультации и разработки стратегии до
 подачи документов и получения положительного решения.

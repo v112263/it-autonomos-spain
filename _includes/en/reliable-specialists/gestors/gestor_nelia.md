@@ -4,9 +4,9 @@
 
 > **Autónomo registration is free** with the promo code "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorNelia(); return false;">Message Nelia</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorNeliaEn(); return false;">Message Nelia</a>
 
-{% include common/contact-forms/gestors/gestor_nelia_form.html %}
+{% include common/contact-forms/gestors/gestor_nelia_form_en.html %}
 
 Nelia is a gestor with deep understanding of Spanish and Ukrainian tax systems. With 20 years of experience (13 years in Spain and 7 years in Ukraine), she specializes in comprehensive accounting support and managing the most diverse types of businesses.
 

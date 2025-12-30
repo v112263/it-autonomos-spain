@@ -47,12 +47,14 @@
 }
 
 .specialist-contact-form {
-  margin-top: 15px; 
-  border: 1px solid #dcedc8; 
-  border-radius: 6px; 
-  padding: 15px; 
-  background-color: #f9fbf7; 
+  margin-top: 15px;
+  border: 1px solid #dcedc8;
+  border-radius: 6px;
+  padding: 0;
+  background-color: #f9fbf7;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  /* Override HubSpot form padding from 40px to 32px */
+  --hsf-background__padding: 32px;
 }
 
 @media (min-width: 768px) {
@@ -60,17 +62,12 @@
     max-width: 600px;
     width: 100%;
   }
-
-  .contact-form-fallback {
-    margin-top: 30px; /* 28-32px on desktop */
-    padding: 20px; /* 16-20px comfortable density */
-  }
 }
 
-/* Contact form fallback block */
+/* Contact form fallback block - aligned with HubSpot form fields (32px) */
 .contact-form-fallback {
-  margin-top: 22px;
-  margin-bottom: 16px;
+  margin: 32px;
+  margin-top: 0;
   border: 1px dashed #C9D4E5;
   border-radius: 8px;
   padding: 16px;

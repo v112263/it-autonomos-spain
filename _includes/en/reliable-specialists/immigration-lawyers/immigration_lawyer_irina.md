@@ -2,9 +2,9 @@
 
 > **Consultation fee (150 €) is credited** towards residence permit or citizenship processing.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrina(); return false;">Book a consultation</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrinaEn(); return false;">Book a consultation</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form_en.html %}
 
 Irina has specialized exclusively in immigration matters since 2013. During this time, she has processed all existing types of residence permits and gained experience working with consulates of dozens of countries. The positive decision rate is 96%, with rejections occurring only in rare genuinely risky cases.
 
