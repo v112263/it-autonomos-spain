@@ -4,9 +4,9 @@
 
 > **Registro de autónomo gratis** con el código promocional "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorNelia(); return false;">Escribe a Nelia</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorNeliaEs(); return false;">Escribe a Nelia</a>
 
-{% include common/contact-forms/gestors/gestor_nelia_form.html %}
+{% include common/contact-forms/gestors/gestor_nelia_form_es.html %}
 
 Nelia es una gestora con profundo conocimiento de los sistemas fiscales español y ucraniano. Con 20 años de experiencia (13 años en España y 7 años en Ucrania), se especializa en acompañamiento contable integral y gestión de los más diversos tipos de negocios.
 

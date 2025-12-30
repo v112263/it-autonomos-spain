@@ -4,9 +4,9 @@
 
 > **Скидка 100 €** на регистрацию аутономо по промокоду "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorTatiana(); return false;">Написать Татьяне</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorTatianaRu(); return false;">Написать Татьяне</a>
 
-{% include common/contact-forms/gestors/gestor_tatiana_form.html %}
+{% include common/contact-forms/gestors/gestor_tatiana_form_ru.html %}
 
 Татьяна руководит компанией, предоставляющей бухгалтерские и юридические услуги более 10 лет. Для аутономо и SL
 компания выполняет регистрацию, ведение налогового и бухгалтерского учета, консультирует по оптимизации

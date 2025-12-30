@@ -5,9 +5,9 @@
 > **50 € dicsount** on autónomo registration with the promo code "IT Autonomos", annual tax return filing free of
 > charge.
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorLyudmila(); return false;">Message Lyudmila</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorLyudmilaEn(); return false;">Message Lyudmila</a>
 
-{% include common/contact-forms/gestors/gestor_lyudmila_form.html %}
+{% include common/contact-forms/gestors/gestor_lyudmila_form_en.html %}
 
 Lyudmila is a managing partner of a company that provides accounting, tax, consulting, migration, and administrative
 services. The services include support for Autónomo/SL, covering everything from business registration to handling

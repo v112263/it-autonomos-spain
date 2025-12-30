@@ -4,9 +4,9 @@
 
 > **Безкоштовна реєстрація аутономо** за промокодом "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorNelia(); return false;">Написати Нелі</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorNeliaUa(); return false;">Написати Нелі</a>
 
-{% include common/contact-forms/gestors/gestor_nelia_form.html %}
+{% include common/contact-forms/gestors/gestor_nelia_form_ua.html %}
 
 Неля - хестор із глибоким розумінням іспанської та української податкових систем. З 20-річним досвідом (13 років в Іспанії та 7 років в Україні), вона спеціалізується на комплексному бухгалтерському супроводі та веденні найрізноманітніших типів бізнесу.
 

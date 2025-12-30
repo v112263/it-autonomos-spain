@@ -4,9 +4,9 @@
 
 > **Descuento de 60 €** en el registro de autónomo con el código promocional "IT Autonomos", declaración anual de impuestos gratis para siempre.
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorDenis(); return false;">Escribe a Denis</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorDenisEs(); return false;">Escribe a Denis</a>
 
-{% include common/contact-forms/gestors/gestor_denis_form.html %}
+{% include common/contact-forms/gestors/gestor_denis_form_es.html %}
 
 La empresa consultora de Denis, con enfoque en la optimización fiscal y contabilidad avanzada, ofrece todos los
 servicios necesarios para Autónomo/SL y sus empleados. El servicio de gestión de empresas incluye acceso gratuito a una

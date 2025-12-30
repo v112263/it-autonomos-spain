@@ -4,9 +4,9 @@
 
 > **Знижка 100 €** на реєстрацію аутономо за промокодом "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorTatiana(); return false;">Написати Тетяні</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorTatianaUa(); return false;">Написати Тетяні</a>
 
-{% include common/contact-forms/gestors/gestor_tatiana_form.html %}
+{% include common/contact-forms/gestors/gestor_tatiana_form_ua.html %}
 
 Тетяна керує компанією, яка понад 10 років надає бухгалтерські та юридичні послуги. Для аутономо та SL компанія здійснює
 реєстрацію, ведення податкового та бухгалтерського обліку, консультує щодо оптимізації оподаткування, допомагає з

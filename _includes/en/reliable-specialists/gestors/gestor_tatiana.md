@@ -4,9 +4,9 @@
 
 > **Discount of 100 €** for autónomo registration with the promo code "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorTatiana(); return false;">Message Tatiana</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorTatianaEn(); return false;">Message Tatiana</a>
 
-{% include common/contact-forms/gestors/gestor_tatiana_form.html %}
+{% include common/contact-forms/gestors/gestor_tatiana_form_en.html %}
 
 Tatiana manages a company providing accounting and legal services for over 10 years. For autónomos and SLs, the company
 handles registration, tax and accounting, provides tax optimization advice, assists with obtaining licenses, and opening

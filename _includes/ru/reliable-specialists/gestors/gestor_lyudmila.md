@@ -4,9 +4,9 @@
 
 > **Скидка 50 €** на регистрацию аутономо по промокоду "IT Autonomos", заполнение годовой декларации бесплатно.
 
-<a href="#" class="btn-contact-specialist" onclick="contactGestorLyudmila(); return false;">Написать Людмиле</a>
+<a href="#" class="btn-contact-specialist" onclick="contactGestorLyudmilaRu(); return false;">Написать Людмиле</a>
 
-{% include common/contact-forms/gestors/gestor_lyudmila_form.html %}
+{% include common/contact-forms/gestors/gestor_lyudmila_form_ru.html %}
 
 Людмила - управляющий партнер компании, которая предоставляет бухгалтерские, налоговые, консультационные, миграционные и
 административные услуги. В услуги входит сопровождение Autónomo/SL, все задачи начиная от регистрации бизнеса и до

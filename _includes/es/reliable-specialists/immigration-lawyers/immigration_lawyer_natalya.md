@@ -3,9 +3,9 @@
 
 > **Consulta gratuita de 15 minutos** para clientes que llegan a través de IT Autonomos.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalya(); return false;">Reservar una consulta</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalyaEs(); return false;">Reservar una consulta</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form_es.html %}
 
 Natalya ayuda a los clientes en todas las etapas del proceso migratorio: desde la consulta inicial y el desarrollo de
 la estrategia hasta la presentación de documentos y la obtención de una decisión positiva.

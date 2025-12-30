@@ -2,9 +2,9 @@
 
 > **Вартість консультації (150 €) зараховується** при оформленні ВНЖ або громадянства.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrina(); return false;">Записатися на консультацію</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrinaUa(); return false;">Записатися на консультацію</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form_ua.html %}
 
 Ірина спеціалізується виключно на міграційних питаннях з 2013 року. За цей час вона оформила всі існуючі типи ВНЖ та накопичила досвід роботи з консульствами десятків країн. Показник позитивних рішень - 96%, відмови трапляються лише у рідкісних дійсно ризикованих кейсах.
 

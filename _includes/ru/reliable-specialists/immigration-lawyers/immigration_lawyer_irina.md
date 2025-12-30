@@ -2,9 +2,9 @@
 
 > **Стоимость консультации (150 €) зачитывается** при оформлении ВНЖ или гражданства.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrina(); return false;">Записаться на консультацию</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerIrinaRu(); return false;">Записаться на консультацию</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_irina_form_ru.html %}
 
 Ирина специализируется исключительно на миграционных вопросах с 2013 года. За это время она оформила все
 существующие типы ВНЖ и накопила опыт работы с консульствами десятков стран. Показатель положительных решений - 96%,
