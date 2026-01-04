@@ -112,9 +112,8 @@ A Jekyll-based multilingual documentation website about being an autónomo or SL
 │   ├── mortgage/index.md
 │   └── versions/
 ├── _includes/
-│   ├── common/                 # Shared assets (CSS, JS, forms)
-│   │   ├── common.css         # All site styles
-│   │   └── scripts.js         # All site scripts
+│   ├── common/                 # Shared assets (CSS, forms)
+│   │   └── common.css         # All site styles
 │   ├── en/                    # English article includes (majority of articles)
 │   ├── ru/                    # Russian article includes (majority of articles)
 │   ├── ua/                    # Ukrainian article includes (majority of articles)
@@ -131,7 +130,7 @@ A Jekyll-based multilingual documentation website about being an autónomo or SL
   - `mortgage/index.md` - Full mortgage guide article
   - `versions/` - Document version history and past release notes
 - Index files (`*/index.md`) serve as navigation hubs linking to all articles
-- Common assets (CSS, JS, forms) are in `_includes/common/`
+- Common assets (CSS, forms) are in `_includes/common/`
 
 ## Translation Standards
 
@@ -226,16 +225,9 @@ Example:
 - Use consistent naming conventions
 - Ensure cross-browser compatibility
 
-### JavaScript
-- All scripts in **one file**: `_includes/common/scripts.js`
-- Keep code organized and well-commented
-- Follow modern JavaScript best practices
-- Ensure cross-browser compatibility
-
 ### Best Practices
-- Maintain separation of concerns between content, presentation, and behavior
+- Maintain separation of concerns between content and presentation
 - Keep all common assets in `_includes/common/`
-- Never create separate CSS/JS files - always use the centralized files
 
 ## Partner Profile Language Ordering
 
@@ -265,6 +257,15 @@ Apply consistently across all partners; don't hardcode exceptions.
 - Follow Jekyll best practices
 - Maintain clear separation between content and presentation
 - Ensure responsive design works across all devices
+
+## Related Projects
+
+This project has a sibling project:
+
+- **Spain Life Guide**: `../spain-life-guide/`
+  - Guide about life in Spain (bureaucracy, documents, tips)
+  - Same structure, same languages (but RU is default there)
+  - When user asks to apply changes to both projects, check the sibling project and apply there too
 
 ## Content Update Checklist
 
