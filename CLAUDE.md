@@ -266,6 +266,15 @@ Apply consistently across all partners; don't hardcode exceptions.
 - Maintain clear separation between content and presentation
 - Ensure responsive design works across all devices
 
+## Related Projects
+
+This project has a sibling project:
+
+- **Spain Life Guide**: `../spain-life-guide/`
+  - Guide about life in Spain (bureaucracy, documents, tips)
+  - Same structure, same languages (but RU is default there)
+  - When user asks to apply changes to both projects, check the sibling project and apply there too
+
 ## Content Update Checklist
 
 ### For New/Modified Content (Russian Only)
