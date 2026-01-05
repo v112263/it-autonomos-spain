@@ -15,13 +15,13 @@
 
 **Специалисты в этом разделе:**
 - [Денис - Аликанте, Торревьеха](#денис---хестор)
-- [Неля - Мадрид](#неля---хестор)
 - [Татьяна - Барселона](#татьяна---хестор)
 - [Людмила - Валенсия](#людмила---хестор)
+- [Неля - Мадрид](#неля---хестор)
 
 {% include ru/reliable-specialists/help_notice.md %}
 
 {% include ru/reliable-specialists/gestors/gestor_denis.md %}
-{% include ru/reliable-specialists/gestors/gestor_nelia.md %}
 {% include ru/reliable-specialists/gestors/gestor_tatiana.md %}
 {% include ru/reliable-specialists/gestors/gestor_lyudmila.md %}
+{% include ru/reliable-specialists/gestors/gestor_nelia.md %}

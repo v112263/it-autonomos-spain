@@ -17,12 +17,12 @@ entire [section about gestors](#gestor-1).
 **Specialists in this section:**
 - [Denis - Alicante, Torrevieja](#denis---gestor)
 - [Lyudmila - Valencia](#lyudmila---gestor)
-- [Nelia - Madrid](#nelia---gestor)
 - [Tatiana - Barcelona](#tatiana---gestor)
+- [Nelia - Madrid](#nelia---gestor)
 
 {% include en/reliable-specialists/help_notice.md %}
 
 {% include en/reliable-specialists/gestors/gestor_denis.md %}
 {% include en/reliable-specialists/gestors/gestor_lyudmila.md %}
-{% include en/reliable-specialists/gestors/gestor_nelia.md %}
 {% include en/reliable-specialists/gestors/gestor_tatiana.md %}
+{% include en/reliable-specialists/gestors/gestor_nelia.md %}
