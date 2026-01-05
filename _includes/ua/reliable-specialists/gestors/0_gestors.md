@@ -15,14 +15,14 @@
 весь [розділ про хесторів](#хестор-1).
 
 **Спеціалісти в цьому розділі:**
-- [Неля - Мадрид](#неля---хестор)
 - [Денис - Аліканте, Торревʼєха](#денис---хестор)
 - [Людмила - Валенсія](#людмила---хестор)
 - [Тетяна - Барселона](#тетяна---хестор)
+- [Неля - Мадрид](#неля---хестор)
 
 {% include ua/reliable-specialists/help_notice.md %}
 
-{% include ua/reliable-specialists/gestors/gestor_nelia.md %}
 {% include ua/reliable-specialists/gestors/gestor_denis.md %}
 {% include ua/reliable-specialists/gestors/gestor_lyudmila.md %}
 {% include ua/reliable-specialists/gestors/gestor_tatiana.md %}
+{% include ua/reliable-specialists/gestors/gestor_nelia.md %}
