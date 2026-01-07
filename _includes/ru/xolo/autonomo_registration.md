@@ -54,9 +54,7 @@
     Это на тот случай, если у вас будут клиенты в ЕС, чтобы вам не пришлось платить VAT. Регистрация EU VAT занимает 1
     день.
 19. I want to use 7% IRPF on invoices - если у вас нет испанских клиентов, то ставить эту галочку не
-    нужно ([здесь](https://www.xolo.io/es-en/faq/xolo-spain/category/platform/article/can-i-make-invoices-with-7-irpf-personal-income-tax-withhold){:
-    target="_blank"}
-    можете почитать подробнее).
+    нужно (подробнее в статье [Can I make invoices with 7% IRPF](https://www.xolo.io/es-en/faq/xolo-spain/category/platform/article/can-i-make-invoices-with-7-irpf-personal-income-tax-withhold){:target="_blank"}).
 20. Work permit - ваш TIE (если у вас нет TIE, но есть NIE и временная защита, этого тоже достаточно; в нашем чате есть
     успешные кейсы открытия аутономо через Xolo имея только NIE и ТЗ).
 21. I'd like to schedule my registration - если хотите зарегистрировать аутономо сейчас, но начать вести деятельность

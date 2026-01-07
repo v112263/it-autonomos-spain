@@ -50,10 +50,8 @@
     would be.
 18. I will have customers outside Spain in the EU (for EU VAT registration). I recommend activating this item right
     away. This is in case you have clients in the EU, so you don't have to pay VAT. EU VAT registration takes 1 day.
-19. I want to use 7% IRPF on invoices - if you don't have Spanish clients, you don't need to check this box (you can
-    read more
-    [here](https://www.xolo.io/es-en/faq/xolo-spain/category/platform/article/can-i-make-invoices-with-7-irpf-personal-income-tax-withhold){:
-    target="_blank"}).
+19. I want to use 7% IRPF on invoices - if you don't have Spanish clients, you don't need to check this box (read more
+    in the article [Can I make invoices with 7% IRPF](https://www.xolo.io/es-en/faq/xolo-spain/category/platform/article/can-i-make-invoices-with-7-irpf-personal-income-tax-withhold){:target="_blank"}).
 20. Work permit - your TIE (if you don't have a TIE, but have an NIE and Temporary protection, that is also enough; in
     our chat, there are successful cases of opening autónomo through Xolo with only NIE and Temporary protection).
 21. I'd like to schedule my registration - if you want to register autónomo now but start activities later (e.g. in a

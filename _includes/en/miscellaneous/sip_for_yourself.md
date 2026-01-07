@@ -24,7 +24,7 @@ registering as an autónomo, I received an SMS stating that my plastic SIP card 
 **Method #3**
 
 1. Obtain a certificate of entitlement to healthcare (derecho de asistencia
-   sanitaria) [here](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. To learn how to
-   obtain it, it’s better to ask in the chat (I’m not duplicating the instructions here because it’s quite big).
+   sanitaria) on the [Seguridad Social portal](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. To learn how to
+   obtain it, it's better to ask in the chat (I'm not duplicating the instructions here because it's quite big).
 2. Print your empadronamiento from the ayuntamiento's website.
 3. Go to the Centro de Salud in your area, show all these documents, and receive a plastic SIP card.

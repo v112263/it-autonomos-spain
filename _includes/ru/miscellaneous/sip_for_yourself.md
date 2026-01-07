@@ -26,7 +26,7 @@ Centro de Salud (где я ранее оформлял бумажный SIP), и
 **Способ #3**
 
 1. Получить справку о праве на получение медицинского обслуживания (derecho de asistencia sanitaria)
-   [здесь](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. Как именно ее получить,
+   на [портале Seguridad Social](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. Как именно ее получить,
    лучше спросить в чате (я не дублирую здесь эту инструкцию потому что она довольно большая).
 2. Распечатать empadronamiento с сайта ayuntamiento.
 3. Прийти в Centro de Salud по месту проживания, показать все эти документы, и получить пластиковую карту SIP.

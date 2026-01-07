@@ -50,8 +50,7 @@ y [otros sectores](#es-xolo-adecuado-para-ti).
   notificaciones.
 - Menor riesgo de errores gracias a la automatización.
 - ⚠️ No admite [autónomo colaborador](#autónomo-colaborador).
-- ⚠️ No opera en algunas regiones de España, no es adecuado para ciertos sectores
-  de actividad ([más información](#es-xolo-adecuado-para-ti)).
+- ⚠️ No opera en [algunas regiones de España y no es adecuado para ciertos sectores de actividad](#es-xolo-adecuado-para-ti).
 - ⚠️ Consultas limitadas en situaciones no estándar.
 
 Registro a través del **[enlace de referido](https://bit.ly/xolosignup){:target="_blank"}** (bono de 50 € en su cuenta
