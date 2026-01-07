@@ -48,7 +48,7 @@ freelancers in IT, marketing, media, design, consulting, and [other fields](#is-
 - [Convenient dashboard](#dashboard-demo-tutorials) for income statistics, taxes, invoices, and notifications.
 - Less risk of errors due to automation.
 - ⚠️ Does not support [autónomo colaborador](#autónomo-colaborador).
-- ⚠️ Not available in some regions of Spain and not suitable for some fields ([details](#is-xolo-suitable-for-you)).
+- ⚠️ Not available in [some regions of Spain and not suitable for some fields](#is-xolo-suitable-for-you).
 - ⚠️ Limited consultation in non-standard situations.
 
 Register using the **[referral link](https://bit.ly/xolosignup){:target="_blank"}** (50 € bonus to your

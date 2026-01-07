@@ -2,5 +2,4 @@
 
 Посмотреть подробнее, как выглядит дашборд Xolo (если захотите увидеть до регистрации), а также туториалы по
 некоторым вопросам (создание инвойса, загрузка фактуры для списывания с налогов и др.) на испанском языке можно
-посмотреть
-[здесь](https://www.xolo.io/zz-en/faq/xolo-spain/category/platform/subcategory/video-tutorials){:target="_blank"}.
+на [странице видеотуториалов Xolo](https://www.xolo.io/zz-en/faq/xolo-spain/category/platform/subcategory/video-tutorials){:target="_blank"}.

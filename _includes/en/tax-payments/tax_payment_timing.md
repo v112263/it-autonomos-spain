@@ -3,8 +3,7 @@
 When you register as an autónomo, there is a chance that you will become a tax resident for the current year starting
 January 1st (even if you registered as an autónomo in the middle of the year). It is difficult to say in advance whether
 the tax authorities will consider you a tax resident or not, as it depends on many factors and is generally a rather
-complex topic (you can read
-more [here](https://www.xolo.io/es-en/faq/xolo-spain/category/your-obligations-as-a-freelancer/article/who-is-required-to-file-the-personal-income-tax-return-renta)).
+complex topic (read more in the section [who must submit a Renta declaration](#who-must-submit-a-renta-declaration)).
 A tax resident must pay taxes on income for the entire year (even on income received in other countries).
 
 Some people take a risk in this situation and do not declare their income before registering as an autónomo (there is a

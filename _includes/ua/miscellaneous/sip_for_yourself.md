@@ -25,7 +25,7 @@
 **Спосіб #3**
 
 1. Отримати довідку про право на медичне обслуговування (derecho de asistencia
-   sanitaria) [тут](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. Як саме її
+   sanitaria) на [порталі Seguridad Social](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. Як саме її
    отримати, краще запитати в чаті (я не дублюю інструкцію, тому що вона досить велика).
 2. Роздрукувати empadronamiento з сайту ayuntamiento.
 3. Прийти в Centro de Salud за місцем проживання, показати всі ці документи та отримати пластиковий SIP.

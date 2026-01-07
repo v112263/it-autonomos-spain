@@ -16,6 +16,6 @@ En mi caso fue muy sencillo, pero según los mensajes en el chat, esta opción f
 
 **Método #3**
 
-1. Obtener el certificado de derecho de asistencia sanitaria [aquí](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. Cómo obtenerlo exactamente, es mejor preguntar en el chat (no duplico aquí estas instrucciones porque son bastante extensas).
+1. Obtener el certificado de derecho de asistencia sanitaria en el [portal de Seguridad Social](https://pssc.seg-social.es/pssc-app-estructurados/asistencia){:target="_blank"}. Cómo obtenerlo exactamente, es mejor preguntar en el chat (no duplico aquí estas instrucciones porque son bastante extensas).
 2. Imprimir el empadronamiento desde el sitio web del ayuntamiento.
 3. Acudir al Centro de Salud de su domicilio, mostrar todos estos documentos y obtener la tarjeta SIP de plástico. 
