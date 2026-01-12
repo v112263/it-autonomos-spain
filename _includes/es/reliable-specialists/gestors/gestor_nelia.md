@@ -2,7 +2,7 @@
 <span id="nelia-b---gestor" class="legacy-anchor"></span>
 ## Nelia - Gestor
 
-> **Registro de autónomo gratis** con el código promocional "IT Autonomos".
+> **Descuento de 30 €** en registro de autónomo con el código promocional "IT Autonomos".
 
 <a href="#" class="btn-contact-specialist" onclick="contactGestorNeliaEs(); return false;">Escribe a Nelia</a>
 
@@ -14,7 +14,7 @@ En el equipo con Nelia trabaja un socio-abogado con 30 años de experiencia, qui
 
 El equipo gestiona una amplia gama de negocios: desde fábricas de cosméticos y empresas de importación de materias primas hasta grandes empresas de IT y compañías de inversión. Esta experiencia diversa permite brindar consultas expertas sobre las cuestiones más complejas de tributación y optimización de procesos empresariales.
 
-**Registro de autónomo gratis.**
+**Descuento de 30 € en registro de autónomo.**
 
 - **Idiomas:** español, ruso, ucraniano, inglés
 - **Oficinas:** Madrid
@@ -22,7 +22,7 @@ El equipo gestiona una amplia gama de negocios: desde fábricas de cosméticos y
   País Vasco, Navarra
 - **Experiencia:** Nelia - 13 años en España (y 7 años en Ucrania), socio-abogado - 30 años en España
 - **Servicios:**
-    - Registro de autónomo (<s>70 €</s> gratis con el código promocional "IT Autonomos")
+    - Registro de autónomo (<s>70 €</s> 40 € con el código promocional "IT Autonomos")
     - Gestión de autónomo (desde 70 €/mes)
     - Consulta individual 60 min (100 €)
     - Gestión de colaborador (40 €/mes)
