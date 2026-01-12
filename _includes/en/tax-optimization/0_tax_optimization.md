@@ -44,3 +44,7 @@ service subscriptions). In addition, there are special tax benefits and discount
 {% include en/tax-optimization/food.md %}
 {% include en/tax-optimization/health_insurance.md %}
 {% include en/tax-optimization/other_expenses.md %}
+
+## Other optimization schemes
+
+{% include en/tax-optimization/autonomo_collaborador.md %}

@@ -11,7 +11,6 @@
 {% include ua/miscellaneous/contract.md %}
 {% include ua/miscellaneous/sip_for_yourself.md %}
 {% include ua/miscellaneous/sip_family.md %}
-{% include ua/miscellaneous/colaborador.md %}
 {% include ua/miscellaneous/dehu_notifications.md %}
 {% include ua/miscellaneous/amazon_business.md %}
 {% include ua/miscellaneous/modelo_036.md %}

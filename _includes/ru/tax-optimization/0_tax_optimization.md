@@ -44,3 +44,7 @@
 {% include ru/tax-optimization/food.md %}
 {% include ru/tax-optimization/health_insurance.md %}
 {% include ru/tax-optimization/other_expenses.md %}
+
+## Другие схемы оптимизации
+
+{% include ru/tax-optimization/autonomo_collaborador.md %}
