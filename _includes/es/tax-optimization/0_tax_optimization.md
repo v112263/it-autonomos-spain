@@ -44,3 +44,7 @@ suscripciones a servicios). Además, existen beneficios fiscales y descuentos es
 {% include es/tax-optimization/food.md %}
 {% include es/tax-optimization/health_insurance.md %}
 {% include es/tax-optimization/other_expenses.md %}
+
+## Otros esquemas de optimización
+
+{% include es/tax-optimization/autonomo_collaborador.md %}
