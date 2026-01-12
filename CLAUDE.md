@@ -231,17 +231,23 @@ Example:
 
 ## Partner Profile Language Ordering
 
-When displaying partner/gestor/lawyer profiles, order languages by relevance to the current site version's audience:
+**CRITICAL RULE**: When displaying partner/gestor/lawyer profiles, **ALWAYS reorder the "Languages" field** for each language version of the site.
+
+**Order languages by relevance to the current site version's audience:**
 
 1. **First**: Current site language (if partner speaks it)
 2. **Then**: Linguistically/geographically close languages (e.g., Russian for Ukrainian site)
 3. **Finally**: Other languages, with global lingua francas last
 
-**Example for Ukrainian site:**
-- Partner speaks EN, ES, RU → Order: UA (if spoken), RU (linguistically close), EN, ES
-- Partner doesn't speak UA → Order: RU (most relevant), EN, ES
+**Concrete examples for a partner who speaks RU, UA, EN, ES:**
+- **RU site**: русский, украинский, английский, испанский
+- **UA site**: українська, російська, англійська, іспанська
+- **EN site**: English, Spanish, Russian, Ukrainian
+- **ES site**: español, inglés, ruso, ucraniano
 
-Apply consistently across all partners; don't hardcode exceptions.
+**THIS RULE IS MANDATORY FOR ALL PARTNER PROFILES!**
+
+Do NOT copy the same language order from Russian version to all translations - each language version must have its own order with the site's language first.
 
 ## Development Standards
 
@@ -297,5 +303,6 @@ This project has a sibling project:
 - [ ] All formatting preserved exactly
 - [ ] Correct Telegram links for each language
 - [ ] Legacy anchors added in ALL language versions if content was renamed
+- [ ] **Partner profiles: Language order adjusted for each site version** (site language first!)
 - [ ] Updated all 4 index files (if structure changed)
 - [ ] All navigation links work in all languages
