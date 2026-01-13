@@ -21,6 +21,8 @@ permalink: /es/
 
 [EN]({{ site.baseurl }}/) | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | **ES**
 
+<p class="last-updated">Última actualización: 22 de enero de 2026</p>
+
 Este documento contiene toda la información necesaria para registrarse y gestionar el autónomo en España. Se actualiza regularmente y
 **es revisado por gestores**.
 
@@ -68,6 +70,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
     - [Descuentos fiscales](#descuentos-fiscales)
         - [Beneficio para nuevos autónomos](#beneficio-para-nuevos-autónomos)
         - [Deducciones regionales](#deducciones-regionales)
+        - [Beneficios fiscales personales y familiares](#beneficios-fiscales-personales-y-familiares)
     - [Tramitación de deducciones](#tramitación-de-deducciones)
         - [Requisitos de las facturas](#requisitos-de-las-facturas)
         - [Retenciones](#retenciones)

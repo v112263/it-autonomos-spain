@@ -15,6 +15,8 @@ title: "Autónomo - Complete Guide"
 
 **EN** | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | [ES]({{ site.baseurl }}/es/)
 
+<p class="last-updated">Last updated: January 22, 2026</p>
+
 This document contains all the necessary information for registering and managing autónomo in Spain. It is regularly updated and
 **reviewed by gestors**.
 
@@ -62,6 +64,7 @@ This document contains all the necessary information for registering and managin
     - [Tax discounts](#tax-discounts)
         - [Benefit for new autónomos](#benefit-for-new-autónomos)
         - [Regional deductions](#regional-deductions)
+        - [Personal and family tax benefits](#personal-and-family-tax-benefits)
     - [Claiming deductions](#claiming-deductions)
         - [Invoice requirements](#invoice-requirements)
         - [Withholdings (retenciones)](#withholdings-retenciones)

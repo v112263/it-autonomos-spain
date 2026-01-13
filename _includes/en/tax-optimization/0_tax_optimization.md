@@ -17,6 +17,7 @@ service subscriptions). In addition, there are special tax benefits and discount
 
 {% include en/tax-optimization/activity_reduction.md %}
 {% include en/tax-optimization/regional_deductions.md %}
+{% include en/tax-optimization/personal_and_family_deductions.md %}
 
 ## Claiming deductions
 
