@@ -28,7 +28,7 @@ For client convenience, personal account, WhatsApp, email, and phone calls are u
 - **Offices:** Alicante, Torrevieja
 - **Service regions:** All services are provided remotely across all provinces except Ceuta, Melilla, País Vasco,
   Navarra
-- **Experience:** 7 years
+- **Experience:** since 2019
 - **Services:**
     - Free 30-minute consultation before autónomo registration
     - Autónomo registration (<s>140 €</s> 80 € with promo code "IT Autonomos")

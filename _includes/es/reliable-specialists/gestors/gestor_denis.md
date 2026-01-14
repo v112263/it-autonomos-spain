@@ -28,7 +28,7 @@ trabajo.
 - **Idiomas:** español, inglés, ruso
 - **Oficinas:** Alicante, Torrevieja
 - **Provincias atendidas:** todos los servicios se prestan completamente a distancia en todas las provincias, excepto Ceuta, Melilla, País Vasco, Navarra
-- **Experiencia:** 7 años
+- **Experiencia:** desde 2019
 - **Servicios:**
     - Consulta gratuita de 30 min antes del registro como autónomo
     - Registro de autónomo (<s>140 €</s> 80 € con el código promocional "IT Autonomos")
