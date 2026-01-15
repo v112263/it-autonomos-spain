@@ -1,16 +1,22 @@
 ## Obtención del certificado digital
 
-El certificado digital en España es un documento digital que confirma la identidad de una persona.
-Permite realizar interacciones oficiales con organismos públicos, bancos, Hacienda y
-otras instituciones de forma segura, sin necesidad de presencia física. Además, con él se
-pueden firmar documentos electrónicamente.
+El certificado digital en España (Certificado Digital) es su identificador electrónico que verifica su identidad en línea.
+En esencia, es uno de los métodos de identificación más fiables y universales - funciona prácticamente en todas partes.
 
-Si es autónomo, el certificado digital es **necesario**. Puede obtenerlo en cualquier momento, pero es mejor hacerlo
-lo antes posible (se puede hacer antes de registrarse como autónomo). Si pospone la obtención del certificado, existe el riesgo de
-que se enfrente a una situación en la que lo necesite urgentemente - y entonces tendrá que hacerlo con urgencia y pagando.
+Con un certificado digital puede:
+- interactuar con organismos públicos (Hacienda, Seguridad Social, Ayuntamiento, etc.);
+- firmar documentos electrónicamente;
+- obtener certificados y extractos (Vida Laboral, declaraciones de impuestos, certificados, etc.);
+- realizar la verificación en línea en algunos bancos y servicios;
+- y mucho más.
 
-Hay muchas formas de obtener un certificado digital. Independientemente del método que elija, este
-certificado tendrá la misma validez legal. A continuación se presentan varios métodos de obtención (en realidad hay más).
+En general, el certificado digital simplifica significativamente la vida en España - la mayoría de los asuntos se pueden resolver en línea. El certificado tiene una validez de 4 años y se puede renovar en línea 60 días antes de su vencimiento.
+
+Si es autónomo, **casi con toda seguridad necesita** un certificado digital en la práctica. Pero aunque no sea autónomo -
+le recomiendo encarecidamente obtenerlo con antelación, antes de que lo necesite. Cuando necesite el certificado con urgencia, obtenerlo
+con prisas será más difícil. De esta manera - puede obtenerlo tranquilamente gratis o por una pequeña tarifa (dependiendo del método).
+
+Hay muchas formas de obtener un certificado digital. Independientemente del método que elija - el certificado tendrá la misma validez legal. A continuación se presentan varios métodos.
 
 **Método #1**
 

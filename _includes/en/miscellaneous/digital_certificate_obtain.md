@@ -1,15 +1,22 @@
 ## Obtaining a digital certificate
 
-A digital certificate in Spain (Certificado Digital) is a digital document that confirms a person's identity. It
-allows official interactions with government agencies, banks, the tax office, and other institutions in a secure
-manner, without the need for personal presence. It can also be used to sign documents electronically.
+A digital certificate in Spain (Certificado Digital) is your electronic identifier that verifies your identity online.
+Essentially, it's one of the most reliable and universal methods of identification - it works practically everywhere.
 
-If you are autónomo, you **need** a digital certificate. You can apply for it at any time, but it’s better to do it
-as soon as possible (even before registering as an autónomo). If you delay obtaining the certificate, you might find
-yourself in a situation where you suddenly need it, and then you'll have to get it urgently, likely for a fee.
+With a digital certificate, you can:
+- interact with government agencies (tax office, social security, Ayuntamiento, etc.);
+- sign documents electronically;
+- obtain certificates and statements (Vida Laboral, tax declarations, certificates, etc.);
+- complete online verification at some banks and services;
+- and much more.
 
-There are many ways to obtain a digital certificate. Regardless of the method you choose, the certificate will have
-the same legal validity. Below are several ways to get it (there are actually more).
+Overall, a digital certificate significantly simplifies life in Spain - most issues can be resolved online. The certificate is valid for 4 years, and you can renew it online 60 days before expiration.
+
+If you are autónomo, you **almost certainly need** a digital certificate in practice. But even if you're not autónomo -
+I strongly recommend getting one in advance, before you actually need it. When you need the certificate urgently, getting
+it in a rush will be more difficult. This way - you can calmly obtain it for free or for a small fee (depending on the method).
+
+There are many ways to obtain a digital certificate. Regardless of the method you choose - the certificate will have the same legal validity. Below are several methods.
 
 **Method #1**
 
