@@ -26,7 +26,8 @@ The gestor personally answers calls, not a manager. Communication is available v
     - Individual consultation with an accredited specialist (150 €)
     - Management of collaborators or employees (20 €/month per employee)
     - Cita booking (150 €)
-    - Other services: SL registration (1400 € turnkey, including notary and registration fees, opening a bank account, certificates), SL management (from 210 €/month), processing all types of residence permits and Spanish citizenship, legal consulting, and much more
+    - Bank account opening
+    - Other services: SL registration (1400 € turnkey, including notary and registration fees, certificates), SL management (from 210 €/month), processing all types of residence permits and Spanish citizenship, legal consulting, and much more
 
 All prices are excluding IVA.
 
