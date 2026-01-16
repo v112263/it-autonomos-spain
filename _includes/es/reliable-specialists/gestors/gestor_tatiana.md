@@ -26,7 +26,8 @@ Las llamadas las atiende el propio gestor, no un gestor administrativo. La comun
     - Consulta individual con un especialista acreditado (150 €)
     - Gestión de colaboradores o empleados (20 €/mes por empleado)
     - Tramitación de cita (150 €)
-    - Otros servicios: registro de SL (1400 € llave en mano, incluidos gastos de notaría y registro, apertura de cuenta bancaria, certificados), gestión de SL (desde 210 €/mes), tramitación de todo tipo de permisos de residencia y nacionalidad española, asesoramiento jurídico, y mucho más
+    - Apertura de cuenta bancaria
+    - Otros servicios: registro de SL (1400 € llave en mano, incluidos gastos de notaría y registro, certificados), gestión de SL (desde 210 €/mes), tramitación de todo tipo de permisos de residencia y nacionalidad española, asesoramiento jurídico, y mucho más
 
 Todos los precios son sin IVA.
 
