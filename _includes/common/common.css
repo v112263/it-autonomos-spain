@@ -117,3 +117,11 @@
   height: 0;
   visibility: hidden;
 }
+
+/* Last updated date displayed on main index pages */
+.last-updated {
+  color: #6b7280;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+}
