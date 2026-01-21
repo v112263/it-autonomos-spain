@@ -1,5 +1,5 @@
 {
-  "description": "Bit.ly links used in the project. Run /check-bitly-links to verify all redirects.",
+  "description": "Bit.ly links used in the project. Run /test-bitly-links to verify all redirects.",
   "links": [
     {
       "bitly": "https://bit.ly/autonomo-manual",

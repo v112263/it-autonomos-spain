@@ -21,8 +21,8 @@ Run all automated checks for the project (both LOCAL and PROD) and provide a uni
 
 ## LOCAL Tests
 
-### 1. Expected Anchors
-[Summary from test-and-update-anchors]
+### 1. Internal Links
+[Summary from test-and-update-internal-links]
 
 ### 2. LOCAL Site Links (lychee)
 [Summary from test-local-site-links]
@@ -41,8 +41,8 @@ Run all automated checks for the project (both LOCAL and PROD) and provide a uni
 
 | Test Suite | Checks | Status |
 |------------|--------|--------|
-| LOCAL Tests | Anchors (8 pages), LOCAL Site Links | ✅ / ❌ |
-| PROD Tests | Bit.ly Links, PROD Site Links (8 pages) | ✅ / ❌ |
+| LOCAL Tests | Internal Links, LOCAL Site Links | ✅ / ❌ |
+| PROD Tests | Bit.ly Links, PROD Site Links | ✅ / ❌ |
 | **TOTAL** | **All checks** | ✅ **All passed** / ❌ **Issues found** |
 ```
 
