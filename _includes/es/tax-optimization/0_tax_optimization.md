@@ -17,6 +17,7 @@ suscripciones a servicios). Además, existen beneficios fiscales y descuentos es
 
 {% include es/tax-optimization/activity_reduction.md %}
 {% include es/tax-optimization/regional_deductions.md %}
+{% include es/tax-optimization/personal_and_family_deductions.md %}
 
 ## Tramitación de deducciones
 

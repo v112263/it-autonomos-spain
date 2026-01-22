@@ -35,7 +35,7 @@ Si presenta la renta a través de su gestor, con quien ya lleva la contabilidad,
 
 También le enviarán un cuestionario que debe completar cuidadosamente. Debe responder a todas las preguntas con la máxima honestidad, sin olvidar nada. Si tiene dudas, no dude en consultar con su gestor; en esta etapa se trata de una recopilación preliminar de datos para preparar la presentación de la declaración.
 
-A continuación presento una lista aproximada de preguntas con matices importantes. Puede variar entre diferentes gestores, pero en general será muy similar. Al responder a las preguntas, proporcione información del año fiscal. Por ejemplo, si en 2025 presenta la renta de 2024, proporcione datos que fueron relevantes desde el 1 de enero de 2024 hasta el 31 de diciembre de 2024. Algunos factores pueden reducir el importe del impuesto (por ejemplo, tener hijos, presentar una declaración conjunta).
+A continuación presento una lista aproximada de preguntas con matices importantes. Puede variar entre diferentes gestores, pero en general será muy similar. Al responder a las preguntas, proporcione información del año fiscal. Por ejemplo, si en 2025 presenta la renta de 2024, proporcione datos que fueron relevantes desde el 1 de enero de 2024 hasta el 31 de diciembre de 2024. Algunos factores pueden reducir el importe del impuesto (por ejemplo, [tener hijos, presentar una declaración conjunta](#beneficios-fiscales-personales-y-familiares)).
 
 **Preguntas:**
 

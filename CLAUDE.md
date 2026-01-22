@@ -168,6 +168,16 @@ Examples:
 - CORRECT: `text - text`
 - WRONG: `text — text` or `text – text`
 
+### Russian Letter "ё"
+
+**CRITICAL RULE**: **Never use the Russian letter "ё" - always use "е" instead**
+
+This applies to ALL Russian content. Native Russian speakers typically type "е" instead of "ё" in everyday writing. Using "ё" everywhere is a telltale sign of AI-generated text.
+
+Examples:
+- CORRECT: `еще`, `все`, `ее`
+- WRONG: `ещё`, `всё`, `её` (with ё)
+
 ## Link Formatting
 
 ### Internal Links
@@ -216,6 +226,24 @@ Example:
 **Important**:
 - Never remove legacy anchors once added
 - Apply to ALL language versions when renaming content
+
+### Last Updated Date on Main Pages
+
+**CRITICAL RULE**: The main index pages (`index.md`, `ru/index.md`, `ua/index.md`, `es/index.md`) display a "Last Updated" date. This date MUST be updated whenever content on the site changes.
+
+**Format by language:**
+- RU: `<p class="last-updated">Последнее обновление: 21 января 2026</p>`
+- UA: `<p class="last-updated">Останнє оновлення: 21 січня 2026</p>`
+- EN: `<p class="last-updated">Last updated: January 21, 2026</p>`
+- ES: `<p class="last-updated">Última actualización: 21 de enero de 2026</p>`
+
+**Placement:** Immediately after the language switcher line (EN | UA | RU | ES).
+
+**When to update:**
+- When adding new content to the site
+- When modifying existing content
+- When fixing errors or outdated information
+- Update ALL 4 language versions with the same date
 
 ## Code Standards
 
@@ -284,11 +312,13 @@ This project has a sibling project:
 - [ ] EN/ES terms remain untranslated
 - [ ] Titles use Sentence case
 - [ ] Only short hyphen "-" used (no em dash "—" or en dash "–")
+- [ ] No letter "ё" used - only "е"
 - [ ] Internal links use `{% raw %}{% link path.md %}{% endraw %}`
 - [ ] External links have `{:target="_blank"}`
 - [ ] Correct Telegram links for Russian version
 - [ ] Legacy anchor added if content/heading was renamed
 - [ ] Markdown formatting correct
+- [ ] Last-updated date updated on all 4 index pages
 - [ ] **STOPPED - waiting for user approval**
 
 ### For Translation (After RU Approval)
@@ -305,4 +335,5 @@ This project has a sibling project:
 - [ ] Legacy anchors added in ALL language versions if content was renamed
 - [ ] **Partner profiles: Language order adjusted for each site version** (site language first!)
 - [ ] Updated all 4 index files (if structure changed)
+- [ ] Last-updated date updated on all 4 index pages
 - [ ] All navigation links work in all languages

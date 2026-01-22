@@ -17,6 +17,7 @@
 
 {% include ru/tax-optimization/activity_reduction.md %}
 {% include ru/tax-optimization/regional_deductions.md %}
+{% include ru/tax-optimization/personal_and_family_deductions.md %}
 
 ## Оформление вычетов
 

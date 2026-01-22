@@ -31,4 +31,4 @@ Parse the input in any format - extract the essential information:
 
 7. Show summary table of added links
 
-8. Remind user to run `/check-bitly-links` to verify
+8. Remind user to run `/test-bitly-links` to verify

@@ -17,6 +17,7 @@
 
 {% include ua/tax-optimization/activity_reduction.md %}
 {% include ua/tax-optimization/regional_deductions.md %}
+{% include ua/tax-optimization/personal_and_family_deductions.md %}
 
 ## Оформлення відрахувань
 

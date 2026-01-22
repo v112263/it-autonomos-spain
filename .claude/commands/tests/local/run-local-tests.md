@@ -4,7 +4,7 @@ Run all LOCAL validation checks that don't require network access to the live si
 
 ## Checks to run
 
-1. `.claude/commands/tests/local/test-and-update-anchors.md` - Expected anchors validation (LOCAL _site/ files for all 8 pages: 4 index + 4 mortgage)
+1. `.claude/commands/tests/local/test-and-update-internal-links.md` - Internal links validation (LOCAL _site/ files)
 2. `.claude/commands/tests/local/test-local-site-links.md` - LOCAL site links & anchors validation (requires LOCAL server running)
 
 ## Instructions
@@ -19,8 +19,8 @@ Run all LOCAL validation checks that don't require network access to the live si
 ```
 # Local Tests Results
 
-## 1. Expected Anchors
-[Summary from test-and-update-anchors]
+## 1. Internal Links
+[Summary from test-and-update-internal-links]
 
 ## 2. LOCAL Site Links (lychee)
 [Summary from test-local-site-links]
@@ -31,7 +31,7 @@ Run all LOCAL validation checks that don't require network access to the live si
 
 | Check | Status |
 |-------|--------|
-| Expected Anchors | ✅ / ❌ |
+| Internal Links | ✅ / ❌ |
 | LOCAL Site Links | ✅ / ❌ |
 | **TOTAL** | ✅ **All LOCAL tests passed** / ❌ **Issues found** |
 ```

@@ -67,7 +67,7 @@ in general, it will be
 very similar. When answering the questions, provide information for the reporting year. For example, if in 2025 you're
 submitting
 a Renta for 2024, provide data that was current from January 1, 2024, to December 31, 2024.
-Some factors can reduce the tax amount (for example, having children, submitting a joint declaration).
+Some factors can reduce the tax amount (for example, [having children, submitting a joint declaration](#personal-and-family-tax-benefits)).
 
 **Questions:**
 
