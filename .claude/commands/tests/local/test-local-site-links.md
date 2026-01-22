@@ -43,15 +43,17 @@ Check all links and anchors on the **LOCAL** development server (http://localhos
 
 3. **Run lychee for each page** with anchor fragment checking enabled:
    ```bash
-   lychee --include-fragments --exclude "ec.europa.eu/taxation_customs/vies" "URL" 2>&1
+   lychee --include-fragments --exclude "ec.europa.eu/taxation_customs/vies" --exclude "bit.ly" "URL" 2>&1
    ```
 
-   The `--exclude` flag skips the EU VIES VAT validation page which uses JavaScript routing (false positive).
+   The `--exclude` flags skip:
+   - EU VIES VAT validation page (uses JavaScript routing - false positive)
+   - bit.ly links (tested separately in `test-bitly-links` to avoid inflating Bitly analytics)
 
 4. **Run all 8 checks in parallel** using the Task tool for efficiency, or run sequentially:
    ```bash
    # Example for one page:
-   lychee --include-fragments --exclude "ec.europa.eu/taxation_customs/vies" "http://localhost:4000/ru/" 2>&1
+   lychee --include-fragments --exclude "ec.europa.eu/taxation_customs/vies" --exclude "bit.ly" "http://localhost:4000/ru/" 2>&1
    ```
 
 5. **Parse the output** for each page:
