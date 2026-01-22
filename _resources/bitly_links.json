@@ -426,6 +426,12 @@
       "expected_url": "https://itautonomos.com/ru/",
       "expected_anchor": "лайфхаки-с-фактурами",
       "description": "Лайфхаки с фактурами - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/personal-and-family-deductions",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "личные-и-семейные-налоговые-льготы",
+      "description": "Личные и семейные налоговые льготы - Russian"
     }
   ]
 }
