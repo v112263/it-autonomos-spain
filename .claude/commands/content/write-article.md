@@ -164,9 +164,16 @@ All information I provide has been verified with specialists, but the agent MUST
 1. **Read reference articles** (see "Read Reference Articles First" section above)
 2. **Write ONLY Russian version** matching the author's voice
 3. **If NEW article**: add entry to Russian index file (`ru/index.md`)
-4. **Self-check against RED FLAGS** before presenting
-5. **Present to user for approval**
-6. **DO NOT translate** until user explicitly approves and requests translation
+4. **Verify facts with WebSearch** (MANDATORY - even for editing existing articles)
+   - Use WebSearch to verify key claims in 2+ authoritative sources
+   - Report any discrepancies immediately
+5. **Self-check against RED FLAGS** before presenting
+6. **MANDATORY: Complete the Pre-submission Checklist and show verification tables**
+   - Go through EVERY item in the checklist
+   - Create verification table with columns: Item | Status | Comment
+   - DO NOT present article to user until tables are complete
+7. **Present to user for approval** (with verification tables)
+8. **DO NOT translate** until user explicitly approves and requests translation
 
 ## Index Files (Table of Contents)
 
@@ -181,7 +188,9 @@ Add the include and heading to `ru/index.md`:
 
 **Note**: Index updates for other languages (UA/EN/ES) will be done during translation phase via `/content:translate-article`.
 
-## Pre-submission Checklist
+## Pre-submission Checklist (MANDATORY - show results to user)
+
+**CRITICAL**: You MUST go through EVERY item below and show the user a verification table before presenting the article. Do not skip any items. Format: table with columns "Item | Status (✅/❌/⚠️) | Comment".
 
 Before presenting the article, verify:
 
@@ -218,6 +227,41 @@ Before presenting the article, verify:
 
 **Index:**
 - [ ] **If NEW article**: added to Russian index file (`ru/index.md`)
+
+## Required Output Format
+
+Your response MUST include these sections in order:
+
+1. **Checklist Verification Table** - table showing status of EVERY checklist item
+2. **Fact-Check Results Table** - sources checked and any discrepancies found
+3. **Proposed Content/Edits** - the article or changes
+4. **Discrepancies Summary** - if any facts don't match sources
+
+**Example format:**
+
+```
+## Checklist Verification
+
+| Item | Status | Comment |
+|------|--------|---------|
+| No lecturer phrases | ✅ | None found |
+| No "ё" letter | ✅ | Checked |
+| Facts verified | ✅ | See fact-check table |
+...
+
+## Fact-Check Results
+
+| Claim | Status | Source |
+|-------|--------|--------|
+| IVA rate 21% | ✅ | Agencia Tributaria |
+...
+
+## Proposed Content
+
+[article or edits here]
+```
+
+Do NOT skip the tables - they prove you completed the checklist.
 
 ## Output
 
