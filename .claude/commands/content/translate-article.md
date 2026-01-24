@@ -139,7 +139,24 @@ Update on ALL 4 index pages when content changes:
 - UA: `<p class="last-updated">Останнє оновлення: 23 січня 2026</p>`
 - ES: `<p class="last-updated">Última actualización: 23 de enero de 2026</p>`
 
-## Pre-completion Checklist
+## Workflow
+
+1. **Verify prerequisites** - Russian version approved, user explicitly requested translation
+2. **Read the Russian source** - understand content, note any special terms or formatting
+3. **Translate to UA** from Russian (not from other translations)
+4. **Translate to EN** from Russian
+5. **Translate to ES** from Russian
+6. **Check Telegram links** - CRITICAL: use correct links per language (RU/UA vs EN/ES)
+7. **Check partner profiles** - if translating profiles, reorder languages per site version
+8. **Update index files** - if new section in RU index, add to ALL other indexes
+9. **Update Last Updated date** - on all 4 index pages
+10. **MANDATORY: Complete the Pre-completion Checklist and show verification table**
+    - Go through EVERY item in the checklist
+    - DO NOT present translations until table is complete
+
+## Pre-completion Checklist (MANDATORY - show results to user)
+
+**CRITICAL**: You MUST go through EVERY item below and show the user a verification table before presenting the translations. Do not skip any items. Format: table with columns "Item | Status (✅/❌/⚠️/N/A) | Comment".
 
 **Translations completed:**
 - [ ] Translated to UA from approved RU
@@ -168,6 +185,43 @@ Update on ALL 4 index pages when content changes:
 **Index & dates:**
 - [ ] Last-updated date updated on all 4 index pages
 - [ ] **Index files**: if new section in RU index → added to EN/UA/ES indexes too
+
+## Required Output Format
+
+Your response MUST include these sections in order:
+
+1. **Checklist Verification Table** - table showing status of EVERY checklist item
+2. **Files Updated** - list of all files created or modified
+3. **Translation Content** - the actual translations (UA, EN, ES)
+
+**Example format:**
+
+```
+## Checklist Verification
+
+| Item | Status | Comment |
+|------|--------|---------|
+| Translated to UA | ✅ | Done |
+| Translated to EN | ✅ | Done |
+| Translated to ES | ✅ | Done |
+| UA: no Russian words | ✅ | Checked, all Ukrainian |
+| Telegram links correct | ✅ | RU/UA: bit.ly/it-autonomos-es, EN/ES: bit.ly/it-autonomos-spain-eng |
+| Partner profile languages reordered | N/A | Not a profile translation |
+| Index files updated | ✅ | Added to all 4 indexes |
+| Last-updated date | ✅ | Updated on all 4 pages |
+...
+
+## Files Updated
+
+- `_includes/ua/section/article.md` (created)
+- `_includes/en/section/article.md` (created)
+- `_includes/es/section/article.md` (created)
+- `ua/index.md` (updated - added new section)
+- `index.md` (updated - added new section)
+- `es/index.md` (updated - added new section)
+```
+
+Do NOT skip the verification table - it proves you completed the checklist.
 
 ## Output
 
