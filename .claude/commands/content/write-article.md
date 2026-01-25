@@ -22,7 +22,7 @@ The user will provide topic, notes, or dictated content: $ARGUMENTS
 Read at least 3 of these (choose types similar to what you're writing). Pay attention to:
 - How sentences flow and connect
 - Level of detail and specificity
-- Use of personal experience ("в моём случае", "мне пришлось")
+- Use of personal experience ("в моем случае", "мне пришлось")
 - Tone: helpful friend, not lecturer
 
 ## Author's Voice
@@ -86,6 +86,15 @@ You are writing AS the author - a person sharing real experience being autónomo
 - **BAD**: Every paragraph starts with "Кроме того", "Более того", "Также", "Помимо этого"
 - **OK**: "Также" is acceptable occasionally (1-2 times per article), but not at the start of every paragraph
 - **GOOD**: Just start the next thought directly, transitions aren't always needed
+
+### 10. Clunky internal link phrases
+- **BAD**: "об этом подробнее в разделе [возврат IVA](#возврат-iva)"
+- **BAD**: "я писал об этом подробнее в разделе про [годовую декларацию](#годовая-декларация-renta)"
+- **BAD**: "подробнее читайте в разделе [оптимизация налогов](#оптимизация-налогов)"
+- **GOOD**: Embed the link naturally into the text:
+  - "В конце года можно попросить хестора [оформить возврат](#возврат-iva)."
+  - "Потом в [годовой декларации](#годовая-декларация-renta) происходит перерасчет."
+  - "Все зависит от того, как расход [связан с вашей деятельностью](#принципы-вычетов)."
 
 ### Example of BAD Style (AI-generated)
 
