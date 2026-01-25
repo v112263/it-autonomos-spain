@@ -35,7 +35,7 @@
 1. Перейдите на сайт службы социальной защиты
    Испании: [Seguridad Social Sede Electrónica](https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio){:target="_
    blank"}.
-2. Кликните на ссылку “Cita previa para prestaciones y otras gestiones - Ciudadanos” (Запись на приём для получения
+2. Кликните на ссылку “Cita previa para prestaciones y otras gestiones - Ciudadanos” (Запись на прием для получения
    социальных пособий и других услуг - Граждане).
 3. На следующей странице выберите “Obtener cita previa para pensiones y otras prestaciones (INSS). Sin certificado” (
    Получение предварительной записи для пенсионных и других пособий (INSS). Без сертификата). Жмите "Obtener".

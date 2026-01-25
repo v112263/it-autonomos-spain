@@ -22,7 +22,7 @@ The user will provide topic, notes, or dictated content: $ARGUMENTS
 Read at least 3 of these (choose types similar to what you're writing). Pay attention to:
 - How sentences flow and connect
 - Level of detail and specificity
-- Use of personal experience ("в моём случае", "мне пришлось")
+- Use of personal experience ("в моем случае", "мне пришлось")
 - Tone: helpful friend, not lecturer
 
 ## Author's Voice
