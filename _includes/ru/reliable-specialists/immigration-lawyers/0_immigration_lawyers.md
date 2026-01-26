@@ -12,9 +12,9 @@
 
 **Специалисты в этом разделе:**
 - [Ирина - Миграционный эксперт](#ирина---миграционный-эксперт)
-- [Наталия - Миграционный юрист](#наталия---миграционный-юрист)
+- [Катерина - Миграционный эксперт](#катерина---миграционный-эксперт)
 
 {% include ru/reliable-specialists/help_notice.md %}
 
 {% include ru/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
-{% include ru/reliable-specialists/immigration-lawyers/immigration_lawyer_natalya.md %}
+{% include ru/reliable-specialists/immigration-lawyers/immigration_lawyer_katerina.md %}
