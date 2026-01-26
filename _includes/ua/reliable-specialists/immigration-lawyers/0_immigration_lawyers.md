@@ -11,10 +11,10 @@
 - Чіткий чек‑ліст і перелік документів, необхідний саме для вашого кейсу.
 
 **Спеціалісти в цьому розділі:**
-- [Наталія - Міграційний юрист](#наталія---міграційний-юрист)
+- [Катерина - Міграційний експерт](#катерина---міграційний-експерт)
 - [Ірина - Міграційний експерт](#ірина---міграційний-експерт)
 
 {% include ua/reliable-specialists/help_notice.md %}
 
-{% include ua/reliable-specialists/immigration-lawyers/immigration_lawyer_natalya.md %}
+{% include ua/reliable-specialists/immigration-lawyers/immigration_lawyer_katerina.md %}
 {% include ua/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}

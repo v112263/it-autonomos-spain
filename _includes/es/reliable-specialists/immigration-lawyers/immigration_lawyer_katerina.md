@@ -1,21 +1,19 @@
-<span id="natalya-d---abogada-de-inmigración" class="legacy-anchor"></span>
-## Natalya - Abogada de inmigración
+## Katerina - Experta en inmigración
 
 > **Consulta gratuita de 15 minutos** para clientes que llegan a través de IT Autonomos.
 
-<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerNatalyaEs(); return false;">Reservar una consulta</a>
+<a href="#" class="btn-contact-specialist" onclick="contactImmigrationLawyerKaterinaEs(); return false;">Reservar una consulta</a>
 
-{% include common/contact-forms/immigration-lawyers/immigration_lawyer_natalya_form_es.html %}
+{% include common/contact-forms/immigration-lawyers/immigration_lawyer_katerina_form_es.html %}
 
-Natalya ayuda a los clientes en todas las etapas del proceso migratorio: desde la consulta inicial y el desarrollo de
+Katerina ayuda a los clientes en todas las etapas del proceso migratorio: desde la consulta inicial y el desarrollo de
 la estrategia hasta la presentación de documentos y la obtención de una decisión positiva.
 
-Trabaja con todos los tipos de permisos de residencia y tramitación de ciudadanía. Tiene una amplia experiencia en la
-obtención de la ciudadanía española para clientes y personalmente pasó por todo este proceso. Se especializa en Digital
-Nomad desde la introducción de esta residencia en España y tiene experiencia en la relocalización de startups. Una
-característica importante de su trabajo es la verificación exhaustiva de documentos en cada etapa, lo que permite
-identificar problemas potenciales con antelación y proteger a los clientes de errores que pueden tener consecuencias
-graves.
+Trabaja con todos los tipos de permisos de residencia y tramitación de ciudadanía. Tiene formación jurídica
+especializada y desde 2022 se dedica a cuestiones migratorias - comenzó en una gran empresa de consultoría. Los clientes
+valoran la rapidez en la comunicación: el equipo responde rápidamente a preguntas urgentes, y durante el proceso se crea
+un chat compartido para una comunicación cómoda. Una característica importante es la evaluación honesta de las
+posibilidades desde el principio: si la probabilidad de una decisión positiva es baja, se lo dirán de inmediato.
 
 Una ventaja adicional es trabajar en equipo con [la gestora Lyudmila](#lyudmila-d). Esto significa que puede recibir un
 acompañamiento integral: resolver simultáneamente cuestiones migratorias (tramitación de permisos de residencia,
@@ -24,7 +22,7 @@ renovación de residencia) y asuntos fiscales (registro de autónomo o SL, conta
 Se trabaja tanto con clientes que se encuentran en España como con aquellos que aún están en el extranjero y solo
 planean mudarse.
 
-Si recibió una denegación de su permiso de residencia, Natalya le ayudará a presentar un recurso, y para procedimientos
+Si recibió una denegación de su permiso de residencia, Katerina le ayudará a presentar un recurso, y para procedimientos
 judiciales la empresa colabora con abogados asociados especializados en derecho de inmigración. Existe una experiencia
 exitosa en la apelación de denegaciones y la resolución de casos migratorios complejos en los tribunales.
 
@@ -51,4 +49,4 @@ Todos los precios están indicados sin IVA.
 - **Asistencia con la tramitación de documentos en otros países:**
     - **Ucrania:** certificado de antecedentes penales, apostilla en documentos (certificado de matrimonio, certificado
       de nacimiento, extracto de registro de empresario individual), confirmación de experiencia laboral
-    - **EE.UU., Canadá, Malta, Polonia, Francia:** colocación de apostilla, certificados de registro de empresas
+    - **EE.UU., Canadá, Malta, Polonia, Francia, Chipre, Suiza, Rumanía, UK, Lituania, Bulgaria:** colocación de apostilla, certificados de registro de empresas

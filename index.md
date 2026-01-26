@@ -15,7 +15,7 @@ title: "Autónomo - Complete Guide"
 
 **EN** | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | [ES]({{ site.baseurl }}/es/)
 
-<p class="last-updated">Last updated: January 22, 2026</p>
+<p class="last-updated">Last updated: January 26, 2026</p>
 
 This document contains all the necessary information for registering and managing autónomo in Spain. It is regularly updated and
 **reviewed by gestors**.

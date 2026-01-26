@@ -23,7 +23,7 @@ optimal business solutions in new conditions.
 In addition to its office in Spain, the company has an office in Ukraine that assists clients with obtaining
 certificates, tax reporting, CFC documents, and interactions with government authorities.
 
-An additional advantage is working as a team with [immigration lawyer Natalia](#natalya-d---immigration-lawyer).
+An additional advantage is working as a team with [immigration expert Katerina](#katerina---immigration-expert).
 This means you can receive comprehensive support: simultaneously handle tax matters and immigration
 issues (residence permit processing, residence renewal, transition from one type of residence permit to another, citizenship application).
 
