@@ -1,6 +1,6 @@
 ### Personal and family tax benefits
 
-Spain has a system of benefits related to the taxpayer's personal and family circumstances. There are state (basic) allowance amounts, but some autonomous communities set their own (usually higher) allowances for the regional part of IRPF. These benefits are applied when filing the [annual tax return (Renta)](#annual-declaration-renta).
+When filing the [annual tax return (Renta)](#annual-declaration-renta), you can reduce your tax through personal and family circumstances - having children, elderly parents, disability. There are state (basic) allowance amounts, but some autonomous communities set their own (usually higher) allowances for the regional part of IRPF.
 
 All amounts in this section are valid for filing the 2024 tax return. When filing for other years, amounts may differ - check current information on the [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html){:target="_blank"} website.
 
@@ -10,11 +10,11 @@ Family benefits are divided into two categories:
 
 #### How the allowance works
 
-The personal and family allowance is the amount that is not taxed. The basic allowance for each taxpayer is €5,550 per year (this is the state rate - some autonomous communities set higher values). Amounts for children, parents, and disability are added to this.
+Each taxpayer has a basic allowance of €5,550 per year that is not taxed (this is the state rate - some autonomous communities set higher values). Amounts for children, parents, and disability are added to this.
 
 For example, if you have one child under 3 years old, your allowance will be: €5,550 (basic) + €2,400 (for child) + €2,800 (for child under 3) = €10,750. You don't pay [IRPF](#irpf-income-tax) on this amount.
 
-**Important:** The allowance reduces the tax base, not the tax itself. This means savings depend on your tax rate. At a 30% rate, savings from a €2,400 allowance will be approximately €720.
+The allowance reduces the tax base, not the tax itself. This means savings depend on your tax rate. At a 30% rate, savings from a €2,400 allowance will be approximately €720.
 
 #### Allowance for children
 
@@ -34,8 +34,6 @@ Requirements for applying the allowance:
 
 If both parents are entitled to this allowance (e.g., both file separately), the amount is divided equally between them.
 
-More details: [Agencia Tributaria: Mínimo por descendientes](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c14-adecuacion-impuesto-circunstancias-personales/minimo-descendientes.html){:target="_blank"}
-
 #### Allowance for parents
 
 If your parents live with you, you can add to your allowance:
@@ -51,8 +49,6 @@ Requirements:
 
 If several children support one parent, the allowance is divided equally among them.
 
-More details: [Agencia Tributaria: Mínimo por ascendientes](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c14-adecuacion-impuesto-circunstancias-personales/minimo-ascendientes.html){:target="_blank"}
-
 #### Disability allowance
 
 Additional amounts to the allowance for disability (applies to the taxpayer, children, or parents):
@@ -61,28 +57,20 @@ Additional amounts to the allowance for disability (applies to the taxpayer, chi
 - €9,000 for disability 65% and above
 - +€3,000 additional if assistance is required or mobility is limited
 
-More details: [Agencia Tributaria: Mínimo por discapacidad](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c14-adecuacion-impuesto-circunstancias-personales/minimo-discapacidad.html){:target="_blank"}
-
 #### Joint filing
 
-When filing jointly, an additional tax base reduction applies:
-
-- €3,400 for official marriage
-- €2,150 for single-parent family (one parent with children)
+When filing jointly, an additional tax base reduction applies - €3,400 for official marriage or €2,150 for single-parent family (one parent with children).
 
 When it's beneficial to file jointly:
 - One spouse doesn't work or has very low income
 - Allows offsetting one spouse's losses with the other's income
 - There are expenses that are more beneficial to account for jointly
 
-When it's better to file separately:
-- Both spouses work and have significant income (joint filing may result in a higher tax rate due to the progressive scale)
+If both spouses work and have significant income, it's better to file separately. Joint filing may result in a higher tax rate due to the progressive scale.
 
 With joint filing, the basic allowance (€5,550) is not doubled - it applies once per family, not per spouse.
 
-With a registered domestic partnership (pareja de hecho), you cannot file jointly as official spouses - the tax authority doesn't recognize domestic partnerships as a family unit for these purposes. However, one partner can file jointly with children (as a single-parent family with a €2,150 base reduction), while the other partner files individually.
-
-More details: [Agencia Tributaria: Tributación conjunta](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c02-irpf-cuestiones-generales/sujecion-irpf-aspectos-personales/tributacion-individual-opcion-tributacion-conjunta.html){:target="_blank"}
+With a registered domestic partnership (pareja de hecho), you cannot file jointly as official spouses - the tax authority doesn't recognize domestic partnerships as a family unit for these purposes. Technically, one partner can file a return with the children, but the €2,150 base reduction doesn't apply if the partners live together (which is the typical case). The law explicitly states: the reduction doesn't apply when the taxpayer lives with the other parent of the children.
 
 #### Maternity tax credit
 
@@ -102,24 +90,15 @@ How to receive:
 
 The maternity tax credit is incompatible with the child supplement under the minimum living income program (Ingreso Mínimo Vital).
 
-More details: [Agencia Tributaria: Deducción por maternidad](https://sede.agenciatributaria.gob.es/Sede/ciudadanos-familias-personas-discapacidad/deducciones-relacionadas-hijos-descendientes/deduccion-maternidad.html){:target="_blank"}
-
 #### Large families tax credit
 
 This is also a tax credit that is subtracted directly from the tax amount. To receive it, you need an official large family certificate from your autonomous community.
 
-Amounts:
-- Up to €1,200 per year for the general category - 3-4 children
-- Up to €2,400 per year for the special category - 5+ children or 4 children under certain conditions
+- Up to €1,200 per year for the general category (3-4 children)
+- Up to €2,400 per year for the special category (5+ children or 4 children under certain conditions)
 - +€600 for each child above the minimum for the corresponding category
 
-How to receive:
-- When filing the annual Renta return
-- Or in advance by submitting the corresponding application to the tax authority
-
-If several family members are entitled to the tax credit, the amount is divided equally among them, or the right can be transferred to one family member.
-
-More details: [Agencia Tributaria: Deducción por familia numerosa](https://sede.agenciatributaria.gob.es/Sede/ciudadanos-familias-personas-discapacidad/deducciones-relacionadas-hijos-descendientes/deduccion-familia-numerosa.html){:target="_blank"}
+You can receive it when filing the annual Renta return or in advance by submitting the corresponding application to the tax authority. If several family members are entitled to the tax credit, the amount is divided equally among them, or the right can be transferred to one family member.
 
 #### Practical calculation example
 
@@ -137,4 +116,4 @@ Base reduction for joint filing: €3,400
 
 Maternity tax credit (if spouse meets requirements): up to €1,200 directly from tax
 
-The exact savings calculation depends on your income and tax rate. I recommend discussing with a [gestor](#reliable-gestors) to choose the optimal option - joint or separate filing.
+The exact savings calculation depends on your income and tax rate. I recommend discussing with a [gestor](#reliable-gestors) which option is more beneficial - joint or separate filing.
