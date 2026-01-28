@@ -32,7 +32,7 @@ exitosa en la apelación de denegaciones y la resolución de casos migratorios c
 - **Trabajo con clientes:** tanto en España como en el extranjero
 - **Servicios:**
     - Consulta gratuita de 15 min para clientes de IT Autonomos
-    - Digital nomad (desde 350 €)
+    - Digital nomad (desde 500 €)
     - Transición de protección temporal a otros tipos de residencia (el coste depende de la elección de residencia)
     - Asistencia con la tramitación de protección temporal (desde 50 €)
     - Tramitación de ciudadanía para niños (desde 500 €)
@@ -42,7 +42,7 @@ exitosa en la apelación de denegaciones y la resolución de casos migratorios c
     - Startup visa (desde 5.200 €)
     - No Lucrativa (desde 1.200 €)
     - Residencia para ciudadanos de la UE y sus familias (desde 500 €)
-    - Régimen fiscal Beckham law (desde 150 €)
+    - Régimen fiscal Beckham law (100 €)
 
 Todos los precios están indicados sin IVA.
 

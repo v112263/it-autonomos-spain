@@ -31,7 +31,7 @@ rejections and resolving complex immigration cases in court.
 - **Client work:** with those in Spain and those abroad
 - **Services:**
     - Free 15-min consultation for IT Autonomos clients
-    - Digital nomad (from 350 €)
+    - Digital nomad (from 500 €)
     - Transition from temporary protection to other residence types (cost depends on residence choice)
     - Assistance with temporary protection processing (from 50 €)
     - Child citizenship processing (from 500 €)
@@ -41,7 +41,7 @@ rejections and resolving complex immigration cases in court.
     - Startup visa (from 5,200 €)
     - No Lucrativa (from 1,200 €)
     - Residence for EU citizens and their families (from 500 €)
-    - Beckham law tax regime (from 150 €)
+    - Beckham law tax regime (100 €)
 
 All prices are stated without VAT.
 

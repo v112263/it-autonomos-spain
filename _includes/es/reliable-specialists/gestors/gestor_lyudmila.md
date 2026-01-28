@@ -41,8 +41,7 @@ cuestiones de inmigración (tramitación de permiso de residencia, renovación d
     - Consulta individual 60 min (150 €)
     - Gestión de colaboradores o empleados (40 €/mes)
     - Servicios de inmigración: Digital Nomad, Cuenta propia, solicitud de ciudadanía, Beckham law y otros tipos de permisos de residencia
-    - Otros servicios: registro de SL (1500 € llave en mano), gestión de SL (desde 200 €/mes), tramitación de firma
-      digital (50 € sin acompañamiento / 80 € con acompañamiento), apertura de cuenta bancaria (desde 50 €), y mucho más
+    - Otros servicios: registro de SL (1500 € llave en mano), gestión de SL (desde 250 €/mes), tramitación de firma digital (50 €), apertura de cuenta bancaria (80 €), y mucho más
 
 Todos los precios son sin IVA.
 
