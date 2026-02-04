@@ -38,8 +38,6 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 6. Echa un vistazo a la [sección secreta](#sección-secreta) si quieres conocer la historia de la creación de este documento o
    agradecerme por mi trabajo.
 
-> La información se proporciona tal cual y no sustituye a la consulta profesional.
-
 ## Contenido
 
 - **[Preparación para registrarse como Autónomo](#preparación-para-registrarse-como-autónomo)**
@@ -162,4 +160,8 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 No sé por qué has leído hasta el final, ¿realmente estabas tan interesado en conocer en detalle
 todas las actualizaciones del documento? :)
 Ya que lo has hecho, te recomiendo echar un vistazo a la [sección secreta](#sección-secreta), donde
-hay varias formas de agradecerme por el trabajo realizado. 
+hay varias formas de agradecerme por el trabajo realizado.
+
+<p class="footer-disclaimer">
+La información se proporciona tal cual y no sustituye a la consulta profesional.
+</p>

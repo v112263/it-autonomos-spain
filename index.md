@@ -32,8 +32,6 @@ This document contains all the necessary information for registering and managin
 6. Check out the [secret section](#secret-section) if you want to learn about the history of this document or
    thank me for my work.
 
-> Information is provided as is and does not replace professional consultation.
-
 ## Contents
 
 - **[Preparation for registering as Autónomo](#preparation-for-registering-as-autónomo)**
@@ -157,3 +155,7 @@ I don't know why you read all the way to the end, were you really that intereste
 updates to the document? :)
 Since you did, I recommend checking out the [secret section](#secret-section), where there are several ways to thank
 me for the work done.
+
+<p class="footer-disclaimer">
+Information is provided as is and does not replace professional consultation.
+</p>
