@@ -5,7 +5,7 @@ To receive payments for autónomo services, you can use any bank or payment syst
 specific account where you receive payments.
 
 If you plan to apply for financing from a Spanish bank in the future (for example, **a mortgage**,
-[here you can read about my experience obtaining a mortgage for an autónomo](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes)),
+[here you can read about my experience obtaining a mortgage for an autónomo](https://spainlifeguide.com/en/mortgage/){:target="_blank"}),
 it is better to receive payments directly into a Spanish bank account from the start.
 
 There is always a possibility that, in the future, you may have to show your account transactions to the tax authorities

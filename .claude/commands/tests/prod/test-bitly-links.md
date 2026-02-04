@@ -11,10 +11,6 @@ Verify that all bit.ly shortlinks redirect to the expected destinations AND that
    - https://itautonomos.com/ru/
    - https://itautonomos.com/ua/
    - https://itautonomos.com/es/
-   - https://itautonomos.com/en/mortgage/
-   - https://itautonomos.com/ru/mortgage/
-   - https://itautonomos.com/ua/mortgage/
-   - https://itautonomos.com/es/mortgage/
 
    ```bash
    # Example: extract all bit.ly links from a page

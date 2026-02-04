@@ -1,5 +1,5 @@
 {
-  "description": "Internal links for Spanish version. Run /test-and-update-internal-links to verify.",
+  "description": "Internal links for Spanish version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "es",
   "generated_at": "2026-01-26",
   "pages": [
@@ -101,7 +101,6 @@
         "nelia-b",
         "nelia-b---gestor",
         "notificaciones-electrónicas-de-organismos-gubernamentales-dehú",
-        "obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores",
         "obtención-de-la-tarjeta-sip-para-miembros-de-la-familia",
         "obtención-de-la-tarjeta-sip-para-usted-mismo",
         "obtención-del-certificado-digital",
@@ -159,47 +158,6 @@
         "vida-laboral",
         "xolo",
         "xolo-1"
-      ]
-    },
-    {
-      "path": "/es/mortgage/",
-      "url": "https://itautonomos.com/es/mortgage/",
-      "title": "Obtención de hipoteca en España como autónomo",
-      "description": "Personal experience of obtaining a mortgage in Spain as autónomo",
-      "anchors": [
-        "a-qué-prestar-atención-al-visitar-un-apartamento",
-        "final-2-solución-de-los-problemas-1-y-2",
-        "final-finalización-de-la-transacción-y-recepción-de-las-llaves",
-        "información-detallada-sobre-las-condiciones-de-la-hipoteca",
-        "jueves",
-        "jueves-1",
-        "jueves-2",
-        "lunes",
-        "lunes-1",
-        "lunes-2",
-        "lunes-3",
-        "martes",
-        "martes-1",
-        "martes-2",
-        "martes-3",
-        "martes-4",
-        "miércoles",
-        "miércoles-1",
-        "miércoles-2",
-        "obtención-de-una-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores",
-        "problema-1",
-        "problema-2",
-        "ps",
-        "semana-1-primera-visita-al-banco-y-búsqueda-de-apartamento",
-        "semana-2-reserva-del-apartamento-y-aprobación-de-la-hipoteca",
-        "semana-3-pasos-adicionales-para-aumentar-las-posibilidades",
-        "semana-4-tasación-del-apartamento-y-aclaración-de-las-condiciones-de-la-hipoteca",
-        "semana-5-preparación-para-la-transacción-notarial",
-        "semana-6-primera-reunión-con-el-notario",
-        "verificación-de-deudas-del-apartamento-antes-de-la-compra",
-        "viernes",
-        "viernes-1",
-        "viernes-2"
       ]
     }
   ]

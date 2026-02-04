@@ -21,19 +21,19 @@ This command is part of the article publishing workflow:
 
 ### Phase 1: Run Checks in Parallel
 
-1. **Launch both tasks in parallel** using the Task tool:
+1. **Launch both checks in parallel** using the Skill tool:
 
-   **Task A: Add Internal Links**
-   - Use skill `/content:add-internal-links-to-article` with the article path
+   **Check A: Add Internal Links**
+   - Call Skill tool with skill: `content:add-internal-links-to-article` and args: `[article path]`
    - This will analyze the article and add relevant internal/external links
    - Returns a summary of links added
 
-   **Task B: Fact-Check Article**
-   - Use skill `/content:fact-check-article` with the article path
+   **Check B: Fact-Check Article**
+   - Call Skill tool with skill: `content:fact-check-article` and args: `[article path]`
    - This will verify all facts against official sources
    - Returns a detailed fact-check report
 
-2. **Wait for both tasks to complete**
+2. **Wait for both to complete**
 
 ### Phase 2: Compile Results
 

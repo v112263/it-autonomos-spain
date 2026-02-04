@@ -17,7 +17,7 @@ The user will provide topic, notes, or dictated content: $ARGUMENTS
 | Case studies | `_includes/ru/gestor/problems.md` |
 | Practical advice | `_includes/ru/bank-account/forced_upselling.md` |
 | Step-by-step guide | `_includes/ru/miscellaneous/digital_certificate_obtain.md` |
-| Essay + guide | `ru/mortgage/index.md` |
+| Personal story (SLG) | `../spain-life-guide/_includes/ru/mortgage/my-story/0_my_story.md` |
 
 Read at least 3 of these (choose types similar to what you're writing). Pay attention to:
 - How sentences flow and connect

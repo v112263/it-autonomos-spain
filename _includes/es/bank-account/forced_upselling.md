@@ -14,6 +14,6 @@ puede contratarlo. Si no necesita servicios adicionales, pero el gestor insiste 
 servicio de atención al cliente del banco para presentar una queja.
 
 Por ejemplo, tuve que contratar un seguro de vida y un sistema de seguridad cuando
-[solicité una hipoteca en el banco](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores). Por ley no es
+[solicité una hipoteca en el banco](https://spainlifeguide.com/es/mortgage/){:target="_blank"}. Por ley no es
 obligatorio, pero antes de formalizar la hipoteca el gestor insistió en ello, no tenía otras opciones porque
 quería obtener la hipoteca :) 

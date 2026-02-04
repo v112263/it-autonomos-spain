@@ -15,4 +15,4 @@ autónomo. If you pay taxes, why not take advantage of these benefits?
 4. Familiarize yourself with the [annual declaration filing process](#annual-declaration-renta). This is mandatory, but not urgent - it will become relevant at the beginning of the next year after registering your autónomo.
 5. [Obtain a plastic SIP card for yourself](#obtaining-a-plastic-sip-for-yourself).
 6. [Obtain plastic SIP cards for family members](#obtaining-a-plastic-sip-for-family-members).
-7. Read about [my experience getting a mortgage as an autónomo](/en/mortgage/) (8 months after registration) - if you're planning to get a mortgage in the future, my experience might be useful for you.
+7. Read about [my experience getting a mortgage as an autónomo](https://spainlifeguide.com/en/mortgage/){:target="_blank"} (8 months after registration) - if you're planning to get a mortgage in the future, my experience might be useful for you.

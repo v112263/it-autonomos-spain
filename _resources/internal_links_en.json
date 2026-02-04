@@ -1,5 +1,5 @@
 {
-  "description": "Internal links for English version. Run /test-and-update-internal-links to verify.",
+  "description": "Internal links for English version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "en",
   "generated_at": "2026-01-26",
   "pages": [
@@ -91,7 +91,6 @@
         "nelia-b",
         "nelia-b---gestor",
         "obtaining-a-digital-certificate",
-        "obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes",
         "obtaining-a-plastic-sip-for-family-members",
         "obtaining-a-plastic-sip-for-yourself",
         "office-and-utilities",
@@ -159,47 +158,6 @@
         "xolo",
         "xolo-1",
         "xolos-liability"
-      ]
-    },
-    {
-      "path": "/en/mortgage/",
-      "url": "https://itautonomos.com/en/mortgage/",
-      "title": "Obtaining a mortgage in Spain as autónomo",
-      "description": "Personal experience of obtaining a mortgage in Spain as autónomo",
-      "anchors": [
-        "checking-debts-on-the-apartment-before-purchase",
-        "detailed-information-about-mortgage-terms",
-        "finale-2-resolving-the-1st-and-2nd-problems",
-        "friday",
-        "friday-1",
-        "friday-2",
-        "monday",
-        "monday-1",
-        "monday-2",
-        "monday-3",
-        "obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes",
-        "problem-1",
-        "problem-2",
-        "ps",
-        "the-finale-completing-the-transaction-and-receiving-the-keys",
-        "things-to-pay-attention-to-when-viewing-an-apartment",
-        "thursday",
-        "thursday-1",
-        "thursday-2",
-        "tuesday",
-        "tuesday-1",
-        "tuesday-2",
-        "tuesday-3",
-        "tuesday-4",
-        "wednesday",
-        "wednesday-1",
-        "wednesday-2",
-        "week-1-first-visit-to-the-bank-and-apartment-search",
-        "week-2-apartment-reservation-and-mortgage-approval",
-        "week-3-additional-steps-to-increase-chances",
-        "week-4-apartment-appraisal-and-clarification-of-mortgage-terms",
-        "week-5-preparing-for-the-notary-transaction",
-        "week-6-first-meeting-with-the-notary"
       ]
     }
   ]

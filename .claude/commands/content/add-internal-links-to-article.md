@@ -2,10 +2,6 @@
 
 Analyze an article, find relevant internal links from BOTH projects (ITA and SLG), and automatically insert them into the file.
 
-Internal links include:
-- **Page links** - links to standalone pages (e.g., `/ru/`, `/ru/mortgage/`)
-- **Anchor links** - links to sections within pages (e.g., `#надежные-хесторы` or `/ru/mortgage/#неделя-1-первый-поход-в-банк-и-поиск-квартиры`)
-
 ## Input
 
 $ARGUMENTS
@@ -25,56 +21,45 @@ The input should be a path to an article file (e.g., `_includes/ru/some-article.
    - `_includes/es/` or `es/` → Spanish
 
 3. **Understand link types**:
-   - **Anchor links**: point to a section on a page (e.g., `#надежные-хесторы` or `/ru/mortgage/#документы-для-ипотеки`)
-   - **Page links**: point to standalone pages (e.g., `/ru/mortgage/`)
-   - Internal links format: `[text](#anchor)` or `[text](/path/)`
-   - External links format: `[text](https://site.com/path/){:target="_blank"}` or `[text](https://site.com/path/#anchor){:target="_blank"}`
+   - **ITA internal links**: anchor links to sections on main page (e.g., `#надежные-хесторы`). Format: `[text](#anchor)`
+   - **SLG external links**: links to SLG pages or sections. Format: `[text](https://spainlifeguide.com/...){:target="_blank"}`
 
 ### Phase 2: Internal Links (Current Project - ITA)
 
+**Note**: ITA has one main index page per language with all content as sections (anchors). There are no standalone article pages.
+
 4. **Load ITA links database**:
-   - `_resources/internal_links_{lang}.json` - contains all pages with anchors
+   - `_resources/internal_links_{lang}.json` - contains anchors for the main page
 
 5. **Understand the internal_links_{lang}.json structure**:
    ```json
    {
      "pages": [
        {
-         "path": "/",
-         "url": "https://itautonomos.com/",
-         "title": "IT Autonomos Spain - Complete Guide",
-         "description": "Main page with all sections about autónomo and freelancing in Spain",
-         "anchors": ["reliable-gestors", "autónomo-registration-step-by-step", ...]
-       },
-       {
-         "path": "/en/mortgage/",
-         "url": "https://itautonomos.com/en/mortgage/",
-         "title": "Obtaining a mortgage in Spain as autónomo",
-         "description": "Personal experience of obtaining a mortgage in Spain as autónomo",
-         "anchors": ["week-1-first-visit-to-the-bank-and-apartment-search", ...]
+         "path": "/ru/",
+         "url": "https://itautonomos.com/ru/",
+         "title": "Autónomo - Полное Руководство",
+         "anchors": ["надежные-хесторы", "регистрация-autónomo-пошагово", ...]
        }
      ]
    }
    ```
-   - Each page has a path, url, title, description, and list of anchors
-   - Use path + anchor to create links like `/en/mortgage/#week-1-first-visit-to-the-bank-and-apartment-search`
-   - For main page (EN default), just use `#anchor`
 
-6. **ITA base URLs by language**:
-   - Russian: `/ru/`
-   - Ukrainian: `/ua/`
-   - English: `/` (default language)
-   - Spanish: `/es/`
+6. **ITA anchor format by language**:
+   - Russian: `[text](#anchor)` (resolves to `/ru/#anchor`)
+   - Ukrainian: `[text](#anchor)` (resolves to `/ua/#anchor`)
+   - English: `[text](#anchor)` (resolves to `/#anchor`)
+   - Spanish: `[text](#anchor)` (resolves to `/es/#anchor`)
 
 7. **Analyze the article content** for ITA-relevant topics:
    - Autónomo/freelancer topics: taxes, gestors, invoicing, business registration
    - Look for mentions that correspond to existing ITA sections
    - Consider what additional reading would genuinely help the reader
 
-8. **Match terms to ITA pages and anchors**:
-   - Find phrases that relate to available pages or anchors
-   - Use semantic matching based on page/anchor titles and descriptions
-   - Can link to: page only (`/ru/mortgage/`), anchor on main page (`#надежные-хесторы`), or anchor on subpage (`/ru/mortgage/#неделя-1-первый-поход-в-банк-и-поиск-квартиры`)
+8. **Match terms to ITA anchors**:
+   - Find phrases that relate to available anchors
+   - Use semantic matching based on anchor names
+   - Link format: `[text](#anchor-name)`
 
 9. **Apply conservative linking rules for internal links**:
    - **Max 3-5 internal links per article** - quality over quantity

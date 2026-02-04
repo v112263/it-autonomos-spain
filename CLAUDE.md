@@ -27,17 +27,13 @@ A Jekyll-based multilingual documentation website about being an autónomo or SL
 ├── ru/index.md                 # Russian index
 ├── ua/index.md                 # Ukrainian index
 ├── es/index.md                 # Spanish index
-├── en/                         # Full-length articles (mortgage, versions)
-│   ├── mortgage/index.md      # Full mortgage guide
+├── en/                         # Full-length articles
 │   └── versions/              # Document version history (1.0.md, 2.0.md, etc.)
-├── ru/                         # Full-length articles (mortgage, versions)
-│   ├── mortgage/index.md
+├── ru/                         # Full-length articles
 │   └── versions/
-├── ua/                         # Full-length articles (mortgage, versions)
-│   ├── mortgage/index.md
+├── ua/                         # Full-length articles
 │   └── versions/
-├── es/                         # Full-length articles (mortgage, versions)
-│   ├── mortgage/index.md
+├── es/                         # Full-length articles
 │   └── versions/
 ├── _includes/
 │   ├── common/                 # Shared assets (CSS, forms)
@@ -55,7 +51,6 @@ A Jekyll-based multilingual documentation website about being an autónomo or SL
 - Each language maintains **identical structure and organization**
 - **Primary content location**: `_includes/{lang}/` directories contain the majority of articles
 - **Separately placed in root language directories** (`en/`, `ru/`, `ua/`, `es/`):
-  - `mortgage/index.md` - Full mortgage guide article
   - `versions/` - Document version history and past release notes
 - Index files (`*/index.md`) serve as navigation hubs linking to all articles
 - Common assets (CSS, forms) are in `_includes/common/`

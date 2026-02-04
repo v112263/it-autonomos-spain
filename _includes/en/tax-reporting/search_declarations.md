@@ -6,7 +6,7 @@ in Spain (not just for autónomos):
 
 - You can check whether the necessary tax declarations have actually been submitted and registered with Agencia
   Tributaria on time.
-- If you are planning to [obtain a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes)
+- If you are planning to [obtain a mortgage](https://spainlifeguide.com/en/mortgage/){:target="_blank"}
   or bank loans, you may need to provide tax returns.
 - In other situations, such as proving income, paid taxes, applying for social benefits, or obtaining a residence
   permit.

@@ -7,7 +7,7 @@
 Personally, this portal has been useful to me many times, for example when notifications arrived about:
 
 - a fine for apartment repairs;
-- taking ownership of [the apartment I bought](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes);
+- taking ownership of [the apartment I bought](https://spainlifeguide.com/en/mortgage/){:target="_blank"};
 - expiration of my registration (notification from Ayuntamiento, 2 years after registration);
 - various notifications from Seguridad Social;
 - various notifications from the tax office.
