@@ -17,12 +17,6 @@ brew install lychee
 3. https://itautonomos.com/ua/ (Ukrainian)
 4. https://itautonomos.com/es/ (Spanish)
 
-### Mortgage pages
-5. https://itautonomos.com/en/mortgage/ (English)
-6. https://itautonomos.com/ru/mortgage/ (Russian)
-7. https://itautonomos.com/ua/mortgage/ (Ukrainian)
-8. https://itautonomos.com/es/mortgage/ (Spanish)
-
 ## Instructions
 
 1. **Check if lychee is installed**:
@@ -39,7 +33,7 @@ brew install lychee
    - EU VIES VAT validation page (uses JavaScript routing - false positive)
    - bit.ly links (tested separately in `test-bitly-links` to avoid inflating Bitly analytics)
 
-3. **Run all 8 checks in parallel** using the Task tool for efficiency, or run sequentially:
+3. **Run all 4 checks in parallel** using the Task tool for efficiency, or run sequentially:
    ```bash
    # Example for one page:
    lychee --include-fragments --exclude "ec.europa.eu/taxation_customs/vies" --exclude "bit.ly" "https://itautonomos.com/ru/" 2>&1
@@ -71,10 +65,6 @@ Some links may show errors but are false positives:
 | RU Index (/ru/) | 171 | 168 | 0 | 3 | ✅ |
 | UA Index (/ua/) | 165 | 162 | 0 | 3 | ✅ |
 | ES Index (/es/) | 150 | 148 | 0 | 2 | ✅ |
-| EN Mortgage | 45 | 44 | 0 | 1 | ✅ |
-| RU Mortgage | 45 | 44 | 0 | 1 | ✅ |
-| UA Mortgage | 45 | 44 | 0 | 1 | ✅ |
-| ES Mortgage | 45 | 44 | 0 | 1 | ✅ |
 ```
 
 ### Errors Report (if any)
@@ -98,7 +88,7 @@ End with a clear summary:
 ```
 ## Final Status
 
-✅ **ALL PROD LINKS VALID** - All 8 pages passed (X total links, Y anchors verified)
+✅ **ALL PROD LINKS VALID** - All 4 pages passed (X total links, Y anchors verified)
 ```
 
 OR

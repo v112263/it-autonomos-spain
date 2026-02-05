@@ -30,30 +30,6 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://itautonomos.com/en/mortgage/</loc>
-    <lastmod>2025-10-09</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://itautonomos.com/ru/mortgage/</loc>
-    <lastmod>2025-10-09</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://itautonomos.com/ua/mortgage/</loc>
-    <lastmod>2025-10-09</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://itautonomos.com/es/mortgage/</loc>
-    <lastmod>2025-10-09</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.8</priority>
-  </url>
   <!-- Release notes (Russian) -->
   <url>
     <loc>https://itautonomos.com/ru/versions/1.0.html</loc>

@@ -7,8 +7,10 @@ Verify internal links database integrity and update with new pages/anchors. This
 3. **Updates** the database with new entries (after confirmation)
 
 The internal links database (`internal_links_{lang}.json`) tracks:
-- **Pages** - standalone pages in the site (e.g., `/`, `/ru/`, `/en/mortgage/`)
-- **Anchors** - section IDs within each page (e.g., `#reliable-gestors`, `#надежные-хесторы`)
+- **Main pages**: `/` (EN), `/ru/`, `/ua/`, `/es/`
+- **Anchors** - section IDs within each main page (e.g., `#reliable-gestors`, `#надежные-хесторы`)
+
+**Note**: ITA has one main index page per language. All content is organized as sections (anchors) on these pages.
 
 Run this after adding/modifying content or before deploying to ensure all internal links work.
 
@@ -23,22 +25,16 @@ Run this after adding/modifying content or before deploying to ensure all intern
 
 ```json
 {
-  "description": "All internal links for English version",
-  "language": "en",
+  "description": "All internal links for Russian version",
+  "language": "ru",
   "generated_at": "2025-01-21",
   "pages": [
     {
-      "path": "/",
-      "url": "https://itautonomos.com/",
-      "title": "Main page title",
-      "description": "What this page is about",
-      "anchors": ["anchor1", "anchor2"]
-    },
-    {
-      "path": "/en/some-article/",
-      "url": "https://itautonomos.com/en/some-article/",
-      "title": "Article title",
-      "anchors": ["section1", "section2"]
+      "path": "/ru/",
+      "url": "https://itautonomos.com/ru/",
+      "title": "Autónomo - Полное Руководство",
+      "description": "Main page with all sections about autónomo in Spain",
+      "anchors": ["надежные-хесторы", "регистрация-autónomo-пошагово", ...]
     }
   ]
 }
@@ -51,9 +47,6 @@ Convert `path` from JSON to HTML file:
 - `/ru/` → `_site/ru/index.html`
 - `/ua/` → `_site/ua/index.html`
 - `/es/` → `_site/es/index.html`
-- `/en/article/` → `_site/en/article/index.html`
-
-**Rule**: Remove trailing `/`, prepend `_site`, append `/index.html`. For root `/`, just use `_site/index.html`.
 
 ## Excluded ID Patterns
 

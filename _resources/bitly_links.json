@@ -1,5 +1,5 @@
 {
-  "description": "Bit.ly links used in the project. Run /test-bitly-links to verify all redirects.",
+  "description": "Bit.ly links used in the project. Run /tests:prod:test-bitly-links to verify all redirects.",
   "links": [
     {
       "bitly": "https://bit.ly/autonomo-manual",
@@ -110,16 +110,6 @@
       "bitly": "https://bit.ly/V2554-23",
       "expected_url": "https://petete.tributos.hacienda.gob.es/consultas/?num_consulta=V2554-23",
       "description": "Consulta V2554-23 - D.G. Tributos"
-    },
-    {
-      "bitly": "https://bit.ly/autonomo-mortgage-ru",
-      "expected_url": "https://itautonomos.com/ru/mortgage/",
-      "description": "Получение ипотеки в Испании - Russian"
-    },
-    {
-      "bitly": "https://bit.ly/autonomo-mortgage-ua",
-      "expected_url": "https://itautonomos.com/ua/mortgage/",
-      "description": "Отримання іпотеки в Іспанії - Ukrainian"
     },
     {
       "bitly": "https://bit.ly/reliable-gestors-ru",

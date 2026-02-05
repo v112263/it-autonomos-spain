@@ -14,4 +14,4 @@ obtiene siendo autónomo. Si paga impuestos, ¿por qué no aprovechar estos bene
 4. Familiarícese con el proceso de [presentación de la declaración anual](#declaración-anual-renta). Es obligatorio, pero no urgente - será relevante a principios del año siguiente después de registrarse como autónomo.
 5. [Obtener la tarjeta SIP para usted](#obtención-de-la-tarjeta-sip-para-usted-mismo).
 6. [Obtener las tarjetas SIP para los miembros de la familia](#obtención-de-la-tarjeta-sip-para-miembros-de-la-familia).
-7. Lea sobre [mi experiencia obteniendo una hipoteca como autónomo](/es/mortgage/) (8 meses después del registro) - si planea obtener una hipoteca en el futuro, mi experiencia puede serle útil. 
+7. Lea sobre [mi experiencia obteniendo una hipoteca como autónomo](https://spainlifeguide.com/es/mortgage/){:target="_blank"} (8 meses después del registro) - si planea obtener una hipoteca en el futuro, mi experiencia puede serle útil. 

@@ -31,14 +31,12 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 2. Contacta con [abogados de inmigración de confianza](#abogados-de-inmigración-de-confianza) para ayudarte con la obtención de cualquier
    tipo de residencia (Digital Nomad, Cuenta Propia, Arraigo, etc.) o la nacionalidad española. Algunos ofrecen consulta gratuita.
 3. Lee la [guía paso a paso para registrarse como autónomo](#registro-de-autónomo-paso-a-paso).
-4. [Mi experiencia personal obteniendo una hipoteca](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores) 8 meses
+4. [Mi experiencia personal obteniendo una hipoteca](https://spainlifeguide.com/es/mortgage/){:target="_blank"} 8 meses
    después de registrarme como autónomo.
 5. Suscríbete al canal de Telegram [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} y
    únete al chat [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
 6. Echa un vistazo a la [sección secreta](#sección-secreta) si quieres conocer la historia de la creación de este documento o
    agradecerme por mi trabajo.
-
-> La información se proporciona tal cual y no sustituye a la consulta profesional.
 
 ## Contenido
 
@@ -124,7 +122,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
     - [Responsabilidad de Xolo](#responsabilidad-de-xolo)
     - [Contactos de soporte](#contactos-de-soporte)
 - [Miscelánea](#miscelánea)
-    - [Obtención de hipoteca en España como autónomo: mi experiencia y errores](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores)
+    - [Obtención de hipoteca en España como autónomo: mi experiencia y errores](https://spainlifeguide.com/es/mortgage/){:target="_blank"}
     - [Documentos necesarios para el registro como autónomo](#documentos-necesarios-para-el-registro-como-autónomo)
     - [Recomendación obvia pero muy importante](#recomendación-obvia-pero-muy-importante)
     - [Obtención del certificado digital](#obtención-del-certificado-digital)
@@ -162,4 +160,8 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 No sé por qué has leído hasta el final, ¿realmente estabas tan interesado en conocer en detalle
 todas las actualizaciones del documento? :)
 Ya que lo has hecho, te recomiendo echar un vistazo a la [sección secreta](#sección-secreta), donde
-hay varias formas de agradecerme por el trabajo realizado. 
+hay varias formas de agradecerme por el trabajo realizado.
+
+<p class="footer-disclaimer">
+La información se proporciona tal cual y no sustituye a la consulta profesional.
+</p>

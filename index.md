@@ -25,14 +25,12 @@ This document contains all the necessary information for registering and managin
 2. Contact [reliable immigration lawyers](#reliable-immigration-lawyers) for help with obtaining any type of
    residence permit (Digital Nomad, Cuenta Propia, Arraigo, etc.) or Spanish citizenship. Some offer a free consultation.
 3. Read the step-by-step [guide to autónomo registration](#autónomo-registration-step-by-step).
-4. [My personal experience getting a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes) 8 months
+4. [My personal experience getting a mortgage](https://spainlifeguide.com/en/mortgage/){:target="_blank"} 8 months
    after registering as autónomo.
 5. Subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} and
    join the chat [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
 6. Check out the [secret section](#secret-section) if you want to learn about the history of this document or
    thank me for my work.
-
-> Information is provided as is and does not replace professional consultation.
 
 ## Contents
 
@@ -118,7 +116,7 @@ This document contains all the necessary information for registering and managin
     - [Xolo's liability](#xolos-liability)
     - [Support contacts](#support-contacts)
 - [Miscellaneous](#miscellaneous)
-    - [Obtaining a mortgage in Spain for autónomo: My experience and mistakes](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes)
+    - [Obtaining a mortgage in Spain for autónomo: My experience and mistakes](https://spainlifeguide.com/en/mortgage/){:target="_blank"}
     - [Necessary documents for registering an autónomo](#necessary-documents-for-registering-an-autónomo)
     - [An obvious but very important recommendation](#an-obvious-but-very-important-recommendation)
     - [Obtaining a digital certificate](#obtaining-a-digital-certificate)
@@ -157,3 +155,7 @@ I don't know why you read all the way to the end, were you really that intereste
 updates to the document? :)
 Since you did, I recommend checking out the [secret section](#secret-section), where there are several ways to thank
 me for the work done.
+
+<p class="footer-disclaimer">
+Information is provided as is and does not replace professional consultation.
+</p>

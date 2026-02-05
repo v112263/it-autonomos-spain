@@ -197,7 +197,7 @@ declaration to penalties.
 ### Do you need to submit your Renta as soon as possible?
 
 In some situations, such as
-when [obtaining a mortgage](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes) or
+when [obtaining a mortgage](https://spainlifeguide.com/en/mortgage/){:target="_blank"} or
 a loan, you may need to submit your Renta as soon as possible. In this case, try to arrange with your gestor for
 an urgent submission of the declaration.
 

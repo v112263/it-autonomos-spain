@@ -7,7 +7,7 @@
 Personalmente, este portal me ha sido útil muchas veces, por ejemplo cuando llegaron notificaciones sobre:
 
 - una multa por reformas en el apartamento;
-- la toma de posesión del [apartamento que compré](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores);
+- la toma de posesión del [apartamento que compré](https://spainlifeguide.com/es/mortgage/){:target="_blank"};
 - la caducidad de mi empadronamiento (notificación del Ayuntamiento, 2 años después del empadronamiento);
 - varias notificaciones de la Seguridad Social;
 - varias notificaciones de la oficina de impuestos.

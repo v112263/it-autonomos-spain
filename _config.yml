@@ -2,3 +2,6 @@ title: "Autónomo - Complete Guide"
 description: "Full guide on registering and managing an Autónomo in Spain"
 baseurl: ""
 url: "https://itautonomos.com"
+
+plugins:
+  - jekyll-redirect-from

@@ -23,12 +23,6 @@ Check all links and anchors on the **LOCAL** development server (http://localhos
 3. http://localhost:4000/ua/ (Ukrainian)
 4. http://localhost:4000/es/ (Spanish)
 
-### Mortgage pages
-5. http://localhost:4000/en/mortgage/ (English)
-6. http://localhost:4000/ru/mortgage/ (Russian)
-7. http://localhost:4000/ua/mortgage/ (Ukrainian)
-8. http://localhost:4000/es/mortgage/ (Spanish)
-
 ## Instructions
 
 1. **Check if lychee is installed**:
@@ -50,7 +44,7 @@ Check all links and anchors on the **LOCAL** development server (http://localhos
    - EU VIES VAT validation page (uses JavaScript routing - false positive)
    - bit.ly links (tested separately in `test-bitly-links` to avoid inflating Bitly analytics)
 
-4. **Run all 8 checks in parallel** using the Task tool for efficiency, or run sequentially:
+4. **Run all 4 checks in parallel** using the Task tool for efficiency, or run sequentially:
    ```bash
    # Example for one page:
    lychee --include-fragments --exclude "ec.europa.eu/taxation_customs/vies" --exclude "bit.ly" "http://localhost:4000/ru/" 2>&1
@@ -82,10 +76,6 @@ Some links may show errors but are false positives:
 | RU Index (/ru/) | 171 | 158 | 10 | 3 | 0 | ✅ |
 | UA Index (/ua/) | 165 | 152 | 10 | 3 | 0 | ✅ |
 | ES Index (/es/) | 150 | 138 | 10 | 2 | 0 | ✅ |
-| EN Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
-| RU Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
-| UA Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
-| ES Mortgage | 45 | 42 | 2 | 1 | 0 | ✅ |
 ```
 
 **Note**: Total = OK + Redirects + Excluded + Errors
@@ -111,7 +101,7 @@ End with a clear summary:
 ```
 ## Final Status
 
-✅ **ALL LOCAL LINKS VALID** - All 8 pages passed (X total links, Y anchors verified)
+✅ **ALL LOCAL LINKS VALID** - All 4 pages passed (X total links, Y anchors verified)
 ```
 
 OR

@@ -14,6 +14,6 @@ consider it. However, if you don’t need these additional services and the mana
 with the bank’s support.
 
 For example, I had to take out life insurance and a security system when
-I [obtained a mortgage from the bank](#obtaining-a-mortgage-in-spain-for-autónomo-my-experience-and-mistakes). By
+I [obtained a mortgage from the bank](https://spainlifeguide.com/en/mortgage/){:target="_blank"}. By
 law, this is not mandatory, but before approving the mortgage, the manager insisted on it, and I had no other options
 because I really wanted to get the mortgage :)

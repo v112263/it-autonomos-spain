@@ -4,8 +4,8 @@ Se recomienda utilizar uno de los bancos españoles
 [aprobados por Hacienda](https://sede.agenciatributaria.gob.es/Sede/deudas-apremios-embargos-subastas/pagar-aplazar-consultar/listado-entidades-bancarias-adheridas.html?faqId=c2018148e27c2710VgnVCM100000dc381e0aRCRD){:
 target="_blank"}.
 
-Inicialmente utilicé Santander, pero más tarde cambié a CaixaBank (cuando **solicité una hipoteca**, [aquí puede leer
-más detalles](#obtención-de-hipoteca-en-españa-como-autónomo-mi-experiencia-y-errores)).
+Inicialmente utilicé Santander, pero más tarde cambié a CaixaBank (cuando **solicité una hipoteca**,
+[aquí puede leer más detalles](https://spainlifeguide.com/es/mortgage/){:target="_blank"}).
 
 No tengo recomendaciones específicas sobre bancos españoles. Recuerde que entre los clientes de los grandes bancos siempre
 habrá tanto buenas como malas opiniones. Por ejemplo, yo estaba completamente satisfecho con los servicios de Santander, pero conozco personas que

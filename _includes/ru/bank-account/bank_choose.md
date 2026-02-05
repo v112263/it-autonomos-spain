@@ -4,8 +4,8 @@
 банков, [одобренных налоговой службой Испании](https://sede.agenciatributaria.gob.es/Sede/deudas-apremios-embargos-subastas/pagar-aplazar-consultar/listado-entidades-bancarias-adheridas.html?faqId=c2018148e27c2710VgnVCM100000dc381e0aRCRD){:
 target="_blank"}.
 
-Сначала я пользовался Santander, но позже перешел на CaixaBank (когда **получал ипотеку**, [здесь можно почитать 
-подробнее](#получение-ипотеки-в-испании-для-аутономо-мой-опыт-и-ошибки)).
+Сначала я пользовался Santander, но позже перешел на CaixaBank (когда **получал ипотеку**,
+[здесь можно почитать подробнее](https://spainlifeguide.com/ru/mortgage/){:target="_blank"}).
 
 Конкретных рекомендаций по испанским банкам у меня нет. Не забывайте, что среди клиентов крупных банков всегда
 будут как хорошие, так и плохие отзывы. Я, например, был полностью доволен услугами Santander, но знаю людей, которые

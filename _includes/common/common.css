@@ -125,3 +125,11 @@
   margin-top: 0.5rem;
   margin-bottom: 1.5rem;
 }
+
+/* Footer disclaimer */
+.footer-disclaimer {
+  text-align: center;
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 2em;
+}
