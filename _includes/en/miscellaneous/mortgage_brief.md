@@ -1,4 +1,4 @@
-# Mortgage in Spain - step-by-step guide and my personal experience
+## Mortgage in Spain - step-by-step guide and my personal experience
 
 In November 2024, my wife and I got a mortgage in Valencia for 80% (2.95% annual rate). Despite being autónomo for less than 8 months and not having an annual tax return (renta). The whole process took less than a month and a half - from our first visit to the bank to getting the keys.
 

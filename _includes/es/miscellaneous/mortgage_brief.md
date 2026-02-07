@@ -1,4 +1,4 @@
-# Hipoteca en España - instrucción paso a paso y mi experiencia personal
+## Hipoteca en España - instrucción paso a paso y mi experiencia personal
 
 En noviembre de 2024 mi esposa y yo obtuvimos una hipoteca en Valencia al 80% (2,95% anual). A pesar de que llevaba menos de 8 meses como autónomo y no tenía la declaración anual (renta). Todo el proceso duró menos de un mes y medio - desde la primera visita al banco hasta recibir las llaves.
 

@@ -1,8 +1,8 @@
-## Versiones del documento
+# Versiones del documento
 
 {% include es/document-versions/4_3.md %}
 
-### Versiones anteriores
+## Versiones anteriores
 
 - [Release notes - v4.2 (10/03/2025)](versions/4.2.html)
 - [Release notes - v4.1 (18/12/2024)](versions/4.1.html)

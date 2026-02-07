@@ -28,7 +28,7 @@ Always translate FROM Russian. Never cross-translate (e.g., EN→ES).
 - Markdown structure and formatting
 - All links (internal and external)
 - Code blocks and technical markup
-- Heading levels (H2, H3, etc.)
+- Heading levels (H1, H2, H3, etc.)
 
 ### DO NOT Translate
 - English/Spanish terms: autónomo, gestor, NIE, Hacienda, Seguridad Social, Modelo, SL, etc.
@@ -134,10 +134,10 @@ Check `ru/index.md` for any new includes/sections, then add the same structure t
 
 Update on ALL 4 index pages when content changes:
 
-- EN: `<p class="last-updated">Last updated: January 23, 2026</p>`
-- RU: `<p class="last-updated">Последнее обновление: 23 января 2026</p>`
-- UA: `<p class="last-updated">Останнє оновлення: 23 січня 2026</p>`
-- ES: `<p class="last-updated">Última actualización: 23 de enero de 2026</p>`
+- EN: `<p class="last-updated">Last updated: February 7, 2026</p>`
+- RU: `<p class="last-updated">Последнее обновление: 7 февраля 2026</p>`
+- UA: `<p class="last-updated">Останнє оновлення: 7 лютого 2026</p>`
+- ES: `<p class="last-updated">Última actualización: 7 de febrero de 2026</p>`
 
 ## Workflow
 

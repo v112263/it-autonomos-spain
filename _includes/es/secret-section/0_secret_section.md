@@ -1,4 +1,4 @@
-## Sección secreta
+# Sección secreta
 
 Gracias por visitar esta sección. Me alegra que el documento le haya resultado útil. He invertido mucho esfuerzo en su
 creación y actualizo constantemente la información para que sea relevante y útil.
