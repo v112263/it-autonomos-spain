@@ -1,8 +1,8 @@
-## Версии документа
+# Версии документа
 
 {% include ru/document-versions/4_3.md %}
 
-### Прошлые версии
+## Прошлые версии
 
 - [Release notes - v4.2 (10/03/2025)](versions/4.2.html)
 - [Release notes - v4.1 (18/12/2024)](versions/4.1.html)

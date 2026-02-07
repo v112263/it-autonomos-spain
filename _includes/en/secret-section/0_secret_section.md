@@ -1,4 +1,4 @@
-## Secret section
+# Secret section
 
 Thank you for checking out this section. I'm glad the document turned out to be useful for you. I put a lot of effort
 into creating it and constantly update the information to keep it relevant and helpful.

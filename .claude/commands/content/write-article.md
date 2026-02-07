@@ -118,6 +118,19 @@ You are writing AS the author - a person sharing real experience being autónomo
 Сначала нужно собрать документы, потом записаться на cita и подать заявку. Процесс занимает время - у меня ушло около двух недель. И не забудьте про страховку, без нее не примут.
 ```
 
+## Heading Level Rules
+
+Heading level depends on where the content sits in the site hierarchy:
+
+- **Top-level sections** (0_*.md section headers like "Хестор", "Разное", "Банковский счет для аутономо") → **H1** (`#`)
+- **Articles within sections** (like "Проблемы с хесторами", "Выбор банка") → **H2** (`##`)
+- **Sub-articles within articles** (3rd nesting level, like "Региональные вычеты", "Удержания (retenciones)") → **H3** (`###`)
+- **Sub-sub-articles** (4th nesting level, like "Как работает вычет", "Вычет на детей") → **H4** (`####`)
+
+**Exception**: "Надежные специалисты" section - its sub-sections ("Надежные хесторы", "Надежные миграционные юристы") are also **H1**, and individual specialist profiles within them are **H2**.
+
+Rule: internal headings within a file must always be at a lower level than the file's top heading. If the file starts with H2, its internal headings must be H3/H4/etc.
+
 ## Structure Guidelines
 
 - Use flowing paragraphs as primary format
@@ -189,11 +202,16 @@ All information I provide has been verified with specialists, but the agent MUST
 **CRITICAL**: When adding a NEW article or section, you MUST add it to the Russian index file.
 
 ### For new content in `_includes/ru/`
-Add the include and heading to `ru/index.md`:
-```markdown
-## Section Name
-{% raw %}{% include ru/section-name/0_section_name.md %}{% endraw %}
-```
+
+The heading goes INSIDE the included file, NOT in index. The index file only has the `{% raw %}{% include %}{% endraw %}` tag.
+
+**New top-level section** (e.g., a new category like "Страхование"):
+1. Create `_includes/ru/insurance/0_insurance.md` starting with `# Страхование` (H1)
+2. Add to `ru/index.md`: `{% raw %}{% include ru/insurance/0_insurance.md %}{% endraw %}`
+
+**New article within existing section** (e.g., a new article under "Хестор"):
+1. Create `_includes/ru/gestor/new_article.md` starting with `## Article Title` (H2)
+2. Add the `{% raw %}{% include %}{% endraw %}` inside the section's `0_gestor.md` file
 
 **Note**: Index updates for other languages (UA/EN/ES) will be done during translation phase via `/content:translate-article`.
 
