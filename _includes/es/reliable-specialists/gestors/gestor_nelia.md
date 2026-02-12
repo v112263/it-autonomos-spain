@@ -8,9 +8,9 @@
 
 {% include common/contact-forms/gestors/gestor_nelia_form_es.html %}
 
-Nelia es una gestora con profundo conocimiento de los sistemas fiscales español y ucraniano. Con 20 años de experiencia (13 años en España y 7 años en Ucrania), se especializa en acompañamiento contable integral y gestión de los más diversos tipos de negocios.
+Nelia es una gestora con profundo conocimiento de los sistemas fiscales español y ucraniano. Con experiencia en España desde 2012 (antes de eso, 7 años en Ucrania), se especializa en acompañamiento contable integral y gestión de los más diversos tipos de negocios.
 
-En el equipo con Nelia trabaja un socio-abogado con 30 años de experiencia, quien es experto en casos fiscales contra hacienda, derecho familiar y laboral. A lo largo de años de práctica, el equipo tiene decenas de casos ganados contra hacienda por grandes sumas, incluyendo procedimientos judiciales exitosos con grandes bancos españoles y compañías de seguros.
+En el equipo con Nelia trabaja un socio-abogado con más de 30 años de experiencia, quien es experto en casos fiscales contra hacienda, derecho familiar y laboral. A lo largo de años de práctica, el equipo tiene decenas de casos ganados contra hacienda por grandes sumas, incluyendo procedimientos judiciales exitosos con grandes bancos españoles y compañías de seguros.
 
 El equipo gestiona una amplia gama de negocios: desde fábricas de cosméticos y empresas de importación de materias primas hasta grandes empresas de IT y compañías de inversión. Esta experiencia diversa permite brindar consultas expertas sobre las cuestiones más complejas de tributación y optimización de procesos empresariales.
 
@@ -20,7 +20,7 @@ El equipo gestiona una amplia gama de negocios: desde fábricas de cosméticos y
 - **Oficinas:** Madrid
 - **Provincias atendidas:** todos los servicios se prestan completamente de forma remota en todas las provincias, excepto Ceuta, Melilla,
   País Vasco, Navarra
-- **Experiencia:** Nelia - 13 años en España (y 7 años en Ucrania), socio-abogado - 30 años en España
+- **Experiencia:** Nelia - en España desde 2012 (antes de eso, 7 años en Ucrania), socio-abogado - más de 30 años en España
 - **Servicios:**
     - Registro de autónomo (<s>70 €</s> 40 € con el código promocional "IT Autonomos")
     - Gestión de autónomo (desde 70 €/mes)

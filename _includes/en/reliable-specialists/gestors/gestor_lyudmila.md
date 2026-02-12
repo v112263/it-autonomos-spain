@@ -39,7 +39,7 @@ issues (residence permit processing, residence renewal, transition from one type
     - Autónomo registration (<s>250 €</s> 200 € with promo code "IT Autonomos")
     - Autónomo management (80 €/month)
     - Individual consultation 60 min (150 €)
-    - Management of collaborators or hired employees (40 €/month)
+    - Management of collaborators or hired employees (70 €/month)
     - Immigration services: Digital Nomad, Cuenta propia, citizenship application, Beckham law and other types of residence permits
     - Other services: SL registration (1500 € turnkey), SL management (from 250 €/month), digital signature processing (50 €), bank account opening (80 €), and much more
 
