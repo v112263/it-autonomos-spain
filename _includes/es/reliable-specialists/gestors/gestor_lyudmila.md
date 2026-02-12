@@ -39,7 +39,7 @@ cuestiones de inmigración (tramitación de permiso de residencia, renovación d
     - Registro de autónomo (<s>250 €</s> 200 € con el código promocional "IT Autonomos")
     - Gestión de autónomo (80 €/mes)
     - Consulta individual 60 min (150 €)
-    - Gestión de colaboradores o empleados (40 €/mes)
+    - Gestión de colaboradores o empleados (70 €/mes)
     - Servicios de inmigración: Digital Nomad, Cuenta propia, solicitud de ciudadanía, Beckham law y otros tipos de permisos de residencia
     - Otros servicios: registro de SL (1500 € llave en mano), gestión de SL (desde 250 €/mes), tramitación de firma digital (50 €), apertura de cuenta bancaria (80 €), y mucho más
 

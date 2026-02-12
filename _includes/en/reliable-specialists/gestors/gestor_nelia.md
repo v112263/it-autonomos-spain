@@ -8,9 +8,9 @@
 
 {% include common/contact-forms/gestors/gestor_nelia_form_en.html %}
 
-Nelia is a gestor with deep understanding of Spanish and Ukrainian tax systems. With 20 years of experience (13 years in Spain and 7 years in Ukraine), she specializes in comprehensive accounting support and managing the most diverse types of businesses.
+Nelia is a gestor with deep understanding of Spanish and Ukrainian tax systems. With experience in Spain since 2012 (before that, 7 years in Ukraine), she specializes in comprehensive accounting support and managing the most diverse types of businesses.
 
-In the team with Nelia works a partner-lawyer with 30 years of experience, who is an expert in fiscal cases against the tax office, family and labor law. Over the years of practice, the team has dozens of won cases against the tax office for large sums, including successful court proceedings with major Spanish banks and insurance companies.
+In the team with Nelia works a partner-lawyer with more than 30 years of experience, who is an expert in fiscal cases against the tax office, family and labor law. Over the years of practice, the team has dozens of won cases against the tax office for large sums, including successful court proceedings with major Spanish banks and insurance companies.
 
 The team manages a wide range of businesses: from cosmetic factories and raw material import companies to major IT companies and investment companies. This diverse experience allows providing expert consultations on the most complex taxation issues and business process optimization.
 
@@ -20,7 +20,7 @@ The team manages a wide range of businesses: from cosmetic factories and raw mat
 - **Offices:** Madrid
 - **Service provinces:** all services are provided completely remotely in all provinces, except Ceuta, Melilla,
   País Vasco, Navarra
-- **Experience:** Nelia - 13 years in Spain (and 7 years in Ukraine), partner-lawyer - 30 years in Spain
+- **Experience:** Nelia - in Spain since 2012 (before that, 7 years in Ukraine), partner-lawyer - more than 30 years in Spain
 - **Services:**
     - Autónomo registration (<s>70 €</s> 40 € with promo code "IT Autonomos")
     - Autónomo management (from 70 €/month)
