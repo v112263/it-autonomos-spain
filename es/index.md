@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Autónomo - Guía Completa"
-description: "Guía detallada para registrarse y gestionar el autónomo en España"
 permalink: /es/
 ---
 
@@ -14,8 +13,6 @@ permalink: /es/
     display: none;
 }
 </style>
-
-{% assign lang = "es" %}
 
 # Autónomo - Guía Completa
 

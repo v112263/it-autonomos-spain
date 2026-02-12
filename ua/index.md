@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Autónomo - Повний Довідник"
-description: "Повний гайд з реєстрації та ведення аутономо в Іспанії"
 permalink: /ua/
 ---
 
@@ -14,8 +13,6 @@ permalink: /ua/
     display: none;
 }
 </style>
-
-{% assign lang = "ua" %}
 
 # Autónomo - Повний Довідник
 

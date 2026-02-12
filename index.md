@@ -9,8 +9,6 @@ title: "Autónomo - Complete Guide"
 {% include common/common.css %}
 </style>
 
-{% assign lang = "en" %}
-
 # Autónomo - Complete Guide
 
 **EN** | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | [ES]({{ site.baseurl }}/es/)
