@@ -1,3 +1,38 @@
+{% comment %} Determine language-agnostic path for hreflang mapping {% endcomment %}
+{% assign page_path = page.url | default: "/" %}
+{% assign is_multilingual_page = false %}
+
+{% if page_path == "/" or page_path contains "/ru/" or page_path contains "/en/" or page_path contains "/ua/" or page_path contains "/es/" %}
+  {% assign is_multilingual_page = true %}
+{% endif %}
+
+{% assign langless_path = page_path %}
+{% if page_path contains "/en/" %}
+  {% assign langless_path = page_path | remove_first: "/en" %}
+{% elsif page_path contains "/ru/" %}
+  {% assign langless_path = page_path | remove_first: "/ru" %}
+{% elsif page_path contains "/ua/" %}
+  {% assign langless_path = page_path | remove_first: "/ua" %}
+{% elsif page_path contains "/es/" %}
+  {% assign langless_path = page_path | remove_first: "/es" %}
+{% endif %}
+
+{% if langless_path == "" %}
+  {% assign langless_path = "/" %}
+{% endif %}
+
+{% if langless_path == "/" %}
+  {% assign alt_en = "/" %}
+  {% assign alt_ru = "/ru/" %}
+  {% assign alt_ua = "/ua/" %}
+  {% assign alt_es = "/es/" %}
+{% else %}
+  {% assign alt_en = "/en" | append: langless_path %}
+  {% assign alt_ru = "/ru" | append: langless_path %}
+  {% assign alt_ua = "/ua" | append: langless_path %}
+  {% assign alt_es = "/es" | append: langless_path %}
+{% endif %}
+
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -14,11 +49,14 @@
 <link rel="shortcut icon" href="/favicon.ico">
 <meta name="theme-color" content="#ffffff">
 
-<!-- Open Graph data -->
-<meta property="og:title" content="Autónomo - Complete Guide" />
-<meta property="og:description" content="Full guide on registering and managing an Autónomo in Spain" />
-<meta property="og:image" content="https://itautonomos.com/it-autonomos-og-img.jpg" />
-<meta property="og:type" content="website" />
+<!-- Hreflang alternate links -->
+{% if is_multilingual_page %}
+<link rel="alternate" hreflang="en" href="{{ site.url }}{{ alt_en }}">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ alt_en }}">
+<link rel="alternate" hreflang="ru" href="{{ site.url }}{{ alt_ru }}">
+<link rel="alternate" hreflang="uk" href="{{ site.url }}{{ alt_ua }}">
+<link rel="alternate" hreflang="es" href="{{ site.url }}{{ alt_es }}">
+{% endif %}
 
 <!-- Start of HubSpot Embed Code -->
 <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/145459200.js"></script>

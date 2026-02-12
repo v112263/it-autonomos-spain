@@ -3,5 +3,48 @@ description: "Full guide on registering and managing an Autónomo in Spain"
 baseurl: ""
 url: "https://itautonomos.com"
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      lang: en
+      description: "Full guide on registering and managing an Autónomo in Spain"
+      image: /it-autonomos-og-img.jpg
+  - scope:
+      path: "ru"
+      type: "pages"
+    values:
+      lang: ru
+      description: "Полный гайд по регистрации и ведению аутономо в Испании"
+      image: /it-autonomos-og-img.jpg
+  - scope:
+      path: "en"
+      type: "pages"
+    values:
+      lang: en
+      description: "Full guide on registering and managing an Autónomo in Spain"
+      image: /it-autonomos-og-img.jpg
+  - scope:
+      path: "ua"
+      type: "pages"
+    values:
+      lang: uk
+      description: "Повний гайд з реєстрації та ведення аутономо в Іспанії"
+      image: /it-autonomos-og-img.jpg
+  - scope:
+      path: "es"
+      type: "pages"
+    values:
+      lang: es
+      description: "Guía detallada para registrarse y gestionar el autónomo en España"
+      image: /it-autonomos-og-img.jpg
+
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - CLAUDE.md

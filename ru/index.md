@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Autónomo - Полное Руководство"
-description: "Подробный гайд по регистрации и ведению аутономо в Испании"
 permalink: /ru/
 ---
 
@@ -14,8 +13,6 @@ permalink: /ru/
     display: none;
 }
 </style>
-
-{% assign lang = "ru" %}
 
 # Autónomo - Полное Руководство
 
