@@ -1,3 +1,9 @@
+---
+name: tests-prod-test-prod-site-links
+description: "Check all links and anchors on the PROD website (itautonomos.com) using lychee link checker."
+disable-model-invocation: true
+---
+
 # Check Prod Site Links
 
 Check all links and anchors on the **PROD** website (https://itautonomos.com) using lychee link checker.
@@ -31,7 +37,7 @@ brew install lychee
 
    The `--exclude` flags skip:
    - EU VIES VAT validation page (uses JavaScript routing - false positive)
-   - bit.ly links (tested separately in `test-bitly-links` to avoid inflating Bitly analytics)
+   - bit.ly links (tested separately in `/tests-prod-test-bitly-links` to avoid inflating Bitly analytics)
 
 3. **Run all 4 checks in parallel** using the Task tool for efficiency, or run sequentially:
    ```bash

@@ -1,3 +1,9 @@
+---
+name: tests-prod-test-bitly-links
+description: "Verify bit.ly shortlinks redirect correctly and check for untracked links on the site."
+disable-model-invocation: true
+---
+
 # Check Bit.ly Redirects
 
 Verify that all bit.ly shortlinks redirect to the expected destinations AND that all bit.ly links on the site are tracked in the database.

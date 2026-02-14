@@ -1,3 +1,9 @@
+---
+name: content-fact-check-article
+description: "Perform thorough fact-checking of an article against authoritative official sources. Use when user asks to verify facts, check article accuracy, or validate claims before publication."
+argument-hint: "[article path]"
+---
+
 # Fact-Check Article
 
 Perform thorough fact-checking of an article before publication. Verify all claims, numbers, deadlines, conditions, and legal references against authoritative official sources.

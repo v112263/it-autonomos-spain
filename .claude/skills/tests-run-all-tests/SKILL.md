@@ -1,18 +1,25 @@
+---
+name: tests-run-all-tests
+description: "Run all automated checks for the project (LOCAL + PROD) and provide a unified summary."
+disable-model-invocation: true
+---
+
 # Run All Tests
 
 Run all automated checks for the project (both LOCAL and PROD) and provide a unified summary.
 
 ## Test suites to run
 
-1. `.claude/commands/tests/local/run-local-tests.md`
-2. `.claude/commands/tests/prod/run-prod-tests.md`
+1. `/tests-local-run-local-tests` - All LOCAL validation checks
+2. `/tests-prod-run-prod-tests` - All PROD validation checks
 
 ## Instructions
 
-1. Read each test suite command file listed above
-2. Launch a separate Task agent for each test suite (run in parallel)
-3. Wait for all agents to complete
-4. Compile results into a unified report (see format below)
+1. Launch both test suites in parallel using the Skill tool:
+   - Call Skill tool with skill: `tests-local-run-local-tests`
+   - Call Skill tool with skill: `tests-prod-run-prod-tests`
+2. Wait for both to complete
+3. Compile results into a unified report (see format below)
 
 ## Output Format
 
@@ -48,5 +55,5 @@ Run all automated checks for the project (both LOCAL and PROD) and provide a uni
 
 ## Adding new checks
 
-- To add a LOCAL check: add it to `run-local-tests.md`
-- To add a PROD check: add it to `run-prod-tests.md`
+- To add a LOCAL check: add it to the `tests-local-run-local-tests` skill
+- To add a PROD check: add it to the `tests-prod-run-prod-tests` skill

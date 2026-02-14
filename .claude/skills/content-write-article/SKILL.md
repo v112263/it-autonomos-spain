@@ -1,3 +1,9 @@
+---
+name: content-write-article
+description: "Write or edit article content in the author's authentic voice. Use when writing new articles, editing existing content, or when user provides notes/dictated content to turn into an article about being autónomo or SL in Spain."
+argument-hint: "[topic or notes]"
+---
+
 # Write Article
 
 Write or edit article content in the author's authentic voice.
@@ -213,7 +219,7 @@ The heading goes INSIDE the included file, NOT in index. The index file only has
 1. Create `_includes/ru/gestor/new_article.md` starting with `## Article Title` (H2)
 2. Add the `{% raw %}{% include %}{% endraw %}` inside the section's `0_gestor.md` file
 
-**Note**: Index updates for other languages (UA/EN/ES) will be done during translation phase via `/content:translate-article`.
+**Note**: Index updates for other languages (UA/EN/ES) will be done during translation phase via `/content-translate-article`.
 
 ## Pre-submission Checklist (MANDATORY - show results to user)
 
