@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Spanish version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "es",
-  "generated_at": "2026-01-26",
+  "generated_at": "2026-02-14",
   "pages": [
     {
       "path": "/es/",
@@ -82,6 +82,7 @@
         "gestor-1",
         "gestores-de-confianza",
         "gestorxolo",
+        "hipoteca-en-españa---instrucción-paso-a-paso-y-mi-experiencia-personal",
         "idioma-de-las-facturas",
         "informes-fiscales",
         "inspecciones-fiscales",

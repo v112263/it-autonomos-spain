@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Ukrainian version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "ua",
-  "generated_at": "2026-01-26",
+  "generated_at": "2026-02-14",
   "pages": [
     {
       "path": "/ua/",
@@ -52,6 +52,7 @@
         "зміст",
         "знижка-в-перший-рік",
         "інтернет",
+        "іпотека-в-іспанії---покрокова-інструкція-та-мій-особистий-досвід",
         "інші-відрахування",
         "інші-професійні-витрати",
         "інші-схеми-оптимізації",
