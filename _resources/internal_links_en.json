@@ -1,7 +1,7 @@
 {
   "description": "Internal links for English version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "en",
-  "generated_at": "2026-01-26",
+  "generated_at": "2026-02-14",
   "pages": [
     {
       "path": "/",
@@ -85,6 +85,7 @@
         "medical-insurance",
         "miscellaneous",
         "modelo-036",
+        "mortgage-in-spain---step-by-step-guide-and-my-personal-experience",
         "my-problem-with-the-spanish-tax-office",
         "necessary-documents-for-registering-an-autónomo",
         "nelia---gestor",

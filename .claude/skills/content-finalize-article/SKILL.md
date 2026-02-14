@@ -1,6 +1,12 @@
+---
+name: content-finalize-article
+description: "Prepare article for publication by running all pre-publication checks (internal links + fact-check) in parallel. Use when user asks to finalize, prepare for publication, or do final checks on an article."
+argument-hint: "[article path]"
+---
+
 # Finalize Article
 
-Prepare an article for publication by running all pre-publication checks. This command runs internal link addition and fact-checking in parallel for efficiency.
+Prepare an article for publication by running all pre-publication checks. This skill runs internal link addition and fact-checking in parallel for efficiency.
 
 ## Input
 
@@ -10,12 +16,12 @@ The input should be a path to an article file (e.g., `_includes/ru/tax-optimizat
 
 ## Workflow Context
 
-This command is part of the article publishing workflow:
+This skill is part of the article publishing workflow:
 
-1. **Write article** - `/content:write-article` - Create or edit content
-2. **Finalize article** - `/content:finalize-article` - (THIS COMMAND) Add links + fact-check
+1. **Write article** - `/content-write-article` - Create or edit content
+2. **Finalize article** - `/content-finalize-article` - (THIS SKILL) Add links + fact-check
 3. **Review & fix** - User reviews reports, makes corrections if needed
-4. **Translate** - `/content:translate-article` - Translate to other languages
+4. **Translate** - `/content-translate-article` - Translate to other languages
 
 ## Instructions
 
@@ -24,12 +30,12 @@ This command is part of the article publishing workflow:
 1. **Launch both checks in parallel** using the Skill tool:
 
    **Check A: Add Internal Links**
-   - Call Skill tool with skill: `content:add-internal-links-to-article` and args: `[article path]`
+   - Call Skill tool with skill: `content-add-internal-links-to-article` and args: `[article path]`
    - This will analyze the article and add relevant internal/external links
    - Returns a summary of links added
 
    **Check B: Fact-Check Article**
-   - Call Skill tool with skill: `content:fact-check-article` and args: `[article path]`
+   - Call Skill tool with skill: `content-fact-check-article` and args: `[article path]`
    - This will verify all facts against official sources
    - Returns a detailed fact-check report
 
@@ -74,12 +80,12 @@ Based on the results above:
 ### Next Steps
 
 If there are no ❌ critical issues:
-→ Article is ready for translation via `/content:translate-article`
+→ Article is ready for translation via `/content-translate-article`
 
 If there are ❌ issues to fix:
 1. Make the required corrections
-2. (Optional) Re-run `/content:finalize-article` to verify fixes
-3. Then proceed with `/content:translate-article`
+2. (Optional) Re-run `/content-finalize-article` to verify fixes
+3. Then proceed with `/content-translate-article`
 ```
 
 ## Important Notes

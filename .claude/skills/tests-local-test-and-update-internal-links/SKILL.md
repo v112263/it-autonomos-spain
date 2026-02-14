@@ -1,6 +1,12 @@
+---
+name: tests-local-test-and-update-internal-links
+description: "Verify internal links database integrity and update with new pages/anchors."
+disable-model-invocation: true
+---
+
 # Check and Update Internal Links
 
-Verify internal links database integrity and update with new pages/anchors. This command:
+Verify internal links database integrity and update with new pages/anchors. This skill:
 
 1. **Checks** for missing anchors (in database but not in HTML) - indicates broken links
 2. **Finds** new anchors (in HTML but not in database) - can be added to tracking
@@ -186,7 +192,7 @@ Action required: Add legacy anchors for the missing IDs listed above, then rebui
 
 ## Important Notes
 
-- This command ADDS new anchors to the database, it does NOT remove existing ones
+- This skill ADDS new anchors to the database, it does NOT remove existing ones
 - Missing/removed anchors need manual review (may need legacy anchors)
-- Always rebuild (`bundle exec jekyll build`) before running this command
+- Always rebuild (`bundle exec jekyll build`) before running this skill
 - New anchors should be reviewed to ensure they're intentional

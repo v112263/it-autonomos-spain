@@ -1,3 +1,9 @@
+---
+name: tests-local-test-local-site-links
+description: "Check all links and anchors on the LOCAL development server using lychee link checker."
+disable-model-invocation: true
+---
+
 # Check Local Site Links
 
 Check all links and anchors on the **LOCAL** development server (http://localhost:4000) using lychee link checker.
@@ -42,7 +48,7 @@ Check all links and anchors on the **LOCAL** development server (http://localhos
 
    The `--exclude` flags skip:
    - EU VIES VAT validation page (uses JavaScript routing - false positive)
-   - bit.ly links (tested separately in `test-bitly-links` to avoid inflating Bitly analytics)
+   - bit.ly links (tested separately in `/tests-prod-test-bitly-links` to avoid inflating Bitly analytics)
 
 4. **Run all 4 checks in parallel** using the Task tool for efficiency, or run sequentially:
    ```bash

@@ -1,3 +1,9 @@
+---
+name: utils-add-bitly-links-to-database
+description: "Add new bit.ly links to the tracking database. Use when user asks to add a bit.ly link, register a bitly shortlink, or save a new short URL to the database."
+argument-hint: "[bit.ly links to add]"
+---
+
 # Add Bit.ly Links to Database
 
 Add new bit.ly links to the database file.
@@ -31,4 +37,4 @@ Parse the input in any format - extract the essential information:
 
 7. Show summary table of added links
 
-8. Remind user to run `/tests:prod:test-bitly-links` to verify
+8. Remind user to run `/tests-prod-test-bitly-links` to verify

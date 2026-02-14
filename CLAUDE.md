@@ -2,14 +2,14 @@
 
 This document contains essential guidelines for working on the Autónomo and SL Spain Documentation project.
 
-## Content Commands (USE THESE!)
+## Content Skills (USE THESE!)
 
-For content work, use the dedicated commands:
+For content work, use the dedicated skills:
 
-- **`/content:write-article`** - Writing or editing articles (includes style guide, examples, checklist)
-- **`/content:translate-article`** - Translating approved Russian content to UA/EN/ES
+- **`/content-write-article`** - Writing or editing articles (includes style guide, examples, checklist)
+- **`/content-translate-article`** - Translating approved Russian content to UA/EN/ES
 
-These commands contain detailed instructions, examples, and checklists. **Always use them** for content tasks.
+These skills contain detailed instructions, examples, and checklists. They are **auto-invocable** - Claude will automatically load them when the conversation context matches (e.g., when you ask to write or translate an article).
 
 ## Project Overview
 
