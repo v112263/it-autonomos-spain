@@ -1,7 +1,6 @@
 ---
 name: tests-prod-test-bitly-links
 description: "Verify bit.ly shortlinks redirect correctly and check for untracked links on the site."
-disable-model-invocation: true
 user-invocable: false
 allowed-tools: Read, Glob, Grep, Bash, WebFetch, Task
 ---
