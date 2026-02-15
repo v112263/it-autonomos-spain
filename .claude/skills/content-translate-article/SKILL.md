@@ -2,6 +2,7 @@
 name: content-translate-article
 description: "Translate approved Russian content to Ukrainian, English, and Spanish. Use when user asks to translate an article or content to other languages, or after an article has been approved in Russian."
 argument-hint: "[article path or topic]"
+allowed-tools: Read, Glob, Grep
 ---
 
 # Translate Article

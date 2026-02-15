@@ -2,6 +2,8 @@
 name: tests-prod-test-prod-site-links
 description: "Check all links and anchors on the PROD website (itautonomos.com) using lychee link checker."
 disable-model-invocation: true
+user-invocable: false
+allowed-tools: Read, Glob, Grep, Bash, Task
 ---
 
 # Check Prod Site Links

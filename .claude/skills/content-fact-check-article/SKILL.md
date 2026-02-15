@@ -2,6 +2,7 @@
 name: content-fact-check-article
 description: "Perform thorough fact-checking of an article against authoritative official sources. Use when user asks to verify facts, check article accuracy, or validate claims before publication."
 argument-hint: "[article path]"
+allowed-tools: Read, Glob, Grep, WebSearch, WebFetch
 ---
 
 # Fact-Check Article

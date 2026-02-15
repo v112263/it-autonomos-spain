@@ -2,6 +2,7 @@
 name: content-finalize-article
 description: "Prepare article for publication by running all pre-publication checks (internal links + fact-check) in parallel. Use when user asks to finalize, prepare for publication, or do final checks on an article."
 argument-hint: "[article path]"
+allowed-tools: Read, Glob, Grep, Task
 ---
 
 # Finalize Article

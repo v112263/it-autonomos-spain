@@ -2,6 +2,7 @@
 name: content-write-article
 description: "Write or edit article content in the author's authentic voice. Use when writing new articles, editing existing content, or when user provides notes/dictated content to turn into an article about being autónomo or SL in Spain."
 argument-hint: "[topic or notes]"
+allowed-tools: Read, Glob, Grep, WebSearch
 ---
 
 # Write Article
@@ -14,7 +15,7 @@ The user will provide topic, notes, or dictated content: $ARGUMENTS
 
 ## CRITICAL: Read Reference Articles First
 
-**MANDATORY FIRST STEP**: Before writing ANY content, read these 5 reference articles to absorb the author's style:
+**MANDATORY FIRST STEP**: Before writing ANY content, read these 6 reference articles to absorb the author's style:
 
 | Type | Path |
 |------|------|

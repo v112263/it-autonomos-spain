@@ -2,6 +2,7 @@
 name: tests-prod-run-prod-tests
 description: "Run all PROD validation checks that require network access to the live site (itautonomos.com)."
 disable-model-invocation: true
+allowed-tools: Read, Glob, Grep, Bash, Task
 ---
 
 # Run Prod Tests

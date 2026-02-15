@@ -2,6 +2,8 @@
 name: tests-local-test-and-update-internal-links
 description: "Verify internal links database integrity and update with new pages/anchors."
 disable-model-invocation: true
+user-invocable: false
+allowed-tools: Read, Glob, Grep, Bash, Task, Edit
 ---
 
 # Check and Update Internal Links
