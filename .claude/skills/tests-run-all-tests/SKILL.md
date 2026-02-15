@@ -1,7 +1,6 @@
 ---
 name: tests-run-all-tests
 description: "Run all automated checks for the project (LOCAL + PROD) and provide a unified summary."
-disable-model-invocation: true
 allowed-tools: Read, Glob, Grep, Bash, Task
 ---
 

@@ -1,7 +1,6 @@
 ---
 name: tests-local-test-and-update-internal-links
 description: "Verify internal links database integrity and update with new pages/anchors."
-disable-model-invocation: true
 user-invocable: false
 allowed-tools: Read, Glob, Grep, Bash, Task, Edit
 ---
@@ -62,7 +61,7 @@ The following ID patterns are **excluded** from anchor tracking (technical IDs, 
 
 | Pattern | Description |
 |---------|-------------|
-| `*-contact-form` | Contact form element IDs |
+| `*-contact-form*` | Contact form element IDs (including language-suffixed variants like `-contact-form-en`) |
 | `hs-script-loader` | HubSpot script loader ID |
 | UUID patterns | Auto-generated IDs like `f47ac10b-58cc-4372-a567-0e02b2c3d479` |
 
@@ -87,7 +86,7 @@ bundle exec jekyll build
    - Convert `path` to HTML file path
    - Extract anchors from HTML using:
      ```bash
-     grep -oE 'id="[^"]+"' HTML_FILE | sed 's/id="//;s/"$//' | grep -v -E '(-contact-form$|^hs-script-loader$|^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$)' | sort -u
+     grep -oE 'id="[^"]+"' HTML_FILE | sed 's/id="//;s/"$//' | grep -v -E '(-contact-form|^hs-script-loader$|^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$)' | sort -u
      ```
    - Compare with `anchors` array for that page
    - Identify NEW anchors (in HTML but not in database)
