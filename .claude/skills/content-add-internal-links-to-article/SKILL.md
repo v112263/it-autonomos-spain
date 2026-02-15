@@ -2,6 +2,7 @@
 name: content-add-internal-links-to-article
 description: "Analyze article and automatically insert relevant internal and external links from both ITA and SLG projects. Use when user asks to add links to an article or improve article cross-linking."
 argument-hint: "[article path]"
+allowed-tools: Read, Glob, Grep, Edit
 ---
 
 # Add Internal Links to Article

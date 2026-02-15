@@ -2,6 +2,7 @@
 name: tests-local-run-local-tests
 description: "Run all LOCAL validation checks that don't require network access to the live site."
 disable-model-invocation: true
+allowed-tools: Read, Glob, Grep, Bash, Task
 ---
 
 # Run Local Tests

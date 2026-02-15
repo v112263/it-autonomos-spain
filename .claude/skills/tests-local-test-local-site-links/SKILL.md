@@ -2,6 +2,8 @@
 name: tests-local-test-local-site-links
 description: "Check all links and anchors on the LOCAL development server using lychee link checker."
 disable-model-invocation: true
+user-invocable: false
+allowed-tools: Read, Glob, Grep, Bash, Task
 ---
 
 # Check Local Site Links
