@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Ukrainian version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "ua",
-  "generated_at": "2026-02-14",
+  "generated_at": "2026-02-24",
   "pages": [
     {
       "path": "/ua/",
@@ -21,6 +21,7 @@
         "waste-tax",
         "xolo",
         "xolo-1",
+        "авіаквитки-готелі-квитки-на-потяг",
         "багатодітні-сімї",
         "банки-і-податкова-звітність",
         "банківський-рахунок-для-аутономо",

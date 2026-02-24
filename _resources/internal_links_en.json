@@ -1,7 +1,7 @@
 {
   "description": "Internal links for English version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "en",
-  "generated_at": "2026-02-14",
+  "generated_at": "2026-02-24",
   "pages": [
     {
       "path": "/",
@@ -51,6 +51,7 @@
         "fee-for-incoming-funds-to-a-bank-account",
         "fee-for-transfer-to-a-bank-account",
         "first-year-discount",
+        "flights-hotels-and-train-tickets",
         "food-lunches",
         "fraud",
         "gestor",

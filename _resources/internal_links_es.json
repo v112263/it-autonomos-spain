@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Spanish version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "es",
-  "generated_at": "2026-02-14",
+  "generated_at": "2026-02-24",
   "pages": [
     {
       "path": "/es/",
@@ -21,6 +21,7 @@
         "base-de-cálculo-para-cotizaciones-sociales-base-de-cotización",
         "beneficio-para-nuevos-autónomos",
         "beneficios-fiscales-personales-y-familiares",
+        "billetes-de-avión-hoteles-y-billetes-de-tren",
         "bloqueos-de-cuenta-y-límites-de-depósitos",
         "búsqueda-de-declaraciones-presentadas",
         "cambio-de-gestor",

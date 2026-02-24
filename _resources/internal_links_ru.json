@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Russian version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "ru",
-  "generated_at": "2026-02-14",
+  "generated_at": "2026-02-24",
   "pages": [
     {
       "path": "/ru/",
@@ -21,6 +21,7 @@
         "waste-tax",
         "xolo",
         "xolo-1",
+        "авиабилеты-отели-билеты-на-поезд",
         "аренда-жилья",
         "банки-и-налоговая-отчетность",
         "банковский-счет-для-аутономо",

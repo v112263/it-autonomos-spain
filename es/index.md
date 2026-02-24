@@ -82,6 +82,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
         - [Tasa de basuras](#tasa-de-basuras)
     - [Otras deducciones](#otras-deducciones)
         - [Equipos, muebles](#equipos-muebles)
+        - [Billetes de avión, hoteles y billetes de tren](#billetes-de-avión-hoteles-y-billetes-de-tren)
         - [Comida, almuerzos](#comida-almuerzos)
         - [Seguro médico](#seguro-médico)
         - [Otros gastos profesionales](#otros-gastos-profesionales)
