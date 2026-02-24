@@ -2,5 +2,5 @@
 
 Monthly [social payments](#social-contributions-seguridad-social) can and should be deducted from taxes.
 
-To deduct this from taxes, you need to provide your gestor or Xolo with a bank statement (a full invoice is not
+To deduct this from taxes, you need to provide your gestor with a bank statement (a full invoice is not
 required).

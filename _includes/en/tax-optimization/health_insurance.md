@@ -5,5 +5,4 @@ under 25 years old).
 
 I do not deduct this because I only use public healthcare in Spain (healthcare here is one of the best in the world).
 
-To deduct this from taxes, you need to provide your gestor or Xolo with a full invoice (with your NIE, full name, and
-autónomo registration address).
+To deduct this, you need to provide your gestor with a full invoice that meets the [requirements](#invoice-requirements).

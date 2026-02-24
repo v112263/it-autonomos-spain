@@ -21,6 +21,6 @@
 - Донати на дослідження в області Covid-19.
 - Покупка нових екологічних транспортних засобів.
 
-Детальніше про регіональні вирахування Валенсії
-тут: [Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/comunitat-valenciana.html){:
-target="_blank"}. Там же можна знайти інформацію про інші регіони. 
+Повний список регіональних вирахувань по всіх автономних спільнотах:
+[Agencia Tributaria: Deducciones autonómicas](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/guia-deducciones-autonomicas.html){:
+target="_blank"}.

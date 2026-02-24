@@ -1,7 +1,7 @@
 ### Lifehacks with invoices
 
 A couple of lifehacks that might come in handy if you need to deduct something from taxes, but the service provider
-does not provide the option to download a full invoice with your NIE and all the necessary details.
+does not provide the option to download a full invoice with all the [necessary details](#invoice-requirements).
 
 **Lifehack #1**
 
