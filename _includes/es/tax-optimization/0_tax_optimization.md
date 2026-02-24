@@ -42,6 +42,7 @@ suscripciones a servicios). Además, existen beneficios fiscales y descuentos es
 ## Otras deducciones
 
 {% include es/tax-optimization/equipment.md %}
+{% include es/tax-optimization/travel_expenses.md %}
 {% include es/tax-optimization/food.md %}
 {% include es/tax-optimization/health_insurance.md %}
 {% include es/tax-optimization/other_expenses.md %}

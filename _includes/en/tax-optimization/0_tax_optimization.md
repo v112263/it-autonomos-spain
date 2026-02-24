@@ -42,6 +42,7 @@ service subscriptions). In addition, there are special tax benefits and discount
 ## Other deductions
 
 {% include en/tax-optimization/equipment.md %}
+{% include en/tax-optimization/travel_expenses.md %}
 {% include en/tax-optimization/food.md %}
 {% include en/tax-optimization/health_insurance.md %}
 {% include en/tax-optimization/other_expenses.md %}

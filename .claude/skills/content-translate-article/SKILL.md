@@ -31,6 +31,13 @@ Always translate FROM Russian. Never cross-translate (e.g., EN→ES).
 
 ## Translation Rules
 
+### STRICT Content Fidelity
+- Translate ONLY what is in the Russian source - do NOT add, remove, or modify information
+- Do NOT "improve", expand, or make content more inclusive/detailed than the original
+- If the Russian says "супруги" (wife), translate as wife - do NOT expand to "wife/husband"
+- Do NOT add examples, clarifications, or alternatives that are not in the source text
+- When in doubt, translate literally rather than creatively
+
 ### Preserve Exactly
 - Markdown structure and formatting
 - All links (internal and external)

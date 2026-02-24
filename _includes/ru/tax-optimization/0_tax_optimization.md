@@ -42,6 +42,7 @@
 ## Прочие вычеты
 
 {% include ru/tax-optimization/equipment.md %}
+{% include ru/tax-optimization/travel_expenses.md %}
 {% include ru/tax-optimization/food.md %}
 {% include ru/tax-optimization/health_insurance.md %}
 {% include ru/tax-optimization/other_expenses.md %}

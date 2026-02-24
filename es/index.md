@@ -18,7 +18,7 @@ permalink: /es/
 
 [EN]({{ site.baseurl }}/) | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | **ES**
 
-<p class="last-updated">Última actualización: 7 de febrero de 2026</p>
+<p class="last-updated">Última actualización: 24 de febrero de 2026</p>
 
 Este documento contiene toda la información necesaria para registrarse y gestionar el autónomo en España. Se actualiza regularmente y
 **es revisado por gestores**.
