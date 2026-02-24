@@ -42,6 +42,7 @@
 ## Інші відрахування
 
 {% include ua/tax-optimization/equipment.md %}
+{% include ua/tax-optimization/travel_expenses.md %}
 {% include ua/tax-optimization/food.md %}
 {% include ua/tax-optimization/health_insurance.md %}
 {% include ua/tax-optimization/other_expenses.md %}
