@@ -5,5 +5,5 @@ account in a Spanish bank), a commission may be charged for this transfer (aroun
 
 This commission can also be deducted from taxes, amounting to several hundred euros a year.
 
-To deduct this from taxes, you need to provide your gestor or Xolo with a bank statement indicating the commission for
+To deduct this from taxes, you need to provide your gestor with a bank statement indicating the commission for
 the transfer.

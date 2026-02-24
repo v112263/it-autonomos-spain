@@ -1,6 +1,6 @@
 ### Trucos con facturas
 
-Algunos trucos que pueden ser útiles si necesita deducir algo de sus impuestos, pero el proveedor del servicio no ofrece la posibilidad de descargar una factura completa donde se indique su NIE con todos los datos necesarios.
+Algunos trucos que pueden ser útiles si necesita deducir algo de sus impuestos, pero el proveedor del servicio no ofrece la posibilidad de descargar una factura completa con todos los [datos necesarios](#requisitos-de-las-facturas).
 
 **Truco #1**
 

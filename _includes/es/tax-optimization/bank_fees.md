@@ -4,4 +4,4 @@ Si recibe dinero mediante una transferencia internacional SWIFT (por ejemplo, un
 
 Esta comisión también se puede deducir de los impuestos, lo que supone varios cientos de euros al año.
 
-Para la deducción fiscal, es necesario proporcionar a su gestor o a Xolo el extracto bancario que indique la comisión por la transferencia. 
+Para la deducción fiscal, es necesario proporcionar a su gestor el extracto bancario que indique la comisión por la transferencia.

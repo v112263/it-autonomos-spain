@@ -21,6 +21,6 @@ Examples of deductions for Valencia:
 - Donations for Covid-19 research.
 - Purchase of new eco-friendly vehicles.
 
-More about Valencia regional deductions
-here: [Agencia Tributaria: Comunitat Valenciana](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/comunitat-valenciana.html){:
-target="_blank"}. Information about other regions can also be found there. 
+Full list of regional deductions for all autonomous communities:
+[Agencia Tributaria: Deducciones autonómicas](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/guia-deducciones-autonomicas.html){:
+target="_blank"}.

@@ -4,5 +4,4 @@ If the contract with the water supplier is not signed by you, you will not be ab
 experience, the procedure for transferring the contract is quite simple (just contact support, and they will help you do
 it).
 
-To deduct this from taxes, you need to provide your gestor or Xolo with a full invoice (with your NIE, full name, and
-autónomo registration address).
+To deduct this, you need to provide your gestor with a full invoice that meets the [requirements](#invoice-requirements).
