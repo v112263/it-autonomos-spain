@@ -11,8 +11,7 @@ working hours.
 I do not deduct any of this because I do not see a way to adequately justify it to the tax authorities. If you have
 experience with such deductions, please share.
 
-To deduct this from taxes, you need to provide your gestor or Xolo with a full invoice (with your NIE, full name, and
-autónomo registration address).
+To claim the deduction, you need to provide your gestor with a full invoice that meets the [requirements](#invoice-requirements).
 
 You can read more about it
 here [Business lunch with clients](https://www.xolo.io/es-en/faq/xolo-spain/category/all-you-can-deduct-as-a-freelancer-in-spain/article/-business-lunch-with-clients){:
