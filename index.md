@@ -77,6 +77,7 @@ This document contains all the necessary information for registering and managin
         - [Waste tax](#waste-tax)
     - [Other deductions](#other-deductions)
         - [Equipment, furniture](#equipment-furniture)
+        - [Flights, hotels, and train tickets](#flights-hotels-and-train-tickets)
         - [Food, lunches](#food-lunches)
         - [Medical insurance](#medical-insurance)
         - [Other professional expenses](#other-professional-expenses)
