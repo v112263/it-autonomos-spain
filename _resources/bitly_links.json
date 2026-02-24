@@ -422,6 +422,12 @@
       "expected_url": "https://itautonomos.com/ru/",
       "expected_anchor": "личные-и-семейные-налоговые-льготы",
       "description": "Личные и семейные налоговые льготы - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/invoice-requirements-autonomo",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "требования-к-фактурам",
+      "description": "Требования к фактурам - Russian"
     }
   ]
 }
