@@ -45,6 +45,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+include:
+  - _files
+
 exclude:
   - README.md
   - CLAUDE.md

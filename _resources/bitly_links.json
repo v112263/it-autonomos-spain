@@ -428,6 +428,21 @@
       "expected_url": "https://itautonomos.com/ru/",
       "expected_anchor": "требования-к-фактурам",
       "description": "Требования к фактурам - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/tax-analysis-report-ru",
+      "expected_url": "https://itautonomos.com/_files/tax-analysis-report-example-ru.pdf",
+      "description": "Пример отчета налогового анализа - Russian"
+    },
+    {
+      "bitly": "https://bit.ly/tax-analysis-report-en",
+      "expected_url": "https://itautonomos.com/_files/tax-analysis-report-example-en.pdf",
+      "description": "Tax analysis report example - English"
+    },
+    {
+      "bitly": "https://bit.ly/tax-analysis-report-ua",
+      "expected_url": "https://itautonomos.com/_files/tax-analysis-report-example-uk.pdf",
+      "description": "Приклад звіту податкового аналізу - Ukrainian"
     }
   ]
 }
