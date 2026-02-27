@@ -18,7 +18,7 @@ permalink: /es/
 
 [EN]({{ site.baseurl }}/) | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | **ES**
 
-<p class="last-updated">Última actualización: 24 de febrero de 2026</p>
+<p class="last-updated">Última actualización: 27 de febrero de 2026</p>
 
 Este documento contiene toda la información necesaria para registrarse y gestionar el autónomo en España. Se actualiza regularmente y
 **es revisado por gestores**.
@@ -41,6 +41,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 - **[Especialistas de confianza](#especialistas-de-confianza)**
     - [Gestores](#gestores-de-confianza)
     - [Abogados de inmigración](#abogados-de-inmigración-de-confianza)
+    - [Analista fiscal](#analista-fiscal)
 - **[Registro de Autónomo (paso a paso)](#registro-de-autónomo-paso-a-paso)**
 - [Chat IT Autonomos [Spain]](#chat-it-autonomos-spain)
 - [Pago de impuestos](#pago-de-impuestos)

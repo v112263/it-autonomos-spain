@@ -1,7 +1,7 @@
 {
   "description": "Internal links for English version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "en",
-  "generated_at": "2026-02-24",
+  "generated_at": "2026-02-27",
   "pages": [
     {
       "path": "/",
@@ -13,6 +13,7 @@
         "accounting-and-mandatory-payments",
         "additional-recommended",
         "after-registration-mandatory",
+        "alexey---tax-analyst",
         "allowance-for-children",
         "allowance-for-parents",
         "amazon-business",
@@ -140,6 +141,7 @@
         "tatiana---gestor",
         "tatiana-b",
         "tatiana-b---gestor",
+        "tax-analyst",
         "tax-audits",
         "tax-deduction",
         "tax-deductions-and-benefits",

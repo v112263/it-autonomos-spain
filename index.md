@@ -13,7 +13,7 @@ title: "Autónomo - Complete Guide"
 
 **EN** | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | [ES]({{ site.baseurl }}/es/)
 
-<p class="last-updated">Last updated: February 24, 2026</p>
+<p class="last-updated">Last updated: February 27, 2026</p>
 
 This document contains all the necessary information for registering and managing autónomo in Spain. It is regularly updated and
 **reviewed by gestors**.
@@ -36,6 +36,7 @@ This document contains all the necessary information for registering and managin
 - **[Reliable specialists](#reliable-specialists)**
     - [Gestors](#reliable-gestors)
     - [Immigration lawyers](#reliable-immigration-lawyers)
+    - [Tax analyst](#tax-analyst)
 - **[Autónomo registration (step by step)](#autónomo-registration-step-by-step)**
 - [IT Autonomos [Spain] chat](#it-autonomos-spain-chat)
 - [Tax payment](#tax-payment)
