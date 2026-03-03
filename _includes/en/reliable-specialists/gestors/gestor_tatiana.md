@@ -16,7 +16,7 @@ Beyond accounting, the company handles legal matters: advising on local laws, re
 
 The gestor personally answers calls, not a manager. Communication is available via WhatsApp, Telegram, email, and phone - questions are answered promptly. Additional services include: obtaining citas at any government institution through professional access (usually within a week), assistance with bank accounts, license processing, notary accompaniment, sworn translations through partners, and registered office address.
 
-- **Languages:** English, Spanish, Russian, Italian, Catalan
+- **Languages:** English, Spanish, Russian, Ukrainian, Italian, Catalan
 - **Office:** Barcelona
 - **Service regions:** All provinces remotely, including País Vasco (except Ceuta, Melilla, Canarias)
 - **Experience:** Since 2011 in finance, in accounting since 2021
