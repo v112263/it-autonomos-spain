@@ -16,7 +16,7 @@ Además de la contabilidad, la empresa resuelve cuestiones legales: asesora sobr
 
 Las llamadas las atiende el propio gestor, no un gestor administrativo. La comunicación es a través de WhatsApp, Telegram, email y teléfono - las preguntas se responden con rapidez. Entre los servicios adicionales: obtención de citas en cualquier organismo público a través de acceso profesional (normalmente en una semana), ayuda con cuentas bancarias, tramitación de licencias, acompañamiento al notario, organización de traducciones juradas a través de colaboradores, registro de domicilio fiscal.
 
-- **Idiomas:** español, inglés, ruso, italiano, catalán
+- **Idiomas:** español, inglés, ruso, ucraniano, italiano, catalán
 - **Oficina:** Barcelona
 - **Provincias atendidas:** Todas las provincias de forma remota, incluyendo País Vasco (excepto Ceuta, Melilla, Canarias)
 - **Experiencia:** Desde 2011 en el ámbito financiero, en contabilidad desde 2021
