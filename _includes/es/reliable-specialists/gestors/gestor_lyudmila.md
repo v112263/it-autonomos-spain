@@ -9,7 +9,7 @@
 
 {% include common/contact-forms/gestors/gestor_lyudmila_form_es.html %}
 
-Lyudmila es socia directora de una empresa que ofrece servicios de contabilidad, fiscalidad, consultoría, migración y
+Lyudmila es socia directora de una empresa que ofrece servicios de contabilidad, fiscalidad, consultoría y
 administración. Los servicios incluyen soporte para Autónomo/SL, abarcando desde el registro del negocio hasta la gestión
 de documentación primaria y recursos humanos. Para la empresa es muy importante proporcionar respuestas rápidas y claras
 a los clientes y mantener un contacto regular.
@@ -22,10 +22,6 @@ contables y fiscales, y a encontrar soluciones empresariales óptimas en nuevas 
 
 Además de su oficina en España, la empresa cuenta con una oficina en Ucrania que ayuda a los clientes a obtener
 certificados, presentar declaraciones fiscales, documentos CFC e interacciones con las autoridades gubernamentales.
-
-Una ventaja adicional es trabajar en equipo con [la experta en inmigración Katerina](#katerina---experta-en-inmigración).
-Esto significa que puede recibir un apoyo integral: resolver simultáneamente cuestiones fiscales y
-cuestiones de inmigración (tramitación de permiso de residencia, renovación de residencia, transición de un tipo de permiso de residencia a otro, solicitud de ciudadanía).
 
 **Consulta gratuita de 30 minutos antes del registro como autónomo.**
 
@@ -40,7 +36,6 @@ cuestiones de inmigración (tramitación de permiso de residencia, renovación d
     - Gestión de autónomo (80 €/mes)
     - Consulta individual 60 min (150 €)
     - Gestión de colaboradores o empleados (70 €/mes)
-    - Servicios de inmigración: Digital Nomad, Cuenta propia, solicitud de ciudadanía, Beckham law y otros tipos de permisos de residencia
     - Otros servicios: registro de SL (1500 € llave en mano), gestión de SL (desde 250 €/mes), tramitación de firma digital (50 €), apertura de cuenta bancaria (80 €), y mucho más
 
 Todos los precios son sin IVA.

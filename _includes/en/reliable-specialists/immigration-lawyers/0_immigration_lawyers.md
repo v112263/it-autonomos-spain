@@ -11,10 +11,8 @@ Why they can be trusted:
 - A clear checklist and document list tailored to your specific case.
 
 **Specialists in this section:**
-- [Katerina - Immigration expert](#katerina---immigration-expert)
 - [Irina - Immigration expert](#irina---immigration-expert)
 
 {% include en/reliable-specialists/help_notice.md %}
 
-{% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_katerina.md %}
 {% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
