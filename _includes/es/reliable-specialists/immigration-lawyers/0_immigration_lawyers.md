@@ -12,9 +12,7 @@ Por qué puedes confiar en ellos:
 
 **Especialistas en esta sección:**
 - [Irina - Experta en inmigración](#irina---experta-en-inmigración)
-- [Katerina - Experta en inmigración](#katerina---experta-en-inmigración)
 
 {% include es/reliable-specialists/help_notice.md %}
 
 {% include es/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
-{% include es/reliable-specialists/immigration-lawyers/immigration_lawyer_katerina.md %}
