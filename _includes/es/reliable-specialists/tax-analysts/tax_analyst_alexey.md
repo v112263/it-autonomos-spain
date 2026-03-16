@@ -1,8 +1,8 @@
 ## Alexey - Analista fiscal
 
-> **Descuento del 15%** en todos los servicios con el código promocional "IT Autonomos".
+> **Descuento del 10%** en todos los servicios con el código promocional "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactTaxAnalystAlexeyEs(); return false;">Escribe a Alexey</a>
+<a href="#" class="btn-contact-specialist" onclick="contactTaxAnalystAlexeyEs(); return false;">Solicitar cálculo de impuestos</a>
 
 {% include common/contact-forms/tax-analysts/tax_analyst_alexey_form_es.html %}
 
@@ -14,7 +14,7 @@ Por su especialidad principal, Alexey es programador y trabaja en el campo de la
 
 Alexey también revisa declaraciones ya presentadas. Un ejemplo real: tras la declaración anual, al cliente le calcularon un pago adicional de 1.500 euros. Revisó el cálculo y encontró una deducción que el gestor no había aplicado. Tras presentar una declaración complementaria, Hacienda devolvió al cliente 1.000 euros.
 
-**Descuento del 15% en todos los servicios para clientes de IT Autonomos.**
+**Descuento del 10% en todos los servicios para clientes de IT Autonomos.**
 
 [Ver un ejemplo de informe (PDF)](https://bit.ly/tax-analysis-report-en){:target="_blank"}
 
@@ -22,8 +22,8 @@ Alexey también revisa declaraciones ya presentadas. Un ejemplo real: tras la de
 - **Provincias atendidas:** el cálculo se realiza para cualquier provincia de España
 - **Experiencia:** en analítica desde 2011, cálculos fiscales en España desde 2023
 - **Servicios:**
-    - Análisis fiscal para autónomo con informe (100 €)
-    - Análisis fiscal para autónomo + colaborador u otras variantes de cálculo (150 €)
+    - Análisis fiscal para autónomo con informe (150 €)
+    - Análisis fiscal para autónomo + colaborador u otras variantes de cálculo (250 €)
     - Análisis comparativo de autónomo (+ colaborador) vs SL (precio a convenir según la situación)
     - Consulta individual con revisión del informe (incluida en el precio del informe)
     - Recálculo en caso de cambio de situación durante el año (precio según la cantidad de cambios)
