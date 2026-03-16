@@ -1,8 +1,8 @@
 ## Alexey - Tax Analyst
 
-> **15% discount** on all services with the promo code "IT Autonomos".
+> **10% discount** on all services with the promo code "IT Autonomos".
 
-<a href="#" class="btn-contact-specialist" onclick="contactTaxAnalystAlexeyEn(); return false;">Message Alexey</a>
+<a href="#" class="btn-contact-specialist" onclick="contactTaxAnalystAlexeyEn(); return false;">Order tax calculation</a>
 
 {% include common/contact-forms/tax-analysts/tax_analyst_alexey_form_en.html %}
 
@@ -14,7 +14,7 @@ By primary profession, Alexey is a programmer who has been working in analytics 
 
 Alexey also reviews already filed tax returns. A real example: a client's annual tax return resulted in an additional payment of 1,500 euros. He reviewed the calculation and found a deduction that the gestor had not applied. After filing a corrective return, the tax authority refunded the client 1,000 euros.
 
-**15% discount on all services for IT Autonomos clients.**
+**10% discount on all services for IT Autonomos clients.**
 
 [View a report example (PDF)](https://bit.ly/tax-analysis-report-en){:target="_blank"}
 
@@ -22,8 +22,8 @@ Alexey also reviews already filed tax returns. A real example: a client's annual
 - **Service regions:** calculation is done for any province of Spain
 - **Experience:** in analytics since 2011, tax calculations in Spain since 2023
 - **Services:**
-    - Tax analysis for autonomo with report (100 €)
-    - Tax analysis for autonomo + colaborador or other calculation variants (150 €)
+    - Tax analysis for autonomo with report (150 €)
+    - Tax analysis for autonomo + colaborador or other calculation variants (250 €)
     - Comparative analysis of autonomo (+ colaborador) vs SL (price agreed separately based on the situation)
     - Individual consultation with report review (included in the report price)
     - Recalculation if situation changes during the year (price depends on the number of changes)

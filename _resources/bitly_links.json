@@ -112,6 +112,12 @@
       "description": "Consulta V2554-23 - D.G. Tributos"
     },
     {
+      "bitly": "https://bit.ly/reliable-specialists",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "надежные-специалисты",
+      "description": "Надежные специалисты - Russian"
+    },
+    {
       "bitly": "https://bit.ly/reliable-gestors-ru",
       "expected_url": "https://itautonomos.com/ru/",
       "expected_anchor": "надежные-хесторы",
