@@ -2,6 +2,13 @@
 
 > **10% discount** on all services with the promo code "IT Autonomos".
 
+**What Alexey helps with:** precise mathematical calculation of tax burden for years ahead, financial comparison of profitability (which is cheaper - autónomo, colaborador, or SL), audit and review of already filed tax returns.
+
+**What Alexey does NOT do:**
+- Does not register businesses or handle regular accounting - you need a [gestor](#reliable-gestors).
+- Does not handle personal taxes: tax residency, gift taxes, foreign asset declarations, and income from property sales - you need a [gestor](#reliable-gestors).
+- Does not process residence permits or visas - you need an [immigration lawyer](#reliable-immigration-lawyers).
+
 <a href="#" class="btn-contact-specialist" onclick="contactTaxAnalystAlexeyEn(); return false;">Order tax calculation</a>
 
 {% include common/contact-forms/tax-analysts/tax_analyst_alexey_form_en.html %}

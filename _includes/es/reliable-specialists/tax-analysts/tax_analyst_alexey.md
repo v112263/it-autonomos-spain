@@ -2,6 +2,13 @@
 
 > **Descuento del 10%** en todos los servicios con el código promocional "IT Autonomos".
 
+**Con qué ayuda Alexey:** cálculo matemático preciso de la carga fiscal para años futuros, comparación financiera de rentabilidad (qué es más barato - autónomo, colaborador o SL), auditoría y revisión de declaraciones ya presentadas.
+
+**Lo que Alexey NO hace:**
+- No registra negocios ni lleva contabilidad regular - necesitas un [gestor](#gestores-de-confianza).
+- No se ocupa de impuestos de personas físicas: residencia fiscal, impuestos sobre donaciones, declaración de activos en el extranjero e ingresos por venta de bienes - necesitas un [gestor](#gestores-de-confianza).
+- No tramita permisos de residencia ni visados - necesitas un [abogado de inmigración](#abogados-de-inmigración-de-confianza).
+
 <a href="#" class="btn-contact-specialist" onclick="contactTaxAnalystAlexeyEs(); return false;">Solicitar cálculo de impuestos</a>
 
 {% include common/contact-forms/tax-analysts/tax_analyst_alexey_form_es.html %}
