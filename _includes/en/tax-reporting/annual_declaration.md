@@ -5,7 +5,8 @@ to calculate and pay income tax ([IRPF](#irpf-income-tax)), taking into account 
 rentals, investments, and other sources. The declaration can result in either an additional tax payment or a refund (if
 you
 overpaid taxes during the year). The submission period usually runs from early April to the end of June. For example,
-the declaration for 2024 must be submitted from early April 2025 to the end of June 2025.
+the declaration for 2025 must be submitted from April 8, 2026 to June 30, 2026 (if automatic bank account debit is
+selected - until June 25, 2026).
 
 **If you need help with submitting your Renta or don't want to do it through your gestor, you can contact
 [gestors from the list of reliable gestors](#reliable-gestors)**.
@@ -22,9 +23,8 @@ certain criteria. In some cases, it's mandatory to submit it even if you don't w
 
 I'll provide a general example below. However, the exact information should be checked on the tax authority's website
 for the specific year
-for which the declaration is being submitted. For 2024, you can check
-here - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html),
-and for 2025, it should be published later.
+for which the declaration is being submitted. For 2025, you can check
+here - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html){:target="_blank"}.
 
 You must submit a Renta declaration if during the reporting year you had:
 
@@ -64,9 +64,9 @@ preliminary data collection in preparation for submitting the declaration.
 
 I've provided an approximate list of questions with important nuances below. It may differ among different gestors, but
 in general, it will be
-very similar. When answering the questions, provide information for the reporting year. For example, if in 2025 you're
+very similar. When answering the questions, provide information for the reporting year. For example, if in 2026 you're
 submitting
-a Renta for 2024, provide data that was current from January 1, 2024, to December 31, 2024.
+a Renta for 2025, provide data that was current from January 1, 2025, to December 31, 2025.
 Some factors can reduce the tax amount (for example, [having children, submitting a joint declaration](#personal-and-family-tax-benefits)).
 
 **Questions:**
@@ -155,21 +155,25 @@ maximize your tax savings.
 ### Types of Modelo submitted with Renta
 
 Initially, Renta refers to Modelo 100 (IRPF tax declaration). In addition, gestors submit other Modelo forms depending
-on your answers to the questions.
+on your answers to the questions. Note that some of them have their own submission deadlines, separate from Renta.
 
 **Modelo 720** - declaration of foreign assets. This is an informational declaration submitted by tax residents of
-Spain if they own foreign assets worth more than €50,000 (bank accounts, real estate, securities,
-etc.). This declaration does not involve paying tax, but the tax authorities receive data about your foreign assets.
+Spain if they own foreign assets worth more than €50,000 in one of three categories: bank accounts, securities/insurance,
+or real estate (the €50,000 threshold is calculated separately for each category, not as a total). This declaration does
+not involve paying tax, but the tax authorities receive data about your foreign assets.
 After the first submission of Modelo 720, it only needs to be updated if the amounts increase by more than €20,000 or if
-new assets appear.
+new assets appear. Submitted separately from Renta - from January 1 to March 31.
 
-**Modelo 721** - declaration of crypto assets abroad. A report introduced in 2024 for residents who own
+**Modelo 721** - declaration of crypto assets abroad. A report for residents who own
 cryptocurrencies on foreign exchanges. Similar to Modelo 720, but only concerns cryptocurrencies. Mandatory to submit if
-crypto assets on foreign platforms exceed €50,000 at the end of the year.
+crypto assets on foreign platforms exceed €50,000 at the end of the year. Submitted separately from Renta - from
+January 1 to March 31.
 
-**Modelo 714** - wealth tax declaration (Impuesto sobre el Patrimonio). Must be submitted if the net
+**Modelo 714** - wealth tax declaration (Impuesto sobre el Patrimonio). By default, must be submitted if the net
 value of the taxpayer's property exceeds €700,000 (or €2,000,000 in gross assets, even if the tax payable
-is zero). Includes real estate, bank accounts, investments, cars, jewelry, and other assets.
+is zero). This threshold depends on the autonomous community - for example, in the Valencian Community, starting in
+2025, it has been raised to €1,000,000. Includes real estate, bank accounts, investments, cars, jewelry, and other
+assets.
 
 Other Modelo forms may also be submitted.
 

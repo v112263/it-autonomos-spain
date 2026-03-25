@@ -6,7 +6,7 @@ meaning the rate increases with higher income levels.
 IRPF is divided into two main categories:
 
 - Tax on autónomo income (from 19% to 47%) - applies to income from professional or entrepreneurial activities.
-- Capital gains tax (from 19% to 28%) - applies to income from asset sales or investments.
+- Capital gains tax (from 19% to 30%) - applies to income from asset sales or investments.
 
 The tax is calculated based on net profit (after deducting all permitted expenses).
 

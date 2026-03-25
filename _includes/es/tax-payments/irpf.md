@@ -5,7 +5,7 @@ El IRPF (Impuesto sobre la Renta de las Personas Físicas) es un impuesto sobre 
 El IRPF se divide en dos categorías principales:
 
 - Impuesto sobre los ingresos de autónomos (del 19% al 47%) - se aplica a los ingresos obtenidos de actividades profesionales o empresariales.
-- Impuesto sobre las ganancias de capital (del 19% al 28%) - se aplica a los ingresos procedentes de la venta de activos o inversiones.
+- Impuesto sobre las ganancias de capital (del 19% al 30%) - se aplica a los ingresos procedentes de la venta de activos o inversiones.
 
 El impuesto se calcula sobre el beneficio neto, es decir, después de deducir todos los gastos permitidos.
 
@@ -37,4 +37,4 @@ El tipo impositivo progresivo significa que a medida que aumentan sus ingresos, 
 2. Para los autónomos, el impuesto se carga automáticamente de la cuenta bancaria cada trimestre el día 20 de abril, julio, octubre (en enero el día de cargo es diferente) en un 20% de los ingresos. Para que el cargo se realice automáticamente mediante domiciliación bancaria, es importante presentar las [declaraciones trimestrales](#declaraciones-trimestrales) a tiempo. Si el día 20 cae en fin de semana, el cargo se realizará más tarde, el próximo día hábil. El calendario exacto está disponible en el [sitio web de la Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/Bibl_virtual/folletos/calendario_contribuyente.shtml){:target="_blank"}.
 3. Existe la posibilidad de pagar el impuesto manualmente (e incluso más del 20%), pero esto puede ir acompañado de complicaciones adicionales, por lo que recomiendo utilizar el esquema estándar.
 4. Si en el momento del cargo del impuesto no hay suficiente dinero, se le puede imponer una multa.
-5. Tras la presentación de la [declaración anual](#declaración-anual-renta), se realiza un recálculo: en caso de pago insuficiente del IRPF, tendrá que pagar la diferencia, y en caso de pago excesivo, se le devolverá el exceso. 
+5. Tras la presentación de la [declaración anual](#declaración-anual-renta), se realiza un recálculo: en caso de pago insuficiente del IRPF, tendrá que pagar la diferencia, y en caso de pago excesivo, se le devolverá el exceso.

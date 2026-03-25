@@ -2,8 +2,8 @@
 
 Regional deductions are tax deductions established by the autonomous communities of Spain and may vary depending on the
 region. These can be used by taxpayers residing in the relevant region if their annual income does not exceed the
-established limits. For example, in Valencia, for many deductions, the annual income should not exceed 30,000 euros for
-individual declarations and 50,000 euros for joint declarations. These limits and types of deductions may vary by
+established limits. For example, in Valencia, starting from 2025, for most deductions, the annual income should not exceed 60,000 euros for
+individual declarations and 78,000 euros for joint declarations. These limits and types of deductions may vary by
 region.
 
 Regional deductions can only be applied when submitting the [annual declaration (Renta)](#annual-declaration-renta).
@@ -18,9 +18,9 @@ Examples of deductions for Valencia:
 - Investments in shares of new companies.
 - Expenses for educational materials.
 - Home improvement works.
-- Donations for Covid-19 research.
 - Purchase of new eco-friendly vehicles.
+- Expenses for gyms and physical activity.
 
 Full list of regional deductions for all autonomous communities:
-[Agencia Tributaria: Deducciones autonómicas](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024-deducciones-autonomicas/guia-deducciones-autonomicas.html){:
+[Agencia Tributaria: Deducciones autonómicas](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025-deducciones-autonomicas/guia-deducciones-autonomicas.html){:
 target="_blank"}.
