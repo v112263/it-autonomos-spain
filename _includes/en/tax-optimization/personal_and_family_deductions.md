@@ -2,7 +2,7 @@
 
 When filing the [annual tax return (Renta)](#annual-declaration-renta), you can reduce your tax through personal and family circumstances - having children, elderly parents, disability. There are state (basic) allowance amounts, but some autonomous communities set their own (usually higher) allowances for the regional part of IRPF.
 
-All amounts in this section are valid for filing the 2024 tax return. When filing for other years, amounts may differ - check current information on the [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html){:target="_blank"} website.
+All amounts in this section are valid for filing the 2025 tax return. When filing for other years, amounts may differ - check current information on the [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html){:target="_blank"} website.
 
 Family benefits are divided into two categories:
 - **Personal and family allowance** - reduces the tax base

@@ -1,6 +1,6 @@
 ## Declaración anual (Renta)
 
-La declaración anual Renta (Modelo 100) en España es una declaración fiscal de los ingresos de las personas físicas durante el año. Se presenta para calcular y pagar el impuesto sobre la renta ([IRPF](#irpf-impuesto-sobre-la-renta-de-las-personas-físicas)), teniendo en cuenta salarios, ingresos de actividades, alquileres, inversiones y otras fuentes. La declaración puede dar lugar tanto a un pago adicional de impuestos como a una devolución (si durante el año ha pagado impuestos en exceso). El período de presentación suele durar desde principios de abril hasta finales de junio. Por ejemplo, la declaración del año 2024 debe presentarse desde principios de abril de 2025 hasta finales de junio de 2025.
+La declaración anual Renta (Modelo 100) en España es una declaración fiscal de los ingresos de las personas físicas durante el año. Se presenta para calcular y pagar el impuesto sobre la renta ([IRPF](#irpf-impuesto-sobre-la-renta-de-las-personas-físicas)), teniendo en cuenta salarios, ingresos de actividades, alquileres, inversiones y otras fuentes. La declaración puede dar lugar tanto a un pago adicional de impuestos como a una devolución (si durante el año ha pagado impuestos en exceso). El período de presentación suele durar desde principios de abril hasta finales de junio. Por ejemplo, la declaración del año 2025 debe presentarse desde el 8 de abril de 2026 hasta el 30 de junio de 2026 (si se elige la domiciliación bancaria - hasta el 25 de junio de 2026).
 
 **Si necesita ayuda con la presentación de la Renta o no quiere hacerlo a través de su gestor, puede contactar con [gestores de la lista de gestores fiables](#gestores-de-confianza)**.
 
@@ -10,7 +10,7 @@ Para maximizar el ahorro de impuestos, le recomiendo encarecidamente que lea tod
 
 La Renta deben presentarla **no solo los autónomos**. Deben presentarla todas las personas físicas que cumplan ciertos criterios. En algunos casos es obligatorio presentarla, incluso si no está trabajando.
 
-Abajo daré un ejemplo general. Pero la información exacta debe verificarse en el sitio web de Hacienda para el año específico para el que se presenta la declaración. Para 2024 puede consultarse aquí - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html), y para 2025 deberían publicarlo más tarde.
+Abajo daré un ejemplo general. Pero la información exacta debe verificarse en el sitio web de Hacienda para el año específico para el que se presenta la declaración. Para 2025 puede consultarse aquí - [Delimitación de la obligación de declarar en el IRPF](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c01-campana-declaracion-renta/quienes-estan-obligados-presentar-declaracion-irpf/delimitacion-obligacion-declarar-irpf.html){:target="_blank"}.
 
 Es obligatorio presentar la Renta si en el año fiscal tuvo:
 
@@ -35,7 +35,7 @@ Si presenta la renta a través de su gestor, con quien ya lleva la contabilidad,
 
 También le enviarán un cuestionario que debe completar cuidadosamente. Debe responder a todas las preguntas con la máxima honestidad, sin olvidar nada. Si tiene dudas, no dude en consultar con su gestor; en esta etapa se trata de una recopilación preliminar de datos para preparar la presentación de la declaración.
 
-A continuación presento una lista aproximada de preguntas con matices importantes. Puede variar entre diferentes gestores, pero en general será muy similar. Al responder a las preguntas, proporcione información del año fiscal. Por ejemplo, si en 2025 presenta la renta de 2024, proporcione datos que fueron relevantes desde el 1 de enero de 2024 hasta el 31 de diciembre de 2024. Algunos factores pueden reducir el importe del impuesto (por ejemplo, [tener hijos, presentar una declaración conjunta](#beneficios-fiscales-personales-y-familiares)).
+A continuación presento una lista aproximada de preguntas con matices importantes. Puede variar entre diferentes gestores, pero en general será muy similar. Al responder a las preguntas, proporcione información del año fiscal. Por ejemplo, si en 2026 presenta la renta de 2025, proporcione datos que fueron relevantes desde el 1 de enero de 2025 hasta el 31 de diciembre de 2025. Algunos factores pueden reducir el importe del impuesto (por ejemplo, [tener hijos, presentar una declaración conjunta](#beneficios-fiscales-personales-y-familiares)).
 
 **Preguntas:**
 
@@ -81,13 +81,13 @@ Este es un tema más complejo, y es poco probable que alguno de los gestores pue
 
 ### Tipos de Modelos presentados con la Renta
 
-Originalmente, por Renta se entiende el Modelo 100 (declaración del impuesto IRPF). Además, los gestores presentan otros Modelos dependiendo de sus respuestas a las preguntas.
+Originalmente, por Renta se entiende el Modelo 100 (declaración del impuesto IRPF). Además, los gestores presentan otros Modelos dependiendo de sus respuestas a las preguntas. Ten en cuenta que algunos de ellos tienen sus propios plazos de presentación, separados de la Renta.
 
-**Modelo 720** - declaración de activos extranjeros. Es una declaración informativa que presentan los residentes fiscales en España si poseen activos extranjeros por valor de más de 50.000 € (cuentas bancarias, inmuebles, valores, etc.). Esta declaración no implica el pago de impuestos, pero Hacienda recibe datos sobre sus activos extranjeros. Después de la primera presentación del Modelo 720, solo hay que actualizarlo en caso de aumento de las cantidades en más de 20.000 € o de aparición de nuevos activos.
+**Modelo 720** - declaración de activos extranjeros. Es una declaración informativa que presentan los residentes fiscales en España si poseen activos extranjeros por valor de más de 50.000 € en una de las tres categorías: cuentas bancarias, valores/seguros, o inmuebles (el umbral de 50.000 € se calcula por separado para cada categoría, no como suma total). Esta declaración no implica el pago de impuestos, pero Hacienda recibe datos sobre sus activos extranjeros. Después de la primera presentación del Modelo 720, solo hay que actualizarlo en caso de aumento de las cantidades en más de 20.000 € o de aparición de nuevos activos. Se presenta por separado de la Renta - del 1 de enero al 31 de marzo.
 
-**Modelo 721** - declaración de criptoactivos en el extranjero. Informe introducido en 2024 para residentes que poseen criptomonedas en exchanges extranjeros. Similar al Modelo 720, pero se refiere solo a criptomonedas. Es obligatorio presentarlo si los criptoactivos en plataformas extranjeras superan los 50.000 € a final de año.
+**Modelo 721** - declaración de criptoactivos en el extranjero. Informe para residentes que poseen criptomonedas en exchanges extranjeros. Similar al Modelo 720, pero se refiere solo a criptomonedas. Es obligatorio presentarlo si los criptoactivos en plataformas extranjeras superan los 50.000 € a final de año. Se presenta por separado de la Renta - del 1 de enero al 31 de marzo.
 
-**Modelo 714** - declaración del Impuesto sobre el Patrimonio. Debe presentarse si el valor neto del patrimonio del contribuyente supera los 700.000 € (o 2.000.000 € en activos brutos, incluso si el impuesto a pagar es cero). Incluye inmuebles, cuentas bancarias, inversiones, automóviles, joyas y otros activos.
+**Modelo 714** - declaración del Impuesto sobre el Patrimonio. Por defecto, debe presentarse si el valor neto del patrimonio del contribuyente supera los 700.000 € (o 2.000.000 € en activos brutos, incluso si el impuesto a pagar es cero). Este umbral depende de la comunidad autónoma - por ejemplo, en la Comunidad Valenciana, desde 2025 se ha elevado a 1.000.000 €. Incluye inmuebles, cuentas bancarias, inversiones, automóviles, joyas y otros activos.
 
 También pueden presentarse otros Modelos.
 

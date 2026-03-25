@@ -2,7 +2,7 @@
 
 Al presentar la [declaración anual (Renta)](#declaración-anual-renta), puedes reducir tu impuesto gracias a circunstancias personales y familiares - tener hijos, padres mayores, discapacidad. Existen importes de mínimos exentos estatales (básicos), pero algunas comunidades autónomas establecen sus propios mínimos (generalmente más altos) para la parte autonómica del IRPF.
 
-Todos los importes de esta sección son válidos para la declaración del año 2024. Al declarar otros años, los importes pueden diferir - consulta la información actualizada en la web de [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html){:target="_blank"}.
+Todos los importes de esta sección son válidos para la declaración del año 2025. Al declarar otros años, los importes pueden diferir - consulta la información actualizada en la web de [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html){:target="_blank"}.
 
 Los beneficios familiares se dividen en dos categorías:
 - **Mínimo exento** - reduce la base imponible
