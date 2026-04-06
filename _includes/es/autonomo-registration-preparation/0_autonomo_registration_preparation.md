@@ -8,6 +8,8 @@ u otro tipo de residencia.
 Para registrarse y gestionar su actividad como autónomo, puede elegir una de las opciones populares: [gestor](#gestores-de-confianza) o
 el servicio [Xolo](https://bit.ly/xolosignup){:target="_blank"}.
 
+Si aún no has decidido la forma de actividad (autónomo, autónomo + colaborador o SL), te recomiendo [calcular la carga fiscal](#cuántos-impuestos-habrá-que-pagar-en-un-año) para cada opción con tu nivel de ingresos.
+
 Personalmente, tengo una amplia experiencia utilizando ambas opciones - tanto los servicios de gestor como los servicios de Xolo. Puedo decir con confianza
 que ambas opciones son buenas, y puede elegir la que más le guste.
 

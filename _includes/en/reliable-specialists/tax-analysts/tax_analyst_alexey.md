@@ -21,6 +21,8 @@ By primary profession, Alexey is a programmer who has been working in analytics 
 
 Alexey also reviews already filed tax returns. A real example: a client's annual tax return resulted in an additional payment of 1,500 euros. He reviewed the calculation and found a deduction that the gestor had not applied. After filing a corrective return, the tax authority refunded the client 1,000 euros.
 
+I personally ordered a detailed calculation from Alexey when I needed to see the difference between autónomo and other options - so I can recommend him with full confidence.
+
 **10% discount on all services for IT Autonomos clients.**
 
 [View a report example (PDF)](https://bit.ly/tax-analysis-report-en){:target="_blank"}

@@ -38,3 +38,5 @@ El tipo impositivo progresivo significa que a medida que aumentan sus ingresos, 
 3. Existe la posibilidad de pagar el impuesto manualmente (e incluso más del 20%), pero esto puede ir acompañado de complicaciones adicionales, por lo que recomiendo utilizar el esquema estándar.
 4. Si en el momento del cargo del impuesto no hay suficiente dinero, se le puede imponer una multa.
 5. Tras la presentación de la [declaración anual](#declaración-anual-renta), se realiza un recálculo: en caso de pago insuficiente del IRPF, tendrá que pagar la diferencia, y en caso de pago excesivo, se le devolverá el exceso.
+
+La cantidad final de IRPF por año depende de muchas variables. Si quieres entender tu carga fiscal con antelación, te recomiendo [calcularla](#cuántos-impuestos-habrá-que-pagar-en-un-año).

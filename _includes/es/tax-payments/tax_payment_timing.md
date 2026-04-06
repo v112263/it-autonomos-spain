@@ -4,4 +4,6 @@ Cuando se registra como autónomo, existe la posibilidad de que se convierta en 
 
 Algunas personas asumen el riesgo en esta situación y no declaran sus ingresos anteriores al registro como autónomo (existe el riesgo de que más tarde vengan a por ellos). Y otros declaran honestamente todo y pagan impuestos por los ingresos recibidos anteriormente. Es mejor elegir la opción con la menor cantidad de riesgos.
 
-Si decide ocultar sus ingresos en otros países desde principios de año, siempre existe el riesgo de que Hacienda lo descubra y usted sea responsable. 
+Si decide ocultar sus ingresos en otros países desde principios de año, siempre existe el riesgo de que Hacienda lo descubra y usted sea responsable.
+
+Si no estás seguro de tu situación fiscal (por ejemplo, si trabajaste en otro país antes de registrarte como autónomo), es mejor consultar con tu [gestor](#gestores-de-confianza) con antelación para entender tus obligaciones. 

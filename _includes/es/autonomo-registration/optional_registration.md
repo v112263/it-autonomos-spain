@@ -6,7 +6,7 @@ obtiene siendo autónomo. Si paga impuestos, ¿por qué no aprovechar estos bene
 1. Suscríbase al canal de Telegram [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} - 
    manténgase al tanto de actualizaciones importantes y reciba información útil de forma periódica.
 2. Cerrar el equivalente a autónomo en otro país, si existe (por ejemplo, FOP en Ucrania).
-    - Si es obligatorio hacerlo, antes o después de registrarse como autónomo, es mejor consultarlo con un especialista. Por la experiencia de la mayoría,
+    - Si es obligatorio hacerlo, antes o después de registrarse como autónomo, es mejor consultarlo con tu [gestor](#gestores-de-confianza). Por la experiencia de la mayoría,
       puedo decir que sería lógico cerrar ese tipo de actividad económica en otro país.
 3. Descargar el documento con el número de seguridad social (NSS) -
    [Tesorería General de la Seguridad Social](https://portal.seg-social.gob.es/wps/portal/importass/importass/bienvenida){:

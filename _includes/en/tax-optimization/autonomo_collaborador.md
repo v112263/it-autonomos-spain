@@ -10,4 +10,4 @@ from the tax authorities.
 
 I plan to describe this optimization scheme in more detail later: how exactly it works, how to register Autónomo
 Colaborador, and other details. If you need help in the near future, you can consult with
-[reliable gestors](#reliable-gestors) for now.
+[reliable gestors](#reliable-gestors) for now. I also recommend [calculating the tax burden](#how-much-tax-will-need-to-be-paid-for-the-year) for different options at your income level.

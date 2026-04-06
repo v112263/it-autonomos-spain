@@ -10,4 +10,4 @@ generar preguntas por parte de Hacienda.
 
 Más adelante planeo describir este esquema de optimización con más detalle: cómo funciona exactamente, cómo
 registrar Autónomo Colaborador y otros detalles. Si necesitas ayuda pronto, por ahora puedes consultar con
-[gestores de confianza](#gestores-de-confianza).
+[gestores de confianza](#gestores-de-confianza). También te recomiendo [calcular la carga fiscal](#cuántos-impuestos-habrá-que-pagar-en-un-año) para las diferentes opciones con tu nivel de ingresos.

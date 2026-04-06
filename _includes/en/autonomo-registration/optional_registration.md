@@ -6,7 +6,7 @@ autónomo. If you pay taxes, why not take advantage of these benefits?
 1. Subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} - 
    stay on top of important updates and get practical insights regularly.
 2. Close a similar economic activity to Autónomo in another country, if it exists (for example, FOP in Ukraine).
-    - It is advisable to consult a specialist to determine whether this should be done before or after registering the
+    - It is advisable to consult your [gestor](#reliable-gestors) to determine whether this should be done before or after registering the
       autónomo. Based on the experience of many, I can say that it would be logical to close such an economic activity
       in another country.
 3. Download the document with your social security number (NSS) -

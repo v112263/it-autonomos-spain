@@ -49,3 +49,5 @@ segment. For example, if your annual income is €50,000, the tax is calculated 
 4. If there are insufficient funds at the time of the tax deduction, you may be fined.
 5. After submitting the [annual return](#annual-declaration-renta), a recalculation is performed: if there was an underpayment of IRPF, you will need
    to pay the difference, and in the case of an overpayment, the excess will be refunded.
+
+The total IRPF amount for the year depends on many variables. If you want to understand your tax burden in advance, I recommend [calculating it](#how-much-tax-will-need-to-be-paid-for-the-year).
