@@ -6,8 +6,7 @@ If during the registration of your autónomo you also registered for an EU VAT n
 option in Xolo or by asking your gestor), you should have received a notification in your tax agency personal area 
 about 1-2 days later stating that your EU VAT number has been successfully registered.
 
-If you haven't registered for an EU VAT number yet - no problem, contact [Xolo support](#support-contacts) or your 
-gestor, and they will promptly handle everything.
+If you haven't registered for an EU VAT number yet - no problem, contact [Xolo support](#support-contacts) or your [gestor](#reliable-gestors), and they will promptly handle everything.
 
 After registering the EU VAT, log in to your tax agency personal area to check the
 notifications, and download the document "AEAT ACUERDO DE ALTA EN EL REGISTRO DE OPERADORES INTRACOMUNITARIOS". In this

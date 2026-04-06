@@ -21,6 +21,8 @@ Por su especialidad principal, Alexey es programador y trabaja en el campo de la
 
 Alexey también revisa declaraciones ya presentadas. Un ejemplo real: tras la declaración anual, al cliente le calcularon un pago adicional de 1.500 euros. Revisó el cálculo y encontró una deducción que el gestor no había aplicado. Tras presentar una declaración complementaria, Hacienda devolvió al cliente 1.000 euros.
 
+Yo mismo encargué a Alexey un cálculo detallado cuando necesitaba ver la diferencia entre autónomo y otras opciones - por lo que lo recomiendo con total confianza.
+
 **Descuento del 10% en todos los servicios para clientes de IT Autonomos.**
 
 [Ver un ejemplo de informe (PDF)](https://bit.ly/tax-analysis-report-en){:target="_blank"}

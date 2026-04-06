@@ -444,6 +444,12 @@
       "bitly": "https://bit.ly/tax-analysis-report-ua",
       "expected_url": "https://itautonomos.com/_files/tax-analysis-report-example-uk.pdf",
       "description": "Приклад звіту податкового аналізу - Ukrainian"
+    },
+    {
+      "bitly": "https://bit.ly/tax-analyst",
+      "expected_url": "https://itautonomos.com/ru/",
+      "expected_anchor": "алексей---налоговый-аналитик",
+      "description": "Алексей - Налоговый аналитик"
     }
   ]
 }

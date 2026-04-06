@@ -12,3 +12,5 @@ is better to choose the option with the least amount of risk.
 
 If you decide to hide your income from other countries from the beginning of the year, there is always a risk that the
 tax authorities will find out about it, and you will be held accountable.
+
+If you are unsure about your tax situation (for example, if you worked in another country before registering as autónomo), it's better to consult with a [gestor](#reliable-gestors) in advance to understand your obligations.
