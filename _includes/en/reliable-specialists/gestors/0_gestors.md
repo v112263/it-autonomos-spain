@@ -15,14 +15,14 @@ Be sure to read about the [criteria for a reliable gestor](#criteria-for-a-relia
 entire [section about gestors](#gestor-1).
 
 **Specialists in this section:**
-- [Nelia - Madrid](#nelia---gestor)
 - [Denis - Alicante, Torrevieja](#denis---gestor)
 - [Tatiana - Barcelona](#tatiana---gestor)
 - [Lyudmila - Valencia](#lyudmila---gestor)
+- [Nelia - Madrid](#nelia---gestor)
 
 {% include en/reliable-specialists/help_notice.md %}
 
-{% include en/reliable-specialists/gestors/gestor_nelia.md %}
 {% include en/reliable-specialists/gestors/gestor_denis.md %}
 {% include en/reliable-specialists/gestors/gestor_tatiana.md %}
 {% include en/reliable-specialists/gestors/gestor_lyudmila.md %}
+{% include en/reliable-specialists/gestors/gestor_nelia.md %}

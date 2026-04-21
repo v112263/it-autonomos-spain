@@ -15,14 +15,14 @@ Asegúrese de leer sobre los [criterios de un gestor fiable](#criterios-de-un-ge
 la [sección sobre gestores](#gestor-1).
 
 **Especialistas en esta sección:**
-- [Nelia - Madrid](#nelia---gestor)
 - [Denis - Alicante, Torrevieja](#denis---gestor)
 - [Tatiana - Barcelona](#tatiana---gestor)
 - [Lyudmila - Valencia](#lyudmila---gestor)
+- [Nelia - Madrid](#nelia---gestor)
 
 {% include es/reliable-specialists/help_notice.md %}
 
-{% include es/reliable-specialists/gestors/gestor_nelia.md %}
 {% include es/reliable-specialists/gestors/gestor_denis.md %}
 {% include es/reliable-specialists/gestors/gestor_tatiana.md %}
 {% include es/reliable-specialists/gestors/gestor_lyudmila.md %}
+{% include es/reliable-specialists/gestors/gestor_nelia.md %}
