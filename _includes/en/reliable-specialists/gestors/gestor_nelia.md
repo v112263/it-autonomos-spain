@@ -2,7 +2,7 @@
 <span id="nelia-b---gestor" class="legacy-anchor"></span>
 ## Nelia - Gestor
 
-> **30 € discount** on autónomo registration with promo code "IT Autonomos".
+> **50 € discount** on autónomo registration with promo code "IT Autonomos".
 
 <a href="#" class="btn-contact-specialist" onclick="contactGestorNeliaEn(); return false;">Message Nelia</a>
 
@@ -14,7 +14,7 @@ In the team with Nelia works a partner-lawyer with more than 30 years of experie
 
 The team manages a wide range of businesses: from cosmetic factories and raw material import companies to major IT companies and investment companies. This diverse experience allows providing expert consultations on the most complex taxation issues and business process optimization.
 
-**30 € discount on autónomo registration.**
+**50 € discount on autónomo registration.**
 
 - **Languages:** English, Spanish, Russian, Ukrainian
 - **Offices:** Madrid
@@ -22,7 +22,8 @@ The team manages a wide range of businesses: from cosmetic factories and raw mat
   País Vasco, Navarra
 - **Experience:** Nelia - in Spain since 2012 (before that, 7 years in Ukraine), partner-lawyer - more than 30 years in Spain
 - **Services:**
-    - Autónomo registration (<s>70 €</s> 40 € with promo code "IT Autonomos")
+    - Autónomo registration (<s>150 €</s> 100 € with promo code "IT Autonomos")
+    - Obtaining social security number (50 €)
     - Autónomo management (from 70 €/month)
     - Individual consultation 60 min (100 €)
     - Collaborator management (40 €/month)
