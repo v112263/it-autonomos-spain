@@ -50,4 +50,9 @@ include:
 
 exclude:
   - README.md
+  - AGENTS.md
   - CLAUDE.md
+  - GEMINI.md
+  - .claude
+  - .agents
+  - .idea
