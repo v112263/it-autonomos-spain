@@ -3,6 +3,8 @@ description: "Full guide on registering and managing an Autónomo in Spain"
 baseurl: ""
 url: "https://itautonomos.com"
 
+theme: jekyll-theme-primer
+
 defaults:
   - scope:
       path: ""
