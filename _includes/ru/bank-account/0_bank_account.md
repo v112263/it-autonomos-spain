@@ -22,5 +22,6 @@
 {% include ru/bank-account/usd_income.md %}
 {% include ru/bank-account/eur_income.md %}
 {% include ru/bank-account/account_blocks_and_deposits.md %}
+{% include ru/bank-account/account_branch.md %}
 {% include ru/bank-account/forced_upselling.md %}
 {% include ru/bank-account/documents_to_bank.md %}

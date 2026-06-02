@@ -21,5 +21,6 @@ Si tiene preguntas, lea la información a continuación, donde todo se explica c
 {% include es/bank-account/usd_income.md %}
 {% include es/bank-account/eur_income.md %}
 {% include es/bank-account/account_blocks_and_deposits.md %}
+{% include es/bank-account/account_branch.md %}
 {% include es/bank-account/forced_upselling.md %}
 {% include es/bank-account/documents_to_bank.md %} 

@@ -23,7 +23,7 @@
 3. Las transferencias desde países con mayor riesgo pueden aumentar la probabilidad de bloqueo de la cuenta.
 4. Cada año, los bancos actualizan los datos del cliente (solicitan documentos, fuentes de ingresos, lugar de trabajo, etc.). Si
    el cliente ignora esta solicitud, el banco puede recordárselo varias veces y luego bloquear la cuenta hasta una visita personal y
-   la presentación de documentos.
+   la presentación de documentos. Además, esa visita suele ser necesaria precisamente en la sucursal donde abrió la cuenta (más detalles en [Vinculación de la cuenta a una sucursal bancaria](#vinculación-de-la-cuenta-a-una-sucursal-bancaria)).
 5. Trate de proporcionar al banco tantos documentos actualizados como sea posible. Empadronamiento, recibo de servicios públicos,
    [Vida Laboral](#vida-laboral), [Modelo 036](#modelo-036). Todo esto ayudará a reducir la probabilidad de bloqueos. Ha habido
    casos en los que la cuenta fue bloqueada debido a la falta de alguno de estos documentos, y no se notificó en ninguna parte (ni en

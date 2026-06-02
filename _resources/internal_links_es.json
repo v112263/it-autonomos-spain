@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Spanish version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "es",
-  "generated_at": "2026-02-27",
+  "generated_at": "2026-06-03",
   "pages": [
     {
       "path": "/es/",
@@ -92,7 +92,6 @@
         "internet",
         "irina---experta-en-inmigración",
         "irpf-impuesto-sobre-la-renta-de-las-personas-físicas",
-
         "lyudmila---gestor",
         "lyudmila-d",
         "lyudmila-d---gestor",
@@ -160,6 +159,7 @@
         "versiones-anteriores",
         "versiones-del-documento",
         "vida-laboral",
+        "vinculación-de-la-cuenta-a-una-sucursal-bancaria",
         "xolo",
         "xolo-1"
       ]
