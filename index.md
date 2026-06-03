@@ -13,7 +13,7 @@ title: "Autónomo - Complete Guide"
 
 **EN** | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | [ES]({{ site.baseurl }}/es/)
 
-<p class="last-updated">Last updated: April 6, 2026</p>
+<p class="last-updated">Last updated: June 3, 2026</p>
 
 This document contains all the necessary information for registering and managing autónomo in Spain. It is regularly updated and
 **reviewed by gestors**.
@@ -95,6 +95,7 @@ This document contains all the necessary information for registering and managin
     - [Receiving income in USD (and other currencies besides EUR)](#receiving-income-in-usd-and-other-currencies-besides-eur)
     - [Receiving income in EUR](#receiving-income-in-eur)
     - [Account freezes and deposit limits](#account-freezes-and-deposit-limits)
+    - [Linking your account to a bank branch](#linking-your-account-to-a-bank-branch)
     - [Pushing additional services when opening an account](#pushing-additional-services-when-opening-an-account)
     - [Documents for the bank after autónomo registration](#documents-for-the-bank-after-autónomo-registration)
 - [Gestor](#gestor-1)

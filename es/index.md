@@ -18,7 +18,7 @@ permalink: /es/
 
 [EN]({{ site.baseurl }}/) | [UA]({{ site.baseurl }}/ua/) | [RU]({{ site.baseurl }}/ru/) | **ES**
 
-<p class="last-updated">Última actualización: 6 de abril de 2026</p>
+<p class="last-updated">Última actualización: 3 de junio de 2026</p>
 
 Este documento contiene toda la información necesaria para registrarse y gestionar el autónomo en España. Se actualiza regularmente y
 **es revisado por gestores**.
@@ -100,6 +100,7 @@ Este documento contiene toda la información necesaria para registrarse y gestio
     - [Recibir ingresos en USD (y otras monedas que no sean EUR)](#recibir-ingresos-en-usd-y-otras-monedas-que-no-sean-eur)
     - [Recibir ingresos en EUR](#recibir-ingresos-en-eur)
     - [Bloqueos de cuenta y límites de depósitos](#bloqueos-de-cuenta-y-límites-de-depósitos)
+    - [Vinculación de la cuenta a una sucursal bancaria](#vinculación-de-la-cuenta-a-una-sucursal-bancaria)
     - [Venta forzada de servicios al abrir una cuenta](#venta-forzada-de-servicios-al-abrir-una-cuenta)
     - [Documentos para el banco tras registrarse como autónomo](#documentos-para-el-banco-tras-registrarse-como-autónomo)
 - [Gestor](#gestor-1)
