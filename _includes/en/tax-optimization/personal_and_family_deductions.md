@@ -4,17 +4,19 @@ When filing the [annual tax return (Renta)](#annual-declaration-renta), you can 
 
 All amounts in this section are valid for filing the 2025 tax return. When filing for other years, amounts may differ - check current information on the [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html){:target="_blank"} website.
 
-Family benefits are divided into two categories:
-- **Personal and family allowance** - reduces the tax base
-- **Tax credits** - deducted directly from the tax amount
+Family benefits are divided into two categories, and they work differently:
+- **Personal and family allowance** (mínimo personal y familiar) - the portion of income taxed at a zero rate. It reduces your tax, but at the rate of the lowest brackets of the scale (around 19%), not at your marginal rate (more details below).
+- **Tax credits** (for example, for maternity or large families) - deducted directly from the tax amount, euro for euro.
 
 #### How the allowance works
 
-Each taxpayer has a basic allowance of €5,550 per year that is not taxed (this is the state rate - some autonomous communities set higher values). Amounts for children, parents, and disability are added to this.
+Each taxpayer has a basic allowance of €5,550 per year that is not taxed (this is the state rate - some autonomous communities set higher values). If you are over 65, the basic allowance increases by €1,150 (to €6,700), and after 75 by a further €1,400 (€8,100 in total). Amounts for children, parents, and disability are added to this.
 
 For example, if you have one child under 3 years old, your allowance will be: €5,550 (basic) + €2,400 (for child) + €2,800 (for child under 3) = €10,750. You don't pay [IRPF](#irpf-income-tax) on this amount.
 
-The allowance reduces the tax base, not the tax itself. This means savings depend on your tax rate. At a 30% rate, savings from a €2,400 allowance will be approximately €720.
+Here it's important to understand the actual mechanism - it's often described incorrectly. The allowance is not subtracted from your income before tax is calculated. Formally it stays part of the tax base, but the tax authority applies a zero rate to it in a particular way: it first calculates the tax on your entire base using the progressive scale, then separately calculates the tax on the allowance amount (as if it were your first euros earned during the year) and subtracts that from the tax. Before the 2007 reform the allowance really did reduce the base, and higher earners saved more - now the benefit is the same for everyone.
+
+Because of this mechanism, the saving from the allowance is always calculated at the rate of the lowest brackets of the scale (roughly 19% - the sum of the state and regional parts), NOT at your marginal rate. So it's a fixed amount in euros, the same for someone taxed at 24% and someone taxed at 45%. For example, a €2,400 allowance for a child saves approximately €2,400 × 19% ≈ €456 - regardless of your income. Roughly speaking, every €1,000 of allowance is about €190 of real tax savings.
 
 #### Allowance for children
 
@@ -116,4 +118,4 @@ Base reduction for joint filing: €3,400
 
 Maternity tax credit (if spouse meets requirements): up to €1,200 directly from tax
 
-The exact savings calculation depends on your income and tax rate. I recommend discussing with a [gestor](#reliable-gestors) which option is more beneficial - joint or separate filing.
+A €14,600 allowance gives a saving at the lowest brackets of the scale - around €2,800, and this amount barely depends on your income. The base reduction for joint filing (€3,400), on the other hand, saves at your marginal rate. The exact calculation depends on the details - I recommend discussing with a [gestor](#reliable-gestors) which option is more beneficial: joint or separate filing.
