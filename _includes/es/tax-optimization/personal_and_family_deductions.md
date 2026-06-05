@@ -4,17 +4,19 @@ Al presentar la [declaración anual (Renta)](#declaración-anual-renta), puedes 
 
 Todos los importes de esta sección son válidos para la declaración del año 2025. Al declarar otros años, los importes pueden diferir - consulta la información actualizada en la web de [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/manuales-practicos.html){:target="_blank"}.
 
-Los beneficios familiares se dividen en dos categorías:
-- **Mínimo exento** - reduce la base imponible
-- **Deducciones** - se restan directamente de la cuota del impuesto
+Los beneficios familiares se dividen en dos categorías, y funcionan de forma diferente:
+- **Mínimo exento** - la parte de la renta que tributa a tipo cero. Reduce el impuesto, pero al tipo de los tramos más bajos de la escala (en torno al 19%), no a tu tipo marginal (más detalles abajo).
+- **Deducciones** (por ejemplo, por maternidad o familia numerosa) - se restan directamente de la cuota del impuesto, euro a euro.
 
 #### Cómo funciona el mínimo exento
 
-Cada contribuyente tiene un mínimo básico de 5.550€ al año que no tributa (esta es la tarifa estatal - algunas comunidades autónomas establecen valores más altos). A esto se añaden cantidades por hijos, ascendientes y discapacidad.
+Cada contribuyente tiene un mínimo básico de 5.550€ al año que no tributa (esta es la tarifa estatal - algunas comunidades autónomas establecen valores más altos). Si tienes más de 65 años, el mínimo básico aumenta en 1.150€ (hasta 6.700€), y a partir de los 75 en otros 1.400€ (8.100€ en total). A esto se añaden cantidades por hijos, ascendientes y discapacidad.
 
 Por ejemplo, si tienes un hijo menor de 3 años, tu mínimo exento será: 5.550€ (básico) + 2.400€ (por hijo) + 2.800€ (por hijo menor de 3 años) = 10.750€. No pagas [IRPF](#irpf-impuesto-sobre-la-renta-de-las-personas-físicas) sobre esta cantidad.
 
-El mínimo exento reduce la base imponible, no el impuesto en sí. Esto significa que el ahorro depende de tu tipo impositivo. Con un tipo del 30%, el ahorro de un mínimo de 2.400€ será aproximadamente 720€.
+Aquí es importante entender el mecanismo en sí - a menudo se describe mal. El mínimo no se resta de tu renta antes de calcular el impuesto. Formalmente sigue formando parte de la base imponible, pero Hacienda le aplica un tipo cero de una forma particular: primero calcula el impuesto sobre toda tu base con la escala progresiva, y luego calcula por separado el impuesto sobre el importe del mínimo (como si fueran los primeros euros que ganas en el año) y lo resta del impuesto. Antes de la reforma de 2007 el mínimo sí reducía la base, y quienes tenían rentas altas ahorraban más - ahora el beneficio es el mismo para todos.
+
+Por este mecanismo, el ahorro del mínimo siempre se calcula al tipo de los tramos más bajos de la escala (aproximadamente un 19% - la suma de la parte estatal y la autonómica), y NO a tu tipo marginal. Es decir, es una cantidad fija en euros, la misma para quien tributa al 24% y para quien tributa al 45%. Por ejemplo, un mínimo de 2.400€ por un hijo ahorra aproximadamente 2.400€ × 19% ≈ 456€ - independientemente de tus ingresos. A grandes rasgos, cada 1.000€ de mínimo son unos 190€ de ahorro real en el impuesto.
 
 #### Deducción por descendientes
 
@@ -116,4 +118,4 @@ Reducción de la base por declaración conjunta: 3.400€
 
 Deducción por maternidad (si tu cónyuge cumple los requisitos): hasta 1.200€ directamente del impuesto
 
-El cálculo exacto del ahorro depende de tus ingresos y tu tipo impositivo. Te recomiendo consultarlo con un [gestor](#gestores-de-confianza) para ver qué opción es más ventajosa - declaración conjunta o separada.
+Un mínimo exento de 14.600€ da un ahorro a los tramos más bajos de la escala - en torno a 2.800€, y esa cantidad apenas depende de tus ingresos. La reducción de la base por declaración conjunta (3.400€), en cambio, ahorra ya a tu tipo marginal. El cálculo exacto depende de los detalles - te recomiendo consultarlo con un [gestor](#gestores-de-confianza) para ver qué opción es más ventajosa: declaración conjunta o separada.
