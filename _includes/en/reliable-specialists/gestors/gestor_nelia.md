@@ -25,7 +25,7 @@ The team manages a wide range of businesses: from cosmetic factories and raw mat
     - Autónomo registration (<s>150 €</s> 100 € with promo code "IT Autonomos")
     - Obtaining social security number (50 €)
     - Autónomo management (from 70 €/month)
-    - Individual consultation 60 min (100 €)
+    - Individual consultation 60 min (170 €)
     - Collaborator management (40 €/month)
     - Migration issues
     - Contracts
