@@ -32,7 +32,7 @@ I personally ordered a detailed calculation from Alexey when I needed to see the
 - **Experience:** in analytics since 2011, tax calculations in Spain since 2023
 - **Services:**
     - Tax analysis for autonomo with report (150 €)
-    - Tax analysis for autonomo + colaborador or other calculation variants (250 €)
+    - Tax analysis for autonomo + colaborador or other calculation variants (<s>250 €</s> 200 € with promo code "IT Autonomos")
     - Comparative analysis of autonomo (+ colaborador) vs SL (price agreed separately based on the situation)
     - Individual consultation with report review (included in the report price)
     - Recalculation if situation changes during the year (price depends on the number of changes)
