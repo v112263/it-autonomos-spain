@@ -32,7 +32,7 @@ Yo mismo encargué a Alexey un cálculo detallado cuando necesitaba ver la difer
 - **Experiencia:** en analítica desde 2011, cálculos fiscales en España desde 2023
 - **Servicios:**
     - Análisis fiscal para autónomo con informe (150 €)
-    - Análisis fiscal para autónomo + colaborador u otras variantes de cálculo (250 €)
+    - Análisis fiscal para autónomo + colaborador u otras variantes de cálculo (<s>250 €</s> 200 € con el código promocional "IT Autonomos")
     - Análisis comparativo de autónomo (+ colaborador) vs SL (precio a convenir según la situación)
     - Consulta individual con revisión del informe (incluida en el precio del informe)
     - Recálculo en caso de cambio de situación durante el año (precio según la cantidad de cambios)
