@@ -53,7 +53,7 @@ de inspección esto puede resultar en cargos fiscales adicionales y sanciones.
 
 **Pregunta frecuente:** *Trabajé como empresario individual en Ucrania (u otro país) y era programador, y ahora planeo
 registrarme como autónomo en España y también trabajar como programador. ¿Puedo usar este beneficio?*
-Esto se ha discutido muchas veces [en el chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}, búsquelo y
+Esto se ha discutido muchas veces [en el chat](https://t.me/it_autonomos_spain_en){:target="_blank"}, búsquelo y
 luego tome su decisión bajo su propia responsabilidad.
 
 **Si el gestor no aplicó el beneficio**

@@ -13,7 +13,7 @@
 
 {% include common/contact-forms/tax-analysts/tax_analyst_alexey_form_en.html %}
 
-Alexey calculates the tax burden in Spain for autonomo, autonomo + colaborador and SL - and helps choose the structure with the lowest tax burden. He does not handle accounting or file tax returns - he helps you understand the numbers and make the right decision. The result is a [detailed report with charts](https://bit.ly/tax-analysis-report-en){:target="_blank"} showing the difference between options in specific numbers.
+Alexey calculates the tax burden in Spain for autonomo, autonomo + colaborador and SL - and helps choose the structure with the lowest tax burden. He does not handle accounting or file tax returns - he helps you understand the numbers and make the right decision. The result is a [detailed report with charts](https://itautonomos.com/_files/tax-analysis-report-example-en.pdf){:target="_blank"} showing the difference between options in specific numbers.
 
 When calculating for autonomo and colaborador, many variables are involved: social contributions and benefits for both, optimal salary, changes in discounts over several years ahead. He calculates all these scenarios and compares them with the SL option, so you can see what works best for your income.
 
@@ -25,7 +25,7 @@ I personally ordered a detailed calculation from Alexey when I needed to see the
 
 **10% discount on all services for IT Autonomos clients.**
 
-[View a report example (PDF)](https://bit.ly/tax-analysis-report-en){:target="_blank"}
+[View a report example (PDF)](https://itautonomos.com/_files/tax-analysis-report-example-en.pdf){:target="_blank"}
 
 - **Languages:** English, Russian, Ukrainian
 - **Service regions:** calculation is done for any province of Spain

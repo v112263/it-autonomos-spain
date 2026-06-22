@@ -1,14 +1,14 @@
 # Gestores de confianza
 
 Los especialistas que se enumeran a continuación son profesionales verificados, con una gran cantidad de reseñas positivas de los participantes del
-[chat de autónomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}, a quienes yo mismo me he dirigido repetidamente por cuestiones laborales.
+[chat de autónomos](https://t.me/it_autonomos_spain_en){:target="_blank"}, a quienes yo mismo me he dirigido repetidamente por cuestiones laborales.
 
 Haga clic en el botón **"Escribir al gestor"** - el gestor le responderá durante el día laborable (rara vez - al día siguiente). ¿Urgente?
 Escríbalo directamente en el formulario.
 
 La lista de gestores de confianza es un mecanismo vivo. Recibo regularmente comentarios de los participantes del chat, y si
 la calidad del servicio de un gestor se deteriora, lo excluyo de la lista. Puede
-[leer aquí](https://bit.ly/removed-from-reliable-gestors){:target="_blank"} sobre uno de esos casos en los que tuve que
+[leer aquí](https://t.me/autonomo_and_sl/33){:target="_blank"} sobre uno de esos casos en los que tuve que
 eliminar a un gestor de la lista.
 
 Asegúrese de leer sobre los [criterios de un gestor fiable](#criterios-de-un-gestor-fiable) y toda

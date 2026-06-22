@@ -3,7 +3,7 @@
 What follows is not mandatory, but I highly recommend it. Some points relate to benefits you receive as an
 autónomo. If you pay taxes, why not take advantage of these benefits?
 
-1. Subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} - 
+1. Subscribe to the Telegram channel [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"} - 
    stay on top of important updates and get practical insights regularly.
 2. Close a similar economic activity to Autónomo in another country, if it exists (for example, FOP in Ukraine).
     - It is advisable to consult your [gestor](#reliable-gestors) to determine whether this should be done before or after registering the

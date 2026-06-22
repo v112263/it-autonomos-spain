@@ -46,4 +46,4 @@ ask your own question), you can submit a request online through the Hacienda por
 practice there may be delays.
 
 If you've had an interesting experience using this resource - share in the
-[chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} real examples. I'm sure everyone will be interested to read.
+[chat](https://t.me/it_autonomos_spain_en){:target="_blank"} real examples. I'm sure everyone will be interested to read.

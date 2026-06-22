@@ -1,16 +1,16 @@
 # Autonomo - Registration and Management
 
 Document in
-English: [https://bit.ly/autonomo-manual-en](https://bit.ly/autonomo-manual-en)
+English: [https://itautonomos.com/](https://itautonomos.com/)
 
 Документ
-українською: [https://bit.ly/autonomo-manual-ua](https://bit.ly/autonomo-manual-ua)
+українською: [https://itautonomos.com/ua/](https://itautonomos.com/ua/)
 
 Документ на
-русском: [https://bit.ly/autonomo-manual](https://bit.ly/autonomo-manual)
+русском: [https://itautonomos.com/ru/](https://itautonomos.com/ru/)
 
 Documento en
-Español: [https://bit.ly/autonomo-manual-es](https://bit.ly/autonomo-manual-es)
+Español: [https://itautonomos.com/es/](https://itautonomos.com/es/)
 
 ## Local run
 

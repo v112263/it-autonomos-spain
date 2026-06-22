@@ -18,15 +18,15 @@ estaré encantado de hablar sobre este tema cuando nos encontremos. Y además, a
 Si desea agradecerme por el trabajo realizado:
 
 - Envíe este documento a quienes planean registrarse como autónomos o ya lo son.
-- Únase a nuestro [chat de autónomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} y suscríbase al canal de Telegram
-  [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}.
-- Si tiene Telegram Premium, [impulse el canal Autonomo & SL](https://bit.ly/autonomo-and-sl-channel-boost){:target="_blank"}.
-- Dé una estrella al [repositorio de GitHub](https://bit.ly/it-autonomos-github){:target="_blank"} con el código fuente del documento.
+- Únase a nuestro [chat de autónomos](https://t.me/it_autonomos_spain_en){:target="_blank"} y suscríbase al canal de Telegram
+  [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"}.
+- Si tiene Telegram Premium, [impulse el canal Autonomo & SL](https://t.me/autonomo_and_sl?boost){:target="_blank"}.
+- Dé una estrella al [repositorio de GitHub](https://github.com/v112263/it-autonomos-spain){:target="_blank"} con el código fuente del documento.
 - Envíe pull requests si desea agregar algo.
 - Ayude a los miembros del chat con preguntas en las que tenga conocimiento y experiencia, especialmente a los principiantes.
 - Envíe ideas y sugerencias para mejorar el documento si tiene buenos conocimientos sobre algún tema.
 - Utilice los enlaces de referencia en el documento, parte de estos fondos se destina a pagar servicios de gestión de autónomos y desarrollo del
   documento, y otra parte a las reuniones de los viernes con la comunidad IT de Valencia. ¡Hasta pronto!
-- [Si quiere invitarme a un café](https://bit.ly/buy-coffee-v112263){:target="_blank"} :)
+- [Si quiere invitarme a un café](https://buymeacoffee.com/v112263){:target="_blank"} :)
 
 ¡Gracias por su apoyo! ❤️ 

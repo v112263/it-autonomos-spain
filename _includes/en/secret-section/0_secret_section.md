@@ -18,15 +18,15 @@ reading books and would gladly chat about this topic in person. Also, I love cyc
 If you'd like to thank me for the work I've done:
 
 - Share this document with those who are planning to register as autónomo or are already managing it.
-- Join our [autónomo chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} and subscribe to the Telegram channel
-  [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}.
-- If you have Telegram Premium, [boost the Autonomo & SL](https://bit.ly/autonomo-and-sl-channel-boost){:target="_blank"} channel.
-- Star the [GitHub repository](https://bit.ly/it-autonomos-github){:target="_blank"} with the document source.
+- Join our [autónomo chat](https://t.me/it_autonomos_spain_en){:target="_blank"} and subscribe to the Telegram channel
+  [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"}.
+- If you have Telegram Premium, [boost the Autonomo & SL](https://t.me/autonomo_and_sl?boost){:target="_blank"} channel.
+- Star the [GitHub repository](https://github.com/v112263/it-autonomos-spain){:target="_blank"} with the document source.
 - Send pull requests if you wish to add anything.
 - Help chat members with questions where you have knowledge and experience, especially newcomers.
 - Send ideas and suggestions for improving the document if you have good expertise in any areas.
 - Use the referral links in the document - part of the funds goes to covering autónomo service costs and document
   development, and part goes to Friday hangouts with the Valencia IT community. See you there!
-- [If you'd like to buy me a coffee](https://bit.ly/buy-coffee-v112263){:target="_blank"} :)
+- [If you'd like to buy me a coffee](https://buymeacoffee.com/v112263){:target="_blank"} :)
 
 Thank you for your support! ❤️

@@ -52,7 +52,7 @@ of an audit this may lead to additional tax charges and penalties.
 
 **Frequently asked question:** *I worked as a sole proprietor in Ukraine (or another country) and was a programmer, and
 now I plan to register as autónomo in Spain and also work as a programmer. Can I use this benefit?*
-This has been discussed many times [in the chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}, search for it
+This has been discussed many times [in the chat](https://t.me/it_autonomos_spain_en){:target="_blank"}, search for it
 and then make your decision at your own responsibility.
 
 **If the gestor didn't apply the benefit**

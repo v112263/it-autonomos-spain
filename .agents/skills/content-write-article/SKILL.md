@@ -159,9 +159,9 @@ Rule: internal headings within a file must always be at a lower level than the f
 ### Links
 - Internal: `{% raw %}{% link path/to/file.md %}{% endraw %}`
 - External: `[text](https://example.com){:target="_blank"}`
-- Telegram (RU/UA): `https://bit.ly/it-autonomos-es`
-- Telegram (EN/ES): `https://bit.ly/it-autonomos-spain-eng`
-- Telegram channel: `https://bit.ly/autonomo-and-sl-channel`
+- Telegram (RU/UA): `https://t.me/it_autonomos_spain`
+- Telegram (EN/ES): `https://t.me/it_autonomos_spain_en`
+- Telegram channel: `https://t.me/autonomo_and_sl`
 
 ### Legacy anchors
 When renaming a heading that may have been shared publicly:
@@ -256,7 +256,7 @@ Before presenting the article, verify:
 - [ ] Titles in Sentence case
 - [ ] Internal links use `{% link path %}` format
 - [ ] External links have `{:target="_blank"}`
-- [ ] Telegram links use `bit.ly/it-autonomos-es` for RU
+- [ ] Telegram links use `t.me/it_autonomos_spain` for RU
 - [ ] Legacy anchor added if renaming existing heading
 
 **Index:**

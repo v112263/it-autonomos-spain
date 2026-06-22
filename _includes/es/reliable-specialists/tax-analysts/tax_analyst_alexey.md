@@ -13,7 +13,7 @@
 
 {% include common/contact-forms/tax-analysts/tax_analyst_alexey_form_es.html %}
 
-Alexey calcula la carga fiscal en España para autónomo, autónomo + colaborador y SL - y ayuda a elegir la forma con menor carga fiscal. No lleva la contabilidad ni presenta declaraciones - ayuda a entender las cifras y tomar la decisión correcta. El resultado es un [informe detallado con gráficos](https://bit.ly/tax-analysis-report-en){:target="_blank"} que muestra la diferencia entre las opciones en cifras concretas.
+Alexey calcula la carga fiscal en España para autónomo, autónomo + colaborador y SL - y ayuda a elegir la forma con menor carga fiscal. No lleva la contabilidad ni presenta declaraciones - ayuda a entender las cifras y tomar la decisión correcta. El resultado es un [informe detallado con gráficos](https://itautonomos.com/_files/tax-analysis-report-example-en.pdf){:target="_blank"} que muestra la diferencia entre las opciones en cifras concretas.
 
 El cálculo para autónomo y colaborador implica muchas variables: cotizaciones sociales y bonificaciones para ambos, salario óptimo, cambios en los descuentos a lo largo de varios años. Calcula todos estos escenarios y los compara con la opción de SL, para que veas qué es más conveniente con tus ingresos.
 
@@ -25,7 +25,7 @@ Yo mismo encargué a Alexey un cálculo detallado cuando necesitaba ver la difer
 
 **Descuento del 10% en todos los servicios para clientes de IT Autonomos.**
 
-[Ver un ejemplo de informe (PDF)](https://bit.ly/tax-analysis-report-en){:target="_blank"}
+[Ver un ejemplo de informe (PDF)](https://itautonomos.com/_files/tax-analysis-report-example-en.pdf){:target="_blank"}
 
 - **Idiomas:** inglés, ruso, ucraniano
 - **Provincias atendidas:** el cálculo se realiza para cualquier provincia de España

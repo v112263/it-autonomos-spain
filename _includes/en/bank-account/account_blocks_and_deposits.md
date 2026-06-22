@@ -4,7 +4,7 @@
 
 1. The smaller the amounts and the less frequent the deposits, the lower the likelihood of issues.
 2. Everyone’s experience varies, depending on the specific bank, branch, manager, and other factors.
-   In the [chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}, people mentioned cases where they deposited
+   In the [chat](https://t.me/it_autonomos_spain_en){:target="_blank"}, people mentioned cases where they deposited
    between 5,000 and 10,000 euros at once into Spanish bank accounts without any document requests. However,
    there were also instances where accounts were frozen, requiring a visit to the bank and the provision of additional
    documents. Some cases even involved requests for documents after deposits of a few hundred euros, though these were

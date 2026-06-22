@@ -18,15 +18,15 @@ Malta Blockchain Summit Hackathon у 2018 році (зайняли перше м
 Якщо ви хочете подякувати мені за виконану роботу:
 
 - Надішліть документ тим, хто планує реєструвати аутономо або вже веде його.
-- Приєднуйтесь до нашого [чату аутономо](https://bit.ly/it-autonomos-es){:target="_blank"} та підписуйтесь на телеграм канал
-  [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"}.
-- Якщо у вас є Telegram Premium, [забустіть канал Autonomo & SL](https://bit.ly/autonomo-and-sl-channel-boost){:target="_blank"}.
-- Поставте зірку [GitHub репозиторію](https://bit.ly/it-autonomos-github){:target="_blank"} з вихідниками документа.
+- Приєднуйтесь до нашого [чату аутономо](https://t.me/it_autonomos_spain){:target="_blank"} та підписуйтесь на телеграм канал
+  [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"}.
+- Якщо у вас є Telegram Premium, [забустіть канал Autonomo & SL](https://t.me/autonomo_and_sl?boost){:target="_blank"}.
+- Поставте зірку [GitHub репозиторію](https://github.com/v112263/it-autonomos-spain){:target="_blank"} з вихідниками документа.
 - Надсилайте pull-реквести, якщо буде бажання щось додати.
 - Допомагайте учасникам чату з питаннями, в яких у вас є знання та досвід, особливо новачкам.
 - Надсилайте ідеї та пропозиції для покращення документа, якщо у вас є хороші знання з будь-яких питань.
 - Використовуйте реферальні посилання в документі, частина цих коштів йде на оплату послуг ведення аутономо та розвиток
   документа, а частина - на п'ятничні тусовки з валенсійською IT спільнотою. До зустрічі!
-- [Якщо захочете пригостити мене кавою](https://bit.ly/buy-coffee-v112263){:target="_blank"} :)
+- [Якщо захочете пригостити мене кавою](https://buymeacoffee.com/v112263){:target="_blank"} :)
 
 Дякую за вашу підтримку! ❤️

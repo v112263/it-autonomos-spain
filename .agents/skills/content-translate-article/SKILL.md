@@ -105,11 +105,11 @@ Copy legacy anchors exactly as they appear in the Russian source.
 
 **CRITICAL**: Use correct Telegram link for each language:
 
-- **RU version**: `https://bit.ly/it-autonomos-es`
-- **UA version**: `https://bit.ly/it-autonomos-es`
-- **EN version**: `https://bit.ly/it-autonomos-spain-eng`
-- **ES version**: `https://bit.ly/it-autonomos-spain-eng`
-- **Channel (all)**: `https://bit.ly/autonomo-and-sl-channel`
+- **RU version**: `https://t.me/it_autonomos_spain`
+- **UA version**: `https://t.me/it_autonomos_spain`
+- **EN version**: `https://t.me/it_autonomos_spain_en`
+- **ES version**: `https://t.me/it_autonomos_spain_en`
+- **Channel (all)**: `https://t.me/autonomo_and_sl`
 
 ## Partner Profiles - Language Ordering
 
@@ -219,7 +219,7 @@ Your response MUST include these sections in order:
 | Translated to EN | ✅ | Done |
 | Translated to ES | ✅ | Done |
 | UA: no Russian words | ✅ | Checked, all Ukrainian |
-| Telegram links correct | ✅ | RU/UA: bit.ly/it-autonomos-es, EN/ES: bit.ly/it-autonomos-spain-eng |
+| Telegram links correct | ✅ | RU/UA: t.me/it_autonomos_spain, EN/ES: t.me/it_autonomos_spain_en |
 | Partner profile languages reordered | N/A | Not a profile translation |
 | Index files updated | ✅ | Added to all 4 indexes |
 | Last-updated date | ✅ | Updated on all 4 pages |

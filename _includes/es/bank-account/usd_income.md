@@ -4,10 +4,10 @@ Al recibir ingresos en USD u otras monedas (excepto EUR), resultará más ventaj
 
 **Revolut:** Recomiendo la suscripción Revolut Premium, ya que reduce las comisiones por conversión de divisas.
 
-[Registro de Revolut (enlace de referido)](https://bit.ly/revlsignup){:target="_blank"}
+[Registro de Revolut (enlace de referido)](https://www.revolut.com/referral/?referral-code=vladys7xwo){:target="_blank"}
 
 **Wise:** Su ventaja es que se paga alrededor del 4% anual sobre el saldo de la cuenta.
 
-[Registro de Wise (enlace de referido)](https://bit.ly/wsesignup){:target="_blank"}
+[Registro de Wise (enlace de referido)](https://wise.com/invite/ihpc/vladyslavd540){:target="_blank"}
 
 Qué opción será más ventajosa depende de su salario, la cantidad que planea mantener en dólares/euros, así como de las transferencias realizadas. 
