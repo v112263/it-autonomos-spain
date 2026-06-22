@@ -8,11 +8,11 @@ perspective of the Spanish tax authorities.
 
 **Revolut:** I recommend the Revolut Premium subscription, as it reduces currency conversion fees.
 
-[Revolut Registration (referral link)](https://bit.ly/revlsignup){:target="_blank"}
+[Revolut Registration (referral link)](https://www.revolut.com/referral/?referral-code=vladys7xwo){:target="_blank"}
 
 **Wise:** Its advantage is that the balance earns approximately 4% annual interest.
 
-[Wise Registration (referral link)](https://bit.ly/wsesignup){:target="_blank"}
+[Wise Registration (referral link)](https://wise.com/invite/ihpc/vladyslavd540){:target="_blank"}
 
 Which option is more beneficial depends on your salary, the amount you plan to keep in dollars/euros, and the transfers
 you make.

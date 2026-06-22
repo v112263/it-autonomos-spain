@@ -6,7 +6,7 @@ the right to work. I recommend contacting
 or other types of residence.
 
 To register and manage an autónomo, you can choose between two popular options: a [gestor](#reliable-gestors) or
-the [Xolo](https://bit.ly/xolosignup){:target="_blank"} service.
+the [Xolo](https://www.xolo.io/es-en?ref=VLADMY){:target="_blank"} service.
 
 If you haven't yet decided on the form of activity (autónomo, autónomo + colaborador, or SL), I recommend [calculating the tax burden](#how-much-tax-will-need-to-be-paid-for-the-year) for each option at your income level.
 
@@ -53,7 +53,7 @@ freelancers in IT, marketing, media, design, consulting, and [other fields](#is-
 - ⚠️ Not available in [some regions of Spain and not suitable for some fields](#is-xolo-suitable-for-you).
 - ⚠️ Limited consultation in non-standard situations.
 
-Register using the **[referral link](https://bit.ly/xolosignup){:target="_blank"}** (50 € bonus to your
+Register using the **[referral link](https://www.xolo.io/es-en?ref=VLADMY){:target="_blank"}** (50 € bonus to your
 account for registration).
 
 _If you are working with a gestor but want to switch to Xolo, see

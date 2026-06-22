@@ -3,7 +3,7 @@
 Lo siguiente no es obligatorio. Pero lo recomendaría encarecidamente. Algunos puntos se refieren a los beneficios que
 obtiene siendo autónomo. Si paga impuestos, ¿por qué no aprovechar estos beneficios?
 
-1. Suscríbase al canal de Telegram [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} - 
+1. Suscríbase al canal de Telegram [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"} - 
    manténgase al tanto de actualizaciones importantes y reciba información útil de forma periódica.
 2. Cerrar el equivalente a autónomo en otro país, si existe (por ejemplo, FOP en Ucrania).
     - Si es obligatorio hacerlo, antes o después de registrarse como autónomo, es mejor consultarlo con tu [gestor](#gestores-de-confianza). Por la experiencia de la mayoría,

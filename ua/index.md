@@ -30,8 +30,8 @@ permalink: /ua/
 3. Читайте покрокову [інструкцію з реєстрації autónomo](#реєстрація-autónomo-покроково).
 4. [Мій особистий досвід отримання іпотеки](https://spainlifeguide.com/ua/mortgage/){:target="_blank"} через 8 місяців
    після реєстрації аутономо.
-5. Підписуйтесь на телеграм канал [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} та
-   додавайтесь у чат [IT Autonomos](https://bit.ly/it-autonomos-es){:target="_blank"}.
+5. Підписуйтесь на телеграм канал [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"} та
+   додавайтесь у чат [IT Autonomos](https://t.me/it_autonomos_spain){:target="_blank"}.
 6. Загляньте у [секретний розділ](#секретний-розділ), якщо хочете дізнатись про історію створення документа або
    подякувати мені за мою працю.
 

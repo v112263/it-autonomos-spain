@@ -30,8 +30,8 @@ Este documento contiene toda la información necesaria para registrarse y gestio
 3. Lee la [guía paso a paso para registrarse como autónomo](#registro-de-autónomo-paso-a-paso).
 4. [Mi experiencia personal obteniendo una hipoteca](https://spainlifeguide.com/es/mortgage/){:target="_blank"} 8 meses
    después de registrarme como autónomo.
-5. Suscríbete al canal de Telegram [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} y
-   únete al chat [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
+5. Suscríbete al canal de Telegram [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"} y
+   únete al chat [IT Autonomos](https://t.me/it_autonomos_spain_en){:target="_blank"}.
 6. Echa un vistazo a la [sección secreta](#sección-secreta) si quieres conocer la historia de la creación de este documento o
    agradecerme por mi trabajo.
 

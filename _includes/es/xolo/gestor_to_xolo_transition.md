@@ -2,7 +2,7 @@
 
 Si ha decidido cambiar de su gestor a Xolo, el proceso es muy sencillo y rápido.
 
-1. Registrarse a través del **[enlace de referido](https://bit.ly/xolosignup){:target="_blank"}** (bono de 50 € en su cuenta por registrarse):
+1. Registrarse a través del **[enlace de referido](https://www.xolo.io/es-en?ref=VLADMY){:target="_blank"}** (bono de 50 € en su cuenta por registrarse):
    - Pulse el botón Sign Up en la parte superior derecha.
    - Elija el plan Global (59 euros + IVA) - se necesita precisamente este plan si sus clientes están fuera de España.
    - Compruebe que en la página de registro aparece la sección "We detected a referral code:" con un valor introducido.

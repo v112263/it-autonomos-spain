@@ -18,7 +18,7 @@ evaluar claramente quién tiene razón. Pero estudiando los casos descritos, le 
 
 ### Situación 1: Errores al abrir o cerrar la actividad como autónomo
 
-Un problema frecuentemente discutido en el [chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} es la apertura o
+Un problema frecuentemente discutido en el [chat](https://t.me/it_autonomos_spain_en){:target="_blank"} es la apertura o
 cierre incorrecto como autónomo. En tales casos, el cliente puede perder el descuento en pagos a la Seguridad Social o enfrentarse a multas. Con frecuencia,
 los errores de los gestores llevan a retiradas adicionales de dinero de la cuenta, si, por ejemplo, el autónomo se dio de baja con retraso.
 

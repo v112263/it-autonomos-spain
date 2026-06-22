@@ -2,7 +2,7 @@
 
 **Primero es necesario registrarse en la plataforma:**
 
-1. Registrarse a través del **[enlace de referido](https://bit.ly/xolosignup){:target="_blank"}** (bono de 50 € en su cuenta por registrarse).
+1. Registrarse a través del **[enlace de referido](https://www.xolo.io/es-en?ref=VLADMY){:target="_blank"}** (bono de 50 € en su cuenta por registrarse).
 2. Pulse el botón Sign Up en la parte superior derecha.
 3. Elija el plan Global (59 euros + IVA) - se necesita precisamente este plan si sus clientes están fuera de España.
 4. Compruebe que en la página de registro aparece la sección "We detected a referral code:" con un valor introducido.

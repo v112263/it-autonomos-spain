@@ -30,8 +30,8 @@ permalink: /ru/
 3. Читайте пошаговую [инструкцию по регистрации autónomo](#регистрация-autónomo-пошагово).
 4. [Мой личный опыт получения ипотеки](https://spainlifeguide.com/ru/mortgage/){:target="_blank"} через 8 месяцев
    после регистрации аутономо.
-5. Подписывайтесь на телеграм канал [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} и
-   добавляйтесь в чат [IT Autonomos](https://bit.ly/it-autonomos-es){:target="_blank"}.
+5. Подписывайтесь на телеграм канал [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"} и
+   добавляйтесь в чат [IT Autonomos](https://t.me/it_autonomos_spain){:target="_blank"}.
 6. Загляните в [секретный раздел](#секретный-раздел), если хотите узнать про историю создания документа или
    поблагодарить меня за мой труд.
 

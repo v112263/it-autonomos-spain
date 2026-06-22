@@ -6,7 +6,7 @@ derecho a trabajar o protección temporal. Recomiendo contactar con
 u otro tipo de residencia.
 
 Para registrarse y gestionar su actividad como autónomo, puede elegir una de las opciones populares: [gestor](#gestores-de-confianza) o
-el servicio [Xolo](https://bit.ly/xolosignup){:target="_blank"}.
+el servicio [Xolo](https://www.xolo.io/es-en?ref=VLADMY){:target="_blank"}.
 
 Si aún no has decidido la forma de actividad (autónomo, autónomo + colaborador o SL), te recomiendo [calcular la carga fiscal](#cuántos-impuestos-habrá-que-pagar-en-un-año) para cada opción con tu nivel de ingresos.
 
@@ -55,7 +55,7 @@ y [otros sectores](#es-xolo-adecuado-para-ti).
 - ⚠️ No opera en [algunas regiones de España y no es adecuado para ciertos sectores de actividad](#es-xolo-adecuado-para-ti).
 - ⚠️ Consultas limitadas en situaciones no estándar.
 
-Registro a través del **[enlace de referido](https://bit.ly/xolosignup){:target="_blank"}** (bono de 50 € en su cuenta
+Registro a través del **[enlace de referido](https://www.xolo.io/es-en?ref=VLADMY){:target="_blank"}** (bono de 50 € en su cuenta
 por registrarse).
 
 _Si está colaborando con un gestor pero quiere cambiar a

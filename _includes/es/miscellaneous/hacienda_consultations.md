@@ -45,4 +45,4 @@ hacer tu propia pregunta), puedes presentar una solicitud en línea a través de
 la práctica puede haber retrasos.
 
 Si has tenido una experiencia interesante usando este recurso - comparte en el
-[chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} ejemplos reales. Estoy seguro de que a todos les interesará leer.
+[chat](https://t.me/it_autonomos_spain_en){:target="_blank"} ejemplos reales. Estoy seguro de que a todos les interesará leer.

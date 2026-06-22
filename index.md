@@ -25,8 +25,8 @@ This document contains all the necessary information for registering and managin
 3. Read the step-by-step [guide to autónomo registration](#autónomo-registration-step-by-step).
 4. [My personal experience getting a mortgage](https://spainlifeguide.com/en/mortgage/){:target="_blank"} 8 months
    after registering as autónomo.
-5. Subscribe to the Telegram channel [Autonomo & SL](https://bit.ly/autonomo-and-sl-channel){:target="_blank"} and
-   join the chat [IT Autonomos](https://bit.ly/it-autonomos-spain-eng){:target="_blank"}.
+5. Subscribe to the Telegram channel [Autonomo & SL](https://t.me/autonomo_and_sl){:target="_blank"} and
+   join the chat [IT Autonomos](https://t.me/it_autonomos_spain_en){:target="_blank"}.
 6. Check out the [secret section](#secret-section) if you want to learn about the history of this document or
    thank me for my work.
 

@@ -4,7 +4,7 @@
 
 1. Cuanto menores sean las cantidades y menos frecuentes los depósitos, menor será la probabilidad de problemas.
 2. La experiencia varía para todos y depende del banco específico, la sucursal, el gestor y muchos otros factores.
-   En el [chat](https://bit.ly/it-autonomos-spain-eng){:target="_blank"} se mencionaron
+   En el [chat](https://t.me/it_autonomos_spain_en){:target="_blank"} se mencionaron
    casos en los que las personas depositaban 5.000-10.000 euros de una vez en cuentas de bancos españoles, y no se les
    solicitaba ningún documento. Pero hubo casos en los que las cuentas fueron bloqueadas, tuvieron que ir al banco y proporcionar documentos
    adicionales. Incluso hubo casos en los que el banco solicitaba documentos después de un depósito de unos pocos cientos
