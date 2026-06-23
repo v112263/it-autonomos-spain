@@ -31,6 +31,10 @@ Personalmente he oído ejemplos en los que una persona vivía tranquilamente, no
 
 El proceso de presentación es el mismo tanto con [gestores](#gestores-de-confianza) como con [Xolo](#xolo-1). En la mayoría de los casos es un servicio de pago separado.
 
+Personalmente, siempre presento la renta a través de Xolo, y en general el proceso me convence. Su cuestionario es cómodo y toda la presentación es bastante rápida. Cada año Xolo lo mejora - por ejemplo, en el cuestionario ya preguntan por muchas [deducciones regionales](#deducciones-regionales), es decir, actúan de forma proactiva. No tengo experiencia personal presentando la renta a través de un gestor, solo lo conozco por reseñas, pero los gestores también mejoran este proceso constantemente por su parte.
+
+Independientemente de quién prepare su declaración, revise cuidadosamente el borrador y profundice en él - asegúrese de que incluya todas las deducciones a las que tiene derecho. La responsabilidad final recae igualmente en usted, ya que es usted quien revisa y confirma el cálculo final.
+
 Si presenta la renta a través de su gestor, con quien ya lleva la contabilidad, él ya tiene parte de los documentos. Si va a presentarla a través de otro gestor, tendrá que proporcionar facturas de ingresos de su actividad como autónomo, facturas de gastos, etc.
 
 También le enviarán un cuestionario que debe completar cuidadosamente. Debe responder a todas las preguntas con la máxima honestidad, sin olvidar nada. Si tiene dudas, no dude en consultar con su gestor; en esta etapa se trata de una recopilación preliminar de datos para preparar la presentación de la declaración.

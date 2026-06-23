@@ -52,6 +52,15 @@ are usually small.
 The submission process looks the same for both [gestors](#reliable-gestors) and [Xolo](#xolo-1). In most cases, this is
 a separate paid service.
 
+Personally, I always file my Renta through Xolo, and overall the process suits me. Their questionnaire is convenient, and
+the whole submission is fairly fast. Each year Xolo keep improving it - for example, the questionnaire already asks about
+many [regional deductions](#regional-deductions), so they act proactively. I have no personal experience filing the Renta
+through a gestor, only what I know from reviews, but gestors are also constantly improving this process on their side.
+
+Whoever prepares your declaration, be sure to carefully double-check the draft and go through it - make sure it includes
+all the deductions you're entitled to. The final responsibility still rests with you, since you're the one who reviews and
+confirms the final calculation.
+
 If you submit your Renta through your gestor who already handles your accounting, they will already have some of the
 documents. If
 you submit through another gestor, you will need to provide invoices for your autónomo income, expense invoices,
