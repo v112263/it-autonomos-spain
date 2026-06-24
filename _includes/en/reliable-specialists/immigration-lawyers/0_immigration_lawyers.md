@@ -12,7 +12,10 @@ Why they can be trusted:
 
 **Specialists in this section:**
 - [Irina - Immigration expert](#irina---immigration-expert)
+- [José Manuel - Immigration expert](#josé-manuel---immigration-expert)
 
 {% include en/reliable-specialists/help_notice.md %}
 
 {% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
+
+{% include en/reliable-specialists/immigration-lawyers/immigration_lawyer_jose.md %}
