@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Ukrainian version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "ua",
-  "generated_at": "2026-06-03",
+  "generated_at": "2026-06-26",
   "pages": [
     {
       "path": "/ua/",
@@ -157,6 +157,7 @@
         "хестор",
         "хестор-1",
         "хесторxolo",
+        "хосе-мануель---міграційний-експерт",
         "хто-повинен-подавати-renta",
         "чат-it-autonomos-spain",
         "чи-підійде-вам-xolo",

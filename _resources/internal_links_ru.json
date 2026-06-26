@@ -1,7 +1,7 @@
 {
   "description": "Internal links for Russian version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "ru",
-  "generated_at": "2026-06-03",
+  "generated_at": "2026-06-26",
   "pages": [
     {
       "path": "/ru/",
@@ -158,6 +158,7 @@
         "хестор",
         "хестор-1",
         "хесторxolo",
+        "хосе-мануэль---миграционный-эксперт",
         "чат-it-autonomos-spain",
         "что-делать-если-платеж-за-ss-не-списался",
         "электронные-уведомления-от-госорганов-dehú",

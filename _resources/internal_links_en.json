@@ -1,7 +1,7 @@
 {
   "description": "Internal links for English version. Run /tests:local:test-and-update-internal-links to verify.",
   "language": "en",
-  "generated_at": "2026-06-03",
+  "generated_at": "2026-06-26",
   "pages": [
     {
       "path": "/",
@@ -76,6 +76,7 @@
         "it-autonomos-spain-chat",
         "joint-account",
         "joint-filing",
+        "josé-manuel---immigration-expert",
         "large-families-tax-credit",
         "lifehacks-with-invoices",
         "linking-your-account-to-a-bank-branch",

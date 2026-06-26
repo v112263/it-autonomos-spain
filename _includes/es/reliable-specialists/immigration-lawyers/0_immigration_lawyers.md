@@ -12,7 +12,10 @@ Por qué puedes confiar en ellos:
 
 **Especialistas en esta sección:**
 - [Irina - Experta en inmigración](#irina---experta-en-inmigración)
+- [José Manuel - Experto en extranjería](#josé-manuel---experto-en-extranjería)
 
 {% include es/reliable-specialists/help_notice.md %}
 
 {% include es/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
+
+{% include es/reliable-specialists/immigration-lawyers/immigration_lawyer_jose.md %}

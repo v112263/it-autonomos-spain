@@ -12,7 +12,10 @@
 
 **Специалисты в этом разделе:**
 - [Ирина - Миграционный эксперт](#ирина---миграционный-эксперт)
+- [Хосе Мануэль - Миграционный эксперт](#хосе-мануэль---миграционный-эксперт)
 
 {% include ru/reliable-specialists/help_notice.md %}
 
 {% include ru/reliable-specialists/immigration-lawyers/immigration_lawyer_irina.md %}
+
+{% include ru/reliable-specialists/immigration-lawyers/immigration_lawyer_jose.md %}
